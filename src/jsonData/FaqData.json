@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "icon": "light-bulb.png",
+        "title": "Expertise and Guidance:",
+        "text": "Camitrade Investment Fiduciaries positions itself as an expert in the field of company incorporation. We offer guidance and assistance to businesses that are navigating the process of setting up and establishing a legal business entity",
+        "delay": 400
+    },
+    {
+        "id": 2,
+        "icon": "startup.png",
+        "title": "Legal Compliance:",
+        "text": "Camitrade places a strong emphasis on legal compliance. This is particularly important in today's complex and ever-changing regulatory landscape. By helping businesses maintain compliance, we aim to create an environment where the business can operate confidently without legal complications.",
+        "delay": 600
+    },
+    {
+        "id": 3,
+        "icon": "bank.png",
+        "title": "Global Regulatory Environment:",
+        "text": "The company acknowledges the challenges posed by the global regulatory environment. This suggests that we are equipped to handle the complexities of business incorporation not only within a single jurisdiction but also across different regions and countries.",
+        "delay": 800
+    }
+   
+]

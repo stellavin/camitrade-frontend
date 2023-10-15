@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "image": "1.svg",
+      "title": "",
+      "btnTextOne": "get started",
+      "btnLinkOne": "#",
+      "btnTextTwo": "our services",
+      "btnLinkTwo": "#"
+    },
+    {
+      "id": 2,
+      "image": "2.svg",
+      "title": "",
+      "btnTextOne": "get started",
+      "btnLinkOne": "#",
+      "btnTextTwo": "our services",
+      "btnLinkTwo": "#"
+    },
+    {
+      "id": 3,
+      "image": "3.svg",
+      "title": "",
+      "btnTextOne": "get started",
+      "btnLinkOne": "#",
+      "btnTextTwo": "our services",
+      "btnLinkTwo": "#"
+    }
+  ]
+  

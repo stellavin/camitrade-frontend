@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "image": "blog1.jpg",
+        "author": "david Rant",
+        "date": "30 August 2023",
+        "title": "Crafted & Crispy Design",
+        "text": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "image": "blog2.jpg",
+        "author": "Pierce Blick",
+        "date": " 14 February 2022",
+        "title": "Marketing Makes Business",
+        "text": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "image": "blog3.jpg",
+        "author": "Gage Ullrich,",
+        "date": "30 June 2022",
+        "title": "We Close Our Company",
+        "text": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "image": "blog4.jpg",
+        "author": "Hiram Haag",
+        "date": "21 January 2023",
+        "title": "Stand Up for Democracy",
+        "text": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "image": "blog5.jpg",
+        "author": "david Rant",
+        "date": " 14 February 2021",
+        "title": "Debate Over Paris Climate",
+        "text": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "image": "blog6.jpg",
+        "author": "Pierce Blick",
+        "date": "30 September 2023",
+        "title": "Our Australian Expansion",
+        "text": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "delay": 1200
+    }
+]

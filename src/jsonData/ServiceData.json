@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "serviceIcon": "icofont-money-bag",
+        "serviceIconLink": "#",
+        "serviceTitle": "Fast Loan Approval",
+        "serviceTitleLink": "#",
+        "serviceText": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "serviceBtn": "READ MORE",
+        "serviceBtnLink": "#",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "serviceIcon": "icofont-handshake-deal",
+        "serviceIconLink": "#",
+        "serviceTitle": "Business Consult",
+        "serviceTitleLink": "#",
+        "serviceText": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "serviceBtn": "READ MORE",
+        "serviceBtnLink": "#",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "serviceIcon": "icofont-coins",
+        "serviceIconLink": "#",
+        "serviceTitle": "Investment Trade",
+        "serviceTitleLink": "#",
+        "serviceText": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "serviceBtn": "READ MORE",
+        "serviceBtnLink": "#",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "serviceIcon": "icofont-light-bulb",
+        "serviceIconLink": "#",
+        "serviceTitle": "Business Idea",
+        "serviceTitleLink": "#",
+        "serviceText": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "serviceBtn": "READ MORE",
+        "serviceBtnLink": "#",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "serviceIcon": "icofont-search-stock",
+        "serviceIconLink": "#",
+        "serviceTitle": "Market Analysis",
+        "serviceTitleLink": "#",
+        "serviceText": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "serviceBtn": "READ MORE",
+        "serviceBtnLink": "#",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "serviceIcon": "icofont-pie-chart",
+        "serviceIconLink": "#",
+        "serviceTitle": "Business Policy",
+        "serviceTitleLink": "#",
+        "serviceText": "Acepteur sintas haecate sed ipsums cupidates nondui proident sunlt culpa qui tempore officia sed ipsum tempor eserunt.",
+        "serviceBtn": "READ MORE",
+        "serviceBtnLink": "#",
+        "delay": 1200
+    }
+]

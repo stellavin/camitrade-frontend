@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "start": "0",
+        "end": "6589",
+        "delay": 200,
+        "title": "Projects Completed"
+    },
+    {
+        "id": 2,
+        "start": "0",
+        "end": "264",
+        "delay": 400,
+        "title": "Expert Technicians"
+    },
+    {
+        "id": 3,
+        "start": "0",
+        "end": "7530",
+        "delay": 600,
+        "title": "Happy Customers"
+    },
+    {
+        "id": 4,
+        "start": "0",
+        "end": "2657",
+        "delay": 800,
+        "title": "Cups of Coffee"
+    }
+]

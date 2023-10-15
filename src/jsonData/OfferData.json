@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "offer-1.svg",
+      "title": "",
+      "btnTextOne": "Get Offer",
+      "btnLinkOne": "#",
+      "btnTextTwo": "our services",
+      "btnLinkTwo": "#"
+    },
+    {
+      "id": 2,
+      "image": "offer-2.svg",
+      "title": "",
+      "btnTextOne": "Get Offer",
+      "btnLinkOne": "#",
+      "btnTextTwo": "our services",
+      "btnLinkTwo": "#"
+    },
+    {
+      "id": 3,
+      "image": "offer-3.svg",
+      "title": "",
+      "btnTextOne": "Get Offer",
+      "btnLinkOne": "#",
+      "btnTextTwo": "our services",
+      "btnLinkTwo": "#"
+    },
+    {
+        "id": 4,
+        "image": "offer-4.svg",
+        "title": "",
+        "btnTextOne": "Get Offer",
+        "btnLinkOne": "#",
+        "btnTextTwo": "our services",
+        "btnLinkTwo": "#"
+    }
+  ]
+  

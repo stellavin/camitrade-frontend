@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "featureThumb": "feature1.jpeg",
+        "feature2Thumb": "feature4.jpeg",
+        "featureIcon": "piggy-bank.png",
+        "title": "Company Formation",
+        "titleMeta": "Free Consulting",
+        "delay": 500,
+        "href":"/services?id=Corporate",
+        "text": "Camitrade Investment Fiduciaries excels in adeptly guiding businesses through intricate company formation processes. Leveraging our extensive industry experience, we offer tailored advice to determine the optimal company structure and ensure seamless administrative procedures. Our unwavering commitment to upholding global legal compliance empowers the successful establishment of businesses, fostering a foundation for enduring growth and prosperity."
+    },
+    {
+        "id": 2,
+        "featureThumb": "feature2.jpeg",
+        "feature2Thumb": "feature5.jpeg",
+        "featureIcon": "money.png",
+        "title": "Licensing",
+        "titleMeta": "Free Consulting",
+        "delay": 800,
+        "href":"/services?id=Licensing",
+        "text": "Welcome to the realm of limitless potential with our Expansive Licensing Horizons. At Camitrade Investment Fiduciaries, we understand that licensing isn't just a requirement – it's an opportunity to explore new frontiers. Our comprehensive range of licensing options opens doors across diverse sectors, from financial services to the exciting world of cryptocurrencies."
+    },
+    {
+        "id": 3,
+        "featureThumb": "feature3.jpeg",
+        "feature2Thumb": "feature6.jpeg",
+        "featureIcon": "customer-support.png",
+        "title": "Payment solutions",
+        "titleMeta": "Free Consulting",
+        "delay": 1000,
+        "href":"/payments",
+        "text": "At Camitrade Investment Fiduciaries, we're leading the way in smooth payment solutions. Our global network partners introduce you to online payment processing that redefines the norm: CARD COLLECTIONS AND PAYOUTS: Witness the transformation of global money transfers through our advanced API connections. We empower you with renowned card networks: VISA, Mastercard, Amex, Diners Club, Discover, JCB. Global Payment Nexus: We're breaking barriers worldwide. Our expansive payment network and methods change the game, no matter where you are."
+    },
+    {
+        "id": 4,
+        "feature2Thumb": "feature7.jpeg",
+        "featureIcon": "tax.png",
+        "title": "Aircraft & Ship Registration",
+        "titleMeta": "Free Consulting",
+        "text": "We have the expertise and experience needed to ensure you get your aircraft or ship registration, and skills needed to ensure ongoing compliance with various maritime and air transport regulators globally."
+    },
+    {
+        "id": 5,
+        "feature2Thumb": "feature8.jpeg",
+        "featureIcon": "auction.png",
+        "title": "Assets & Investment Advisory​",
+        "titleMeta": "Free Consulting",
+        "text": "The need for asset management and investment advisory is becoming an integral part in the technological world today. Brokerage services such as buying or selling stock or bonds, or some combination of all these services need licensed asset/ investment advisers. Financial planning is an important criterion to investors globally."
+    },
+    {
+        "id": 6,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Bank Account Opening",
+        "titleMeta": "Free Consulting",
+        "text": "Camitrade Investment provides bank account opening assistance for offshore banking, international banking, offshore corporate accounts and personal accounts."
+    },
+    {
+        "id": 7,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Banking Licensing",
+        "titleMeta": "Free Consulting",
+        "text": "Camitrade Investment legal expertise understands the relevant prudential requirements and licensing pre-conditions before being granted the respective banking licenses. Jurisdictions may offer different types of banking licenses, such as full banking activities and offshore banking services."
+    },
+    {
+        "id": 8,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Brokerage & Investment Firms",
+        "titleMeta": "Free Consulting",
+        "text": "We provide legal support for licensing of brokerage activities which remains one of our priorities. Different jurisdictions have different naming for the brokerage activities as discussed further in this section. An applicant must satisfy conditions indicated by Our respective regulators."
+    },
+    {
+        "id": 9,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Credit & Bond Institutions",
+        "titleMeta": "Free Consulting",
+        "text": "Credit and Bond institutions are cooperative financial institutions specializing in the basic financial needs of certain groups of corporates. Institutions will need to be licensed to assist other corporates in criteria which depend on the target market."
+    },
+    {
+        "id": 10,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Crypto, Digital Assets & Fintech",
+        "titleMeta": "Free Consulting",
+        "text": "Our dedicated Digital, Blockchain and Fintech team has been established specifically to assist clients operating or investing in businesses in the Fintech sector."
+    },
+    {
+        "id": 11,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Data Reporting",
+        "titleMeta": "Free Consulting",
+        "text": "Investment firms and brokerage institutions are nowadays obliged to fulfill publication and reporting requirements that are offered by Data Reporting Service Providers."
+    },
+    {
+        "id": 12,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Electronic & Money Services Businesses",
+        "titleMeta": "Free Consulting",
+        "text": " Money services businesses (MSBs) – a catch-all term used by financial regulators to describe the wide spectrum of businesses involved in converting or transmitting money"
+    },
+    {
+        "id": 13,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Foundations & Non-profits",
+        "titleMeta": "Free Consulting",
+        "text": "With the evolvement of digital assets and token, foundations have become a suitable entity. The simplicity of its formation and unique characteristics makes its flexible for different purposes."
+    },
+    {
+        "id": 14,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Gaming & Gambling",
+        "titleMeta": "Free Consulting",
+        "text": "We provide legal support for licensing of gambling and gaming activities which remains one of our priorities."
+    },{
+        "id": 15,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Insurance",
+        "titleMeta": "Free Consulting",
+        "text": "Camitrade Investment has specialized in both offshore and onshore insurance advisory services. Our services cuts across licensing of the different classes of Insurance services such as: captive, reinsurance, portfolio insurance companies, International, and brokers. The need for Insurance security and tax planning has nowadays made offshore insurance services to be lucrative."
+    },
+    {
+        "id": 16,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Investments & Funds",
+        "titleMeta": "Free Consulting",
+        "text": "Investment Vehicles and Funds provide a tried and tested way to manage and grow wealth. Camitrade Investment Fiduciaries is committed to providing a tailored service that will align with your financial plans and in a timely manner."
+    },
+    {
+        "id": 17,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Limited Liability Companies",
+        "titleMeta": "Free Consulting",
+        "text": "Camitrade Investment Fiduciaries is experienced in offshore company formations for all business entity types and industries."
+    },
+    {
+        "id": 18,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Offshore Company Incorporation",
+        "titleMeta": "Free Consulting",
+        "text": "Camitrade Investment is experienced in the local laws and in the setting up of offshore companies in by understanding your business objectives and structure."
+    },
+    {
+        "id": 19,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Pension Services",
+        "titleMeta": "Free Consulting",
+        "text": "Pension services provide end users with a safety cushion to ensure that und clients have comfort in Our days of retirement. Camitrade Investments Fiduciaries is well versed with the applicable laws needed to be adhered to in order to set up pension service companies in various jurisdictions."
+    },
+    {
+        "id": 20,
+        "feature2Thumb": "feature9.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Virtual Office Solutions",
+        "titleMeta": "Free Consulting",
+        "text": "Offshore companies involved in active trading may utilize a virtual office facility to have more presence in the country where it is registered. A virtual office will enable the company to create and maintain a presence in the jurisdiction without the need to pay rent for an actual space"
+    }
+]

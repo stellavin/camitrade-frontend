@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "serviceIcon": "icofont-money-bag",
+        "serviceIconLink": "#",
+        "serviceTitle": "Integrity & Transparency",
+        "serviceTitleLink": "#",
+        "serviceText": "Within Camitrade Investment Fiduciaries, we uphold the significance of transparency and integrity. These values cultivate an environment where growth and success are nurtured, fostering an atmosphere of mutual trust and understanding. Integrity guides us in empathetically considering situations from others' professional perspectives.",
+        "serviceBtn": "",
+        "serviceBtnLink": "#",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "serviceIcon": "icofont-handshake-deal",
+        "serviceIconLink": "#",
+        "serviceTitle": "Loyalty & Collaborative Spirit",
+        "serviceTitleLink": "#",
+        "serviceText": "Our unwavering dedication to loyalty and collaborative teamwork stands as the cornerstone of our commitment to enhancing productivity and meeting our clients' deadlines. This approach empowers us to deliver our services dynamically and innovatively, ensuring an exceptional client experience.",
+        "serviceBtn": "",
+        "serviceBtnLink": "#",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "serviceIcon": "icofont-coins",
+        "serviceIconLink": "#",
+        "serviceTitle": "Quality & Compassion",
+        "serviceTitleLink": "#",
+        "serviceText": "At the core of Camitrade Investment Fiduciaries lies a foundation firmly rooted in the principles of excellence and empathy. We dedicate substantial effort to ensuring the seamless delivery of services, consistently maintaining the highest standards of quality and care.",
+        "serviceBtn": "",
+        "serviceBtnLink": "#",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "serviceIcon": "icofont-light-bulb",
+        "serviceIconLink": "#",
+        "serviceTitle": "Respect & Inclusivity",
+        "serviceTitleLink": "#",
+        "serviceText": "A fundamental value within our organization is the unwavering commitment to treating every individual with professionalism and profound respect. We hold our partners and clients in high regard, and our promise is to address concerns and communicate with empathy and respect, promoting an inclusive and supportive environment.",
+        "serviceBtn": "",
+        "serviceBtnLink": "#",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "serviceIcon": "icofont-search-stock",
+        "serviceIconLink": "#",
+        "serviceTitle": "Long-Term Partnerships",
+        "serviceTitleLink": "#",
+        "serviceText": " We believe in fostering enduring relationships. By nurturing deep connections built on trust, mutual respect, and open communication, we stand as committed partners throughout our clients' journeys.",
+        "serviceBtn": "",
+        "serviceBtnLink": "#",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "serviceIcon": "icofont-pie-chart",
+        "serviceIconLink": "#",
+        "serviceTitle": "Global Perspective",
+        "serviceTitleLink": "#",
+        "serviceText": "The global landscape influences us deeply. We approach challenges and opportunities with a broad international perspective, ensuring that our services are relevant and effective in a rapidly changing world.",
+        "serviceBtn": "",
+        "serviceBtnLink": "#",
+        "delay": 1200
+    }
+]

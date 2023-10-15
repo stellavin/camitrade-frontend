@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Robert",
+        "designation": "",
+        "img": "testimonial1.jpeg",
+        "comment": "Choosing Camitrade Investment Fiduciaries was one of the best decisions we made for our business. Our insightful advice and effective administrative protocols have been crucial to our success. We're confident in our business's growth, thanks to Our expertise"
+    },
+    {
+        "id": 5,
+        "name": "Sikhila John",
+        "designation": "",
+        "img": "testimonial2.jpeg",
+        "comment": "Camitrade Investment Fiduciaries is a true expert in the field of company incorporation. Our guidance and services have been invaluable to our business. Our deep understanding of various industries made the entire process seamless. We highly recommend Our team."
+    },
+
+    {
+        "id": 3,
+        "name": "Winnie",
+        "designation": "",
+        "img": "testimonial3.jpeg",
+        "comment": "Camitrade Investment Fiduciaries is a beacon of expertise in the world of company incorporation. Our exemplary services and dedication to legal compliance have been instrumental in our business's success. We're grateful for Our guidance and highly recommend Our services"
+    },
+    {
+        "id": 4,
+        "name": "Istiak Ahmed",
+        "designation": "",
+        "img": "testimonial1.jpeg",
+        "comment": "We couldn't have asked for a better partner than Camitrade Investment Fiduciaries during our company incorporation journey. Our team provided us with insightful advice, helping us choose the perfect company structure. Our commitment to legal compliance is truly commendable and has given us the confidence to grow our business."
+    },
+     {
+        "id": 2,
+        "name": "Gudrun",
+        "designation": "",
+        "img": "testimonial2.jpeg",
+        "comment": "Navigating the complexities of company incorporation can be daunting, but with Camitrade Investment Fiduciaries by our side, it became a smooth journey. Our seasoned understanding of diverse industries and commitment to legal compliance set them apart. We trust them implicitly"
+    }
+]
