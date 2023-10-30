@@ -15,7 +15,8 @@ const ContactForm = () => {
 
         try {
             // Replace 'http://localhost:9000/sendmail' with your actual server endpoint.
-            const response = await axios.post('http://localhost:9000/sendmail', formData);
+            //https://camitrade-backend.vercel.app
+            const response = await axios.post('https://radiant-forest-85440-7635edd64cab.herokuapp.com/sendmail', formData);
 
             if (response.status === 200) {
                 toast("Message Sent Successfully");
