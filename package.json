@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview --host 0.0.0.0",
-    "start": "vite preview --host 0.0.0.0"
+    "preview": "vite preview --host 8080",
+    "start": "vite preview --host 8080"
   },
   "dependencies": {
     "@icon/icofont": "^1.0.1-alpha.1",
