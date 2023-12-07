@@ -51,7 +51,7 @@ const Footer = () => {
                                                     </div>
                                                     <div className="media-body">
                                                         <span className="inner-text">Kenya</span> <br />
-                                                        <span className="inner-text">Office 07-04, Seventh floor, The Address, Westlands, Nairobi, Kenya</span>
+                                                        <span className="inner-text">The Address, Westlands, Nairobi, Kenya</span>
                                                     </div>
                                                 </div>
                                             </div>

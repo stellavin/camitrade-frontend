@@ -22,7 +22,6 @@ const ContactPageContent = () => {
                                 </div>
                                 <div className="contact-info-text">
                                     <h2>Office: Kenya</h2>
-                                    <span>Office 07-04,Seventh floor,</span>
                                     <span>The Address, Westlands,</span>
                                     <span>Nairobi, Kenya</span>
                                 </div>
