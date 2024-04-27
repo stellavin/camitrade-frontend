@@ -154,7 +154,7 @@ const Footer = () => {
                             <div className="col-md-12 col-sm-12">
                                 <Fade top delay={1000}>
                                     <div className="copy-right">
-                                        <p>&copy; {new Date().getFullYear()} EliteCRM Consulting. All Rights Reserved.</p>
+                                        <p>&copy; {new Date().getFullYear()} Camitrade Investment Fiduciaries. All Rights Reserved.</p>
                                     </div>
                                 </Fade>
                             </div>

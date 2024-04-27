@@ -25,9 +25,11 @@ const SingleFeature = ({ feature }) => {
                                     <span>{titleMeta}</span>
                                 </div>
                             </div>
-                            <p className="feature-content">{text}</p>
-                            <div className="feature-readmore-btn">
-                                <Link to={`${href}`} className='theme-btn theme-btn-2'>Read More</Link>
+                            <div className="feature-content">
+                                <p className="feature-text-me">{text}</p>
+                                <div className="feature-readmore-btn">
+                                    <Link to={`${href}`} className='theme-btn theme-btn-2'>Read More</Link>
+                                </div>
                             </div>
                         </div>
                     </div>

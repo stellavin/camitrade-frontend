@@ -273,6 +273,9 @@ input:focus {
 .theme-btn-2-outline:hover {
 	background: #9AC000;
 }
+.main-body-div{
+	height: 420px !important;
+}
 
 .theme-btn-2 {
 	padding: 8px 28px;
@@ -4602,6 +4605,13 @@ footer.footer {
 	margin-left: 400px;
 	margin-bottom: 40px;
 }
-.feature-content{
-	height: 36vh !important;
+.feature-readmore-btn{
+	margin-top: 20px;
+}
+.feature-content {
+    height: 360px !important;
+}
+
+p.feature-text-me {
+    height: 300px !important;
 }
