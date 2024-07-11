@@ -2,6 +2,10 @@ import React, { useState } from 'react';
 import { Fade } from 'react-reveal';
 import { toast } from 'react-toastify';
 import axios from 'axios';
+import ReactGA from 'react-ga';
+
+// Initialize ReactGA with your Google Analytics tracking ID
+ReactGA.initialize('G-PWXX0RHDML');
 
 const Consultation = () => {
     const [formData, setFormData] = useState({
@@ -13,14 +17,20 @@ const Consultation = () => {
 
     const handleMessage = async (event) => {
         event.preventDefault();
-      
+
         try {
-            // Replace 'http://localhost:9000/sendmail' with your server endpoint.
-            //https://camitrade-backend.vercel.app
+            // Replace with your actual server endpoint.
             const response = await axios.post('https://radiant-forest-85440-7635edd64cab.herokuapp.com/sendmail', formData);
 
             if (response.status === 200) {
                 toast("Message Sent Successfully");
+
+                // Track the form submission event
+                ReactGA.event({
+                    category: 'Consultation Form',
+                    action: 'Submitted Form',
+                });
+
                 setFormData({
                     name: '',
                     email: '',
