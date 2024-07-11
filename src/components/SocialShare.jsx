@@ -29,7 +29,7 @@ const SocialShare = () => {
         </li>
         <li>
           <a
-            href="https://www.linkedin.com/company/camitrade-investment-in/"
+            href="https://www.linkedin.com/company/camitrade-investment-fiduciaries/posts/?feedView=all"
             target="_blank"
             rel="noreferrer"
             className="linkedin"
