@@ -6657,6 +6657,112 @@ const MaltaGamingLicenseHTML = (
     </p>
   </div>
 );
+const Anjouan_Gaming_Licence = (
+  <div>
+  <h2>Anjouan Gaming Licence</h2>
+
+  <p>
+    Anjouan, located in the Indian Ocean, is an autonomous island that is part of the Comoros Islands. Today, Anjouan is fast becoming a popular destination for gambling service providers. This is because Anjouan’s jurisdiction offers a flexible regulatory framework that is recognized worldwide, as well as affordable license fees.
+  </p>
+
+  <p>
+    The Anjouan Gaming License is an official permit from the Anjouan Betting and Gaming Commission that allows companies to legally conduct online gambling. The license covers various types of online gambling, including casinos and sports betting. The Anjouan Betting and Gaming Regulatory Commission (ABGB) acts as the country’s main regulatory body, issuing licenses and overseeing the operation of online casinos. The main goal of the ABGB is to protect the interests of players from the illegal actions of gambling operators, as well as maintain a high level of ethical and safe standards in the gambling industry. The Betting and Gaming Act of 2005 is a key piece of gambling legislation that regulates online gambling, including casinos, sports betting, video gaming, lotteries, and bingo. It stipulates rules for licensing, and ongoing compliance, including anti-money laundering procedures, responsible gambling, and fair play rules.
+  </p>
+
+  <h3>Types of licenses</h3>
+  <p>
+    In Anjouan, there is only one type of gambling license that covers all types of online gambling activities, including sports betting, online casinos, bingo, lotto, blackjack, online poker, eSports, live games, scratch cards, and blockchain-based games. The Anjouan Online Gambling License is fully compliant and is generally accepted by financial institutions in Europe, various suppliers, and B2B gambling service and product providers, as well as respected by international authorities. The license is available to B2C and B2B businesses and is granted to gambling game providers, gambling software developers and providers, and operators without differentiating costs or other factors. It enables its holders to operate under multiple brand names, utilizes multiple web addresses, and engage in a variety of online gambling promotions. The Anjouan Online Gambling License offers a lot of flexibility as there are no requirements for a server location, profits can be cleared by any bank, and new games can be added at any time without having to apply for a new license or pay extra fees.
+  </p>
+
+  <h3>Main features of the Anjouan Online Gambling License</h3>
+  <ol>
+    <li><strong>Expiration and renewal period:</strong> The license is valid for 1 year. Companies can renew the authorization annually.</li>
+    <li><strong>URLs:</strong> 2 URLs are included; additional URLs can be added for a fee.</li>
+    <li><strong>Global Domain Hosting:</strong> Licensees can host domains anywhere in the world.</li>
+    <li><strong>Sublicensing Policy:</strong> Not Allowed.</li>
+  </ol>
+
+  <h3>Advantages of the Gambling License in Anjouan</h3>
+  <ol>
+    <li><strong>Tax benefits:</strong> One significant advantage is the favorable tax conditions for online gambling operators, as they do not have to pay taxes on gross gambling revenue.</li>
+    <li><strong>The fast license issuance process:</strong> The license issuance process in Anjouan can be faster compared to some other jurisdictions, which is an advantage for operators looking to launch their gambling platforms quickly.</li>
+    <li><strong>Minimal regulatory requirements:</strong> Anjouan has fewer regulatory requirements compared to more stringent licensing authorities. This can make regulatory compliance easier for operators.</li>
+    <li><strong>One type of license that covers all types of online gambling:</strong> The Anjouan online gambling license covers all iGaming activities in one document. It includes game providers, software developers, operators, and different types of games such as sports betting, online casinos, bingo, online poker, cybersports, live games, scratch cards, and gambling. This approach provides flexibility for gaming companies that may be interested in expanding their business in the future.</li>
+    <li><strong>Government support and responsiveness:</strong> The government of Anjouan has shown a willingness to support the needs of the gaming industry. There is a focus on responding quickly to the needs of gaming businesses, encouraging innovation, and improving infrastructure. In doing so, licensees in Anjouan have the opportunity to actively participate in shaping the regulatory environment. This approach creates a favorable environment for operators.</li>
+    <li><strong>Infrastructure support:</strong> Infrastructure in Anjouan provides various services such as cloud services, private server racks, dedicated server management services, and other gaming-related hosting services. This infrastructure support is essential for the smooth operation of online gambling platforms.</li>
+    <li><strong>Global reach:</strong> Anjuan’s gambling license allows operators to serve a global audience.</li>
+  </ol>
+
+  <h3>Key Legal Requirements</h3>
+  <table>
+    <tbody>
+      <tr>
+        <td>No.</td>
+        <td>Description</td>
+        <td>Obligatory requirements</td>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          To be eligible for a gambling license in Anjouan, you have to establish a local company and satisfy the requirements that aim to determine the identities of individuals associated with the applying company, the nature of the business, the origin of the funds, residence, and compliance of internal operations.
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Capital requirement</td>
+        <td>The paid capital should be at least 250,000 EUR.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Physical presence</td>
+        <td>It is necessary to have a physical office on the island and an employee to represent the company in Anjouan. This employee must be a citizen of Comoros or have a work permit in that country.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Fit and proper</td>
+        <td>All directors, shareholders, and ultimate beneficial owners must carry out a Fit and Proper test to prove that all of them are persons of good conduct.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Local representative/ registered agent</td>
+        <td>Companies registering in Anjouan must appoint a local representative or registered agent with authorization from the Anjouan Offshore Finance Authority to engage in such business.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Audit of gaming systems</td>
+        <td>
+          <ol>
+            <li>Agreeing to third-party audits of gaming systems.</li>
+            <li>Audits must be conducted at least once a year for new companies that have been in business for less than two years. For companies that have been in business for more than two years, audits shall be conducted at least once every two years.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>ABGB meetings</td>
+        <td>Every licensee must at all times be prepared to attend the ABGB meetings that are arranged for a variety of regulatory purposes in a timely manner.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>AML /CFT Compliance</td>
+        <td>
+          <ol>
+            <li>Identifying customers, maintaining records of financial transactions and betting history, processing payments, and detecting and reporting suspicious transactions.</li>
+            <li>Appointment of a qualified person to monitor compliance with AML/CFT policies.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Taxation</td>
+        <td>Companies holding a gaming license in Anjouan are exempt from paying tax on gross gaming income.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
 const IsleOfManGamingLicenseHTML = (
   <div>
     <h1>Isle of Man Gaming License</h1>
@@ -6698,8 +6804,916 @@ const IsleOfManGamingLicenseHTML = (
     </p>
   </div>
 );
+const Isle_of_Man_Gaming_Licence = (
+  <div>
+  <h2>Isle of Man Gaming Licence</h2>
+  <p>
+    The Isle of Man is one of the most progressive and liberal jurisdictions in the world when it comes to gambling. The government realizes the prospects of this area by supporting gambling companies and creating innovative infrastructure for gambling.
+  </p>
+  <p>
+    Online gambling and the Isle of Man gambling license is under the jurisdiction of the Online Gambling Regulation Act 2001. The Isle of Man Gambling Supervision Commission is the authority responsible for the regulation of the industry in the Isle of Man.
+  </p>
+  <p>
+    Gaming Isle of Man license holders have a significant advantage over competitors due to the image of this jurisdiction, which is a member of the World Trade Organization and is on the white list of the Organization for Economic Cooperation and Development. Moreover, license holders have the right to use marketing tools in the UK to attract new customers.
+  </p>
+  <h3>Advantages of obtaining a gambling license in the Isle of Man</h3>
+  <ol>
+    <li>High level of reputation and trust from the client base and potential partners.</li>
+    <li>Member of the Organization for Economic Development and Cooperation and OECD (Organization for Economic Cooperation and Development) whitelist.</li>
+    <li>Isle of Man Gaming License is issued for 5 years and covers different gambling games.</li>
+    <li>Additionally, sub-licenses can be opened.</li>
+    <li>Strong telecommunications infrastructure, which is considered one of the best in the world.</li>
+    <li>0.1%-1.5% of gross gaming revenue, 0% on corporate tax and capital gains, no VAT.</li>
+    <li>Flexible and loyal gambling legislation.</li>
+    <li>Global recognition and admission of gambling business to the global audience of the international market.</li>
+    <li>Local labor force with specialized education, experience in the gaming industry, and proficiency in English.</li>
+  </ol>
+  <h3>Types of Gaming license</h3>
+  <ol>
+    <li>
+      <h3>Full License</h3>
+      <ul>
+        <li>Covers the gaming activities of the main licensee’s company and its subsidiaries.</li>
+        <li>Permits license holders to conduct business-to-consumer (B2C) activities, including the registration of players, their data storage, operating proprietary technologies.</li>
+        <li>Full License holders can provide white-label solutions to other gambling operators.</li>
+        <li>Can partner with an unlimited number of other operators looking to obtain a Sub-License.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Sub-License</h3>
+      <ul>
+        <li>Designed for operators with no prior business experience in the gambling industry who wish to conduct B2C activities.</li>
+        <li>Links itself to a Full License holder by signing an agreement.</li>
+        <li>Registered players of a Sub-License holder have access to the software or games provided by the Full License holder.</li>
+        <li>Doesn’t prevent its holder from applying for a Full License at any time.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Network License</h3>
+      <ul>
+        <li>Carries the same privileges as the Full Licence.</li>
+        <li>Allows accepting players from global operators (Network Partners) on to your gameplay and back-office servers without registering them.</li>
+        <li>Useful for pooling liquidity and operating networks and progressive jackpots.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>B2B software supplier license</h3>
+      <ul>
+        <li>Operates under two regimes for software licensing.</li>
+        <li>No licence required for the basic regime; licensed regime streamlines the process of deploying software.</li>
+        <li>Software suppliers must obtain Isle of Man relevant certification to be listed in the licensed regime register.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Token/Blockchain-based supplier license</h3>
+      <ul>
+        <li>For the supply of software products involving cryptocurrency and/or blockchain products for the gaming sector.</li>
+        <li>Elective licence, possible to offer products to Isle of Man licensees without GSC licensing.</li>
+      </ul>
+    </li>
+  </ol>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>A company limited by shares and incorporated in the Island Business entity must have at least 2 local directors, who must be individuals and not corporate entities.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>At least two local directors, who must be individuals and not corporate entities.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>The Gambling Company will need at least one shareholder. Corporate shareholding is allowed and 100% foreign ownership is permitted.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Designated official</td>
+        <td>License applicants must appoint at least one resident Designated Official (DO), or where that Designated Official cannot reside in the Isle of Man, an Operations Manager (OM).</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Capital requirement</td>
+        <td>Initial capital requirement for a Full License applicant is 100,000 GBP or equivalent, varies based on activities.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Local office</td>
+        <td>Applicant must have premises acceptable to the Isle of Man Gambling Supervision Commission, facilitating confidential interaction and safe document storage.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Auditor</td>
+        <td>Appoint annually an auditor who is a chartered accountant, certified public accountant, or equivalent.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Insurance</td>
+        <td>Need to have indemnity insurance coverage or a fidelity bond acceptable to the Isle of Man Gambling Supervision Commission.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Servers</td>
+        <td>B2C operators required to register customers on local servers; if outside Isle of Man, a network services license is needed.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Bank account</td>
+        <td>Gambling and trading accounts should be in an Isle of Man bank unless otherwise agreed.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Random Number Generators</td>
+        <td>If applicable, RNGs and gambling systems must be certified by an approved testing house.</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Compliance</td>
+        <td>Must comply with Advertising Standards Authority Codes and Prevention of Money Laundering and Financing of Terrorism rules.</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Financial reporting</td>
+        <td>Within three (3) months of the financial year-end, forward audited financial statements to the Commission.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Kahnawake_Gaming_Licence = (
+  <div>
+  <h2>Kahnawake Gaming Licence</h2>
+  <p>
+    The Kahnawake Mowhawk Territory is an autonomous First Nations reserve located in Canada. It can create its own laws and regulations, including company formation, corporate management, taxation, and licensing. Although Kahnawake has only around 8000 residents, it appeals as a suitable jurisdiction for an increasing number of gambling startups and mature companies due to its extensive experience in gambling regulations and many other reasons.
+  </p>
+  <p>
+    The Kahnawake gaming license is an authorization issued by the Kahnawake Gaming Commission. They also conduct ongoing supervision and monitoring of licensees after the licensed has been acquired. This license authorizes online gambling operators to conduct their activities according to the established regulations and standards of the KGC. It covers various types of online gaming including casino, poker, and sports betting. The duration of the Kahnawake Gaming License is 5 years and is renewable annually. Initially, a provisional 6-month license is issued, and provided no serious issues arise during the provisional period, the license converts to the remainder of the 5-year term.
+  </p>
+  <h3>Advantages of Kahnawake Gaming Licence</h3>
+  <ol>
+    <li>Quite fast processing times for the Kahnawake Gambling licenses application. On average, the regulator reviews applications within 3 weeks, and you can start working as a licensed company within 8-10 weeks.</li>
+    <li>A reliable legal environment that favors the image of the gambling company, increases the confidence of players and attracts new customers due to clear regulatory rules that do not allow fraud.</li>
+    <li>Relatively uncomplicated regulatory requirements and rules and fast document preparation take much less time than in alternative jurisdictions.</li>
+    <li>Ideal for start-ups: easy start-up of a cost-effective business in the gaming industry with relatively low costs, regulatory support, and minimal taxation.</li>
+    <li>No taxation for Gambling license in Kahnawake holders: 0% corporate tax and 0% gross income tax. This helps startups focus on profits and scaling their business without excessive costs.</li>
+    <li>It costs much less to apply than in the EU – $15,000 + $5,000 for a Key Person License. In addition, the annual license fee is – $10,000 and if the licensing is refused, the annual fee is refunded in full.</li>
+    <li>Having a Kahnawake gambling license ensures the security of activities and protects from sanctions and fines, unlike unlicensed companies.</li>
+  </ol>
+  <h3>Types of licenses</h3>
+  <ol>
+    <li>
+      <strong>Interactive Gaming Licence (IGL)</strong>
+      <p>This license allows the holder to operate a co-location facility that provides internet services to Authorized Client Providers.</p>
+    </li>
+    <li>
+      <strong>Client Provider Authorization (CPA)</strong>
+      <p>This allows the holder to conduct interactive gaming from the co-location facility owned and operated by the IGL holder as well as other premises located within the Territory. The holder of a CPA is known as an Authorized Client Provider (ACP). This is the license that a regular iGaming operator would apply for if looking to base their operations in Kahnawake.</p>
+    </li>
+    <li>
+      <strong>Casino Software Provider Authorization (CSPA)</strong>
+      <p>A CSPA allows the holder to locate and operate interactive gaming equipment at the colocation facility owned and operated by the IGL holder, as well as providing casino software to a third-party operator for use on the third-party operator’s website. The holder is not entitled to offer interactive games directly to players.</p>
+    </li>
+    <li>
+      <strong>Live Dealer Studio Authorization (LDSA)</strong>
+      <p>This license allows the holder to operate a Live Dealer Studio, to conduct Live Dealer Games, and to conduct interactive gaming-related activities from premises located within the Territory.</p>
+    </li>
+    <li>
+      <strong>Inter-Jurisdictional Authorizations (IJA)</strong>
+      <p>This license is issued to an entity that holds an IGL from another jurisdiction but wants to locate some or all of its equipment and/or personnel within the Mohawk Territory of Kahnawake.</p>
+    </li>
+    <li>
+      <strong>Key Person Permits</strong>
+      <p>Key persons can be employed by either the IGL or the CPA and perform one of the following functions: key managerial or key operational functions. All operators with a CPA license must designate at least one Key Person to perform key managerial functions for or on behalf of the Authorized Client Provider. Therefore, a regular iGaming operator would need to get a Key Persons Permit in addition to the CPA license.</p>
+    </li>
+  </ol>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>To run a gambling business in Kahnawake, you must first incorporate a company in Kahnawake.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Key person</td>
+        <td>All Client Provider Authorization licensees are required to appoint at least one key person with a Key Person Permit license to perform key managerial functions for or on behalf of the Authorized Client Provider. Often several Key Person Permits are required if there are several persons responsible for key functions and managerial decisions.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Servers</td>
+        <td>The game company’s servers must be located in Kahnawake.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>RTP/RTGS certificate</td>
+        <td>Each company must have RTP/RNG certificates.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Website</td>
+        <td>A functioning website with domain ownership is required.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Audit</td>
+        <td>The company must be independently audited.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Company ownership</td>
+        <td>The company must have directors, founders, and shareholders with a share of at least 10%.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Capital requirement</td>
+        <td>Requirements regarding the minimum share capital of the company depend on the type of game it offers.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Taxation</td>
+        <td>All gaming companies that own a Gambling Kahnawake license have tax benefits – 0% corporate tax, gaming tax, and gross income tax.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Compliance</td>
+        <td>It’s crucial to ensure compliance with responsible gaming policies which include fair play, transparency principles, and preventing minors and vulnerable people from accessing the gambling site. An applicant must also create internal policies to ensure that the privacy, confidentiality, and security of players are protected.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Restricted markets and territories</td>
+        <td>The following markets are considered restricted / prohibited and forbidden by the license: the Belarus, Russia, and the USA, and/or any other jurisdiction that the Kahnawake Gaming Commission deems online gambling illegal.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
+);
+const Kenya_Gaming_Licence = (
+  <div>
+  <h2>Kenya Gaming Licence</h2>
+  <p>
+    Kenya is one of the leading African countries in terms of gambling development due to its progressive approach to regulating the industry. In recent years, the country has experienced significant growth in the gambling sector, particularly in sports betting and online gambling.
+  </p>
+  <p>
+    The main regulatory body responsible for gambling in Kenya is the Betting Control and Licensing Board (BCLB). This body is responsible for issuing licences, controlling and supervising all forms of gambling in the country. The Betting, Lotteries and Gaming Act Chapter 131, empowers the Board to license and control premises and the activities carried therein.
+  </p>
+  <h3>Categories of Gaming licenses in Kenya</h3>
+  <ol>
+    <li>
+      <strong>Public Gaming</strong>
+      <p>Public gaming refers to casinos and the activities carried out therein such as slot machines and table games and includes on site and virtual gaming.</p>
+    </li>
+    <li>
+      <strong>Public lottery (Short-Term)</strong>
+      <p>This is a public lottery conducted for a specific charitable purpose by a registered institution or organization for a period of 3 months. The public takes part in lotteries by buying raffle or lottery tickets, draws are conducted to determine the winners who are awarded with prizes.</p>
+    </li>
+    <li>
+      <strong>Public lottery (Long-Term)</strong>
+      <p>Public Lotteries are conducted by registered institutions or organizations to raise funds for charitable purposes under section 36 of the Act and must be for a charitable cause that is ongoing. The long-term public runs for a period of one year or more. The public takes part in lotteries by buying raffle or lottery tickets, draws are conducted to determine the winners who are awarded prizes.</p>
+    </li>
+    <li>
+      <strong>Bookmakers</strong>
+      <p>A bookmaker in this case implies sports betting, pool betting schemes and Totalizators. A bookmaker facilitates gambling most commonly on sporting events like football. A bookmaker accepts and pays off bets on sporting and other events at agreed-upon odds.</p>
+    </li>
+    <li>
+      <strong>Totalizator</strong>
+      <p>This is a form of betting where participants compete by predicting the outcome of sporting events such as horse racing or football. The winners paid based on the amount of money they played. An organization markets itself by giving prizes to those who participate in its activities to boost its sales.</p>
+    </li>
+  </ol>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>To run a gambling business in Kenya, you must first incorporate a company in Kenya with all the requirements of Kenya corporate law.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Physical office</td>
+        <td>The company must have a physical address within Kenya.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Capital requirement</td>
+        <td>The company needs to demonstrate financial stability and sufficient capital to cover all operating expenses. The amount of capital required may vary depending on the type of licence.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Background check</td>
+        <td>BCLB conducts thorough background checks on all applicants and key individuals within a company, including background checks, financial status and criminal records.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Compliance</td>
+        <td>Applicants must demonstrate a willingness and ability to comply with all applicable laws in Kenya, including data protection laws, anti-corruption laws and gambling regulations.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>System and security</td>
+        <td>Robust management and security systems must be in place to protect user data and enforce fair play rules. This includes technological innovations to prevent fraud and abuse.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Social responsibility</td>
+        <td>The company should provide evidence of its responsible gambling programmes, including measures to protect minors and prevent gambling addiction. This may include employee training, information campaigns and self-restraint tools for users.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Validity period</td>
+        <td>Licences are usually issued for a fixed period of time, which may vary depending on the type of licence and specific conditions. After the expiry of this period, a licence renewal process is required.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Tax identification number (Pin)</td>
+        <td>Every company in Kenya must register with the Kenya Revenue Authority (KRA) and obtain a tax identification number. This is necessary for the payment of corporate and sales taxes.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>AML compliance</td>
+        <td>Gambling companies should implement strict procedures to prevent money laundering, including transaction monitoring and user identification systems.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+);
+const Malta_Gaming_Licence =(
+  <div>
+  <h2>Malta Gaming Licence</h2>
+
+  <p>
+    Over the past years Malta has successfully established itself as a leading, serious and well-regulated European remote gaming jurisdiction and is estimated to host around 10% of the world’s online gaming companies. The Government of Malta recognizes the importance of the proper regulation of this industry, and its relevance for Malta’s economy and, in-keeping with this recognition, continues to innovate the legal framework to keep up with industry and technological developments.
+  </p>
+
+  <h3>About the license</h3>
+
+  <p>
+    Malta is one of the largest and most respected regulated gambling markets in the world. The Malta Gambling Authority (MGA) issues licenses for a wide range of gambling activities including online casinos, sports betting, horse racing betting, and poker.
+    The MGA license is a permit from the Malta Gambling Authority that allows you to engage in gambling activities. It is a sign of reliability and compliance with high industry standards.
+  </p>
+
+  <h3>License categories</h3>
+
+  <p>
+    Under the new legislative framework which effectively replaced and repealed the Remote Gaming Regulations, 2004, there are two broad categories of license which may be granted by the MGA:
+  </p>
+
+  <ol>
+    <li>
+      <strong>Game Developer License or Key Software Provider License for Game Platform Operators (B2B):</strong> This license is issued to game developers or key software providers who provide their products to gaming platform operators.
+    </li>
+    <li>
+      <strong>Online Gambling Operator License (B2C):</strong> A B2C license allows gambling operators to offer a wide range of games including slots, poker, roulette, baccarat, keno, bingo, etc.
+    </li>
+  </ol>
+
+  <h3>Types of licenses</h3>
+
+  <p>
+    The MGA presents 4 classes of gambling licenses designed to provide operators with flexibility and diversity. Operators can determine which license category best meets their needs and strategic goals:
+  </p>
+
+  <ol>
+    <li>
+      <strong>Type 1:</strong> Games of chance played against the house. Generally, casino type games such as roulette, blackjack, baccarat and E-sports is classified under Type 1.
+    </li>
+    <li>
+      <strong>Type 2:</strong> Games of chance played against the house with outcome determined by an event or competition separate from a game of chance. Games such as fixed odds betting and pool betting are classified under Type 2.
+    </li>
+    <li>
+      <strong>Type 3:</strong> Games of chance not played against the house, with the operator being protected to gaming risk. Instead of profiting from the game, the operate generates revenue by taking a commission or charging based on the stakes of the price. Games such as poker, bingo are classified under Type 3.
+    </li>
+    <li>
+      <strong>Type 4:</strong> Controlled skill games such as fantasy sports are classified under Type 4.
+    </li>
+  </ol>
+
+  <h3>Advantages of a Malta Gaming license</h3>
+
+  <ol>
+    <li>
+      <strong>Prestige and respect:</strong> The Malta online gaming license is recognized as one of the most prestigious in the world, providing companies with a high level of respect and trust in the eyes of both players and partners.
+    </li>
+    <li>
+      <strong>Reliability and trust from players:</strong> Malta is renowned for its strict but fair and transparent regulatory standards, providing players with confidence in the integrity and safety of its gambling platforms.
+    </li>
+    <li>
+      <strong>Tax advantages:</strong> Malta’s tax credit system reduces the real tax rate to 5%, making Malta one of the most tax-attractive jurisdictions for gambling.
+    </li>
+    <li>
+      <strong>Political and economic stability:</strong> Being a member of the EU, Malta has a stable political and economic situation, which makes it an ideal platform for the development of the gambling business.
+    </li>
+    <li>
+      <strong>Double tax treaties:</strong> More than 70 double tax treaties help businesses avoid additional tax liabilities.
+    </li>
+    <li>
+      <strong>Active promotion in the international market:</strong> With a Malta gaming license, companies can actively enter international markets due to the recognition and credibility of the regulator.
+    </li>
+    <li>
+      <strong>Favorable regulatory environment:</strong> Malta is constantly developing and improving its gambling legislation, which contributes to the creation of a favorable environment for the growth and development of the gambling business.
+    </li>
+    <li>
+      <strong>Infrastructure:</strong> Malta has a well-developed infrastructure that supports the gambling industry, including state-of-the-art telecommunications networks and data centers.
+    </li>
+    <li>
+      <strong>Government support:</strong> The Maltese government supports the gambling industry and provides several benefits to gambling operators, including tax incentives and market access.
+    </li>
+  </ol>
+
+  <h3>Key legal requirements</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity requirements</td>
+        <td>The company must be registered in Malta.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>The entity must have one director who must pass the fit and proper test.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Company secretary</td>
+        <td>A company secretary is required.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Issued and paid-up share capital</td>
+        <td>
+          Applicants looking to apply for a Type 1 or Type 2 license must have minimally €100,000. On the other hand, applicants looking to acquire a Type 3 or Type 4 license must possess minimally €40,000.
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fit and proper requirement</td>
+        <td>
+          Applicants are expected to demonstrate that they’re capable of operating an online gambling company and adhering to the requirements of the Malta gaming license. To satisfy this requirement, the Malta Gaming Authority has created a ‘Fit and Proper Test’ which evaluates the applicant and owners of the corporate entity. The test assesses whether they’re able to operate a business of this kind and if they have the necessary strategy in place.
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Registered office</td>
+        <td>A company incorporated in Malta to obtain a Malta gaming license must have a registered office in the country.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Servers</td>
+        <td>All hosting and servers must be in Malta to be in line with the Malta online gaming license requirements.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Due diligence</td>
+        <td>Each individual involved in the application process or who is considered an applicant must pass due diligence checks. They are required to submit documents relating to their identity, address, and source of funds.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>System review and compliance audit</td>
+        <td>Before a Malta gaming company is allowed to ‘go live’ they must complete a system review and compliance audit in a technical environment. As a part of the application process, they will be invited to ‘go live’ in this controlled environment and will have 60 days to complete it.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Taxation</td>
+        <td>
+          Companies in Malta are required to pay corporate tax at a rate of 35%. However, the Maltese government also offers a deemed settlement system that can reduce the effective tax rate to 5%. The effective tax rate will vary depending on the specific situation of the company. In addition, the Maltese government imposes a gambling tax on income earned from players resident in Malta. This rate is set at 5% and is only payable by B2C licensees. Revenues received by players outside Malta are not subject to this tax.
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Key reports</td>
+        <td>
+          <ol>
+            <li>Yearly Audited Accounts: Your company will be required to submit a set of financial statements that is prepared and audited according to the International Financial Reporting Standards (IFRS). The financial report must include a Directors’ Report and the report should be submitted within 180 days after company’s financial year has ended.</li>
+            <li>Half-Yearly Reports:
+              <ul>
+                <li>Management Accounts: Management accounts that include records spanning the first 6 months of a company’s financial year are to be submitted before the end of the 8th month of the company’s financial year. The deadline for submission is 7 September.</li>
+                <li>Industry Performance Return (IPR/Return): The Industry Performance Return composes of bi-annual information on all licenses and provides important data on the different aspects of the operation of each company. The Return is to be submitted through the Licensee Relationship Management System (LRMS) portal every 6 months and the deadline for submission is 28 February.</li>
+              </ul>
+            </li>
+            <li>Monthly Reports:
+              <ol>
+                <li>Gaming Tax report</li>
+                <li>Player Funds report</li>
+                <li>Other reports may also be requested by the MGA.</li>
+              </ol>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Key persons (B2C license holders)</td>
+        <td>
+          Operators that hold a B2C license are required to appoint individuals to the following roles:
+          <ol>
+            <li>CEO</li>
+            <li>Key Gaming Operations (including Key Gaming Operations, Key Finance, Key Risk, and Key Fraud)</li>
+            <li>A Key Compliance (including Compliance Officer, Key Responsible Gaming, Key Player Support, Key Marketing)</li>
+            <li>Key Legal</li>
+            <li>A Key Data Protection</li>
+            <li>Key AML & CFT</li>
+            <li>A Key Technology (including Key Technology and Key Information Security)</li>
+            <li>Internal Audit</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Key person (B2B license holders)</td>
+        <td>
+          Those holding a B2B license must fill the following roles:
+          <ol>
+            <li>CEO</li>
+            <li>Key Gaming Operations (including Key Gaming Operations, Key Finance, Key Risk, and Key Fraud)</li>
+            <li>Compliance Officer</li>
+            <li>A Key Legal</li>
+            <li>Key Data Protection</li>
+            <li>Key Technology (including Key Technology and Key Information Security)</li>
+            <li>Internal Audit</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Mwal_Comoros_Gaming_Licence =(
+  <div>
+  <h2>Mwali (Comoros) Gaming Licence</h2>
+
+  <p>
+    A Mwali (or Moheli) Gaming License is a permit issued by Mwali authorities allowing businesses to legally offer online gambling services; it’s necessary for legal operation and credibility in the online gaming industry. <br/><br/>
+    
+    The Mwali gaming licence, which is issued by Moheli Corporate Services and governed by the Moheli Offshore Finance Authority, provides companies with the means to lawfully run online gaming and gambling platforms.
+    <br/><br/>Licenses for online gaming and betting can be issued only to Mwali companies. If desired, an application for a new IBC may be submitted simultaneously with the licence application.<br/><br/>
+    The Mwali International Gaming Licence allows the licensee to use different brand names and to offer different gaming experiences (such as casinos, sportsbook etc) and use as many and different websites as they desire, provided each website clearly displays the name of the owner and the electronic trust seal issued by the Mwali International Services Authority.
+    <br/><br/>The application process is straightforward and licences are typically approved within seven working days. A rigorous background check in compliance with international anti-money laundering and anti-terrorist financing standards is required on all principals and officers.
+  </p>
+
+  <h3>Advantages of Mwali gaming license</h3>
+
+  <ol>
+    <li>
+      Tax exemption: greatly increases profitability.
+    </li>
+    <li>
+      Brand Diversity: Provides a range of gaming experiences by enabling operations under several brands.
+    </li>
+    <li>
+      Fast Licencing Procedure: Promotes quick entry into the market.
+    </li>
+    <li>
+      A business-friendly environment that fosters growth and innovation is known as a supportive regulatory framework.
+    </li>
+  </ol>
+
+  <h3>Key legal requirements</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>In order to be eligible for a licence, a company must register in Moheli.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>AML/CFT Compliance</td>
+        <td>Compliance is required with Anti-Money Laundering and Counter-Financing of Terrorism (AML/CFT) regulations. Player information will be safeguarded through the implementation of robust data protection measures.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Fit and proper</td>
+        <td>A thorough background check, known as a fit and proper test, is compulsory for owners and key staff to prove they are eligible to run a licensed online gambling business.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Application</td>
+        <td>Operators need to provide detailed application materials, which include financial forecasts, business strategies, and the personal details of company owners and main executives.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Registered office and registered agent</td>
+        <td>Moheli Corporate Services Limited provides a full registered office and registered agent service in compliance with applicable Moheli legislation.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Software and Infrastructure Reliability</td>
+        <td>Proof that the operational infrastructure and gaming software adhere to international standards.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Ongoing compliance</td>
+        <td>Licence holders are required to follow Moheli’s gaming laws at all times, which includes keeping accurate records of their gaming activities and submitting to frequent audits.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+);
+const Nigeria_Sports_betting_and_Gaming_Licence = (
+  <div>
+      <h2>Nigeria Sports Betting and Gaming Licence</h2>
+
+      <p>
+        Gaming and betting in Nigeria are regulated by the National Lottery Act 2005, National Lottery Regulations 2007(as amended).<br/><br/>  
+        The National Lottery Regulatory Commission (NLRC) was established through the National Lottery Act of 2005. The Commission was primarily born out of the need to regulate the operations of lottery business, promote transparency and accountability in lottery; and protect the interests of players, stockholders and the general public.
+        <br/><br/> The National Lottery Regulatory Commission (NLRC) is the regulatory authority that oversees the licensing and issuance of the National Sports Betting License in Nigeria. They also conduct ongoing supervision and monitoring of licensees after the license has been acquired.<br/><br/> 
+        Sports betting is regulated at the federal and state government levels in Nigeria. The type of sports betting activity a company wants to carry out will determine where the licence or permit can be obtained. Any company interested in operating a sports betting business in Nigeria must apply and obtain a national sports betting license together with a gaming licence in the certain state it wishes to operate in.
+      </p>
+
+      <h3>Key Advantages Of Obtaining A Gambling License In Nigeria</h3>
+
+      <ol>
+        <li>
+          It covers multiple gambling verticals (sports betting, online casinos, lotteries).
+        </li>
+        <li>
+          The regulator does not prohibit operations outside Nigeria if such activities are permitted (or not prohibited) in those countries.
+        </li>
+        <li>
+          A continuously growing population actively participating in games.
+        </li>
+      </ol>
+
+      <h3>Process Of Obtaining A Gambling License</h3>
+
+      <p>
+        It involves two crucial stages:
+      </p>
+      <ol>
+        <li>
+          Company registration in Nigeria;
+        </li>
+        <li>
+          Application submission to the National Lottery Regulatory Commission (NLRC) and completion of necessary compliance procedures to obtain a license to operate within and outside Nigeria.
+        </li>
+      </ol>
+
+      <h3>License categories</h3>
+
+      <ol>
+        <li>Lottery Licence</li>
+        <li>Sports Betting Permit</li>
+        <li>Interactive/Mobile Lottery/Gaming</li>
+        <li>Promotional Lottery (CSPs)</li>
+        <li>Casino Gaming Permit (CGPs)</li>
+      </ol>
+
+      <h3>Key legal requirements</h3>
+
+      <table>
+        <thead>
+          <tr>
+            <th>No.</th>
+            <th>Obligatory requirements</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1.</td>
+            <td>Entity requirements</td>
+            <td>The entity making the application is a Company registered in Nigeria/ Subsidiary company registered in Nigeria.</td>
+          </tr>
+          <tr>
+            <td>2.</td>
+            <td>Directors</td>
+            <td>
+              <ol>
+                <li>A minimum of 2 fit and proper directors</li>
+                <li>Foreign directors are allowed</li>
+                <li>1 local director</li>
+                <li>Corporate directorship is not allowed</li>
+              </ol>
+            </td>
+          </tr>
+          <tr>
+            <td>3.</td>
+            <td>Shareholders</td>
+            <td>
+              <ol>
+                <li>A minimum of 1 shareholder (if corporate shareholder)</li>
+                <li>A minimum of 2 shareholders (if Individual shareholders)</li>
+                <li>Foreign shareholders are allowed</li>
+                <li>At least 1 local shareholder</li>
+              </ol>
+            </td>
+          </tr>
+          <tr>
+            <td>4.</td>
+            <td>Company secretary</td>
+            <td>Appointment of company secretary is required for every foreign owned company.</td>
+          </tr>
+          <tr>
+            <td>5.</td>
+            <td>Local personnel</td>
+            <td>At least one local staff running the office.</td>
+          </tr>
+          <tr>
+            <td>6.</td>
+            <td>Local office</td>
+            <td>Full furnished office is compulsory.</td>
+          </tr>
+          <tr>
+            <td>7.</td>
+            <td>Auditor</td>
+            <td>The licensee must appoint an Auditor within 30 days of becoming licensed.</td>
+          </tr>
+          <tr>
+            <td>8.</td>
+            <td>Capital requirement</td>
+            <td>The minimum authorized share capital for companies with foreign shareholding and directors intending to come to Nigeria is One Hundred Million Naira (N100, 000,000).</td>
+          </tr>
+          <tr>
+            <td>9.</td>
+            <td>Taxation (sport betting)</td>
+            <td>
+              <ul>
+                <li>1 % Gross monthly sales turnover to the NLRC</li>
+                <li>2 % Gross monthly sales turnover to the National Lottery Trust Fund</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>10.</td>
+            <td>Taxation (casino gaming permit)</td>
+            <td>License holders must make a quarterly statutory remittance of N10,000,000.00 (Ten Million Naira only) to the NLRC and N15,000,000.00 (Fifteen Million Naira only) to the NLTF.</td>
+          </tr>
+          <tr>
+            <td>11.</td>
+            <td>Taxation (remote gaming permit)</td>
+            <td>A holder of a Remote Permit must pay an Annual Permit Fee of $100,000 (One Hundred Thousand Dollars) to the Federal Republic of Nigeria via the NLRC TSA Government Account.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+);
+const Tobique_Gaming_Licence = (
+  <div>
+  <h2>Tobique Gaming Licence</h2>
+
+  <p>
+    Tobique First Nation, situated in western New Brunswick, Canada, operates as an indigenous community that issues online gambling licenses through The Tobique Gaming Commission (TGC). This commission, established as the designated regulatory authority, is authorized under the Tobique Gambling Act, 2023, to oversee the activities of all gambling and gaming operators under Tobique Gaming Licenses. <br/><br/>  
+    
+    The Tobique Gaming Act 2023 lays the foundation for the regulatory landscape governing online gambling in Tobique. Under this act, the Tobique Gaming Commission (TGC) has been vested with the authority to license and regulate online gaming enterprises. The TGC, in collaboration with TGC Management Co. And Differentia Licensing Advisory Group Limited (DLAG) as a Direct Licensee, ensures adherence to the Tobique Gaming Laws. These laws encompass a broad spectrum of online betting and gaming activities, emphasising compliance, operational integrity, and consumer protection.
+    <br/><br/>One of the standout features of the Tobique license is its all-encompassing nature, distinguishing it markedly from more conventional gaming licenses.
+    <br/><br/>This unified licensing approach is designed to simplify the regulatory landscape for operators significantly. Under this single framework, licensees are granted the ability to offer a diverse portfolio of iGaming services. This not only includes popular offerings like sports betting and casino games but extends to lotteries and other gambling activities, providing a comprehensive gaming experience to users.
+  </p>
+
+  <h3>Advantages of Tobique Gaming Licence</h3>
+
+  <ol>
+    <li>
+      The advantage of a firm jurisdiction: Tobique is a territory without geopolitical turmoil, the license is valid in Canada with low license fees and no local taxes.
+    </li>
+    <li>
+      Universal license: Except for three countries (North Korea, Iran, and Myanmar), as well as the US, the license allows for a variety of gambling activities without corporate and income taxes.
+    </li>
+    <li>
+      Excellent coverage: Tobique allows you to operate online casinos, sports betting, bingo, table games, and other gambling activities.
+    </li>
+    <li>
+      License Tax: Unlike many jurisdictions, Tobique does not require a percentage of revenue, only annual fees, making it affordable for startups.
+    </li>
+    <li>
+      Fast obtainment: A Tobique license can be obtained in as little as 3-4 weeks, instead of the 8-12 months typical of many other international licenses.
+    </li>
+  </ol>
+
+  <h3>Key legal requirements</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Due diligence</td>
+        <td>The Tobique regulatory authority conducts comprehensive background checks on all key personnel.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>No. Of URLs</td>
+        <td>A single license can be used for two URLs.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Multi-jurisdictional registration</td>
+        <td>You don’t need to be physically present in different countries to register a gaming company.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>License validity</td>
+        <td>The license is valid for one year.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Restricted territories</td>
+        <td>UK, USA, Ontario, New Brunswick and FATF sanctioned countries.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Segregation of player funds</td>
+        <td>Licensees are required to segregate player funds from operational funds. Player funds should be held in a separate account.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Marketing restrictions</td>
+        <td>It should be market specific. Tobique does not permit marketing for its area or for restricted territories.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Legal entity</td>
+        <td>To apply for an online gambling license in Tobique, a Costa Rican company is required to act as the license holder. Additionally, a company in Cyprus, known as a payment agent company, is needed.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Documentation</td>
+        <td>The first step of application involves gathering and submitting detailed documentation to prove identity, residency, and financial stability, among other criteria.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Website</td>
+        <td>It is important to ensure that your website is compliant and functional at the end of the licensing process. We will support you in this process.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Certification of software vendors</td>
+        <td>If you are developing games for operators, you will need certification from major vendors such as iTechLabs, GLI, and BMM Testlabs.</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>No criminal record</td>
+        <td>None of the beneficiaries or directors of the company must have a criminal record. In case you are the sole beneficiary and plan to become a director, provide a clearance certificate.</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Financial and Operational Integrity</td>
+        <td>Demonstrating financial stability is paramount, requiring evidence such as bank statements. Moreover, applicants must showcase their experience and qualifications in the online gambling sector through necessary personal and corporate documents.</td>
+      </tr>
+      <tr>
+        <td>14.</td>
+        <td>Certification requirements</td>
+        <td>RNG must be certified. Functional and platform testing must be approved by a reputable jurisdiction, accredited or an upto-date testing certificate supplied by a reputable testing house. Testing may be requested before the licence being granted for function and platform</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
 const UKBankingLicenseHTML = (
   <div>
     <h1>United Kingdom Banking License</h1>
@@ -11177,6 +12191,34 @@ const LicensingServices = {
     {
       Service: "Isle of Man Gaming License",
       Content: IsleOfManGamingLicenseHTML,
+    },
+    {
+      Service: "Anjouan Gaming Licence",
+      Content: Anjouan_Gaming_Licence,
+    },
+    {
+      Service: "Isle of Man Gaming Licence",
+      Content: Isle_of_Man_Gaming_Licence,
+    },
+    {
+      Service: "Kahnawake Gaming Licence",
+      Content: Kahnawake_Gaming_Licence,
+    },  {
+      Service: "Kenya Gaming Licence",
+      Content: Kenya_Gaming_Licence,
+    },
+    {
+      Service: "Malta Gaming Licence",
+      Content: Malta_Gaming_Licence,
+    },  {
+      Service: "Mwali (Comoros) Gaming Licence",
+      Content: Mwal_Comoros_Gaming_Licence,
+    },  {
+      Service: "Nigeria Sports betting and Gaming Licence",
+      Content: Nigeria_Sports_betting_and_Gaming_Licence,
+    },  {
+      Service: "Tobique Gaming Licence",
+      Content: Tobique_Gaming_Licence,
     }
   ],
   Payment_services_provider_licenses: [],
