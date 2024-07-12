@@ -7714,6 +7714,2700 @@ const Tobique_Gaming_Licence = (
 </div>
 
 );
+const Payment_services_provider_licenses_1 = (
+  <div>
+  <h2>Barbados Money or Value Transmission Service (MVT) Providers License</h2>
+
+  <p>
+    Section 23A of the Financial Institutions (Amendment) Act, 2018 (FIAA) defines a money or value transmission service provider as: “the business of accepting cash, cheques or any other monetary instrument or other means of storing value and paying a corresponding sum in cash or in another form to a beneficiary, by means of a communication, message or transfer or through a clearing system to which money or value transmission service belongs”.
+    <br/><br/>This includes the primary holder of a franchise or a primary MVT operator and applies to both domestic and international remittances. Any legal person that wishes to carry on the business of an MVT in Barbados must apply to the Central Bank of Barbados for approval. Natural persons wishing to carry on the business of an MVT as a primary MVT operator will be required to incorporate a legal entity for the purpose.
+  </p>
+
+  <h3>Agents of Money or Value Transmission Service Providers</h3>
+
+  <p>
+    An agent of an MVT means any legal person providing the business of an MVT on behalf of an MVT, whether by contract with or under the direction of the MVT. Prior approval of the Bank is required for all persons to whom the MVT contracts its functions as agent. Approved agents will not be allowed to contract sub-agents.
+  </p>
+
+  <h3>Key Legal requirements</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Directors</td>
+        <td>At least 2 (two) natural persons Fit and Proper Directors. At least one of its directors must be resident in Barbados.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Entity</td>
+        <td>The entity making the application is a Barbados: A company, Limited partnerships, Unit trust.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>At least 2 shareholders. Corporate shareholding is allowed and 100% foreign ownership is permitted.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirements</td>
+        <td>Legal entities operating as MVTs should maintain minimum capital of $50,000. The individuals who are the ultimate beneficial owners of the MVT should have a net worth of five (5) times the value of the shares to which they subscribe.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fitness and Proper</td>
+        <td>The Bank will seek, through Confidential Statements provided by the applicant and through its own independent due diligence, to ascertain that persons identified as prospective shareholders, directors and executive officers possess: Skills and expertise commensurate with the intended activities; Attributes of honesty, integrity and good repute; and Financial probity.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Agent Due Diligence</td>
+        <td>MVTs are required to demonstrate that they have developed policies, procedures and controls for the establishment of agent relationships. Upon approval, MVTs should conduct AML/CFT training for the new agent and ensure familiarisation with the MVT’s internal policies and procedures.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Exchange Control Approval</td>
+        <td>Applicants must obtain exchange control approval from the Foreign Exchange and Export Credits Department (FEECD) to deal in foreign currency.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Compliance Officer/MLRO</td>
+        <td>Licensees should designate a suitably qualified person at the management level, with the appropriate level of authority, seniority and independence as Compliance Officer or Money Laundering Reporting Officer (“MLRO”), together with the responsibilities of the role. The responsibilities of the MLRO/Compliance Officer should encompass the operations of all agents of MVTs.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>AML/CFT Compliance</td>
+        <td>MVTs, as well as agents providing money or value transmission services on behalf of MVTs, are required to comply with the Anti-Money Laundering/Combating Terrorist Financing Guideline (“AML/CFT Guideline”).</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Reporting</td>
+        <td>
+          <ol>
+            <li>Licensed MVTs are required to submit the following quarterly reports and information:
+              <ol>
+                <li>Balance sheet;</li>
+                <li>Income Statement;</li>
+                <li>Information on remittance activities, e.g. number and value of transactions within given ranges; countries of origin/destination; listing of significant transactions by customer, either singly or in aggregate; fees charged; and</li>
+                <li>Number of suspicious activity reports filed with the Financial Intelligence Unit;</li>
+              </ol>
+            </li>
+            <li>All MVTs must produce annually, audited financial statements in accordance with section 21 of the FIAA and a list of the shareholders on its register who hold shares of a value of 5% or more of its stated capital.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Record keeping</td>
+        <td>MVTs shall maintain in Barbados, for at least five years, all necessary records on transactions and beneficial ownership, to enable them to comply without delay with information requests from competent authorities.</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Audit</td>
+        <td>An independent internal audit function should be established to review and evaluate how effectively compliance policies are being implemented, in accordance with Section 9 of the AML/CFT Guideline. This audit review should also extend to the operations of each agent.</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Insurance</td>
+        <td>Adequate insurance coverage should be maintained to cover operational losses arising from errors and omissions, forgery, computer crime and business interruption.</td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+);
+const Payment_services_provider_licenses_2 = (
+  <div>
+  <h2>Belize Payment Service Provider License</h2>
+
+  <p>
+    Belize is an independent parliamentary constitutional monarchy within the British Commonwealth. The nation has long been known for its financial stability, pegging its local currency directly to the volatility of the United States dollar. In recent years, the government of Belize has made largely successful efforts to transition the focus of the nation’s economy from staple commodities to financial services.
+    <br/><br/>The Belize is an ideal location for promoters of payment services businesses. The Belize offers a Money Transmission license which covers all related payments activity, including peer-to-peer remittances and payment processing. The licensure is recognized world-wide and many top payment service providers are licensed in Belize. In addition, the process of obtaining a license is both cost effective and can be accomplished quickly.
+  </p>
+
+  <p>
+    A payment service provider (PSP) is licensed to provide a payment service i.e., any service that enables cash deposits and withdrawals, execution of a payment, the issue or acquisition of a payment instrument, the provision of a remittance service, and any other service functional to the transfer of money and includes the issue of electronic money and an electronic funds transfer but excludes the provision of a solely online or telecommunication service or network access. <br/><br/>The license is issued by the International Financial Services Commission (IFSC). The duties of the commission also include control over the activities of financial institutions located on the territory of Belize. After obtaining a license, the Commission checks compliance with the legislation governing activities related to obtaining a license.
+  </p>
+
+  <h3>Permitted activities</h3>
+
+  <ol>
+    <li>Services are related to placing money on the account and withdrawing it from it</li>
+    <li>Conducting operations using payment cards</li>
+    <li>Implementation of credit transfers</li>
+    <li>Money transfer</li>
+    <li>Intermediary services between the user of the payment service and the supplier of the product.</li>
+  </ol>
+
+  <h3>Benefits of obtaining a payment system license in Belize</h3>
+
+  <ol>
+    <li>Not as many requirements compared to countries in the European Union and the United States</li>
+    <li>Short period of obtaining it</li>
+    <li>Financial assets are well protected under Belize’s national regime and judicial system</li>
+    <li>Engage in various types of financial activities, including money transfers</li>
+    <li>Belizean banks are FATCA compliant</li>
+    <li>No requirement for meetings in Belize; all meetings may be held electronically</li>
+    <li>No requirement to travel to Belize for incorporation or licensing</li>
+  </ol>
+
+  <h3>Legal requirements</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Directors</td>
+        <td>At least 2 (two) natural persons Fit and Proper Directors. At least one should be resident.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Shareholders</td>
+        <td>At least 2 shareholders.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Auditor</td>
+        <td>An approved auditor of any jurisdiction is required.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Compliance officer</td>
+        <td>The Compliance Officer and MRLO must be approved by the commission.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Belize office</td>
+        <td>The country’s physical office must be located in Belize. $75,000 USD capital requirement.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Minimum capital requirement</td>
+        <td>The capital has to be deposited in a bank in Belize and maintained fully paid up and unimpaired.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Taxation</td>
+        <td>The company is exempt from Belize local taxes on income derived outside of Belize.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Registered agent</td>
+        <td>Required.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Insurance</td>
+        <td>Professional indemnity insurance is required.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Accounting requirements</td>
+        <td>Financial service providers have obligations to submit quarterly financial statements, annual confirmation statement and an audited financial statement.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Entity</td>
+        <td>Partnership, International Business Company, Limited Company, Unit Trust.</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Company website</td>
+        <td>Must be equipped with all necessary and required information that fully informs customers about services, products, terms and conditions. Website can be in draft version but most of the information should be ready and in order.</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>License issuance period</td>
+        <td>
+          <ol>
+            <li>After submitting an application with all the necessary documents to the IFSC, the license is issued within 3-5 months.</li>
+            <li>Every year, the IFSC extends the validity after checking the company’s financial condition.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+);
+const Payment_services_provider_licenses_3 = (
+  <div>
+  <h2>Bermuda Money Service Business License</h2>
+
+  <p>
+    The Money Service Business Act 2016 provides the legal framework for the provision of Money Services Business in Bermuda. Money services business can only be carried on by those companies who attain a license from the Bermuda Monetary Authority. Section 2 (2) of the Act defines money service business as the business of providing any or all of the following services to the general public:
+  </p>
+
+  <ol>
+    <li>money transmission services</li>
+    <li>cashing cheques which are made payable to customers and guaranteeing cheques</li>
+    <li>issuing, selling or redeeming drafts, money orders or traveller’s cheques for cash</li>
+    <li>payment services business</li>
+    <li>operating a bureau de change whereby cash in one currency is exchanged for cash in another currency</li>
+  </ol>
+
+  <p>
+    <strong>Exemptions:</strong> Institutions licensed under the Banks and Deposit Companies Act 1999 are exempted from the Act. In addition, where a company provides any of the services listed above as an ancillary service to its clients and does not levy a separate charge, the Authority is not likely to treat such an activity as being within scope of the Act. For further details, please refer to section 7 of the Guidance Notes.
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Directors</td>
+        <td>The license will need at least 2 (two) natural persons Fit and Proper Directors of any jurisdiction.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Entity</td>
+        <td>A company registered or incorporated in Bermuda or elsewhere and includes a partnership which is a body corporate.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The license will need at least one shareholder.</li>
+            <li>Corporate shareholding is allowed.</li>
+            <li>100% foreign ownership is permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Compliance officer</td>
+        <td>The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Local office</td>
+        <td>
+          The applicant must have premises acceptable to the authority. The premises should be able to facilitate confidential interaction between the applicant and its clients and provide for safe and confidential storage of documents.
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Auditor</td>
+        <td>
+          The licensee shall appoint annually an auditor who shall be a chartered accountant, a certified public accountant or some other professionally qualified accountant, satisfactory to the Authority.
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Insurance</td>
+        <td>The applicant will need to have indemnity insurance coverage or a fidelity bond acceptable to the Monetary Authority.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Minimum capital requirement</td>
+        <td>The Applicant must have the prescribed minimum paid-up capital and is able to meet the prescribed minimum net liquid capital requirement in cash or readily marketable securities.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Client due diligence</td>
+        <td>Licensed money service businesses must have procedures in place to ensure that proper due diligence is carried out before a decision is made to act for any new client.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Financial reporting</td>
+        <td>A licensee shall within three (3) months of the end of the financial year forward the audited financial statements to the Authority, unless prior written approval for an extension has been granted by the BMA.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_4 = (
+  <div>
+      <h2>BVI Money Service Business License</h2>
+
+      <p>
+        Money Services Business (MSB) refers to financial services that involve the acceptance of cash, cheques, other monetary instruments or other stores of value, and the payment of a corresponding sum in cash or other form to a beneficiary by means of a communication, message, transfer, or through a clearing network to which the MSB belongs. Transactions performed by such services can involve one or more intermediaries and a final payment to a third party, and may include any new payment methods.
+      </p>
+
+      <h3>About the license</h3>
+
+      <p>
+        Money services business (MSB) in the Virgin Islands is regulated by the Financial Services Commission (“the Commission”) under the Financing and Money Services Act, 2009. Entities which wish to provide MSB must be duly licensed by the Commission and must adhere to all regulatory legislation, including the Anti‐money Laundering Regulations, 2008 and the Anti‐ money Laundering and Terrorist Financing Code of Practice, 2008.
+      </p>
+
+      <h3>Permitted activities</h3>
+
+      <p>
+        The Financing and Money Services Act, 2009 (“the Act”), defines Money Service Business to describe the following activities:
+      </p>
+
+      <ol>
+        <li>Money transmission services</li>
+        <li>Cheque cashing services</li>
+        <li>Currency exchange services</li>
+        <li>The issuance, sale or redemption of money orders or traveller’s cheques</li>
+        <li>Operating as an agent or franchise holder of a person carrying on any business specified above</li>
+      </ol>
+
+      <p>
+        MSBs can only be conducted in, or from within, the Virgin Islands, by an entity established as a BVI Business Company (BVIBC) or a foreign company, and must be duly licensed by the Commission. An MSB is licensed by the Commission after satisfying the requirements of the Act. In accordance with the Act, where a BVIBC carries on, or holds itself out as carrying on, money services business outside the Virgin Islands, it is considered to be carrying on, or holding itself out as carrying on money services business from within the VI, and is therefore subject to all licensing requirements.
+      </p>
+
+      <h3>Categories of license</h3>
+
+      <p>
+        Previously, the licenses available under Financing and Money Services Act (FMSA) were:
+      </p>
+
+      <ol>
+        <li>Class A: which allows a licensee to carry on business of transmitting money in any form, including electronic and mobile payments of money</li>
+        <li>Class B: which allows a licensee to carry on the business of issuing, selling or redeeming money orders or travelers cheques, cheque cashing and currency exchange</li>
+        <li>Class C: which allows a licensee to engage in financing business</li>
+        <li>Class D: which allows a licensee to carry on the business of financing lease</li>
+        <li>Class E: which allows a licensee to carry on the business of operating an ATM</li>
+        <li>Class F: which allows a licensee to carry on the business of international financing and lending in the peer-to-peer (P2P) FinTech market, including peer to business (P2B) and business-to-business (B2B) markets</li>
+        <li>Class G: which allows a licensee to carry on the business of such other service as may be specified on the regulations</li>
+      </ol>
+
+      <h3>Amendments to FMSA</h3>
+
+      <ol>
+        <li>
+          Maintenance of capital resources and deposit:
+          <p>
+            If a licensee’s capital resources fall below the level prescribed amount, as well as notifying the Commission, the licensee must prepare and submit a plan showing how it intends to rebuild its capital resource to the requisite level. A licensee generally has up to 30 days to reconstitute its capital and, if it fails to do so, the Commission can take enforcement action, including revocation or cancellation of the relevant licence.
+          </p>
+        </li>
+        <li>
+          Duty of management to ensure licensee complies with law:
+          <p>
+            Every director, senior officer and person concerned in the management of a licensee must take all reasonable steps to ensure it complies with FMSA and any legislation relating to money laundering, terrorist financing and proliferation financing. Failure to take all reasonable steps is an offence and can lead to a penalty of US$30,000 for an individual.
+          </p>
+        </li>
+        <li>
+          Segregating customer accounts:
+          <p>
+            Licensees which receive money from a customer for transmission or delivery to a payee customer must establish a separate customer account, which must be segregated from the licensee’s own account.
+          </p>
+        </li>
+        <li>
+          No solicitation or receipt of money:
+          <p>
+            No one may solicit or receive money from another person for the purpose of carrying on money services business or financing business in or from within the BVI unless licensed or exempt under FMSA. To do so is an offence and can lead to a penalty of US$50,000 for an individual or US$75,000 for corporate and other entities.
+          </p>
+        </li>
+        <li>
+          Consumer protection measures:
+          <p>
+            The Commission may provide consumer measures for money services and financing businesses, including placing restrictions on interest rates charged, allowing or requiring instalment payments, limiting excessive charges and requiring loan statements and receipts to be provided to customers.
+          </p>
+        </li>
+      </ol>
+
+      <h3>Key legal requirements</h3>
+
+      <p>No Obligatory requirements</p>
+
+      <ol>
+        <li>Entity</li>
+        <li>Directors</li>
+        <li>Shareholders</li>
+        <li>Compliance officer or MLRO (Money Laundering Reporting Officer)</li>
+        <li>Auditor</li>
+      </ol>
+
+      <p>
+        <strong>Description:</strong>
+        <ol>
+          <li>A Limited Company</li>
+          <li>International Business Company</li>
+        </ol>
+        <p>
+          A BVI licensee shall always have at least two directors (natural persons only). A minimum of one shareholder is required.
+        </p>
+        <p>
+          The minimum capital resource requirement for a BVI money services business is:
+          <ol>
+            <li>$10,000 cash in hand or on deposit; or</li>
+            <li>$5,000 cash in hand or deposit plus $5,000 standby letter of credit or guarantee or interest in BVI property (or, if leased property, with at least 5 years remaining on the lease).</li>
+          </ol>
+          BVI money services businesses are not required to make a regulatory deposit. The prescribed regulatory deposit for a foreign money services business is $10,000.
+        </p>
+        <p>
+          A BVI licensee shall appoint and at all times have an auditor for the purposes of auditing its financial statements.
+        </p>
+        <p>
+          A licensee shall establish and maintain a place of business in the Virgin Islands, approved by the Commission, which shall be its principal office in the Virgin Islands for its licensed business.
+        </p>
+        <p>
+          A BVI licensee shall, no later than eleven months after the date that its licence is issued to it, provide the Commission with a notice of its financial year end in accordance with the requirements of the Regulatory Code. The financial statements of a BVI licensee signed by a director shall be submitted to the Commission within six months of the end of the financial year.
+        </p>
+        <p>
+          A licensee shall at all times maintain such professional indemnity and other insurance as may be prescribed.
+        </p>
+      </p>
+    </div>
+
+);
+const Payment_services_provider_licenses_5 = (
+  <div>
+  <h2>Canada Money Service Business License</h2>
+  <p>
+    As the world’s tenth-largest economy, Canada has established a resilient financial system that confidently survived the recent global financial crises. Anchored in this strong economic foundation, Canada features one of the most robust and dependable banking systems worldwide. A pivotal element contributing to the banking system’s success is the Financial Transactions and Reports Analysis Centre (FINTRAC) of Canada. Tasked as the financial intelligence unit, FINTRAC is responsible for preventing and combating money laundering and terrorist financing. Consequently, Canadian businesses offering money services are mandated to register and operate under the supervision of FINTRAC.
+  </p>
+
+  <h3>About the License</h3>
+  <p>
+    To obtain a Money Services Business (MSB) license in Canada, businesses must register with the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC). This registration is crucial for businesses that intend to offer money services in Canada, which include foreign exchange dealing, money transferring, issuing or redeeming money orders, traveler’s checks, or anything similar.
+  </p>
+
+  <h3>Permitted Activities</h3>
+  <ol>
+    <li>Offering foreign exchange dealing (exchange of one type of currency for another)</li>
+    <li>Conducting foreign exchange transactions (cross-border transfer funds for individuals and business owners)</li>
+    <li>Remitting or transmitting funds (card payments and transfers via a terminal or an online payment gateway solution)</li>
+    <li>Issuing or redeeming money orders (cash on demand received from a bank, post office, Walmart, grocery store, etc.)</li>
+    <li>Working with virtual currency (offer digital assets exchange and virtual currency transfer services)</li>
+    <li>Issuing personal accounts (issuance of personalized e-wallets, allowing your customers to store the funds or deposit and pay securely)</li>
+  </ol>
+
+  <h3>MSB Vs FMSB</h3>
+  <p>
+    A person is required to register as an MSB under FINTRAC in case it intends to offer one or a combination of MSB services to the public and has a place of business in Canada. On the contrary, a person is required to register as a Foreign MSB (FMSB) under FINTRAC, in case it intends to offer one or more MSB services and does not have a place of business in Canada.
+  </p>
+
+  <h3>Key Legal Requirements</h3>
+  <table>
+    <tbody>
+      <tr>
+        <th>No</th>
+        <th>Obligatory Requirements</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Company incorporated in Canada</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>FINTRAC Registration</td>
+        <td>Before beginning to operate in Canada, you must register your MSB with FINTRAC. The applicant is not required to maintain a physical office, at the registration stage, rather than a legal address.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Office</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Initial Capital</td>
+        <td>No minimum initial capital requirement is applicable. Nonetheless, the amount of authorized capital that the applicant chooses to pay, shows to FINTRAC the intention for business planning and development.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Compliance Officer</td>
+        <td>Depending on the size of your business, you could be the appointed compliance officer, or it could be another individual, such as a senior manager, the owner, or the operator of your small business; or someone from a senior level who has direct access to senior management and the board of directors of your large business.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Know Your Client</td>
+        <td>Money services businesses must verify the identity of persons and entities for certain activities and transactions, and carry out other customer due diligence activities.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Compliance Program</td>
+        <td>Money services businesses must implement a compliance program. A strong compliance program will form the basis of meeting all your regulatory requirements.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Transaction Reporting</td>
+        <td>Money services businesses must submit the following reports to FINTRAC:
+          <ol>
+            <li>Large Cash Transaction Reports</li>
+            <li>Large Virtual Currency Transaction Reports</li>
+            <li>Incoming or outgoing Electronic Funds Transfer Reports</li>
+            <li>Suspicious Transaction reports</li>
+            <li>Terrorist Property reports</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>24-hour Rule</td>
+        <td>Money services businesses have 24-hour rule requirements for:
+          <ol>
+            <li>Large Cash Transaction Reports</li>
+            <li>Large Virtual Currency Transaction Reports</li>
+            <li>Incoming or outgoing Electronic Funds Transfer Reports</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Record Keeping</td>
+        <td>Money services businesses must keep certain records, including records related to transactions and client identification.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_6 = (
+  <div>
+  <h2>Cayman Islands Money Service Business License</h2>
+  <p>
+    Under the Money Services Act (2010 Revision), the term money services business is defined as:
+  </p>
+  <ol>
+    <li>The business of providing (as a principal business) any or all of the following services:</li>
+    <ol>
+      <li>Money transmission</li>
+      <li>Cheque cashing</li>
+      <li>Currency exchange</li>
+      <li>The issuance, sale, or redemption of money orders or travelers checks</li>
+      <li>Such other services as the Governor in Council may specify by notice published in the Gazette</li>
+    </ol>
+    <li>The business of operating as an agent or franchise holder of a business mentioned under (1).</li>
+  </ol>
+  
+  <p>
+    The Money Services Act (2010 Revision) provides for the licensing of all money services businesses and for the regulation of such businesses by the Monetary Authority. The ongoing supervision of money services businesses falls under the remit of the Banking Supervision Division.
+  </p>
+
+  <h3>Key Legal Requirements</h3>
+  <table>
+    <tbody>
+      <tr>
+        <th>No</th>
+        <th>Obligatory Requirements</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>Companies incorporated in the Cayman Islands</li>
+            <li>Partnerships established under Cayman Islands law</li>
+            <li>Foreign companies that are registered in the Cayman Islands</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>At least 2 directors (natural persons only, no restrictions with regards to citizenship or residence)</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>At least 1 shareholder (natural persons and legal entities allowed. No restrictions with regards to citizenship or residence)</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Net worth/paid up capital</td>
+        <td>A minimum net worth of CI$30,000 by an applicant is required. The licensee shall maintain its net worth at an amount not less than that prescribed.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Audit</td>
+        <td>Every licensee shall have the accounts of its money services business audited annually or at such other times as the Authority may require by an auditor, who shall be a chartered accountant, a certified public accountant, or some other professionally qualified accountant, approved by the Authority. The audited accounts shall be forwarded to the Authority within three months of the end of the financial year of the licensee’s money services business, unless prior written approval for an extension has been granted by the Authority.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Physical presence</td>
+        <td>A license shall not be granted unless the person applying for the license has, in the Islands, a place of business approved by the Authority, which will be the principal office in the Islands for that money services business.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Compliance with AML</td>
+        <td>A licensee and any sub-agent of the licensee shall, in respect of the money services business, take such steps as may be necessary to comply with the Anti Money Laundering Regulations (2020 Revision) and such rules or statements of principle or guidance as may be prescribed by the Authority that are consistent with anti-money laundering procedures and the combatting of terrorist financing.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Fit and proper</td>
+        <td>In determining whether a person is "fit and proper", the Authority will consider a person's honesty, integrity, and reputation; competence and capability; and financial soundness.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Accounting</td>
+        <td>Licensees are required to submit quarterly returns to the Authority.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_7 = (
+  <div>
+  <h2>Cyprus Payment Institution License</h2>
+  <p>
+    The financial services sector in Cyprus has been growing rapidly over the past years, with the island nation positioning itself as an attractive destination for companies seeking to establish a presence within the European Union. Among the many financial services available, the establishment of a Payment Institution (PI) in Cyprus is becoming increasingly popular.
+  </p>
+  <p>
+    Cyprus permits the provision of payment services by Payment Institutions (PIs) and Electronic Money Institutions (EMIs), which must be licensed and authorised by the Central Bank of Cyprus (CBC) before offering any payment services. PIs and EMIs authorised by the CBC can effectively offer their services throughout the EU under the “passporting” conditions of their authorisation.
+  </p>
+  <p>
+    The key pieces of legislation governing the licensing and operation of PIs in Cyprus are:
+  </p>
+  <ul>
+    <li>The Business of Electronic Money Law (2012) as amended.</li>
+    <li>The Provision and Use of Payment Services and Access to Payment Systems Law (2018) (implementing PSD2).</li>
+    <li>The Central Bank of Cyprus Directive on the Authorisation and Supervision of Payment Institutions (2019).</li>
+  </ul>
+  
+  <h3>Permitted Activities</h3>
+  <ol>
+    <li>Services enabling cash to be placed on a payment account as well as all the operations required for operating a payment account.</li>
+    <li>Services enabling cash withdrawals from a payment account as well as all the operations required for operating a payment account.</li>
+    <li>Execution of payment transactions, including transfers of funds on a payment account with the user’s payment service provider or with another payment service provider:
+      <ol>
+        <li>Execution of direct debits, including one-off direct debits.</li>
+        <li>Execution of payment transactions through a payment card or a similar device.</li>
+        <li>Execution of credit transfers, including standing orders.</li>
+      </ol>
+    </li>
+    <li>Execution of payment transactions where the funds are covered by a credit line for a payment service user:
+      <ol>
+        <li>Execution of direct debits, including one-off direct debits.</li>
+        <li>Execution of payment transactions through a payment card or a similar device.</li>
+        <li>Execution of credit transfers, including standing orders.</li>
+      </ol>
+    </li>
+    <li>Issuing of payment instruments and/or acquiring of payment transactions.</li>
+    <li>Money remittance.</li>
+    <li>Payment initiation services.</li>
+    <li>Account information services.</li>
+  </ol>
+  
+  <p>
+    In this regard, the difference between an EMI from a PSP is that an EMI can be licensed to provide all the payment services and activities stated above and in addition, issue and offer electronic money. Electronic money (e-money) is a digital alternative to cash. It allows users to make cashless payments with money stored on a card or a phone, or over the internet.
+  </p>
+  
+  <h3>Benefits of PI License in Cyprus</h3>
+  <ol>
+    <li>Cyprus’ attractive tax regime with net profits being subject to one of the lowest corporate taxes in Europe and sales of titles and dividends being tax exempted. Furthermore, non-residents enjoy no withholding tax in dividends, interest and royalties and may take advantage of more than 60 double tax treaties that the republic has secured.</li>
+    <li>A broad network of professionals offering high-quality legal, compliance, accounting and banking services, allocating financial resources in a cost-efficient manner.</li>
+    <li>The opportunity to provide services across the EU, through the EU passporting framework, without seeking additional authorisation or establishing a branch in another member state.</li>
+  </ol>
+  
+  <h3>Key Legal Requirements</h3>
+  <table>
+    <tbody>
+      <tr>
+        <th>No</th>
+        <th>Obligatory Requirements</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Incorporation of a company under the Companies Law, Cap. 113</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>It is required to have a minimum of two executive directors and two non-executive directors. However, the CBC usually requires a minimum of 5 directors, at least two of which must be executive directors. These executive directors must reside in Cyprus and prove their capabilities and extensive experience and knowledge in the banking and fintech sector.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ul>
+            <li>It is required to have at least two shareholders of the company.</li>
+            <li>They must provide proof to the CBC and confirm that they have enough funds to sustain the EMI or PI.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Local Office</td>
+        <td>The company must register its office in Cyprus and carry out at least a part of its electronic money service business and/or provision of payment services in the country.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Capital Requirements</td>
+        <td>
+          <ol>
+            <li>Where the PI provides only a money remittance payment service, its capital must at no time be less than €20,000.</li>
+            <li>Where the PI provides only a payment initiation services, its capital must at no time be less than €50,000.</li>
+            <li>Where the PI provides any other payment services, its capital must at no time be less than €125,000.</li>
+            <li>€350,000, if issuing and offering electronic money.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Insurance</td>
+        <td>Obtain professional indemnity insurance or a comparable guarantee to cover potential liabilities arising from the provision of payment services.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Compliance</td>
+        <td>Implement adequate risk management, anti-money laundering (AML) and counter-terrorism financing (CTF) policies and procedures.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Ongoing Regulatory Requirements</td>
+        <td>
+          <ol>
+            <li>Submitting periodic reports to the CBC, including financial statements and information on the PI’s risk management, AML and CTF measures.</li>
+            <li>Ensuring continuous compliance with the minimum capital requirements.</li>
+            <li>Notifying the CBC of any significant changes to the PI’s governance, management, or business operations.</li>
+            <li>Cooperating with the CBC’s supervision and inspection activities.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>Low corporate tax (12.5%).</li>
+            <li>0% tax for corporate gain.</li>
+            <li>Lowest VAT at 19%.</li>
+            <li>No withholding tax on dividends.</li>
+            <li>An extensive network of double-taxation treaties.</li>
+            <li>Access to EU directives and EU VAT registration.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Qualified Personnel</td>
+        <td>Local resident staff members shall be hired on a full-time basis to fulfill the key functions of the Company. Depending on the license selected, a minimum number of personnel must be hired.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_8 = (
+  <div>
+  <h2>Dubai Payment Service Provider License</h2>
+  <p>Payment Service Providers offer online payment solutions that authorize merchants and sellers to accept credit and debit card payments on multiple channels including phone and online store.</p>
+  <p>A Payment Service Provider (PSP) in Dubai is a necessity in this modern age that offers online shopping services through electronic payments by using methods like direct debit, credit card, online bank transfer, etc. while acting as a mediator between banks and customers.</p>
+  <p>E-Commerce is booming around the world, and people are opting for online shopping and paying online as well. Dubai is an international city, and PSPs are even more critical for people residing here as this online method provides support for multiple payment methods and multiple currencies, which is extremely important in Dubai.</p>
+  <p>Payment Service Providers (PSP) offer online shopping services through electronic payments by using credit card, direct debit, online bank transfer etc. while acting as a third party between banks and customers. The necessity of online banking is increasing day by day with the advancement in technology.</p>
+  <p>Firms interested in carrying out PSP activities from the DIFC are required to submit applications to the Dubai Financial Services Authority, or DFSA.</p>
+  
+  <h3>Types of Payment Service Providers (PSPs) in Dubai</h3>
+  <p>As per the Regulatory Framework for Stored Values and Electronic Payment System, there are four (4) types of Payment Service Provider services (PSPs) recognized in UAE:</p>
+  <ol>
+    <li>Retail PSP: Authorized commercial banks and other licensed PSPs offering retail, Government, and peer-to-peer digital payment services as well as money remittances.</li>
+    <li>Micropayments PSP: PSPs offering micropayments solution facilitating digital payments targeting the unbanked and under-banked segments in the UAE.</li>
+    <li>Government PSP: Federal and local Government statutory bodies offering Government digital payment services.</li>
+    <li>Non-issuing PSP: Non-deposit taking and non-issuing institutions that offer retail, Government, and peer-to-peer digital payment services.</li>
+  </ol>
+  
+  <h3>Activities not subjected to regulation</h3>
+  <p>The Entities providing the following payment services will not be subject to regulation:</p>
+  <ol>
+    <li>Payment transactions in cash with no intermediary involvement.</li>
+    <li>Payment transactions using a credit or debit card.</li>
+    <li>Payment transactions using paper cheques.</li>
+    <li>Payment instruments accepted as a means of payment only to purchase goods or services provided from an issuer — closed loop payment instruments such as loyalty cards or rewards programs that a department store issues to a user to spend only in that department store.</li>
+    <li>Payment transactions within a payment/settlement system between settlement institutions, clearing houses, central banks and PSPs.</li>
+    <li>Payment transactions related to transfer of securities/assets (including dividends, income and investment services).</li>
+    <li>Payment transactions carried out between PSPs (including their agents/branches) for their own accounts.</li>
+    <li>“Technical Service Providers,” defined as entities providing support services to PSPs but which do not handle user funds, e.g., processing and storage of transactional data; privacy protection services; data and entity authentication; IT network provision; and provision and maintenance of terminals and devices used for payment services.</li>
+  </ol>
+  
+  <h3>Who gives the PSP permit?</h3>
+  <p>Businesses looking forward to establishing a PSP organization need to apply for the PSP license under DIFC. DFSA will be responsible for providing PSP to organizations looking forward to conducting these activities. Dubai Financial Services Authority or DFSA will check the application you submit before providing you approval for PSP Permit.</p>
+  
+  <h3>For supervision and authorization</h3>
+  <p>DFSA will categorize the money servicing activities. They will be categorized depending on the base capital and money services that are being carried out. It identifies two different types of money services categories:</p>
+  <ol>
+    <li>Providing Money Services:
+      <ol>
+        <li>Money transmission</li>
+        <li>Issuing payment instruments</li>
+        <li>Issuing stored values</li>
+      </ol>
+    </li>
+    <li>Arranging and Advising on Money Services:
+      <ol>
+        <li>Money transmission without payment account creation.</li>
+      </ol>
+    </li>
+  </ol>
+  
+  <h3>Legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory Requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>A firm must be a body corporate or partnership. It can be formed in the DIFC, or a firm can establish a branch of a legal entity based in another jurisdiction.</li>
+            <li>The primary requirement for an applicant is that it has to show that he/she falls into one of the categories mentioned above.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>Category 4 – Permitting the activities of Providing Money Transmission. The base capital requirement for licenses is USD 140,000 and it may be calculated based on the annual expenditure (6/52 of the annual expenditure) or the size of the transaction.</li>
+            <li>Category 3D – Allowing the activities of Providing or Operating a Payment Account, executing payment transactions on a payment account, and issuing payment instruments. There is a base capital requirement of USD 200,000 for Category 3D licenses, and it may be calculated based on the annual expenditure (9/52 of the annual expenditure) or the size of the transactions.</li>
+            <li>Category 3C – Businesses that offer additional wallet services to clients are required to be licensed under this category for the activities of Issuing Stored Value. The base capital requirement for Category 3C licenses is USD 500,000, and it may be calculated based on the annual expenditure (13/52 of the annual expenditure).</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Location of office</td>
+        <td>The applicant should be located in Dubai or any of the free trade zones.</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Personnel</td>
+        <td>Presence of qualified personnel who understand the technical aspects of this format of transactions and usefulness.</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Internal policies</td>
+        <td>Applicants also have to prove that they have adequate internal policies.</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Directors</td>
+        <td>Minimum of 2 directors required.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+
+const Payment_services_provider_licenses_9 =(
+  <div>
+    <h2>Ghana Payment Service Provider License</h2>
+  <p>A PSP is a company licensed or authorized by the Bank of Ghana (BoG) to provide services to facilitate the transfer of funds from a payer to a payee using payment instruments or electronic money. Payment Service Provider (abbreviated as PSP) licenses are regulated and issued by the Bank of Ghana (BOG) under the Payment Systems and Services Act 2019 (Act 987).</p>
+  <p>BOG is responsible for supervising and providing regulations for PSPs. BOG focuses on ensuring that only FinTechs which have met the necessary regulatory and legal requirements are allowed to continue to provide these services to the financial sector on account of the potential risks they may pose to the sector when left unregulated.</p>
+
+  <h3>License categories and the permitted activities</h3>
+  <p>There are currently six (6) categories of PSP licences issued by the BoG.</p>
+
+  <table>
+  <thead>
+    <tr>
+      <th>License</th>
+      <th>Permitted activities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DEMI License</td>
+      <td>
+        <ol>
+          <li>Recruitment and management of agents;</li>
+          <li>Creation and management of wallets;</li>
+          <li>Peer-to-peer (P2P) on-net/off-net;</li>
+          <li>Cash-in and cash-out;</li>
+          <li>Wallet-based domestic money transfers including transfers to and from bank accounts;</li>
+          <li>Investments, savings, credit, insurance and pension products (only in partnership with banks and duly regulated institutions); Mobile money merchant acquiring; and</li>
+          <li>Termination of inbound international money transfer.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>PSP Scheme license</td>
+      <td>
+        <ol>
+          <li>Domestic card brand associations (e.g. Gh-Link);</li>
+          <li>Switching and routing of payment transactions and instructions.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>PSP Enhanced license</td>
+      <td>
+        <ol>
+          <li>All permissible activities for PSP Medium licence;</li>
+          <li>Marketplace for financial services offered by duly regulated financial service providers; Merchant acquiring and merchant aggregation;</li>
+          <li>Payment processing;</li>
+          <li>Printing and personalization of Europay, Mastercard and Visa (EMV) cards; Inward international remittances services;</li>
+          <li>Provide 3rd party payment gateway services; and</li>
+          <li>Limited use closed-loop virtual cards.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>PSP Medium license</td>
+      <td>
+        <ol>
+          <li>Connects to an Enhanced PSP licence to offer the following services:</li>
+          <li>All permissible activities for PSP Standard licence;</li>
+          <li>Payment aggregation which is connected to enhanced PSP;</li>
+          <li>Biller/merchant aggregation;</li>
+          <li>Point-of-sale (POS) deployment;</li>
+          <li>Printing of non-cash payment instruments e.g. cheques; and mobile payment apps (with liability shift on Enhanced PSP).</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>PSP Standard license</td>
+      <td>
+        <ol>
+          <li>Connects to an Enhanced PSP to offer the following services:</li>
+          <li>Mobile payment apps (liability shift on PSP Enhanced).</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>Payment and Financial Technology Service Provider (PFTSP)</td>
+      <td>
+        <ol>
+          <li>Digital product development, delivery and support services;</li>
+          <li>Credit scoring predictive analysis;</li>
+          <li>AML/CFT centralised platform;</li>
+          <li>Fraud management services; and</li>
+          <li>Know-your-customer (KYC) and customer due diligence (CDD) authentication services.</li>
+        </ol>
+        <p>Permitted to connect to DEMIs, PSPs, Banks and Financial institutions.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+
+);
+const Payment_services_provider_licenses_10 =(
+  <div>
+    <h2>Hong Kong Payment System License</h2>
+<p>Hong Kong attracts a large number of fintech projects, payment systems are no exception. Since 2015, special regulation has been in effect in Hong Kong, which stimulated the receipt of payment system licenses in Hong Kong. Approval from and reporting to the Hong Kong Monetary Authority (HKMA) is required to obtain such a license.</p>
+<h2>Types of payment system license</h2>
+<h3>Two types of payment systems:</h3>
+<ol>
+  <li>Money Service Operator (MSO);</li>
+  <li>Stored Value Facility (SVF).</li>
+</ol>
+<p>MSO can carry out money transfers and currency exchanges, and their possible actions are significantly limited. SVF can carry out actions including with electronic money. There are similar types of licenses in European regulation:</p>
+<ul>
+  <li>The functions of the Cash Operator are similar to those of the Payment Institution;</li>
+  <li>The SVF license complies with the Electronic Money Issuer (EMI) license.</li>
+</ul>
+<p>Therefore, in order to provide more services to your customers, it is better to obtain an SVF license, but the process of obtaining a license will be both more complicated and expensive.</p>
+<p>With an SVF license, the system can carry out the following activities:</p>
+<ol>
+  <li>Keeping money</li>
+  <li>Means of payment for goods and services</li>
+  <li>Means of payment to another person</li>
+</ol>
+<h3>Permitted activities</h3>
+<p>Here is a list of allowed activities with an EMI license, they include:</p>
+<ol>
+  <li>Services enabling cash to be deposited/withdrawn into a payment account for operations, which are required for operating a payment account.</li>
+  <li>Completion of payment transactions, including transfers of funds from a payment account with the user’s payment service provider or with another payment service provider:</li>
+  <li>Completion of direct debits, including one-off direct debits;</li>
+  <li>Completion of payment transactions through a payment card or a similar device;</li>
+  <li>Completion of credit transfers, including standing orders.</li>
+  <li>Completion of payment transactions where the funds are covered by a credit line for a payment service user:</li>
+  <li>Issuing of payment instruments and/or acquiring of payment transactions.</li>
+  <li>Money remittance.</li>
+  <li>Payment initiation and account information services.</li>
+  <li>Issuing e-money, provision of operational services and closely related ancillary services or provision of payment services.</li>
+  <li>Operation of payment systems.</li>
+  <li>Business activities other than issuance of electronic money, with regards to the applicable Community and national law, etc.</li>
+</ol>
+<h2>Key Legal requirements</h2>
+<table >
+  <thead>
+    <tr>
+      <th>No Obligatory requirements</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Entity</td>
+      <td>Companies incorporated in Hong Kong or an overseas company registered with the Companies Registry of Hong Kong</td>
+    </tr>
+    <tr>
+      <td>Directors</td>
+      <td>At least one director (can only be natural persons)</td>
+    </tr>
+    <tr>
+      <td>Shareholder</td>
+      <td>Minimum 1 shareholder (can be natural or legal persons, no nationality or residency restrictions)</td>
+    </tr>
+    <tr>
+      <td>Capital requirement</td>
+      <td>An initial capital of no less than USD $225,000 for the EMI license type is required.</td>
+    </tr>
+    <tr>
+      <td>Physical presence</td>
+      <td>The licensee must have purchased (or show a long-term lease) of a building for the company office.</td>
+    </tr>
+    <tr>
+      <td>Fit and proper test</td>
+      <td>Founders and directors must pass the fit and proper test. This test confirms that these individuals have a good reputation, relevant experience and the necessary qualifications.</td>
+    </tr>
+    <tr>
+      <td>System reserves</td>
+      <td>The applicant must ensure that a cash flow management procedure is in place so that the company always has a minimum reserve.</td>
+    </tr>
+    <tr>
+      <td>Licensed Representative (LR)</td>
+      <td>All personnel carrying on regulated activities need to be licensed as a LR; and Subject to fit and proper requirements</td>
+    </tr>
+    <tr>
+      <td>Audit requirements</td>
+      <td>Audit should be done from Hong Kong by an appointed auditor who must be a member of the Hong Kong Society of Accountants and hold a practicing certificate.</td>
+    </tr>
+    <tr>
+      <td>Compliance with AML/CTF regulation</td>
+      <td>The financial activities carried out by the payment system are fraught with high risks of fraud, therefore, the filing company is imposed by law with obligations to prevent money laundering and obligations to counter the financing of terrorism.</td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+
+);
+const Payment_services_provider_licenses_11 =(
+  <div>
+  <h2>Kenya Payment Service Provider License</h2>
+  <p>A payments System refers to a system or arrangement that enables payments to be effected between a payer and a beneficiary, or facilitates the circulation of money, and includes any instruments and procedures that relate to the system.</p>
+  <p>National Payments System are the conduits through which buyers and sellers of financial products and services make transactions and are an important component of a country’s financial system. In Kenya participants comprise of the Central Bank of Kenya, the Government, Commercial Banks, Financial Institutions and Payment System Providers. National Payments Systems in Kenya are classified into two categories; Large Value (Wholesale) and Low Value (Retail) Payment Systems. The classification is based on the throughput in terms of values and volumes processed.</p>
+  
+  <h3>About the license</h3>
+  <p>A payment service provider is a person, company, or organization acting as a provider concerning the processing of payments through any electronic system, or controls a public switched network for the provision of payment services; processes or stores data on behalf of such payment service providers or users of such payment services.</p>
+  <p>The National Payment System Act 2011 and the National Payment system regulation 2014 outline the criteria and prerequisites for registration as a Payment system provider in Kenya. The Payment Service Provider License has the following categories:</p>
+  <ol>
+    <li>(a) Electronic Retail Payment Service Provider – means a payment service provider providing electronic retail transfer services</li>
+    <li>(b) Designated payment instrument issuer – means a service provider who issues a designated payment instrument which is of widespread use as a means of making payment, necessary to protect the interests of the public and is in the interest of the integrity of the payment instrument.</li>
+    <li>(c) E-money Issuer – means a payment service provider authorized to issue E- money under these Regulations</li>
+    <li>(d) Small E-Money Issuer – means a payment service provider registered to issue e-money but on a limited scale such as an individual transaction limit not exceeding two hundred dollars total liabilities with respect to issuing e-money which exceeds one million dollars or as may be amended by the bank from time to time.</li>
+  </ol>
+  <p>Prospective payment service providers should make an application for the registration of a premise in writing to the Central Bank of Kenya.</p>
+  
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>The entity making the application is a Kenya Limited Liability Company</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>A minimum of 2 directors are required for Limited Liability Company holding a special license such as Payment Service Provider License. The CBK also requires that at least one of the directors must be a Kenyan citizen.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>At least 3 shareholders are required. Corporate shareholding is allowed.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>Electronic retail payment service provider Core capital (ksh): 5,000,000</li>
+            <li>Designated payment instrument issuer Core capital (ksh): 50,000,000</li>
+            <li>E-money Issuer Core capital (ksh): 20,000,000</li>
+            <li>Small E-Money Issuer Core capital (ksh): 1,000,000</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Customer register</td>
+        <td>A payment service provider shall, at all times, maintain a register containing identification details of all customers and the funds outstanding in their e-money accounts of which the details shall include the identity card number or the passport number.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Auditor</td>
+        <td>A payment service provider shall, at its own expense, appoint an external auditor who is a member of good standing of the Institute of Certified Public Accountants of Kenya to carry out an audit of the transactions in its business.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Customer care system</td>
+        <td>A payment service provider shall within a period of six months after commencing the provision of payment services, establish a customer care system within which its customers can make inquiries and complaints concerning its services.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Transaction limits</td>
+        <td>E-money issued shall be subject to an individual transaction limit that shall not exceed seventy thousand shillings and an aggregate monthly load limit of one million shillings, provided that the bank may approve higher limits for specific categories of e-money issuers.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Compliance officer and MLRO</td>
+        <td>
+          <ol>
+            <li>The applicant must have before approval of license, appointed a fit and proper MLRO and alternate MLRO. They are required to be able to access company records and the regulator and other service providers in Kenya.</li>
+            <li>The MLRO and alternate MLRO is therefore required to be residents in Kenya as a common practice.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Kenyan office</td>
+        <td>The applicant must satisfy the authorities that they have procured and equipped a place of business in Kenya from where the operations of the company shall be run.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Insurance</td>
+        <td>The Payment Service Provider is also requested to have a Professional Indemnity cover that varies with the volume of activities and risk of its business.</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>Excise duty on fees charged at 20%</li>
+            <li>Excise duty of 0.05% on transfers exceeding KES 500,000 (USD 5,000)</li>
+            <li>Corporate taxes charged at 30% of taxable income for domestic companies and 37.5% for foreign companies.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Reporting requirements</td>
+        <td>A payment service provider shall, within three months of the 31st December of every year, submit to the Bank:
+          <ol>
+            <li>Audited financial statements covering its activities in Kenya together with a copy of the auditor’s report</li>
+            <li>Separate audited financial statements for the payment service provider and the Trust accounts</li>
+            <li>A system security audit report by a reputable independent audit firm on its payment services</li>
+            <li>Any other information required by the Bank with respect to its payment services.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_12 =(
+  <div>
+  <h2>Labuan Money Broking License</h2>
+  <p>The money broking business is defined as the business of arranging transactions between buyers and sellers in the money or foreign exchange markets with brokers acting as an intermediary earning brokerage fees / commission. Labuan Forex Money Broking license, however, does not include the buying or selling of Malaysian Ringgit and foreign currencies by the broker as principal in such markets.</p>
+  <p>Guidelines for money broking business that is carried on in the Labuan IBFC was issued by the Labuan Financial Services Authority (“FSA”) with effect from 1 January 2018.</p>
+  
+  <h3>Regulator</h3>
+  <p>Labuan FSA is the statutory body responsible for the development and administration of the Labuan International Business and Financial Centre (Labuan IBFC).</p>
+  
+  <h3>Eligible Applicants</h3>
+  <ol>
+    <li>Individual or institution with money broking expertise with a good track record and sufficient years of experience in the industry.</li>
+    <li>Regulated money broker or provider of such services from other jurisdictions with approval from home authority with the letter of consent.</li>
+    <li>Any licensed institutions including approved money broker under the Financial Services Act 2013 with approval from the Central Bank of Malaysia.</li>
+  </ol>
+  <p>Labuan money broking business is intended to serve institutional investors and high-net-worth individuals. The licensee is expected to:</p>
+  <ul>
+    <li>Bring together the counterparties on mutually acceptable terms for the same financial products in money or foreign exchange market to facilitate the conclusion of a transaction;</li>
+    <li>Receive payment for its service in the form of brokerage or commission fees;</li>
+  </ul>
+  
+  <h3>Legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>SR. No.</th>
+        <th>Element</th>
+        <th>Requirements</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Minimum paid-up capital of RM500,000 or its equivalent in any foreign currency.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>At least two directors are required. 100% foreign ownership is permitted.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>At least one shareholder.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Physical presence</td>
+        <td>Required to maintain an operational office in Labuan for business purposes only and appropriately furnished with office equipment.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Auditor</td>
+        <td>Labuan money broker is required to appoint a Labuan Approved Auditor for the accounts.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Substance requirements</td>
+        <td>Minimum number of two (2) full-time employees in Labuan and minimum annual operating expenditure of RM100,000 in Labuan.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Leverage</td>
+        <td>The money broking company shall impose a maximum leverage limit of 100:1 on clients’ trading transactions.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Maintain client monies</td>
+        <td>Maintain a separate account for clients’ monies and provisions for marked clearly each clients monies in record and client’s withdrawal has to be done within 3 working days.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>AML/CFT Compliance</td>
+        <td>Mandatory to observe and comply with the AML/CFT Act and Guidelines issued by Central Bank of Malaysia and Labuan Authority via the provision of a compliance officer.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>Labuan Money Brokers can enjoy preferred tax rate of 3% if comply with economic substance requirement (ESR) to employ 2 full-time employees in Labuan and spent annual operating expenses in Labuan of MYR 100,000 (or estimate USD 25,000).</li>
+            <li>Zero withholding tax on payments of dividend and interest to non-residents.</li>
+            <li>No import duty / sales tax.</li>
+            <li>No foreign exchange controls.</li>
+            <li>No capital gain tax / inheritance tax.</li>
+            <li>Double Tax Agreements between Malaysia and over 70 countries.</li>
+            <li>100% exemption for director’s fees received by non-citizen directors of Labuan companies.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Reporting requirements</td>
+        <td>Audited financial statements within six months from financial year end. Statistics, Compliance reporting and other information required by Labuan FSA.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_13 =(
+  <div>
+  <h2>Labuan Payment System Operator License</h2>
+  <p>A payment service provider in Labuan enables businesses to accept payments from customers through multiple channels, such as credit cards, debit cards, e-wallets, and bank transfers. Its main purpose is to facilitate transactions without the use of cash. Once a company is formed in Labuan, it can leverage the Labuan Payment System to enable cashless transactions and offer convenient payment options to its customers.</p>
+  <p>To operate as a payment service provider in Labuan, you need to obtain a PSO license from the Labuan Financial Services Authority (Labuan FSA). The licensing applications for PSO are processed by the Labuan FSA within a period of approximately three months. After the licence application is approved, your Labuan entity will be able to legally offer brokerage services including;</p>
+  <ul>
+    <li>transferring funds from one bank account to another</li>
+    <li>providing payment instrument network operation, and</li>
+    <li>providing clearing and settlement services for payment instrument issuers and merchant acquirers</li>
+  </ul>
+  
+  <h3>Types of Labuan Payment System Operator License</h3>
+  <p>Two types of models are available;</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Single Merchant Payment System</th>
+        <th>Merchant Community Payment System</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Enables a singlr merchant to provide more payment options for their products purchase</td>
+        <td>Enables multiple merchants in a community to share the same e-wallet to connect to consumers thus promoting better sales and greater database for future marketing</td>
+        </tr>
+        </tbody>
+        </table>
+        <br/>
+
+        <h3>Innovative Financial Services (IFS) framework</h3>
+    <p>The Innovative Financial Services (IFS) framework in Labuan IBFC allows applicants to creatively apply for a combination of licenses for preferential tax rates and to achieve specific objectives:</p>
+    
+    <ol>
+      <li>Credit Token license</li>
+      <li>Labuan payment system license</li>
+      <li>Labuan Money broker license</li>
+      <li>Labuan Fund Manager license</li>
+      <li>Crypto or digital exchange license</li>
+    </ol>
+
+  <h3>Key legal Requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>Individuals or institutions with payment system expertise and 3 years of good track record.</li>
+            <li>Companies with a current Payment System license.</li>
+            <li>Regulated payment systems or providers with consent from home authority.</li>
+            <li>Licensed institutions, including approved payment system companies under Financial Services Act 2013 with approval from the Central Bank of Malaysia.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>At least one director of any nationality.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Secretary</td>
+        <td>A resident corporate secretary is required.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Physical presence</td>
+        <td>Required to maintain an operational office in Labuan. The operational office should be used for business purposes only and must be appropriately furnished with office equipment. Minimum number of two (2) full time employees in Labuan and minimum annual operating expenditure of RM100,000 in Labuan.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Substance requirement</td>
+        <td>Minimum paid up capital of $125,000 is required.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Capital requirements</td>
+        <td>Minimum paid up capital of $125,000 is required.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>AML/CFT compliance</td>
+        <td>Mandatory to observe and comply with the AML/CFT Act and Guidelines issued by Central Bank of Malaysia and Labuan Authority via the provision of a compliance officer.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Shareholder</td>
+        <td>
+          <ol>
+            <li>At least one shareholder.</li>
+            <li>100% foreign ownership is permitted.</li>
+            <li>100% corporate ownership is allowed.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>Payment service providers in Labuan are subject to corporate tax at a rate of 3% on their audited net profit earned from income sourced outside of Malaysia.</li>
+            <li>Companies are exempt from indirect taxes like VAT, sales tax, customs duties, and Goods and Services Tax (GST), as well as the withholding tax on interest.</li>
+            <li>Tax returns must be filed by the deadline of 31st March.</li>
+            <li>There are no exchange controls imposed on Labuan offshore companies. Moreover, there are no restrictions on Labuan companies transacting with Malaysian residents in Malaysian Ringgit, including paying for their administrative or statutory expenses.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Audit</td>
+        <td>A Labuan PSO company must submit financial statements to an independent statutory annual audit.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_14 =(
+  <div>
+  <h2>Mauritius Payment Intermediary Service License</h2>
+  <p>For the eighth consecutive year, the World Bank’s 2016 Ease of Doing Business report ranks Mauritius 1st among African economies and 32nd worldwide out of 189 economies in terms of ease of doing business, making Mauritius the leader in economic freedom for the region of Sub-Saharan Africa.</p>
+  
+  <h3>About the license</h3>
+  <p>The Payment Intermediary Services License is of interest to those who wish to operate as an online Payment Service Provider (PSP). The PSP business model is becoming more of a norm in the current business environment to address the ever-increasing need of both online shoppers and online sellers to do business via the internet. The Payment Intermediary Services License can only be applied for under a Category 1 Global Business Company and needs the approval of the Financial Services Commission for a GBC 1 to obtain such a special license.</p>
+  
+  <p>With a Payment Intermediary Services License, the GBC 1 can offer merchant online services for accepting electronic payments by a variety of payment methods including credit card, bank-based payments such as direct debit, bank transfer, and real-time transfer based on online banking.</p>
+  
+  <h3>Permitted activities</h3>
+  <ol>
+    <li>Services enabling cash to be placed on a payment account, including all operations required for operating a payment account.</li>
+    <li>Services enabling cash withdrawal from a payment account, including all operations required for operating a payment account.</li>
+    <li>Execution of payment transactions, including transfers of funds on a payment account with the payment service provider of the user or with another payment service provider, including:
+      <ol>
+        <li>Direct debits and one-off direct debits.</li>
+        <li>Execution of payment transactions through a payment card or a similar device.</li>
+        <li>Credit transfers, including standing orders.</li>
+      </ol>
+    </li>
+    <li>Execution of payment transactions where the funds are covered by a credit line for a payment service user, including:
+      <ol>
+        <li>Direct debits and one-off direct debits.</li>
+        <li>Payment transactions through a payment card or a similar device.</li>
+        <li>Credit transfers and standing orders.</li>
+      </ol>
+    </li>
+    <li>Issue of payment instruments and/or acquiring of payment transactions.</li>
+    <li>Money remittance.</li>
+    <li>Payment initiation services.</li>
+    <li>Account information services.</li>
+    <li>The operation of payment systems.</li>
+    <li>Without prejudice to the provisions of article 5(6) of the Financial Act, business activities other than the provision of payment services; when payment institutions engage in the provision of payment services, they may only hold payment accounts used exclusively for transactions; any funds received by payment institutions from payment service users with a view to the provision of payment services shall not constitute a deposit or other repayable funds within the meaning of article 2 of the Banking Act, or electronic money within the meaning of article 2 of the Banking Act;</li>
+    <li>Any other services functional to the transfer of money, including the issuance of electronic money and electronic money instruments, but excluding the provision of solely online or telecommunication services or network access.</li>
+  </ol>
+  
+  <h3>Legal requirements</h3>
+  <table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Obligatory requirement</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Entity</td>
+      <td>
+        <p>Mauritius GBC 1 holding a Global Business Category One License (GBL1).</p>
+      </td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>Directors</td>
+      <td>
+        <ol>
+          <li>Two local directors required to occupy non-executive positions</li>
+          <li>A minimum of one fit and proper director required to occupy the Executive position</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Shareholders</td>
+      <td>
+        <ol>
+          <li>At least one shareholder.</li>
+          <li>Corporate shareholding is allowed.</li>
+          <li>100% Foreign ownership is permitted.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>Compliance officer</td>
+      <td>
+        <p>A fit and proper MLRO and alternate MLRO are required. As a common practice they should be residents of Mauritius.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>Local office</td>
+      <td>
+        <p>A full-service office in Mauritius is required and will need to be approved by FSC.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>6.</td>
+      <td>Auditor</td>
+      <td>
+        <p>An approved auditor is required. Professional Indemnity cover that varies with the volume of activities and risk of its business is required.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>7.</td>
+      <td>Insurance</td>
+      <td>
+        <p>Professional Indemnity cover that varies with the volume of activities and risk of its business is required.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>8.</td>
+      <td>Minimum capital requirement</td>
+      <td>
+        <p>The minimum stated unimpaired capital of MUR 500,000 shall be fully paid and no amount shall be due or payable.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>9.</td>
+      <td>Taxation</td>
+      <td>
+        <ol>
+          <li>No tax on income and dividends</li>
+          <li>No capital gains and inheritance tax</li>
+          <li>No exchange control restrictions</li>
+          <li>Free repatriation of profits, dividends and capital</li>
+          <li>No stamp duty and no capital duty levied on the issue of share capital</li>
+          <li>The company will be taxed on its chargeable income (including dividends, interests and other income but not capital gains less expenses) at a corporate rate of 15% which is reduced to a net effective tax rate of 3% on net profit.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>10.</td>
+      <td>Disclosure requirements</td>
+      <td>
+        <p>The proposed company will be required to file its audited financial statements and tax return within 3 months from its balance sheet date.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>11.</td>
+      <td>Other key personnel required</td>
+      <td>
+        <ol>
+          <li>Risk Manager,</li>
+          <li>System Administrators,</li>
+          <li>Integration Engineer,</li>
+          <li>Chief Technology Officer,</li>
+          <li>Quality assurance Auditor,</li>
+          <li>Chief Information security Officer</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>12.</td>
+      <td>Platform availability</td>
+      <td>
+        <p>Details on the platform including but not limited to its development date, name of developers and so on, will be needed for approval by FSC.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+</div>
+
+);
+const Payment_services_provider_licenses_15 =(
+  <div>
+  <h2>Panama EMI License</h2>
+  <p>E-Money institutions (EMI) allow you to hold electronic money. To do so you need to have an E-money license. <br></br><br></br>E-money institutions can be organized in Panama as Financial Services Companies. These are special types of Panama Corporation (IBC), that were granted an “Aviso'' by the Ministry of Commerce. This is a special license that allows these companies to do certain financial transactions.<br></br><br></br> In Panama, Money Remittance Operators (MRO) activities are regulated by the Directorate of Financial Companies of the Ministry of Commerce and Industries as determined by Law 48 of June 23rd of 2003 and Resolution 328 of August 9th of 2004.</p>
+  
+  <p>Some of the activities that a Financial Services Company can perform are:</p>
+  <ol>
+    <li>Payment processing for any third-party.</li>
+    <li>Act as an intermediary for payment processing.</li>
+  </ol>
+  
+  <p>However, it is important to note that a Financial Service Company is not a financial institution, and it should be strictly used for payment processing.</p>
+
+  <p>In order to get a Financial Services Company, you must obtain permission to offer financial services from the Ministry of Economy and Finance. The application must be submitted by a lawyer which has the right to practice law in the country.</p>
+  
+  <table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Obligatory requirement</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Entity</td>
+      <td>
+        <p>Financial services company</p>
+        <p>Minimum authorized capital for financial companies is 500,000 balboas.</p>
+        <p>A deposit of 50,000 balboas security deposit is required as a safeguard against potential business induced losses. Panamanian EMIs must incorporate rigorous AML and KYC monitoring frameworks for mandatory suspicious transaction reporting.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>Directors</td>
+      <td>
+        <ul>
+          <li>The licensee will need at least 3 (three) natural persons Fit and Proper Directors who must have proven business and professional integrity.</li>
+          <li>No corporate directors allowed.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Shareholders</td>
+      <td>
+        <p>At least two (2) shareholders</p>
+      </td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>Capital requirements</td>
+      <td>
+        <p>Minimum authorized capital for financial companies is 500,000 balboas.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>Security deposit</td>
+      <td>
+        <p>A deposit of 50,000 balboas security deposit is required as a safeguard against potential business induced losses.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>6.</td>
+      <td>AML/KYC</td>
+      <td>
+        <p>Panamanian EMIs must incorporate rigorous AML and KYC monitoring frameworks for mandatory suspicious transaction reporting.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>7.</td>
+      <td>Compliance officer</td>
+      <td>
+        <p>The licensee must appoint a person that shall act as Compliance Officer. The Compliance Officer may be any member of the organization and shall be a holder of the Main Executive License issued by the National Security Commission.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+);
+const Payment_services_provider_licenses_16 =(
+  <div>
+  <h2>Rwanda Payment Service Provider License</h2>
+  <p>A Payment Service Provider License (PSP) is a body corporate that is authorized by the National Bank of Rwanda to provide payment services to customers and businesses under LAW No 061/2021 OF 14/10/2021 Governing the Payment System. The National Bank of Rwanda has the power to regulate, oversee and supervise the payment systems and payment services being operated in Rwanda.</p>
+  
+  <h3>Types of payment services</h3>
+  <ol>
+    <li>Services enabling cash to be placed on or withdrawn from a payment account as well as all the operations required for operating a payment account.</li>
+    <li>Execution of payment transactions, including transfers of funds on a payment account with the user’s payment services provider or with another payment services provider, whether the funds are covered by a credit line for a payment service user:
+      <ol>
+        <li>Execution of direct debits, including one-off direct debits;</li>
+        <li>Execution of payment transactions through a payment card or a similar device;</li>
+        <li>Execution of credit transfers, including standing order.</li>
+      </ol>
+    </li>
+    <li>Issuing of payment instruments.</li>
+    <li>Acquiring of payment transactions either physically, online or through a payment aggregator.</li>
+    <li>Money remittance.</li>
+    <li>Payment initiation services: All services facilitating the authorization and/or validation of an electronic fund transfer, a card payment or otherwise facilitating the execution of electronic transactions. They include but are not limited to management of gateways or payment terminals.</li>
+    <li>Such other payment services as may be determined by the National Bank of Rwanda.</li>
+  </ol>
+
+  <h3>Legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Company incorporated in Rwanda</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>A minimum of 2 directors are required.</li>
+            <li>At least one of the two directors must be a resident.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <p>At least 1 shareholder. Corporate shareholding is allowed.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Compliance officer</td>
+        <td>A compliance officer shall be appointed at the senior management level and must have explicit and ultimate responsibility for anti-money laundering and the combating of the financing of terrorism compliance program.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Other Key Personnel</td>
+        <td>
+          <ol>
+            <li>Risk Manager,</li>
+            <li>System Administrators,</li>
+            <li>Integration Engineer,</li>
+            <li>Chief Technology Officer,</li>
+            <li>Quality assurance Auditor,</li>
+            <li>Chief Information Security Officer.</li>
+          </ol>
+          <p>Criteria:</p>
+          <ol>
+            <li>Honesty, integrity and Reputation</li>
+            <li>Competence and Capability</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Local office</td>
+        <td>A payment service provider must have a permanent place of business or a registered office in Rwanda.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Auditor</td>
+        <td>An operator or a payment service provider must designate at least one external auditor accredited by the National Bank of Rwanda. Only a body corporate is allowed to act as external auditors.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Insurance</td>
+        <td>Evidence of professional indemnity insurance, or some other comparable guarantee against liability to ensure that the applicant can cover its liability.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Register of customers</td>
+        <td>A payment service provider shall, always, maintain a register containing identification details of all customers and the funds outstanding in their e-money accounts of which the details shall include the identity card number or the passport number.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_17 = (
+  <div>
+    <h2>Seychelles Payment Service Provider License</h2>
+<p>National Payment System (Licensing and Authorisation) regulations of 2014 provide the legal framework for the provision of Payment Services in Seychelles. Payment Service Provider License allows a company to accept online payments and act as a gateway between a merchant and a bank, and to process transactions from a merchant to a bank or payment network. The regulatory authority responsible for granting authorization for Payment Service Providers is the Central Bank of Seychelles (CBS).</p>
+<p><strong>Permitted activities as per the National Payment System (Licensing and Authorisation) regulations of 2014 include:</strong></p>
+<ol>
+  <li>Services enabling cash deposits and withdrawals</li>
+  <li>Execution of payment transactions</li>
+  <li>Issuing and/or acquisition of payment instruments</li>
+  <li>Money remittance</li>
+  <li>Any other services functional to the transfer of money. This shall also include the issuance of electronic money and electronic money instruments.</li>
+</ol>
+<h3>Advantages of Seychelles Payment Service Provider License:</h3>
+<ol>
+  <li>Favourable compliance restrictions</li>
+  <li>Ease and speed of establishment</li>
+  <li>Flexible structuring of the entity</li>
+  <li>Friendly regulatory environment</li>
+</ol>
+
+<h3>Legal requirements</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Legal requirements</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Entity</td>
+      <td>Seychelles Domestic Company</td>
+    </tr>
+    <tr>
+      <td>Directors</td>
+      <td>
+        <ul>
+          <li>A minimum of 2 fit and proper directors</li>
+          <li>Foreign directors are allowed</li>
+          <li>No requirement for local directors</li>
+          <li>Corporate directorship is not allowed</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Shareholders</td>
+      <td>
+        <ul>
+          <li>A minimum of 2 shareholders</li>
+          <li>Foreign shareholders are allowed</li>
+          <li>No requirement for local shareholders</li>
+          <li>Corporate shareholding is allowed</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Compliance officer</td>
+      <td>A fit and proper compliance and Money Laundering Reporting Officer is required. Such an officer can be from any jurisdiction but must be based in the Seychelles operations office at all times.</td>
+    </tr>
+    <tr>
+      <td>Local office</td>
+      <td>The applicant must satisfy the authorities that they have procured and equipped a place of business in Seychelles from where the operations of the company shall be run.</td>
+    </tr>
+    <tr>
+      <td>Auditor</td>
+      <td>An approved auditor is required.</td>
+    </tr>
+    <tr>
+      <td>Minimum capital requirement</td>
+      <td>SCR 1,000,000</td>
+    </tr>
+    <tr>
+      <td>Reporting</td>
+      <td>Have its accounts audited by the approved auditor annually and file the audited annual financial statements to the auditor as per the Act’s requirements.</td>
+    </tr>
+    <tr>
+      <td>Taxation</td>
+      <td>The tax payable by the licensee is a Corporate Tax at the rate of 25% of the Net Profit.</td>
+    </tr>
+    <tr>
+      <td>Platform availability</td>
+      <td>Details on the platform including but not limited to its development date, name of developers and so on, will be needed for approval by Central Bank of Seychelles (CBS).</td>
+    </tr>
+    <tr>
+      <td>Other key personnel required</td>
+      <td>
+        <ul>
+          <li>Risk Manager</li>
+          <li>System Administrators</li>
+          <li>Integration Engineer</li>
+          <li>Chief Technology Officer</li>
+          <li>Quality assurance Auditor</li>
+          <li>Chief Information security Officer</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+
+);
+const Payment_services_provider_licenses_18 = (
+  <div>
+  <h2>Singapore Payment Service Providers License</h2>
+  <p>A payment service provider licence is a licence issued by the Monetary Authority of Singapore (MAS). Payment service providers are licensed to provide specified payment services under the Payment Services Act 2019 ("PS Act").</p>
+  <h3>Permitted activities</h3>
+  <p>such a licence allows licensees to provide payment services that are regulated by the Payment Services Act (PSA). These payment services include:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Activity type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Domestic money transfer service</td>
+        <td>Providing local funds transfer service in Singapore. This includes payment gateway services and payment kiosk services.</td>
+      </tr>
+      <tr>
+        <td>Cross-border money transfer service</td>
+        <td>Providing inbound or outbound remittance service in Singapore.</td>
+      </tr>
+      <tr>
+        <td>E-money issuance service</td>
+        <td>Issuing e-money to allow the user to pay merchants or transfer to another individual.</td>
+      </tr>
+      <tr>
+        <td>Digital Payment token service</td>
+        <td>Buying or selling digital payment tokens (“DPTs”) (commonly known as cryptocurrencies) or providing a platform to allow persons to exchange DPTs.</td>
+      </tr>
+      <tr>
+        <td>Money changing service</td>
+        <td>Buying or selling foreign currency notes.</td>
+      </tr>
+      <tr>
+        <td>Account issuance service</td>
+        <td>The service of issuing a payment account or any service relating to any operation required for operating a payment account, such as an e-wallet (including certain multi-purpose stored value cards) or a non-bank issued credit card.</td>
+      </tr>
+      <tr>
+        <td>Merchant acquisition service</td>
+        <td>Providing merchant acquisition service in Singapore where the service provider processes payment transactions from the merchant and processes payment receipts on behalf of the merchant. Usually, the service includes providing a point-of-sale terminal or online payment gateway.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>Types of licenses</h3>
+  <p>If you wish to provide any of the above payment services, it is important for you to apply for the appropriate payment service provider licence. There are three types of payment service provider licences you can apply for:</p>
+  <ol>
+    <li>Money-changing licence</li>
+    <li>Standard payment institution licence; and</li>
+  <li>Major payment institution licence</li>
+  </ol>
+
+<div>
+  <h3>Money-changing Licence</h3>
+  <p>Business entities that wish to provide only money-changing services (i.e. business of buying and selling foreign currency notes) can do so with a money-changing licence. If you wish to provide other payment services, then either a standard payment institution licence or a major payment institution licence is required.</p>
+  <h3>Standard Payment Institution Licence and Major Payment Institution Licence</h3>
+  <p>A standard payment institution licence and a major payment institution licence allow you to offer one or more of the payment services regulated by the PSA.</p>
+  <p>You can apply for a standard payment institution (SPI) licence if your payment services meet the following thresholds:</p>
+  <ol>
+    <li>S$3 million monthly transactions for any payment service (other than e-money account issuance and money-changing services).</li>
+    <li>S$6 million monthly transactions for two or more payment services (other than e-money account issuance and money-changing services).</li>
+    <li>S$5 million of daily outstanding electronic money (e-money).</li>
+  </ol>
+  <p>On the other hand, a major payment institution licence is applicable only if you wish to provide payment services above the specified thresholds mentioned.</p>
+
+  <h3>Key legal Requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Entity</td>
+        <td>Be a company incorporated in Singapore or a foreign corporation registered in Singapore.</td>
+      </tr>
+      <tr>
+        <td>Shareholders</td>
+        <td>
+          <ul>
+            <li>At least one shareholder is required.</li>
+            <li>100% foreign ownership is allowed.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Capital requirement</td>
+        <td>At least S$100,000 base capital for a standard payment institution licence or at least S$250,000 base capital for a major payment institution licence.</td>
+      </tr>
+      <tr>
+        <td>Physical presence</td>
+        <td>Have a permanent place of business or registered office.</td>
+      </tr>
+      <tr>
+        <td>Board of directors</td>
+        <td>
+          <ul>
+            <li>At least 1 executive director who is a Singapore citizen or Singapore Permanent Resident; or</li>
+            <li>At least 1 non-executive director who is a Singapore citizen or Singapore Permanent Resident and 1 executive director who is a Singapore Employment Pass holder.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Fit and Proper</td>
+        <td>
+          <p>The applicant must satisfy MAS that its sole-proprietor, partners, or directors and CEO, shareholders and employees, as well as the applicant itself, are fit and proper, in accordance with the Guidelines on Fit and Proper Criteria [FSG-G01]. The entity and group should not have any adverse reputation, particularly with regard to financial crime.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Security</td>
+        <td>
+          <p>An MPI licence applicant must provide the required security, as summarised below, prior to commencing business, in the form of a cash deposit with MAS or a bank guarantee in the prescribed format.</p>
+          <table>
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>Security requirement</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>The average, over a calendar year, of the total value of all payment transactions in one month does not exceed S$6 million for any one payment service</td>
+                <td>S$100,000</td>
+              </tr>
+              <tr>
+                <td>All other cases</td>
+                <td>S$200,000</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>Compliance requirements</td>
+        <td>
+          <p>The applicant must establish compliance arrangements appropriate to the nature, scale, and complexity of their business, with ultimate responsibility resting on key individuals.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Technological risk management</td>
+        <td>
+          <p>Where the applicant intends to provide online financial services, it must perform a penetration test of its proposed online financial services, remediate all high-risk findings identified, and conduct independent validation on the effectiveness of the remediation actions. This does not need to be completed prior to application but must be completed prior to the grant of licence.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Audit requirement</td>
+        <td>
+          <ul>
+            <li>Applicants must develop an independent audit program and a plan to meet annual review requirements, with appointed auditors responsible for monitoring accounts, transactions, and compliance.</li>
+            <li>The applicant must have in place plans to meet the annual audit requirements as set out in section 37 of the PS Act. The auditor must be appointed at the applicant’s own expense to carry out an audit of its accounts and transactions, and compliance with the relevant regulations and requirements.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>AML/CFT compliance</td>
+        <td>
+          <p>Compliance with Anti-Money Laundering and Combating the Financing of Terrorism Notices is mandatory, along with reporting suspicious activities and fraud incidents. Licensees must comply with cyber hygiene requirements to protect customer data, as outlined in the Cyber Hygiene Notice.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </div>
+
+);
+const Payment_services_provider_licenses_19 = (
+  <div>
+  <h2>St. Kitts and Nevis Money Service Business License</h2>
+  <p>Money Services Business means the business of providing as a primary service any of the following:</p>
+  <ol>
+    <li>Transmission of money or monetary value in any form;</li>
+    <li>Cheque cashing;</li>
+    <li>Currency exchange;</li>
+    <li>The issuance, sale and redemption of payment instruments;</li>
+    <li>Any other services the Minister may specify by notice published in the gazette; or</li>
+    <li>The business of operating as an agent or franchise holder.</li>
+  </ol>
+  <p>The several classes of licence issued under the Money Services Act, No. 26 of 2008, shall authorize the holders to carry on money services business as specified:</p>
+  <ol>
+    <li><strong>CLASS A licence</strong> permits the holder to carry on the transmission of money or monetary value in any form, the issuance, sale or redemption of money orders or traveller’s cheques, cheque cashing and currency exchange.</li>
+    <li><strong>CLASS B licence</strong> permits the holder to carry on the issuance, sale or redemption of money orders or traveller’s cheques, cheque cashing and currency exchange.</li>
+    <li><strong>CLASS C licence</strong> permits the holder to carry on cheque cashing.</li>
+    <li><strong>CLASS D licence</strong> permits the holder to carry on currency exchange.</li>
+    <li><strong>CLASS E licence</strong> permits the holder to carry on pay day advances.</li>
+  </ol>
+  <p>Where different places of business are kept in the name of the same legal person, a separate licence is required for each such place of business.</p>
+  <p>A licence to carry on money services business is valid from the date of first issue to the 31st December of that year and is renewable each year on payment of the prescribed annual fee on or before the 15th day of January.</p>
+  <p>In order to obtain a licence as a money services business, a person shall apply in writing to the Financial Services Regulatory Commission, pay the prescribed application fee, complete Form A and Form B as outlined in Schedule 2 of the Money Services Business Act of 2008 and submit the required documents. The Financial Services Regulatory Commission will process the application in accordance with its application processing procedures. Upon completion of this process, if it is satisfied that an application is in order and the applicant is a fit and proper person to be licensed to conduct money services business, the Financial Services Regulatory Commission will approve the application and issue a licence to the applicant subject to the applicant paying the prescribed licence fee and making the prescribed statutory deposit in accordance with the Money Services Business Act.</p>
+
+  <table>
+  <thead>
+    <tr>
+      <th>No Obligatory requirement</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Entity</td>
+      <td>
+        <p>Nevis international company</p>
+        <ul>
+          <li>Minimum number of directors is two (2) natural persons only.</li>
+          <li>There is no residency requirement.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Directors</td>
+      <td>
+        <p>Minimum number is two (2)</p>
+        <p>Corporate shareholding is allowed</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Shareholders</td>
+      <td>
+        <p>A licence granted under the Act authorises the licensee to carry on money services business in Saint Christopher and Nevis at the place of business designated in the licence.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Physical presence</td>
+      <td>
+        <p>A licensee shall maintain adequate capital in such form and based on such formula as the Minister may by Order prescribe.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Capital requirements</td>
+      <td>
+        <p>Minimum number is two (2)</p>
+        <p>Corporate shareholding is allowed</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Auditor</td>
+      <td>
+        <p>A licensee shall appoint annually an auditor who must be a chartered accountant, a certified public accountant, a member of the Institute of Chartered Accountants of the Eastern Caribbean (ICAEC) or some other professionally qualified accountant, satisfactory to the Authority.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Financial reporting</td>
+      <td>
+        <ul>
+          <li>The licensee must, within three months of the end of their financial year, forward the audited financial statements to the Financial Services Regulatory Commission unless prior written approval for an extension was granted by the Commission.</li>
+          <li>The holder of a Class A or Class B licence, must, within the format provided by the Financial Services Regulatory Commission, file quarterly returns with the Commission within fifteen days of the end of a quarter, along with a written declaration that the information set out in the application for the licence remains correct and gives a fair picture of the money services business.</li>
+          <li>The holder of Class C, Class D or Class E licence must, within fifteen days of the end of the financial year, file an annual return with the Commission along with a written declaration that the information set out in its application for the licence remains correct and gives a full and fair picture of its money services business.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Retention of records</td>
+      <td>
+        <p>A licensee shall retain for a period of at least five years from the date of creation of each particular record, all records created and obtained by them, in particular records of each transaction executed by them, records of each outstanding transaction, bank reconciliation records and bank statements received during the course of operation and administration of its money services business.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+);
+const Payment_services_provider_licenses_20 = (
+  <div>
+  <h2>Tanzania Payment System Provider License</h2>
+  <p>
+    The standard payment methods in most transactions are still mainly cash dominated. However, contactless payments have become popular recently. Both financial institutions and non-financial institutions can provide payment services. According to the latest telecoms statistics for Q2 2020 published by the Tanzania Communications Regulatory Authority (“TCRA”), overall mobile money subscriptions (mobile money accounts) in the country reached 29,659,961 in June 2020, versus 27,127,298 in March 2020. In June 2020, 272,339,270 mobile money transactions took place, for a total value of TZS 10,651,723,214,486 (approx. USD 4.6 billion).
+  </p>
+  <h3>About the license</h3>
+  <p>
+    Payment systems in Tanzania are regulated by the Bank of Tanzania (BOT), the central bank of the country. The BOT is responsible for issuing licenses to payment system operators and overseeing the operation of payment systems in the country. In order to operate a payment system in Tanzania, a company must apply for a license from the BOT. The application process involves submitting detailed information about the proposed payment system, including the type of system, the services it will offer, and the measures in place to ensure the security and integrity of the system.
+  </p>
+  <h3>Permitted activities</h3>
+  <ol>
+    <li>Clearing of payment instructions between financial and non-financial institutions;</li>
+    <li>Settling of obligations arising from the clearing of payment instructions;</li>
+    <li>Transfer of funds from one account to another using any electronic device;</li>
+    <li>Transfer of electronic money from one electronic device to the other;</li>
+    <li>Provision of technological services to facilitate switching, routing, clearing, data management for or on behalf of a payment system provider;</li>
+    <li>Facilitation of interoperability of payment systems and services between payment systems providers and consumers;</li>
+    <li>Provision of electronic payment services to the unbanked and under-banked population;</li>
+    <li>Establishing a payment clearing house;</li>
+    <li>Provision of financial communication network;</li>
+    <li>Any other objects as may be prescribed by the Bank.</li>
+  </ol>
+  <h3>Categories of license</h3>
+  <ul>
+    <li>Inter-Institutional Payment System</li>
+    <li>Intra-Institutional Payment System</li>
+    <li>Payment System Data Management</li>
+    <li>Remittance</li>
+  </ul>
+  <h2>Legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Entity</td>
+        <td>
+          <p>Body corporate incorporated under the laws of Tanzania as:</p>
+          <ol>
+            <li>a bank or financial institution; or</li>
+            <li>a non-bank or non-financial institution.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Directors</td>
+        <td>
+          <p>At least 3 fit and proper directors are required who can be non-local.</p>
+          <p>The Act does not specify the minimum number of shareholders required.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Board of directors</td>
+        <td>
+          <ol>
+            <li>A payment system provider shall have a Board of Directors composed of at least three members one of whom shall have payment system or related experience.</li>
+            <li>The Board shall appoint senior management of the payment systems operations.</li>
+            <li>A payment system provider shall not appoint any person to the post of director or senior manager without obtaining prior approval of the Bank.</li>
+            <li>A director and senior manager of a payment system provider shall have adequate knowledge and experience necessary to carry out payment system business.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Headquarters</td>
+        <td>
+          <p>To comply with BOT regulations, the license requires the entity to engage with residents in Tanzania. Consequently, it must establish its headquarters and a physical office within Tanzania, from which it will conduct its operations.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Pre-commencement Requirements:</td>
+        <td>
+          <ol>
+            <li>The bank has to review, inspect and approve the below before a payment service provider shall commence business:</li>
+            <li>Business premises</li>
+            <li>Security facilities</li>
+            <li>Communication facilities</li>
+            <li>Processing equipment</li>
+            <li>Anti-money laundering system</li>
+            <li>Accounting systems</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Minimum capital requirement</td>
+        <td>
+          <p>There is a minimum capital requirement of TZS 500 million (approx. USD 214,000) only for applicants for Electronic Money Issuance License.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Insurance</td>
+        <td>
+          <p>Adequate insurance coverage is required.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Compliance</td>
+        <td>
+          <p>Compliance with anti-money laundering and countering the financing of terrorism (AML/CFT) regulations.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Reporting</td>
+        <td>
+          <p>Required to file annual returns in prescribed forms. Company accounts (unless exempted by law) are included in the returns.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+);
+const Payment_services_provider_licenses_21 = (
+  <div>
+  <h2>The Bahamas Payment Service Provider License</h2>
+  <p>
+    Located a mere 80 kilometres southeast of Florida, The Bahamas has historically been a hub for U.S. and European asset managers. The stable, democratic island-nation hosts a cadre of the world’s largest financial services firms. An estimated $800 billion is managed through The Bahamas and assets under management continue to grow as financial professionals find solace in the country’s flexible regulatory scheme. The Bahamas is an ideal location for obtaining a payment service provider license. A Bahamas payment service provider license grants the operator wide latitude to offer an array of services, including money remittance and payments. The Bahamas payment service provider is recognized worldwide in the payments and remittance industry.
+  </p>
+  <h3>About License</h3>
+  <p>
+    Bahamas PSPs may engage in various activities including: the execution of payment transactions, issuing and/or acquiring of payment instruments as well as money remittance. Payment Service Provider means;
+    <ol>
+      <li>(a) a Payment Institution licensed under the regulations;</li>
+      <li>(b) a bank, a bank and trust company, a trust company, a money transmission service provider licensed or a money transmission agent registered, pursuant to the Banks and Trust Companies Regulation Act, or a co-operative credit union pursuant to The Bahamas Co-operative Credit Unions Act, 2015(Ch. 316); and</li>
+      <li>(c) any other provider licensed to provide payment services under any other relevant law.</li>
+    </ol>
+  </p>
+  <p>
+    The Central Bank of The Bahamas (“the Central Bank”) is responsible for the licensing of entities providing payment services under the Payment Systems Act, 2012 and the Payment Instruments (Oversight) Regulations 2017, as well as for regulation and oversight of payment instruments, including electronic money products. The Central Bank, through the Payments Unit of the Research Department (“the Unit”), monitors the compliance of payment instruments, including electronic money products and related services provided by all entities licensed for that purpose (“Payment Service Providers”).
+  </p>
+  <h3>Advantages of Bahamas PSP License</h3>
+  <ol>
+    <li>No corporate tax</li>
+    <li>Payment institutions enjoy less stringent regulatory</li>
+    <li>Advantageous tax treatment for shareholders of PSPs</li>
+    <li>A stable political environment</li>
+    <li>A cost-effective jurisdiction</li>
+  </ol>
+  <h2>Key Legal Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No Obligatory Requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Entity</td>
+        <td>
+          <p>Companies incorporated under the Companies Act, 1992</p>
+          <p>Minimum 1 director (can be only natural persons, no nationality or residency restrictions)</p>
+          <p>Minimum 1 shareholder (can be natural or legal persons, no nationality or residency restrictions)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>External Auditors</td>
+        <td>
+          <p>Applicants are required to provide the full name and address of the applicant’s proposed auditor(s).</p>
+        </td>
+      </tr>
+      <tr>
+        <td>MLRO and Compliance Officer</td>
+        <td>
+          <p>Required to appoint a Money Laundering Reporting Officer (“MLRO”) and a Compliance Officer and notify the Financial Intelligence Unit (FIU) and the Central Bank of the same.</p>
+          <p>For small-scale operations, one of the Senior Officers may carry out the duties of the MLRO and/or the Compliance Officer. However, this individual must be appropriately trained to carry out these additional functions.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Exchange Control Approval</td>
+        <td>
+          <p>Applicants who intend to offer international payment services (i.e. cross border transactions) must obtain Exchange Control approval to deal in foreign currency and, where necessary, to operate a foreign currency account with a commercial bank.</p>
+          <p>Payment Service Providers may issue electronic payment instruments only in Bahamian Dollars.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Risk Management</td>
+        <td>
+          <p>A Payment Service Provider shall establish an appropriate risk management infrastructure to mitigate financial risk and ensure safety and integrity of transfers. Likewise, it shall implement operational and security safeguards in proportion to the scale and complexity of the scheme.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Minimum Paid Up Capital</td>
+        <td>
+          <p>Minimum of $100,000 unimpaired capital asset is required.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Insurance</td>
+        <td>
+          <p>Payment Service Providers are required to maintain adequate insurance coverage to cover the risks inherent in the nature and scale of their payment services business.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Physical Presence</td>
+        <td>
+          <p>Payment Service Providers are required to maintain adequate physical facilities in The Bahamas for all locations in which the business will operate.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Minimum Liquidity Requirements</td>
+        <td>
+          <p>Payment Institutions shall maintain the following minimum liquidity requirements:</p>
+          <ol>
+            <li>Liquid funds of not less than three times the average maximum daily value (computed over the previous six months) of amounts required to settle customer transactions;</li>
+            <li>Liquid funds of not less than six months gross operating expenses;</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Corporate Governance</td>
+        <td>
+          <p>Payment Service Providers are required to implement comprehensive governance and risk management frameworks appropriate to the nature of their business and operations.</p>
+          <p>Payment Service Providers must appoint a minimum of two senior officers to be responsible for the day-to-day operations of the business. These officers must be resident in The Bahamas and have the requisite knowledge, experience and integrity to perform their functions.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Taxation</td>
+        <td>
+          <p>No corporate tax</p>
+          <p>No withholding tax (Dividends, Interests, Royalties etc.)</p>
+          <p>Other taxes – 0% (capital gains tax, stamp duty on offshore instruments)</p>
+          <p>0% Tax on Offshore Profits</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Financial Reporting</td>
+        <td>
+          <p>All Payment Institutions Providers are required to produce annual audited financial statements. Such statements are to be prepared in accordance with International Financial Reporting Standards (IFRS) and must be furnished to the Central Bank within three months of the end of the Payment Institution’s financial year.</p>
+          <p>Every Payment Institution must annually furnish a copy of the finalized management letter from the external auditor to the Central Bank within ten (10) days of its receipt by the Payment Institution and not later than forty-five (45) days after the expiration of the deadline for the submission of the financial statements.</p>
+          <p>Further, all providers are required to submit quarterly un-audited financial statements within twenty-one days of quarter end.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_22 = (
+  <div>
+  <h2>Turks and Caicos Money Transmitters License</h2>
+  <p>
+    Money Service Business is defined under section 2(a) and (b) of The Money Transmitters Ordinance 2007, as:
+  </p>
+  <ol>
+    <li>
+      The business of providing (as a principal business) any or all of the following services –
+      <ol>
+        <li>money transmission;</li>
+        <li>cheque cashing;</li>
+        <li>currency exchange;</li>
+        <li>the issuance, sale or redemption of money orders or traveller’s cheques; and</li>
+        <li>such other services as the Governor in Council may specify by notice published in the Gazette;</li>
+      </ol>
+    </li>
+    <li>
+      The business of operating as an agent or franchise holder of a business mentioned in (1).
+    </li>
+  </ol>
+  <h2>Key Legal Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No Obligatory Requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Entity</td>
+        <td>
+          <p>The entity making the application is a Turks and Caicos:</p>
+          <ol>
+            <li>A company,</li>
+            <li>Unit Trust,</li>
+            <li>Partnerships</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Directors</td>
+        <td>
+          <p>At least two directors who are natural persons and must be precluded by its articles of association from issuing bearer shares.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Shareholders</td>
+        <td>
+          <p>At least one shareholder.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Physical Presence</td>
+        <td>
+          <p>Licensee will require a place of business approved by the commission, which will be the principal office, in the Islands, for that money service business.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Capital Requirements</td>
+        <td>
+          <p>A restricted deposit of $75,000 or its equivalent is required.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Auditor</td>
+        <td>
+          <p>An approved auditor is required.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Filing Requirements</td>
+        <td>
+          <p>Licensed Money Services Business are required to submit:</p>
+          <ol>
+            <li>Audited accounts to the Commission within three months of the end of the financial year.</li>
+            <li>An auditor’s certificate of the existence of adequate procedures to ensure compliance by the business with the Proceeds of Crime Ordinance 2007.</li>
+            <li>A written confirmation that the information set out in the application for the licence remains correct, and gives a full and fair picture of its money services business; and such returns in respect of its money services business as the Commission may specify in writing in such form as the Commission may reasonably require.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Payment_services_provider_licenses_23 = (
+  <div>
+  <h2>Uganda Payment System License</h2>
+  <p>
+    Payment products and services are well regulated in Uganda by the country’s apex bank, the Bank of Uganda (“BoU”), through its National Payment System Department (“NPSD”). The NPSD oversees the national payment system of the country with the objective of ensuring overall effectiveness and integrity of the payments space.
+    The mandate of the BoU to regulate the payment system is enshrined in the National Payment Systems Act, 2020 (“NPS Act”) which came into force in September 2020 as well as BoU’s Regulations (such as the NPS General Regulations 2021 which was later amended in 2022 to the review the fees; the NPS Sandbox Regulations 2021 and the NPS Agents Regulations 2021) all of which were all gazetted on March 5, 2021. The foregoing regulatory framework gives the BoU a clear mandate for the regulation, supervision and oversight of payment and settlement systems in Uganda.
+    These payment systems institutions and other companies licensed by the BoU are called Supervised Financial Institutions (“SFI“).
+  </p>
+  <h3>Categories of Payment System License</h3>
+  <ol>
+    <li>
+      <strong>Payment Systems Operator License</strong>
+      <p>
+        A payment system means a system used to effect a transaction through the transfer of monetary value and includes the institutions, payment instruments, person, rules, procedures, standards and technologies that make such a transfer possible. A payment system operator means an entity, alone or with other entities which is in charge of the operation of a payment system and may include a participant to the system, a settlement agent, a central counterparty or a cleaning house.
+      </p>
+      <p>
+        The Operator’s licence is granted under section 9 of the NPS Act and regulation 11 (2) of the NPS Regulations 2021 to operators of payment system to provide e-fund transfer systems, clearing systems, settlement systems, and third-party systems such as aggregators, integrators, or payment gateways which facilitate the settlement of transfer funds.
+      </p>
+      <p>
+        The following services are the permissible activities of a Payment Systems Operator in Uganda:
+      </p>
+      <ol>
+        <li>Funds transfer systems including person to person payment systems, business to government payment systems, business to business payment systems, person to business payment systems or card processors with common rules and standardized arrangements for transfer of payment orders;</li>
+        <li>Clearing systems which is defined in section 1 of the NPS Act to cover transmitting, reconciling and confirming transfer orders prior to settlement and establishment of final positions for settlements;</li>
+        <li>Settlement systems including real time gross settlement systems, deferred settlement systems or central securities depository system to facilitate the settlement of transfer funds;</li>
+        <li>Third party systems including aggregator, integrator or gateway which facilitate the receiving of electronic payments from a customer without first settling up a merchant account; and</li>
+        <li>Any other class of a payment system operator as the BoU may determine.</li>
+      </ol>
+    </li>
+    <li>
+      <strong>Payment Service Provider License</strong>
+      <p>
+        A payment service provider is a person who is licensed to provide a payment service. A payment service means services enabling cash deposits or withdrawals; execution of payment transactions; issuance and acquisition of payment instrument or any other services incidental to the transfer of funds.
+      </p>
+      <p>
+        Regulation 11(3) of the NPS Regulations 2021 provides that a Payment Service Provider licence shall be issued in respect of the following classes:
+      </p>
+      <ol>
+        <li>Electronic money issuer;</li>
+        <li>Payment services including tokens; and</li>
+        <li>Any other class of a payment service provider as the BoU may determine.</li>
+      </ol>
+    </li>
+    <li>
+      <strong>Issuer of Payment Instrument License</strong>
+      <p>
+        A payment instrument means any device or set of procedures by which a payment instruction is issued for purposes of making payments or transferring money and includes Cheques, bills of exchange, direct debits, credit cards, and debit cards and any other instrument through which a person may make payments, with the exception of bank notes and coins. An issuer of a payment instrument is a person who issues a payment instrument.
+      </p>
+      <p>
+        Categories of payment systems:
+      </p>
+      <ol>
+        <li>Those operated by the Central Bank which include the Real Time Gross Settlement system, the automated clearing house, the Central Securities Depository for government debt securities, cross border payments.</li>
+        <li>Payment systems operated by another government entity or in partnership with a government entity in public interest.</li>
+        <li>Payment systems operated by private entities, and these include switches, electronic money systems, aggregators or interrogators, and other payment system licenced under the Act.</li>
+      </ol>
+    </li>
+  </ol>
+  <h3>Legal Requirements for a Payment Systems License</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Item</th>
+        <th>Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Entity</td>
+        <td>A limited liability company in Uganda</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>
+          <p>A payment systems company must be incorporated by the Uganda Registration Services Bureau (URSB) and licensed by the Bank of Uganda (BoU).</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Directors' Requirement</td>
+        <td>
+          <ol>
+            <li>At least five (5) directors duly vetted by the BoU, at least four (4) of whom must be Independent Non-Executive Directors (“INEDs”).</li>
+            <li>The company must have at least two (2) Executive Directors (i.e. the Managing Director/Chief Executive Officer and one additional Executive Director) both of whom must be resident in Uganda and possess knowledge of the financial institution’s long-term strategy, products and risks of the business, have the ability to influence the institution’s policy, and shall be able to appropriately direct the business of the institution (“four eyes principle”).</li>
+            <li>The Chairperson of the Board must be an Independent Director, resident in Uganda.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Shareholders</td>
+        <td>
+          <p>A minimum of two (2) shareholders. A person (or a company controlled by one person) shall not acquire more than 49% of the shares of a financial institution.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Mandatory Registrations</td>
+        <td>
+          <ul>
+            <li>Registration for IT Certification by the National Information Technology Authority – Uganda (“NITA-U”);</li>
+            <li>Registration of data collectors, processors and controllers with the Personal Data Protection Office.</li>
+            <li>Registration with Financial Intelligence Authority (“FIA”);</li>
+            <li>Registration with National Social Security Fund (“NSSF”);</li>
+            <li>Registration with the Uganda Revenue Authority (“URA”).</li>
+          </ul>
+        </td>
+      </tr>
+
+      <tr>
+        <td>Minimum capital requirements</td>
+        <td>
+        <table>
+    <thead>
+      <tr>
+        <th>License Class</th>
+        <th>Capital Requirement (Ugx)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Payment System Operator</td>
+        <td>
+          <ul>
+            <li>(a) Funds Transfer Systems:</li>
+            <ul>
+              <li>i) Large Funds Transfer Systems whose transaction value exceeds 100,000,000,000 shillings per month.</li>
+              <li>ii) Medium Funds Transfer Systems whose transaction value exceeds 1,000,000,000 shillings per month and does not exceed 100,000,000,000 shillings per month.</li>
+              <li>iii) Small Funds Transfer Systems whose transaction value does not exceed 1,000,000,000 shillings per month.</li>
+            </ul>
+            <li>(b) Clearing Systems or Switches:</li>
+            <li>(c) Settlement Systems:</li>
+            <li>(d) Third Party Systems (e.g., e-Funds Transfer): 500,000,000</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Payment Service Provider</td>
+        <td>
+          <ul>
+            <li>(a) Electronic Money Transfer:</li>
+            <ul>
+              <li>i)Large Electronic Money Issuer whose total trust account value exceeds 10,000,000,000 shillings.</li>
+              <li>ii) Medium Electronic Money Issuer whose total trust account value exceeds 5,000,000,000 but does not exceed 10,000,000,000 shillings.</li>
+              <li>iii) Small Electronic Money Issuer whose total trust account value does not exceed 250,000,000 shillings.</li>
+            </ul>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+        </td>
+      </tr>
+      <tr>
+        <td>Timeline</td>
+        <td>
+          <p>The timeline for completion of the incorporation and licensing is around 10 to 12 months.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>AML Officer</td>
+        <td>
+          <p>A business needs to nominate a compliance officer — a FinTech employee responsible for everything concerning the business’s AML program.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Reporting Obligations</td>
+        <td>
+          <ul>
+            <li>Annual license fees on or before 31st January every year</li>
+            <li>Develop payment system rules governing the transfer of money</li>
+            <li>Submit annual reports to BoU</li>
+            <li>Retain payment system records for at least 10 years and only destroy such records upon approval by BoU</li>
+            <li>Protection of customer information, comply with consumer protection requirements</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Settlement Procedure</td>
+        <td>
+          <p>Every participant in a payment system shall open and maintain settlement accounts in the books of the central bank or an authorized settlement agent, including the maintenance of minimum balances, on such terms and conditions as the central bank or payment system operator may specify.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>Platform Availability and Technology</td>
+        <td>
+          <p>Details on the platform facility and technology have to be shared with the regulator for approval. The applicant must ensure availability of the payment system during the operational period.</p>
+          <p>Other Key Personnel:</p>
+          <ol>
+            <li>Risk Manager</li>
+            <li>System Administrators</li>
+            <li>Integration Engineer</li>
+            <li>Chief Technology Officer</li>
+            <li>Quality Assurance Auditor</li>
+            <li>Chief Information Security Officer</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Liquidity Requirements</td>
+        <td>
+          <ol>
+            <li>An electronic money issuer shall keep one hundred per cent of the electronic money held in a trust account or a special account in liquid assets.</li>
+            <li>The liquid assets shall remain unencumbered and shall be in form of:
+              <ol>
+                <li>Cash balances held on a trust account or special account maintained with a financial institution or a microfinance deposit-taking institution on accreditation basis and withdrawable on demand;</li>
+                <li>Treasury bills and bonds; or</li>
+                <li>Any other liquid asset as may be determined by the central bank.</li>
+              </ol>
+            </li>
+            <li>The central bank may place a lien over the liquid assets.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Data Center</td>
+        <td>
+          <p>An electronic money issuer shall establish and maintain its primary data center in relation to payment system services in Uganda.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
 const UKBankingLicenseHTML = (
   <div>
     <h1>United Kingdom Banking License</h1>
@@ -12221,7 +14915,100 @@ const LicensingServices = {
       Content: Tobique_Gaming_Licence,
     }
   ],
-  Payment_services_provider_licenses: [],
+  Payment_services_provider_licenses: [
+    {
+      Service: "Barbados Money or Value Transmission Service (MVT) Providers License",
+      Content: Payment_services_provider_licenses_1,
+    },
+    {
+      Service: "Belize payment service provider license",
+      Content: Payment_services_provider_licenses_2,
+    },
+    {
+      Service: "Bermuda Money Service Business License",
+      Content: Payment_services_provider_licenses_3,
+    },
+    {
+      Service: "BVI Money Service Business License",
+      Content: Payment_services_provider_licenses_4,
+    },
+    {
+      Service: "Canada Money Service Business License",
+      Content: Payment_services_provider_licenses_5,
+    },
+    {
+      Service: "Cayman Islands Money Service Business License",
+      Content: Payment_services_provider_licenses_6,
+    },
+    {
+      Service: "Cyprus Payment Institution License",
+      Content: Payment_services_provider_licenses_7,
+    },
+    {
+      Service: "Dubai Payment Service Provider License",
+      Content: Payment_services_provider_licenses_8,
+    },
+    {
+      Service: "Ghana Payment Service Provider License",
+      Content: Payment_services_provider_licenses_9,
+    },
+    {
+      Service: "Hong Kong Payment System License",
+      Content: Payment_services_provider_licenses_10,
+    },
+    {
+      Service: "Kenya Payment Service Provider License",
+      Content: Payment_services_provider_licenses_11,
+    },
+    {
+      Service: "Labuan Money Broking License",
+      Content: Payment_services_provider_licenses_12,
+    },
+    {
+      Service: "Labuan Payment System Operator License",
+      Content: Payment_services_provider_licenses_13,
+    },
+    {
+      Service: "Mauritius Payment Intermediary Service License",
+      Content: Payment_services_provider_licenses_14,
+    },
+    {
+      Service: "Panama EMI License",
+      Content: Payment_services_provider_licenses_15,
+    },
+    {
+      Service: "Rwanda Payment Service Provider License",
+      Content: Payment_services_provider_licenses_16,
+    },
+    {
+      Service: "Seychelles Payment Service Provider License",
+      Content: Payment_services_provider_licenses_17,
+    },
+    {
+      Service: "Singapore Payment Service Providers License",
+      Content: Payment_services_provider_licenses_18,
+    },
+    {
+      Service: "St. Kitts and Nevis Money Service Business License",
+      Content: Payment_services_provider_licenses_19,
+    },
+    {
+      Service: "Tanzania Payment System Provider License",
+      Content: Payment_services_provider_licenses_20,
+    },
+    {
+      Service: "The Bahamas payment service provider license",
+      Content: Payment_services_provider_licenses_21,
+    },
+    {
+      Service: "Turks and Caicos Money Transmitters License",
+      Content: Payment_services_provider_licenses_22,
+    },
+    {
+      Service: "Uganda Payment System License",
+      Content: Payment_services_provider_licenses_23,
+    },
+  ],
   Investment_Funds: [],
   Insurance: [
     {
