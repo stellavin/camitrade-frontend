@@ -7044,6 +7044,1222 @@ const JerseyBankingLicenseHTML = (
     </p>
   </div>
 );
+const Bahamas_Banking_Licence = (
+  <div className="container">
+  <h1 className="header">Bahamas Banking Licence</h1>
+  <p>
+    The offshore or international banking industry in The Bahamas is an important part of the country’s financial sector. The Central Bank of The Bahamas is the primary regulator for banking institutions in The Bahamas. The Banks and Trust Companies (Licence Application) Regulations, 2002 as amended together with Section 4 of the Banks and Trust Companies Regulation Act, 2000 lay out the requirements for licence applicants. The Central Bank, through the Inspector of Banks and Trust Companies, pursuant to section 13 of the Banks and Trust Companies Regulation Act, 2000, is responsible for supervising all licensed banks and trust companies.
+  </p>
+  <p>
+    An offshore Bahamas bank license enables a licensed holder to engage in a variety of banking related activity; however the exact activity that the Bahamas bank license holder can carry out will be dependent upon the specific license acquired.
+  </p>
+  <p>There are 2 types of Bahamas offshore banking licenses available:</p>
+  <ol>
+    <li><strong>An unrestricted Bahamas offshore bank license</strong>, which allows the bank to offer a variety of services to anybody;</li>
+    <li><strong>A restricted Bahamas offshore bank license</strong>, which only allows the bank to offer services to a pre-approved list of clients.</li>
+  </ol>
+  <h2>Advantages of offshore banking licence in Bahamas</h2>
+  <p>
+    By using such structures as legal financial facilities, capital-holders may achieve a plenty of significant privileges.
+  </p>
+  <ol>
+    <li>Owners are guaranteed confidentiality of all banking deals; ensures safeguard and unhindered controlling of money, freedom from the risks of blocking them.</li>
+    <li>Effective tax-planning helps to expand the profits of business-structures. Offshore provides admission to global market-spaces and preferential tax-treatment, facilitating the optimal allocation of resources in interests of founders.</li>
+    <li>Such structures have opportunities to free currencies movements carrying out business-activities not locally.</li>
+  </ol>
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Entity</td>
+        <td>Bahamas company</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Shareholders</td>
+        <td>A minimum of two shareholders is required.</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Directors</td>
+        <td>
+          <ul>
+            <li>Minimum of two directors.</li>
+            <li>Directors can be local or overseas – but the CBB may require that at least one director be physically present in The Bahamas.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Capital requirement</td>
+        <td>
+          <ul>
+            <li>USD 1,000,000 (Unrestricted License)</li>
+            <li>USD 100,000 (Restricted License)</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Fit and proper</td>
+        <td>The Central Bank of The Bahamas will assess the fitness and propriety of the applicant’s directors, senior management, and shareholders.</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Governance</td>
+        <td>The applicant must establish a sound corporate governance structure that includes a board of directors, a risk management committee, and an audit committee.</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Compliance</td>
+        <td>The applicant must comply with all applicable laws and regulations, including the Anti-Money Laundering and Counter-Terrorism Financing Act.</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Local office</td>
+        <td>Physical presence (a local office) in The Bahamas is required, with a staff, at a minimum of a CEO and a CO/MLRO. The CO/MLRO has to be Bahamian.</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Books and records</td>
+        <td>Books and records have to be kept/maintained in The Bahamas and minutes of all meetings kept and well documented.</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>Financial reporting</td>
+        <td>Section 8 of the Banks and Trust Companies Regulation Act, 2000, requires that each licensee produce annual audited financial statements. Such statements are to be produced in accordance with International Financial Reporting Standards. Such financial statements must be furnished to the Inspector of Banks and Trust Companies and published in the Gazette within four months of the end of the licensee’s financial year. Further, all licensees (except where specifically exempt) are required to submit quarterly unaudited financial statements within twenty-one days of quarter end.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+)
+
+const Comoros_Banking_Licence = (
+  <div className="container">
+  <h1 className="header">Comoros Banking Licence</h1>
+  <p>
+    Comoros is a small island nation in the Indian Ocean, off the east coast of Africa. It consists of three main islands: Grande Comore, Mohéli, and Anjouan, and lies between Madagascar and Mozambique.
+  </p>
+  <p>
+    Comoros offers a unique opportunity for investors who want to establish an international banking business. From 01 January 2013 has entered a new Banking Act 2013. The purpose of this Act is to foment the development of the Island as a responsible international financial center complying with global best practice and regulatory standards, and to provide incentives by way of tax exemptions for international banking business carried on from the island.
+  </p>
+  <p>
+    Offshore banking licences may be approved expeditiously subject to successful background checks on directors and shareholders and approval of the business plan by the banking regulator’s office. Offshore banking licences are granted by MISA exclusively to Mwali IBCs. If desired, the application for an IBC may be submitted simultaneously with the bank licence.
+  </p>
+  <h2>Permitted activities</h2>
+  <p>These are the activities that licensees are allowed to perform in Comoros:</p>
+  <ol>
+    <li>Accept deposits from legal entities and individuals (deposit operations).</li>
+    <li>Offer loans and credit (loan operations).</li>
+    <li>Effect foreign exchange transactions.</li>
+    <li>Issue securities and credit cards.</li>
+    <li>Store, manage, and trade securities (securities operations).</li>
+    <li>Be intermediaries in securities trading.</li>
+    <li>Provide guarantees (guarantee operations).</li>
+    <li>Process payments and open accounts for legal entities and individuals.</li>
+    <li>Hold assets, capital, precious metals, bonds, stocks, or other financial instruments for third parties.</li>
+    <li>Do e-commerce.</li>
+    <li>Be financiers, promoters, and concessionaires, and carry out various financial, commercial, industrial, trading, operational, developmental, agency, and other activities. They can also fund concessionaires, inventors, and patent holders, as well as advance money to the above and other entities, both with and without security.</li>
+  </ol>
+  <h2 className="subHeader">Advantages of Comoros Banking Licence</h2>
+  <ol className="list">
+    <li>Comoros is known for its strategic location, political stability, and strong financial sector, making it an attractive destination for banking activities.</li>
+    <li>Establishing a company with a banking license in Comoros offers multiple advantages:</li>
+    <ol>
+      <li>Optimizing financial services: Clients can access and use monetary services that are in line with their financial goals and strategies.</li>
+      <li>Maintaining confidentiality and security: The banking sector in Comoros is committed to protecting the privacy and safety of its clients and the assets they hold.</li>
+      <li>Diversifying across borders: Bank customers enjoy an opportunity to make outgoing payments to other countries, reducing their exposure to investment and geopolitical risks.</li>
+      <li>Benefiting from a favorable legal environment: Comoros has a business-friendly legal system that respects confidentiality. Trying to attract more investors, the country also actively promotes its international banking services.</li>
+      <li>Saving on registration and licensing costs: The fees for registering a company and obtaining a license in Comoros are relatively low, which makes it an affordable option for those who want to establish a banking business in the region.</li>
+    </ol>
+    <li>Offshore corporations in Comoros do not pay any corporate income tax or capital gains tax. They are only taxed on the income they earn within the country, not abroad.</li>
+    <li>Comoros has no currency controls, allowing free movement of capital in any currency. This enables entrepreneurs with a banking license to offer a variety of services to global clients.</li>
+    <li>In Comoros, company owners are not personally liable for the debts of their businesses. This means, their personal assets are reliably shielded from any claims.</li>
+  </ol>
+  <h2 className="subHeader">Key legal requirements</h2>
+  <table className="table">
+    <thead>
+      <tr>
+        <th className="th">No.</th>
+        <th className="th">Obligatory requirements</th>
+        <th className="th">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td className="td">1</td>
+        <td className="td">Entity requirements</td>
+        <td className="td">The entity making the application is an International Business Company (IBC)</td>
+      </tr>
+      <tr>
+        <td className="td">2</td>
+        <td className="td">Shareholders</td>
+        <td className="td">The licensee shall maintain at all times a minimum of one shareholder</td>
+      </tr>
+      <tr>
+        <td className="td">3</td>
+        <td className="td">Directors</td>
+        <td className="td">The company is required to appoint at least one director who has qualifications or experience in the banking sector. The director(s) will liaise with the regulator and ensure that the company meets the set regulatory standards in Comoros.</td>
+      </tr>
+      <tr>
+        <td className="td">4</td>
+        <td className="td">Registered address and registered agent</td>
+        <td className="td">The applicant must satisfy the authorities that it designates and notifies to the Authority by name a registered agent, which is not an official of the applicant, to act as its registered agent in Mwali to provide a registered address</td>
+      </tr>
+      <tr>
+        <td className="td">5</td>
+        <td className="td">Accounting and audit requirements</td>
+        <td className="td">
+          <ul className="list">
+            <li>Every Licensee is required to have its accounts audited by an auditor annually or at such other periods as the Authority may require.</li>
+            <li>The audited accounts are required to be forwarded to the authority within three months from the end of the financial year of the licensee, unless prior written approval for an extension has been granted by the Authority.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td className="td">6</td>
+        <td className="td">Insurance</td>
+        <td className="td">
+          The Authority may require a licensee to effect a policy of insurance with a reputable insurance company against:
+          <ul className="list">
+            <li>Losses arising out of claims of negligence or breach of duty by the licensee or any of its directors or employees;</li>
+            <li>The dishonesty of employees of the licensee;</li>
+            <li>Loss of documents; and</li>
+            <li>Such other risks as the Authority may from time to time stipulate in such amount and such a nature as the authority may determine to be fit and proper, having due regard for the nature and type of business carried on by the licensee;</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td className="td">7</td>
+        <td className="td">Capital requirement</td>
+        <td className="td">
+          <ul className="list">
+            <li>Class B International Banking License shall:</li>
+            <li>Maintain a fully paid-up capital of not less than five hundred thousand Euros or its equivalent in another currency or precious metals, or such greater sum as the Authority may reasonably determine; and</li>
+            <li>Deposit or invest the sum of one hundred thousand Euros or its equivalent in another currency or precious metals in such manner as the Authority may reasonably prescribe</li>
+            <li>The capital requirement does not need to be in any bank account but must be indicated on the incorporation documents</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td className="td">8</td>
+        <td className="td">AML compliance</td>
+        <td className="td">All licensed companies must follow anti-money laundering (AML) and know your customer (KYC) rules.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Dominica_Banking_Licence = (
+  <div>
+  <h1>Dominica Banking Licence</h1>
+  <p>The Commonwealth of Dominica is a stable, democratic nation located in the West Indies. A member of the Commonwealth, Dominica shares strong ties with both the United Kingdom and United States despite its small size, with the U.S. dollar being widely accepted on the island.</p>
+  <p>Dominica is a highly respectable jurisdiction to establish an offshore bank. It has a solid reputation when it comes to maintaining customer privacy, as it has strict confidentiality laws, and as a result, it attracts many international clients who proceed to open a bank account.</p>
+  <p>The Dominica banking industry is regulated by the (FSU) Financial Services Unit. Dominica offshore bank licenses are regulated by the Offshore Banking Act 1996 and the Offshore Banking Act 1997 as amended and supplemented over the course of years. The Offshore Bank Licenses which are issued by the Financial Services Unit are Full Bank licenses and equivalent to Class A in other jurisdictions.</p>
+  
+  <h2>Types of Banking Licence</h2>
+  <ol>
+      <li>Retail banking</li>
+      <li>Investment banking</li>
+      <li>Crypto Currency Banking (one of the sole jurisdiction that currently allows it)</li>
+      <li>Restricted territory and Nationals: CARICOM Countries and their Nationals</li>
+  </ol>
+
+  <h2>Advantages of Dominica Banking Licence</h2>
+  <ol>
+      <li><strong>Diversification and privacy:</strong>
+          <p>Dominica is widely regarded as a top choice for non-residents seeking to diversify their savings through offshore bank accounts. Its discreet and welcoming environment offers a secure platform for individuals to safeguard their assets while enjoying financial privacy.</p>
+      </li>
+      <li><strong>Banking activities:</strong>
+          <p>The international bank license in Dominica enables a broad spectrum of banking activities, including accepting deposits, issuing debit cards, and providing corporate and investment banking services. This comprehensive license facilitates a wide range of financial services for both individuals and businesses.</p>
+      </li>
+      <li><strong>Regulatory recognition:</strong>
+          <p>The Dominica banking license holds global recognition and is notably cost-effective to obtain. This recognition enhances the credibility and trustworthiness of banks operating under this license, making it an appealing option for those seeking to establish an offshore banking presence.</p>
+      </li>
+      <li><strong>Crypto currency banking:</strong>
+          <p>Dominica stands out as one of the few jurisdictions permitting crypto currency banking, presenting a unique opportunity for individuals and businesses interested in this burgeoning sector. This forward-thinking approach positions Dominica as an attractive destination for crypto currency-related financial activities.</p>
+      </li>
+      <li><strong>Language and confidentiality:</strong>
+          <p>As a Commonwealth country with English as its official language, Dominica boasts strict enforcement of confidentiality laws, ensuring the utmost privacy for account holders. This commitment to confidentiality further solidifies Dominica’s reputation as a trusted offshore banking jurisdiction.</p>
+      </li>
+  </ol>
+
+  <h2>Key Legal Requirements</h2>
+  <table>
+      <thead>
+          <tr>
+              <th>No.</th>
+              <th>Obligatory Requirements</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>1</td>
+              <td>Entity requirements</td>
+              <td>
+                  The license can be applied through the below:
+                  <ul>
+                      <li>Company incorporated under the Dominica Companies Act</li>
+                      <li>Partnership</li>
+                      <li>Any other company formed outside Dominica but complies with provisions of the Companies Act</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>2</td>
+              <td>Directors</td>
+              <td>
+                  <ul>
+                      <li>Minimum one director who should be an individual residing in the Commonwealth of Dominica</li>
+                      <li>Minimum one compliance officer who must be resident of Commonwealth of Dominica</li>
+                      <li>Both of them have to be approved by the FSU</li>
+                      <li>Additional non-resident directors are permitted as long as they have been approved by the FSU (due diligence procedure mandatory)</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>3</td>
+              <td>Shareholders</td>
+              <td>
+                  <ul>
+                      <li>Minimum one shareholder who is an individual or corporate entity</li>
+                      <li>Minimum one shareholder should be resident of Commonwealth of Dominica</li>
+                      <li>All connected individuals need to be approved by the FSU (due diligence procedure mandatory)</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>4</td>
+              <td>Capital requirement</td>
+              <td>
+                  <ul>
+                      <li>Fixed at the minimum of US$1,000,000</li>
+                      <li>Capital can be deposited in a bank account in the name of the bank outside Dominica, pledged in favor of the Government of Dominica</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>5</td>
+              <td>Authorised representative</td>
+              <td>Approval from the government minister for the appointment of two individuals as authorized representatives of the bank</td>
+          </tr>
+          <tr>
+              <td>6</td>
+              <td>Personnel</td>
+              <td>Legally, you will need to employ two individuals who should be resident of Commonwealth of Dominica Banking License to handle Know Your Customer (KYC) and compliance tasks</td>
+          </tr>
+          <tr>
+              <td>7</td>
+              <td>Principal office and registered agent</td>
+              <td>The applicant must satisfy the authorities that it has a place of business in Dominica</td>
+          </tr>
+          <tr>
+              <td>8</td>
+              <td>Insurance</td>
+              <td>
+                  The Authority may require a licensee to effect a policy of insurance with a reputable insurance company against:
+                  <ul>
+                      <li>losses arising out of claims of negligence or breach of duty by the licensee or any of its directors or employees</li>
+                      <li>the dishonesty of employees of the licensee</li>
+                      <li>loss of documents</li>
+                      <li>such other risks as the Authority may from time to time stipulate in such amount and such a nature as the authority may determine to be fit and proper, having due regard for the nature and type of business carried on by the licensee</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>9</td>
+              <td>Financial reporting</td>
+              <td>License holders are required to submit quarterly statements on profit and loss, along with other necessary documentation, to the Department of Foreign Economic Activity within a month from the end of each quarter</td>
+          </tr>
+      </tbody>
+  </table>
+</div>
+
+);
+const Gibraltar_Banking_Licence = (
+  <div>
+  <h1>Gibraltar Banking Licence</h1>
+  <p>
+    Banking is one of the major pillars of the Gibraltar economy with total assets over EUR 7.8 billion and some of the major International banks have their offices in Gibraltar. The banking sector is regulated by the Financial Services Commissioner appointed by the Governor of Gibraltar on behalf of the British Foreign and Commonwealth Office.
+  </p>
+  <p>
+    The Financial Services (Banking) Act 2019 (the “Act”), and supporting regulations, in accordance with relevant EU directives, provides the legal framework for the supervision of deposit takers who provide banking services in or from within Gibraltar either as a Gibraltar incorporated legal entity or a branch of a deposit taker authorized in either EEA State or a Third country.
+  </p>
+  <p>
+    A Credit Institution (more commonly referred to as a bank) receives deposits or other repayable funds from the public and grants credits. Credit Institutions that are permissioned in Gibraltar are also required to be members of the Deposit Guarantee Scheme.
+  </p>
+
+  <h2>Permitted Activities</h2>
+  <p>
+    The accepting deposits permission allows an institution to carry out deposit taking and related services such as:
+  </p>
+  <ol>
+    <li>Taking deposits and other repayable funds</li>
+    <li>Lending including, inter alia: consumer credit, credit agreements relating to immovable property, factoring, with or without recourse, financing of commercial transactions (including forfeiting).</li>
+    <li>Financial leasing.</li>
+    <li>Payment services as defined in Article 4(3) of Directive (EU) 2015/2366.</li>
+    <li>Issuing and administering other means of payment (e.g. travellers’ cheques and bankers’ drafts) insofar as such activity is not covered by point 4.</li>
+    <li>Guarantees and commitments.</li>
+    <li>Trading for own account or for account of customers in any of the following:</li>
+    <ol>
+      <li>Money market instruments (cheques, bills, certificates of deposit, etc.);</li>
+      <li>Foreign exchange;</li>
+      <li>Financial futures and options;</li>
+      <li>Exchange and interest-rate instruments;</li>
+      <li>Transferable securities.</li>
+    </ol>
+    <li>Participation in securities issues and the provision of services relating to such issues.</li>
+    <li>Advice to undertakings on capital structure, industrial strategy and related questions and advice as well as services relating to mergers and the purchase of undertakings.</li>
+    <li>Money broking.</li>
+    <li>Portfolio management and advice.</li>
+    <li>Safekeeping and administration of securities.</li>
+    <li>Credit reference services.</li>
+    <li>Safe custody services.</li>
+    <li>Issuing electronic money.</li>
+  </ol>
+
+  <h2>Advantages of Banking in Gibraltar</h2>
+  <ol>
+    <li>Clients of Gibraltar banks enjoy the EU deposit protection scheme of EUR100,000 for accounts held in Gibraltar, as well as some banks may hold some of client deposits in other jurisdictions to enjoy additional protection and diversification.</li>
+    <li>Favorable tax status means no tax is payable on interest generated on your savings, however Gibraltar cannot be considered as an offshore jurisdiction in its classical meaning. In compliance with European Union Tax Savings directive all interest paid to individuals resident in the EU is now subject to exchange of Information arrangements, as well as banks in Gibraltar are compliant with USD and UK FATCA.</li>
+    <li>Most of the banks having offices in Gibraltar enjoy ability to “Passport” their products to major EU countries.</li>
+    <li>Gibraltar promotes itself as a very compliant jurisdiction, and all these banks are licensed and fully regulated by Financial Services Commission.</li>
+  </ol>
+
+  <h2>Key Legal Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory Requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Gibraltar Limited Liability Company</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Gibraltar Office</td>
+        <td>The client would need to have a physical presence in Gibraltar.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Auditor</td>
+        <td>The bank would need a local auditor.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital Requirement</td>
+        <td>A credit institution’s minimum initial and ongoing capital requirement is the higher of €5,000,000.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Insurance</td>
+        <td>Adequate Personal indemnity insurance cover would need to be obtained.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Directors</td>
+        <td>Although no local directors are mandatory, the client would need to have at least 4-eyes in Gibraltar and needs to ensure that mind and management is in Gibraltar. This would generally envisage some local director presence. Tax advice would also need to be sought in this regard.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Compliance Officer and MLRO</td>
+        <td>There would need to be a compliance officer and MLRO based in Gibraltar.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Liquidity Requirement</td>
+        <td>The client would need to complete an Internal Capital Adequacy Assessment Process and this would, inter alia, need to consider liquidity requirements. This would need to be calculated in accordance with the EU Capital Requirements Directive and Capital Requirements Regulation. This would need to be carried out by accountants.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+const Mauritius_Banking_Licence = (
+<div>
+    <h1>Mauritius Banking Licence</h1>
+    <p>
+      Mauritius has a strong financial sector, dominated by a substantial domestic banking sector that is expanding rapidly across the region. It also boasts a thriving insurance and pension sectors, as well as a sizable offshore financial services business. The banking system is profitable, well-capitalized, and safe in general.
+    </p>
+
+    <h2>Advantages of Mauritius Banking Licence</h2>
+    <ol>
+      <li>
+        <strong>International Reputation and Financial Hub</strong>
+        <p>
+          Mauritius is a reputable international financial centre that attracts global investors and enterprises. Having a bank licence in Mauritius increases the institution’s legitimacy and reputation, giving it a competitive advantage in acquiring both domestic and foreign clients.
+        </p>
+      </li>
+      <li>
+        <strong>Economic and Political Stability</strong>
+        <p>
+          Mauritius has a long history of political stability, as well as an economically diverse and resilient economy. The country has continuously placed well in worldwide indices of business ease, governance, and economic freedom. This stability and favourable business environment help to provide a favourable environment for banking operations.
+        </p>
+      </li>
+      <li>
+        <strong>International Market Access</strong>
+        <p>
+          Mauritius acts as a gateway to a number of foreign markets, including those in Africa, Asia, and the Middle East. Holding a bank licence in Mauritius can allow banks to enter various markets, engage in cross-border operations, and extend their international footprint.
+        </p>
+      </li>
+      <li>
+        <strong>Treaties to Avoid Double Taxation</strong>
+        <p>
+          Mauritius has a large network of double taxation treaties with many nations. This can benefit banks that provide international banking services by enabling tax planning and minimising tax liabilities for clients that conduct cross-border transactions.
+        </p>
+      </li>
+      <li>
+        <strong>Regulatory Framework</strong>
+        <p>
+          Mauritius has a strong financial services regulatory structure, including banking. As the central bank, the Bank of Mauritius supervises and regulates banks to ensure compliance with prudential and anti-money laundering (AML) rules. The regulatory environment seeks to preserve the financial sector’s stability and integrity.
+        </p>
+      </li>
+      <li>
+        <strong>Tax Benefits</strong>
+        <p>
+          Mauritius banks can profit from a competitive tax environment. The country provides a variety of tax breaks, including exemptions and lower tax rates for specific banking activities. This can boost profits and attract international clients looking for tax-efficient banking services.
+        </p>
+      </li>
+      <li>
+        <strong>Currency Conversion</strong>
+        <p>
+          Mauritius has a completely convertible currency, making international transactions and currency exchange services easier for banks.
+        </p>
+      </li>
+      <li>
+        <strong>Sector of Global Business</strong>
+        <p>
+          Mauritius has a booming Global Business sector, allowing businesses to function as global headquarters, regional offices, or investment holding corporations. Banks in Mauritius can assist these organisations by offering banking services that are tailored to their specific requirements.
+        </p>
+      </li>
+      <li>
+        <strong>Focus on Fintech and Innovation</strong>
+        <p>
+          Mauritius has actively promoted fintech and financial sector innovation. Banks with Mauritius licences can take advantage of this climate to embrace technology breakthroughs, offer innovative digital banking solutions, and cooperate with fintech companies to improve their service offerings.
+        </p>
+      </li>
+    </ol>
+
+    <h2>Permitted Activities</h2>
+    <ol>
+      <li>
+        The business of accepting sums of money, in the form of deposits or other funds, whether such deposits or funds involve the issue of securities or other obligations howsoever described, withdrawable or repayable on demand or after a fixed period or after notice; and
+      </li>
+      <li>
+        The use of such deposits or funds, either in whole or in part, for:
+        <ol>
+          <li>
+            Loans, advances or investments, on the own account and at the risk of the person carrying on such business.
+          </li>
+          <li>
+            The business of acquiring, under an agreement with a person, an asset from a supplier for the purpose of letting out the asset to the person, subject to payment of instalments together with an option to retain ownership of the asset at the end of the contractual period.
+          </li>
+          <li>
+            Paying and collecting cheques drawn by or paid in by customers and making other payment instruments available to customers; and
+          </li>
+        </ol>
+      </li>
+      <li>
+        Such services as are incidental and necessary to banking.
+      </li>
+    </ol>
+
+    <h2>Key Legal Requirements</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>No.</th>
+          <th>Obligatory Requirements</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1.</td>
+          <td>Entity</td>
+          <td>A bank must be a company incorporated under the Companies Act 2001, or a branch of a company incorporated abroad</td>
+        </tr>
+        <tr>
+          <td>2.</td>
+          <td>Shareholders</td>
+          <td>
+            <ol>
+              <li>A minimum of two shareholders</li>
+              <li>Corporate shareholding is allowed</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td>3.</td>
+          <td>Directors</td>
+          <td>
+            <ol>
+              <li>No financial institution incorporated in Mauritius shall have a board of directors consisting of fewer than 5 natural persons;</li>
+              <li>40 per cent independent directors</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td>4.</td>
+          <td>Principal Office and Staff</td>
+          <td>
+            <ol>
+              <li>The applicant must satisfy the authorities that it has a place of business in Mauritius and part of management should be based in Mauritius.</li>
+              <li>The Bank shall have at least ten suitably qualified full-time officers.</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td>5.</td>
+          <td>Compliance Officer</td>
+          <td>A fit and proper MLRO and DMLRO must be appointed, and the compliance department will need to be independent.</td>
+        </tr>
+        <tr>
+          <td>6.</td>
+          <td>Insurance</td>
+          <td>The applicant must ensure the assets that are under the company have been insured. An insurance cover must be present to the Bank of Mauritius.</td>
+        </tr>
+        <tr>
+          <td>7.</td>
+          <td>Capital Requirement</td>
+          <td>
+            Bank of Mauritius shall not grant, and no bank shall hold, a banking licence unless it maintains and continues to maintain in Mauritius, an amount paid as stated capital or an amount of assigned capital of not less than 450 million rupees or the equivalent amount in any freely convertible currency held in assets in or outside Mauritius, as may be approved by the central bank or such higher amount as may be prescribed, after deduction of the accumulated losses of the bank.
+          </td>
+        </tr>
+        <tr>
+          <td>8.</td>
+          <td>Annual Operating Costs</td>
+          <td>The estimated annual operating costs of the proposed bank shall not be less than MUR25 million.</td>
+        </tr>
+        <tr>
+          <td>9.</td>
+          <td>Required Annual Licensing Fees</td>
+          <td>
+            <ol>
+              <li>The principal place of business of a bank: Depending on the total assets USD 125,000</li>
+              <li>Every other branch or office: USD 3,000</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td>10.</td>
+          <td>Auditors</td>
+          <td>An auditor must be appointed to ensure compliance with financial regulations and standards.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+);
+const Montserrat_International_Banking_Licence = (
+<div className="montserrat-banking-license">
+    <h2>Montserrat International Banking Licence</h2>
+    <p>
+        International banking and trust company licences are granted under the International Banking and Trust Companies Act, 2006. </p>
+        <p>International Banking is the carrying on of business in or from within Montserrat in a currency other than Eastern Caribbean dollars (EC$) with a non-resident of Montserrat.
+    </p>
+    
+    <p>
+        A non-resident of Montserrat is:
+    </p>
+    <ol>
+        <li>An international business company;</li>
+        <li>A company or LLC formed, or continued under the Limited Liability Company Act (Cap. 11.14) which at the relevant time is not carrying out any revenue generating activities in Montserrat.</li>
+    </ol>
+    
+    <p>
+        It is the Commission’s policy that it will only grant licences to applicants that are:
+    </p>
+    <ol>
+        <li>Branches or subsidiaries of banks with a well-established and proven track record which are subject to effective consolidated supervision.</li>
+        <li>Banks which, although not subsidiaries, are closely associated with an overseas bank, and which, by agreement, will be included within the consolidated supervision exercised by the overseas bank’s home supervisory authority.</li>
+        <li>Wholly-owned subsidiaries of acceptable non-bank corporations whose shares are quoted on a recognized stock exchange, where the objective of the subsidiary is to undertake in-house treasury operations only, and where such operations are fully consolidated within the published financial statements of the parent company.</li>
+    </ol>
+    
+    <h3>Key Legal Requirements</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Obligatory requirements</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity requirements</td>
+                <td>
+                    <ol>
+                        <li>An international business company</li>
+                        <li>A company or LLC</li>
+                    </ol>
+                    At least one shareholder is required, and corporate shareholder is allowed.
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Shareholders</td>
+                <td>At least one shareholder is required, and corporate shareholder is allowed.</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Local office</td>
+                <td>A licensee must have a principal office in Montserrat being a place of business.</td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Capital requirement</td>
+                <td>Minimum paid in capital is $1,000,000.</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Directors</td>
+                <td>
+                    <ol>
+                        <li>A minimum of 2 directors</li>
+                        <li>Directors can be local or overseas, and corporate directorship is allowed.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Auditor</td>
+                <td>
+                    <ol>
+                        <li>A bank is required to have its accounts audited annually by an auditor.</li>
+                        <li>The applicant must put forward at the time of application, the designate auditor for approval by the authority.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Company secretary</td>
+                <td>A company secretary is required.</td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Authorised agent</td>
+                <td>
+                    <ol>
+                        <li>Required to have 2 Authorised Agents in Montserrat.</li>
+                        <li>Each authorised agent must be an individual resident in Montserrat; or a general trust Company licenced under this Act.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Compliance officer and MLRO</td>
+                <td>The applicant must have before approval of license, appointed a fit and proper MLRO and alternate MLRO.</td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Maintenance of reserve fund</td>
+                <td>Every licensee shall maintain a reserve fund and shall out of its net profits of each year transfer to that fund a sum equal to not less than 20% of such profits whenever the amount of the reserve fund is less than 100% of the paid-up capital of the licensee.</td>
+            </tr>
+            <tr>
+                <td>11.</td>
+                <td>Liquidity requirement</td>
+                <td>
+                    Every licensee shall maintain adequate liquidity by way of cash or marketable securities or call or time deposits of less than twelve months with a prime or other acceptable international bank amounting to at least 12% of the total assets or such other percentage as may from time to time be determined by the Commission.
+                </td>
+            </tr>
+            <tr>
+                <td>12.</td>
+                <td>Financial reporting</td>
+                <td>
+                    <ol>
+                        <li>Every licensee shall in relation to its operations submit, within thirty days of the end of each quarter, to the Commission in English, in such form as the Commission may from time to time approve, a statement of its assets and liabilities in such detail as the Commission may require, as at the close of the last business day of each quarter.</li>
+                        <li>The Commission may require a licensee to submit such further information as it may deem necessary for the proper understanding of any statement or return furnished by that licensee under subsection (1) and such information shall be submitted within such a period and in such manner as the Commission may require.</li>
+                        <li>Every licensee shall have its accounts audited annually or at such other periods as the Commission may require.</li>
+                        <li>The licensee shall forward the audited accounts to the Commission within three months from the end of the financial year of the licensee unless the Commission has granted prior written approval for an extension.</li>
+                    </ol>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+);
+const Puerto_Rico_International_Financial_Entity_IFE = (
+<div className="puerto-rico-ife">
+    <h2>Puerto Rico International Financial Entity (IFE)</h2>
+    <p>
+        An IFE is a Puerto Rico entity engaged in traditional banking or financial services for non-Puerto Rican clients. IFEs are under the direction of the Office of the Commissioner of Financial Institutions.
+    </p>
+    
+    <p>
+        International Financial Entities (IFEs) are licensed and regulated by the Office of the Commissioner of Financial Institutions pursuant to Act No. 273 of September 25, 2012, as amended (the IFE Act) and Regulation No. 5653. The IFE Act prospectively replaces the International Banking Entities (IBEs) under the former International Banking Regulatory Act, Act No. 52 of 1989, and offers tax incentives to IFEs that set up operations in Puerto Rico, subject to the licensing requirement and regulatory powers of the Commissioner.
+    </p>
+    
+    <h3>Advantages of Puerto Rico</h3>
+    <p>
+        The economic union with the United States, its political stability, the soundness of its banking system, and the unified market and monetary system give Puerto Rico a significant advantage in multiple conditions to perform international financial transactions.
+    </p>
+    
+    <h3>Permitted activities</h3>
+    <ol>
+        <li>Accepting deposits</li>
+        <li>Borrowing money</li>
+        <li>Lending</li>
+        <li>Letters of credit</li>
+        <li>Refinancing</li>
+        <li>Foreign currency exchange</li>
+        <li>Underwriting</li>
+        <li>Trade financing</li>
+        <li>Trust services</li>
+        <li>Securities brokerage</li>
+        <li>Clearinghouse services</li>
+        <li>Asset management</li>
+        <li>Other financial services</li>
+    </ol>
+    
+    <p>
+        IFEs are generally not permitted to do transactions with local Puerto Rico counterparties, except in certain cases such as:
+    </p>
+    <ol>
+        <li>Certain transactions involving the Government Development Bank and the Economic Development Bank of Puerto Rico</li>
+        <li>Certain transactions and activities involving securities issued by the Government of Puerto Rico</li>
+        <li>Participation in local loan syndications originated by a local</li>
+        <li>Purchasing of substandard or non-performing loans from Puerto Rico entities</li>
+    </ol>
+    
+    <h3>Key legal requirements</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Obligatory requirements</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity requirements</td>
+                <td>
+                    Pursuant to the IFE Act, any person other than an individual, incorporated or organized under the laws of Puerto Rico, the United States or any other country, or any entity constituted as a unit of said person, may apply for a license to do business as an IFE.
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Physical presence</td>
+                <td>
+                    The entity needs to set up a business office space in Puerto Rico and have at least four full-time employees (a lesser number might be authorized).
+                </td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Capital requirement</td>
+                <td>
+                    <ol>
+                        <li>An authorized capital stock of US$5 million or more with a minimum of US$250,000 of paid-in-capital (at the time the license is granted)</li>
+                        <li>US$300,000 of acceptable financial securities (a lesser number might be authorized)</li>
+                    </ol>
+                    All US anti-money laundering statutes (Bank Secrecy Act, Patriot Act OFAC pronouncements) are applicable to IFEs.
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Application duration</td>
+                <td>
+                    The application process might take three to four months.
+                </td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Lending</td>
+                <td>
+                    The Act does not establish lending limits for IFEs.
+                </td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Confidentiality</td>
+                <td>
+                    The Act provides that all information submitted to OFIC will be treated as confidential (unless a court order or an order from a governmental agency is issued).
+                </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Taxation</td>
+                <td>
+                    <ol>
+                        <li>IFE's income is subject to a 4% flat income tax rate.</li>
+                        <li>Distributions from earnings and profits derived from IFEs are taxed at 6% for shareholders that are Puerto Rico residents, with 100% exemption from Puerto Rico taxes on such dividends.</li>
+                        <li>Municipalities in Puerto Rico may levy a gross receipts tax of up to 1.5% for financial services.</li>
+                        <li>IFEs are 100% exempt from all property taxes.</li>
+                        <li>A 15-year tax decree, renewable for two (2) additional 15-year periods.</li>
+                    </ol>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+);
+const Seychelles_Banking_Licence =(
+  <div className="seychelles-banking-license">
+    <h2>Seychelles Banking Licence</h2>
+    <p>
+        Seychelles financial system aims to foster financial stability, encourage investment, and meet the financial needs of individuals, enterprises, and the government. It is controlled and overseen by several authorities to ensure the financial sector’s integrity, transparency, and soundness.
+    </p>
+    
+    <p>
+        The compliance of banking business in Seychelles is governed by the Financial Institutions Act (FIA) of 2004. The Central Bank of Seychelles issues the license in writing for an indefinite period of time and the license cannot be transferable.
+    </p>
+    
+    <h3>Permitted activities</h3>
+    <ol>
+        <li>Issuing of own deposit products</li>
+        <li>Issuing current accounts to Corporate and Individual Clients</li>
+        <li>Issuing saving accounts</li>
+        <li>Issuing fixed-term deposit accounts</li>
+        <li>Issuing credit cards through MasterCard / VISA</li>
+        <li>Daily liquidity accounts</li>
+        <li>Multi-currency accounts and forex services</li>
+    </ol>
+    
+    <h3>Advantages of Seychelles Banking Licence</h3>
+    <ol>
+        <li>Financial Centres Offshore</li>
+        <li>Beneficial Regulatory Environment</li>
+        <li>Economic and political stability</li>
+        <li>Tax Advantages</li>
+        <li>Currency Diversification</li>
+        <li>Geographical Location</li>
+        <li>Correspondent Banking Relationships</li>
+        <li>Privacy and Confidentiality</li>
+        <li>Formation of an International Business Company (IBC)</li>
+        <li>Tourism and Hospitality Opportunities</li>
+    </ol>
+    
+    <h3>Key legal requirements</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Obligatory requirements</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Directors</td>
+                <td>
+                    Strictly legally speaking, a minimum of two fit and proper individual directors should suffice for this. However, given the robust corporate governance requirements and the minimum number of committees required under central bank guidance, a minimum of four fit and proper directors will be required.
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Entity requirements</td>
+                <td>
+                    The license can only be issued to a local company registered under the Companies Act of 1972 or a foreign company (any foreign company that will be registered as a tax resident of the Seychelles) registered in accordance with Article 310 of the Companies Act of 1972.
+                </td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>
+                    The licensee will need at least 2 shareholders. Corporate shareholding is allowed.
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Compliance officer and MLRO</td>
+                <td>
+                    The applicant must have before approval of license, appointed a fit and proper compliance and Money Laundering Reporting Officer. Such an officer can be from any jurisdiction but must be based in the Seychelles operations office at all times.
+                </td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Seychelles office</td>
+                <td>
+                    The applicant must satisfy the authorities that they have procured and equipped a place of business in Seychelles from where the operations of the company shall be run.
+                </td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Auditor</td>
+                <td>
+                    <ol>
+                        <li>The bank is required to appoint annually an auditor approved by Central Bank to audit its accounts.</li>
+                        <li>The auditor is required to be independent, experienced in the audit of financial institutions, and be a member of a body of accountants.</li>
+                        <li>The auditor can be from any jurisdiction as long as they meet the criteria as per the Act.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Capital requirement</td>
+                <td>
+                    The Act requires every bank to maintain at all times in Seychelles unimpaired paid-up capital or assigned capital of not less than R20,000,000.
+                </td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Bank records</td>
+                <td>
+                    Maintain the bank’s records in Seychelles for a period of at least 7 years.
+                </td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Taxation</td>
+                <td>
+                    The Business Tax rate levied on the bank is 25% on the first SR 1,000,000 of taxable income and 33% on the remainder.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+);
+const St_Kitts_and_Nevis_International_Banking_Licence = (
+  <div className="stkitts-nevis-banking-license">
+    <h2>St. Kitts and Nevis International Banking Licence</h2>
+    <p>
+        The Nevis International Banking Ordinance, No 1 of 2014 was designed to enable international banking to be carried on by international banks from within Nevis and to encourage the development of Nevis as a responsible international financial centre.
+    </p>
+    <p>
+        An international bank can be established in Nevis under the Nevis International Banking Ordinance, 2014 (“NIBO”). This is the legislation that governs the operation of international banks conducting business from Nevis.
+    </p>
+    <p>
+        An applicant for a license under this Ordinance must submit an application in the prescribed form to The Minister of Finance (the Minister) for his consent to incorporate an international business company in Nevis for the purpose of carrying on international banking business from Nevis.
+    </p>
+    <p>
+        The Ordinance defines offshore banking as follows:
+    </p>
+    <ol>
+        <li>Receiving of foreign funds through the acceptance of foreign money, deposits payable upon receipt demand or after a fixed period or after notice;</li>
+        <li>The sale or placement of foreign bonds certifcates, notes or other debt obligations or other securities, or</li>
+        <li>Any other similar activities involving foreign money or foreign securities, and</li>
+        <li>Either in whole or in part using foreign funds so acquired for loans, advances and investments whether in Nevis or elsewhere.</li>
+    </ol>
+    
+    <h3>Eligibility requirements</h3>
+    <ol>
+        <li>
+            <strong>An Eligible company includes:</strong>
+            <ol>
+                <li>A body corporate which has been incorporated under the Companies Ordinance, CAP 7.06 which is a wholly owned subsidiary of a bank which is indigenous to St. Kitts and Nevis and regulated by the Eastern Caribbean Central Bank; or</li>
+                <li>A subsidiary of qualified foreign bank which has been incorporated under the Companies Ordinance; or</li>
+                <li>A body corporate which has been incorporated under the Companies Ordinance of which the chief executive officer at the time of its application for a license, has at least ten years’ experience in banking or finance.</li>
+            </ol>
+        </li>
+        <li>
+            <strong>A Qualified foreign bank is:</strong>
+            <ol>
+                <li>A bank which was originally incorporated and registered in a jurisdiction other than St. Christopher and Nevis that upon commencement of this Ordinance is licensed under the Banking Act; or</li>
+                <li>A foreign bank with minimum capitalization and assets as prescribed by the Minister, that is not licensed under the Banking Act but is licensed to do domestic banking in its jurisdiction of incorporation;</li>
+                <li>A financial institution approved by the Minister, that is directly or indirectly a wholly owned foreign subsidiary of a bank which is incorporated in a jurisdiction other than St. Christopher and Nevis.</li>
+            </ol>
+        </li>
+    </ol>
+    
+    <h3>Key legal requirements</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Obligatory requirements</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Shareholders</td>
+                <td>
+                    The applicant shall have a minimum of one shareholder.
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Entity</td>
+                <td>
+                    An Eligible Company must be incorporated under the Companies Ordinance as a company limited by shares and have the word ‘bank’ included as part of its name, however, approval must be first granted by the Minister of Finance.
+                </td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Directors</td>
+                <td>
+                    An international bank shall have at least three (3) directors all of whom are natural persons and one (1) of whom is a citizen of St. Christopher and Nevis and who is resident in Nevis.
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Capital requirement</td>
+                <td>
+                    NIBO stipulates minimum capital requirements of not less than two million dollars (USD $2,000,000.00), or such greater sum as the Minister may reasonably determine in Regulation. In addition to the capital requirement, each bank is also required to have deposited or invested the sum of two hundred thousand dollars (USD $200,000.00) in specified manners.
+                </td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Reserve fund</td>
+                <td>
+                    The international bank shall maintain a reserve fund and shall out of its net profits of each year and before any dividend is paid, transfer to the fund a sum equal to not less than twenty five (25%) percent of those profits whenever the amount of the reserve fund is less than the paid up capital of the international bank.
+                </td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Audit requirements</td>
+                <td>
+                    <ol>
+                        <li>The annual balance sheets and accounts of an approved international bank must be audited at least once in every financial year by an auditor who shall conduct the audit in accordance with the international financial reporting standards.</li>
+                        <li>It is the duty of the auditor appointed to submit a report to the shareholders of the international bank and to the Regulator.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Local office</td>
+                <td>
+                    A license to operate an international bank will not be granted unless that company has a place of business in Nevis approved by the Regulator which will be its registered office.
+                </td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Authorised agent</td>
+                <td>
+                    The appointment of a Registered Agent is also required.
+                </td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Duration to set up</td>
+                <td>
+                    3 to 6 months
+                </td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Taxation</td>
+                <td>
+                    The Nevis Island Administration will not impose any tax upon the profits or gains of an International Bank in respect of the international banking it conducts from the island of Nevis.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+);
+const Vanuatu_Banking_Licence = (
+<div>
+      <h2>Vanuatu Banking Licence</h2>
+
+      <p>
+        The Republic of Vanuatu is an island located in the South Pacific long known as an international offshore financial services center. Vanuatu emerges as a premier destination for global finance, particularly for those seeking to establish offshore banking operations. Situated in the Pacific, this jurisdiction offers a unique blend of regulatory oversight, financial privacy, and strategic advantages for international banking.
+      </p>
+
+      <p>
+        The Republic of Vanuatu is an ideal location for the formation of an offshore bank. Vanuatu offers an International Bank License which covers all related banking activities, including accepting deposits and issuing debit cards. The licensure is recognized world-wide and is both cost effective and can be accomplished quickly. The Reserve Bank of Vanuatu is the body responsible for receiving and evaluating applications for an offshore banking license and all supporting documents, and for assessing whether an individual/legal entity is “appropriate”. International Banking is regulated by the International Banking Act [CAP. 280].
+      </p>
+
+      <h3>Strategic Advantages of a Vanuatu Banking License</h3>
+      <ol>
+        <li>Global Reputation and Reliability: A long-standing presence in the offshore services sector underscores Vanuatu’s reliability and quality.</li>
+        <li>Asset Protection and Privacy: The jurisdiction allows for the establishment of foreign accounts, ensuring significant asset protection and confidentiality.</li>
+        <li>International Client Engagement: License holders can cater to a diverse global clientele, expanding their financial services reach.</li>
+        <li>Operational Flexibility: Vanuatu’s regulatory environment permits considerable flexibility in financial operations and business model development.</li>
+        <li>Ideal for Emerging Businesses: The jurisdiction is particularly attractive for start-ups and SMEs, thanks to lower initial capital requirements and favorable tax conditions.</li>
+      </ol>
+
+      <h3>Key Legal Requirements</h3>
+      <table>
+        <tbody>
+          <tr>
+            <td>No.</td>
+            <td>Obligatory requirements</td>
+          </tr>
+          <tr>
+            <td>1.</td>
+            <td>
+              <strong>Entity requirements</strong>
+              <br />
+              Vanuatu International Business Company
+              <br />
+              At least 1 shareholder (can also be a legal person, no nationality or residency restrictions)
+            </td>
+          </tr>
+          <tr>
+            <td>2.</td>
+            <td>
+              <strong>Directors</strong>
+              <br />
+              At least 2 individual directors (at least 1 director must be a resident of Vanuatu). The appointed director must be physically present in Vanuatu and have relevant experience in international banking;
+            </td>
+          </tr>
+          <tr>
+            <td>3.</td>
+            <td>
+              <strong>Shareholders</strong>
+              <br />
+              At least 1 shareholder
+            </td>
+          </tr>
+          <tr>
+            <td>4.</td>
+            <td>
+              <strong>Capital requirement</strong>
+              <br />
+              To open an offshore bank, the share capital must be at least $500,000;
+            </td>
+          </tr>
+          <tr>
+            <td>5.</td>
+            <td>
+              <strong>Auditor</strong>
+              <ol>
+                <li>Each financial year an auditor must be appointed to report on all financial statements prepared by the licensee in relation to that year</li>
+                <li>An appointment of an auditor requires a prior written approval of the Reserve Bank</li>
+              </ol>
+            </td>
+          </tr>
+          <tr>
+            <td>6.</td>
+            <td>
+              <strong>Vanuatu office</strong>
+              <br />
+              An office manned by at least one employee is legally required. The Reserve Bank intends that you maintain at least one senior representative of the bank in Vanuatu
+            </td>
+          </tr>
+          <tr>
+            <td>7.</td>
+            <td>
+              <strong>Financial reporting</strong>
+              <br />
+              Copies of financial statements and auditor’s report must be provided to the Reserve Bank within 4 (four) months after the close of the licensee’s financial year.
+            </td>
+          </tr>
+          <tr>
+            <td>8.</td>
+            <td>
+              <strong>Taxation</strong>
+              <br />
+              Zero (0%) Percent Tax on Offshore Profits.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+);
 const CzechRepublicBureauxDeChangeHTML = (
   <div>
     <h1>Czech Republic Bureaux De Change</h1>
@@ -10076,10 +11292,45 @@ const LicensingServices = {
       Service: "Banking License in Jersey",
       Content: JerseyBankingLicenseHTML,
     },
-    // {
-    //   Service: "Bank Account Opening in Georgia",
-    //   Content: GeorgiaBankAccountOpening_HTML,
-    // }
+    {
+      Service: "Bahamas Banking Licence",
+      Content: Bahamas_Banking_Licence,
+    },
+    {
+      Service: "Comoros Banking Licence",
+      Content: Comoros_Banking_Licence,
+    },
+    {
+      Service: "Dominica Banking Licence",
+      Content: Dominica_Banking_Licence,
+    },
+    {
+      Service: "Gibraltar Banking Licence",
+      Content: Gibraltar_Banking_Licence,
+    },
+    {
+      Service: "Mauritius Banking Licence",
+      Content: Mauritius_Banking_Licence,
+    },
+    {
+      Service: "Montserrat International Banking Licence",
+      Content: Montserrat_International_Banking_Licence,
+    },
+    {
+      Service: "Puerto Rico International Financial Entity (IFE)",
+      Content: Puerto_Rico_International_Financial_Entity_IFE,
+    },
+    {
+      Service: "Seychelles Banking Licence",
+      Content: Seychelles_Banking_Licence,
+    },
+    {
+      Service: "St. Kitts and Nevis International Banking Licence",
+      Content: St_Kitts_and_Nevis_International_Banking_Licence,
+    }, {
+      Service: "Vanuatu Banking Licence",
+      Content: Vanuatu_Banking_Licence,
+    }
   ],
   
   Cryptocurrency_and_digital_assets: [
