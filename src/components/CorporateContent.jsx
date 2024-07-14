@@ -32,6 +32,7 @@ const CorporateContent = ({ handleSetName }) => {
     setActiveService(0);
   }, [serviceId]);
 
+
   const isMobile = window.innerWidth <= 768; // Define your mobile breakpoint here
 
   const serviceOptions = services[SelectedService]?.map((service, index) => (

@@ -10,86 +10,87 @@ import './assets/css/main.css'
 import './assets/css/responsive.css'
 
 // Components 
+import React, { Suspense, useEffect, useState } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
-import { ToastContainer } from 'react-toastify'
-
-import Home from './pages/Home';
-import Payments from './pages/Payments';
-import Jurisdictions from './pages/Jurisdictions';
-import About from './pages/About';
-import Services from './pages/Services';
-import Corporate from './pages/CorporatePages';
-import OtherServicesPage from './pages/OtherServices';
-import Blog from './pages/Blog';
-import Contact from './pages/Contact';
-import Services2 from './pages/Services2';
-import ServiceDetails from './pages/ServiceDetails';
-import ProjectDetails from './pages/ProjectDetails';
-import Teams from './pages/Teams';
-import TeamDetails from './pages/TeamDetails';
-import BlogDetails from './pages/BlogDetails';
-import BlogGrid from './pages/BlogGrid';
+import { ToastContainer } from 'react-toastify';
 import ScrollUpBtn from './components/ScrollUpBtn';
 import PreLoader from './components/PreLoader';
-import { useEffect, useState } from 'react';
-import NotFound from './components/NotFound';
-import ErrorPage from './pages/ErrorPage';
-import LicensingServices from './pages/LicensingServices';
-import Offers from './pages/Offers';
+
+// Lazy-loaded components
+const Home = React.lazy(() => import('./pages/Home'));
+const Payments = React.lazy(() => import('./pages/Payments'));
+const Jurisdictions = React.lazy(() => import('./pages/Jurisdictions'));
+const About = React.lazy(() => import('./pages/About'));
+const Services = React.lazy(() => import('./pages/Services'));
+const Corporate = React.lazy(() => import('./pages/CorporatePages'));
+const OtherServicesPage = React.lazy(() => import('./pages/OtherServices'));
+const Blog = React.lazy(() => import('./pages/Blog'));
+const Contact = React.lazy(() => import('./pages/Contact'));
+const Services2 = React.lazy(() => import('./pages/Services2'));
+const ServiceDetails = React.lazy(() => import('./pages/ServiceDetails'));
+const ProjectDetails = React.lazy(() => import('./pages/ProjectDetails'));
+const Teams = React.lazy(() => import('./pages/Teams'));
+const TeamDetails = React.lazy(() => import('./pages/TeamDetails'));
+const BlogDetails = React.lazy(() => import('./pages/BlogDetails'));
+const BlogGrid = React.lazy(() => import('./pages/BlogGrid'));
+const ErrorPage = React.lazy(() => import('./pages/ErrorPage'));
+const LicensingServices = React.lazy(() => import('./pages/LicensingServices'));
+const Offers = React.lazy(() => import('./pages/Offers'));
 
 function App() {
-
-  //  Preloader 
-  let [isLoading, setIsLoading] = useState(true)
+  let [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     setTimeout(() => {
-      setIsLoading(false)
-    }, 10)
-  }, [])
-
+      setIsLoading(false);
+    }, 10);
+  }, []);
 
   return (
-
     <>
-      {isLoading ? <PreLoader /> :
-        <div>
-          <Helmet>
-            <title>Camitrade Investment Fiduciaries </title>
-            <link rel="shortcut icon" href="favicon.ico"></link>
-          </Helmet>
+      <Helmet>
+        <title>Camitrade – Offshore Companies| Offshore Licenses| Offshore Banking </title>
+        <link rel="shortcut icon" href="favicon.ico" />
+      </Helmet>
 
-          <Routes>
-            <Route path='/' element={<Home />}></Route>
-            <Route path='/payments' element={<Payments />}></Route>
-            <Route path='/jurisdictions' element={<Jurisdictions />}></Route>
-            <Route path='/about' element={<About/>}></Route>
-            <Route path='/services' element={<Services />}></Route>
-            <Route path='/corporate' element={<Corporate />}></Route>
-            <Route path='/other-services' element={<OtherServicesPage />}></Route>
-            <Route path='/licensing-services' element={<LicensingServices />}></Route>
-            <Route path='/offers' element={<Offers />}></Route>
-          
-            <Route path='/services-2' element={<Services2 />}></Route>
-            <Route path='/service-details' element={<ServiceDetails />}></Route>
-            <Route path='/project-details' element={<ProjectDetails />}></Route>
-            <Route path='/page' element={<About />}></Route>
-            <Route path='/team' element={<Teams />}></Route>
-            <Route path='/team-details' element={<TeamDetails />}></Route>
-            <Route path='/blog' element={<Blog />}></Route>
-            <Route path='/blog-grid' element={<BlogGrid />}></Route>
-            <Route path='/blog-details' element={<BlogDetails />}></Route>
-            <Route path='/contact' element={<Contact />}></Route>
-            <Route path='/preloader' element={<PreLoader />}></Route>
-            <Route path='*' element={<ErrorPage />}></Route>
-          </Routes>
+      {isLoading ? (
+        <PreLoader />
+      ) : (
+        <div>
+          <Suspense fallback={<PreLoader />}>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/payments" element={<Payments />} />
+              <Route path="/jurisdictions" element={<Jurisdictions />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/services" element={<Services />} />
+              <Route path="/corporate" element={<Corporate />} />
+              <Route path="/other-services" element={<OtherServicesPage />} />
+              <Route path="/licensing-services" element={<LicensingServices />} />
+              <Route path="/offers" element={<Offers />} />
+
+              <Route path="/services-2" element={<Services2 />} />
+              <Route path="/service-details" element={<ServiceDetails />} />
+              <Route path="/project-details" element={<ProjectDetails />} />
+              <Route path="/page" element={<About />} />
+              <Route path="/team" element={<Teams />} />
+              <Route path="/team-details" element={<TeamDetails />} />
+              <Route path="/blog" element={<Blog />} />
+              <Route path="/blog-grid" element={<BlogGrid />} />
+              <Route path="/blog-details" element={<BlogDetails />} />
+              <Route path="/contact" element={<Contact />} />
+              <Route path="/preloader" element={<PreLoader />} />
+              <Route path="*" element={<ErrorPage />} />
+            </Routes>
+          </Suspense>
+
           <ScrollUpBtn />
           <ToastContainer />
         </div>
-      }
+      )}
     </>
-  )
+  );
 }
 
-export default App
+export default App;

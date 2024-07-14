@@ -4,6 +4,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 
 const SingleService = ({ type, service }) => {
     let { serviceIcon, serviceTitle, serviceText, serviceBtn, delay, id, countriesFlags } = service;
+    console.log('services-------', service);
 
     return (
         <>
