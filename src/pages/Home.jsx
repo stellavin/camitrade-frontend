@@ -8,10 +8,18 @@ import AboutUs from '../components/AboutUs';
 import Consultation from '../components/Consultation';
 import Testimonial from '../components/Testimonial';
 import Footer from '../components/Footer';
+import { Helmet } from 'react-helmet-async';
+import { useLocation } from 'react-router-dom';
 
 const   Home = () => {
+    const location = useLocation();
+    const canonicalUrl = `https://www.camitrade.com/${location.pathname}`;
+  
     return (
         <>
+            <Helmet>
+                <link rel="canonical" href={canonicalUrl} />
+            </Helmet>
             <Header />
             <BannerSlider/>
             <Feature />
