@@ -7,11 +7,13 @@ import CanonicalHeaders from '../components/CanonicalHeaders';
 
 const OtherServices = () => {
     const [serviceName, setServiceName]=useState('Other Services');
+
+    console.log('service name----', serviceName);
     return (
         <>
         <CanonicalHeaders
-                title ={`${serviceName}| We ensure legal compliance and sustainable growth.`}
-                description ="Camitrade Fiduciaries provides global company incorporation and administration services, Licensing services and Payment solutions"
+                title ={`We Offer ${serviceName.replace("_", " ")} Services`}
+                description ={`Camitrade Fiduciaries Offers ${serviceName.replace("_", " ")} Services Globally | Mauritius | Seychelles | South Africa | Dubai| UAE | Cook Islands | Curacao`}
             />
             <Header />
             <Breadcrumbs pageTitle={serviceName.replace(/_/g, ' ')}/>
