@@ -18,6 +18,8 @@ const   Home = () => {
     return (
         <>
             <Helmet>
+                <title>Fiduciary & Licenses Services - Camitrade Services Registrars</title>
+                <meta name="description" content="Camitrade Fiduciaries Limited is licensed globally by Financial Services Authority for Trust & Corporate Services" />
                 <link rel="canonical" href={canonicalUrl} />
             </Helmet>
             <Header />
