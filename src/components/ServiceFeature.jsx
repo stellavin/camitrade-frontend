@@ -6,9 +6,11 @@ import { useLocation } from 'react-router-dom';
 import LicenseData from '../jsonData/licensingData.json'
 
 const ServiceFeature = ({setServiceName}) => {
+    console.log('here ==========');
     const location = useLocation();
     const searchParams = new URLSearchParams(location.search);
     const serviceId = searchParams.get('id');
+    console.log('get data ==========', serviceId);
     setServiceName(serviceId);
 
     useState(()=> {

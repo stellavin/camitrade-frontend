@@ -7,6 +7,7 @@ import CorporateContent from '../components/CorporateContent';
 
 const CorporateServices = () => {
     const [serviceName, setServiceName]=useState('Licensing Services');
+    console.log('here========1');
     return (
         <>
             <Header />

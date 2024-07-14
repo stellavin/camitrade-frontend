@@ -45,7 +45,8 @@ const MainMenu = () => {
                                             <ul>
                                                 <li className="active"><Link to="/#">Home</Link></li>
                                                 <li><Link to="/about#">about Us</Link></li>
-                                                <li className="has-children-menu"><Link to="/services?id=Corporate#">Corporate</Link>
+                                                <li className="has-children-menu">
+                                                    <Link to="/services?id=Corporate#">Corporate</Link>
                                                     <ul>
                                                     {CorporateData.map((service, index)=> (
                                                             <li key={index}><Link to={`/corporate?id=${service}`}>{service.replace(/_/g, ' ')}</Link></li>
