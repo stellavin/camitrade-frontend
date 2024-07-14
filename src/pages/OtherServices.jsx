@@ -12,8 +12,8 @@ const OtherServices = () => {
     return (
         <>
         <CanonicalHeaders
-                title ={`We Offer ${serviceName.replace("_", " ")} Services`}
-                description ={`Camitrade Fiduciaries Offers ${serviceName.replace("_", " ")} Services Globally | Mauritius | Seychelles | South Africa | Dubai| UAE | Cook Islands | Curacao`}
+                title ={`We Offer ${serviceName.replace(/_/g, " ")} Services`}
+                description ={`Camitrade Fiduciaries Offers ${serviceName.replace(/_/g, " ")} Services Globally | Mauritius | Seychelles | South Africa | Dubai| UAE | Cook Islands | Curacao`}
             />
             <Header />
             <Breadcrumbs pageTitle={serviceName.replace(/_/g, ' ')}/>
