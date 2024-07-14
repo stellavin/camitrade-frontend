@@ -17,7 +17,7 @@ const About = () => {
         <>
             <Helmet>
                 <title>About Us | Fiduciary Trust International</title>
-                <meta name="description" content="Camitrade Investment Fiduciaries offers expert incorporation and administration services tailored to global markets, ensuring legal compliance and long-term business success." />
+                <meta name="description" content="Camitrade Investment Fiduciaries provides expert global incorporation and administration services, ensuring legal compliance and sustainable business growth." />
                 <link rel="canonical" href={canonicalUrl} />
             </Helmet>
             <Header />
