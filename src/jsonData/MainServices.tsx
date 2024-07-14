@@ -18583,6 +18583,2509 @@ const VirtualPhysicalOfficeServicesContent = (
   </div>
 );
 
+const mutualFund1 = (
+  <>
+  <div>
+    <h2>Anguilla Professional Fund License</h2>
+    <p>
+        The Mutual Funds Act provides for the registration or recognition and regulation of mutual
+        funds and the licensing of managers and administrators carrying on business in or from within
+        Anguilla. Provision is also made for unit trusts, which refer to an arrangement creating a trust
+        under the laws of Anguilla or of any jurisdiction in which unit holders participating in the
+        arrangement are the beneficiaries of the trust.
+    </p>
+    <p>
+        A mutual fund as defined by the Act means a company incorporated, a partnership formed, a
+        unit trust organized or other similar body formed under the laws of Anguilla or of any other
+        jurisdiction that collects and pools investor monies for the purpose of investing collectively. The
+        fund must also issue shares that entitle the holder of those shares to receive on demand or
+        within a specified period after demand an amount calculated by reference to the value of a
+        proportionate interest in the whole or in a part of the net assets of the company, partnership, the
+        unit trust or similar body.
+    </p>
+
+    <h2>About Anguilla Private Fund</h2>
+    <p>
+        This refers to a mutual fund whose constitutional documents specify that it will have no more
+        than 99 members. Private funds are recognised under the Act. The documents must also specify
+        that the making of an invitation to subscribe for or purchase shares issued by the mutual fund
+        are not offered to the public. Exemption from recognition is given to a family trust fund as
+        defined in the Act.
+    </p>
+    <p>
+        There is no restriction on the amount of investment by individuals who may constitute a private
+        fund. Promoters of private funds should apply for recognition.
+    </p>
+
+    <h2>Benefits of Anguilla Private Fund License</h2>
+    <ol>
+        <li>Anguilla Private Fund has Full tax exemption</li>
+        <li>Anguilla Private Fund has No reporting requirements</li>
+        <li>High confidentiality (closed the register of shareholders and directors)</li>
+        <li>Anguilla Private Fund has the ability to use nominee services</li>
+        <li>Anguilla has a high economic and political stability</li>
+        <li>Well-regulated and qualified financial services industry</li>
+    </ol>
+
+    <h2>Key legal requirements</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Requirement</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity</td>
+                <td>Anguilla domestic company</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>At least 1 shareholder (can also be a legal person, no nationality or residency restrictions)</td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Fund administrator</td>
+                <td>The Applicant must employ a fund administrator.</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Fund manager</td>
+                <td>The Applicant must employ a fund manager with no local requirement</td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Local office</td>
+                <td>Local Office Not Required</td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Capital requirement</td>
+                <td>There is no minimum paid-up capital for Anguilla Private Fund prescribed by Anguilla FSC.</td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Reporting</td>
+                <td>No reporting requirements</td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Taxation</td>
+                <td>Zero tax</td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Auditor</td>
+                <td>A manager or administrator who provides services to one private mutual fund or one professional mutual fund and whose business is only to appoint other service providers or to receive fees or both, is exempted from the requirement to appoint an auditor.</td>
+            </tr>
+        </tbody>
+    </table>
+</div></>
+);
+const mutualFund2 = (
+  <>
+  <div>
+  <h2>Anguilla Professional Fund license</h2>
+  <p>The Mutual Funds Act provides for the registration or recognition and regulation of mutual funds and the licensing of managers and administrators carrying on business in or from within Anguilla. Provision is also made for unit trusts, which refer to an arrangement creating a trust under the laws of Anguilla or of any jurisdiction in which unit holders participating in the arrangement are the beneficiaries of the trust.</p>
+  <p>A mutual fund as defined by the Act means a company incorporated, a partnership formed, a unit trust organized or other similar body formed under the laws of Anguilla or of any other jurisdiction that collects and pools investor monies for the purpose of investing collectively. The fund must also issue shares that entitle the holder of those shares to receive on demand or within a specified period after demand an amount calculated by reference to the value of a proportionate interest in the whole or in a part of the net assets of the company, partnership, the unit trust or similar body.</p>
+
+  <h3>About Anguilla Professional Fund</h3>
+  <p>A professional fund is a fund, the shares of which are made available only to professional investors and the initial investment in which, in respect of each of the persons constituting a majority of such investors, is not less than US$100,000 or its equivalent in another currency. This minimum initial investment shall not apply in respect of an investment made by the manager, administrator, promoter or underwriter of the professional fund. A professional investor means a person whose ordinary business involves dealing in investments or who has signed a declaration that he, whether individually or jointly with his spouse, has a net worth in excess of US$1 million or its equivalent in any other currency and that he consents to being treated as a professional investor.</p>
+
+  <h3>Benefits of Anguilla Professional Fund License</h3>
+  <ol>
+    <li>Anguilla Professional Fund has Full tax exemption</li>
+    <li>Anguilla Professional Fund has no reporting requirements</li>
+    <li>High confidentiality (closed the register of shareholders and directors)</li>
+    <li>Anguilla Professional Fund has the ability to use nominee services</li>
+    <li>Anguilla has a high economic and political stability</li>
+    <li>Well-regulated and qualified financial services industry</li>
+  </ol>
+
+  <h3>Key legal requirements</h3>
+  <table>
+    <tbody>
+      <tr>
+        <td>1. Entity</td>
+        <td>Anguilla domestic company</td>
+      </tr>
+      <tr>
+        <td>2. Directors</td>
+        <td>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction</td>
+      </tr>
+      <tr>
+        <td>3. Shareholders</td>
+        <td>At least 1 shareholder (can also be a legal person, no nationality or residency restrictions)</td>
+      </tr>
+      <tr>
+        <td>4. Fund administrator</td>
+        <td>The Applicant must employ a fund administrator.</td>
+      </tr>
+      <tr>
+        <td>5. Fund manager</td>
+        <td>The Applicant must employ a fund manager with no local requirement</td>
+      </tr>
+      <tr>
+        <td>6. Local office</td>
+        <td>Local Office Not Required</td>
+      </tr>
+      <tr>
+        <td>7. Capital requirement</td>
+        <td>Minimum investment per investor is US$100,000 or its equivalent in another currency.</td>
+      </tr>
+      <tr>
+        <td>8. Reporting</td>
+        <td>No reporting requirements</td>
+      </tr>
+      <tr>
+        <td>9. Taxation</td>
+        <td>Zero tax</td>
+      </tr>
+      <tr>
+        <td>10. Auditor</td>
+        <td>A manager or administrator who provides services to one private mutual fund or one professional mutual fund and whose business is only to appoint other service providers or to receive fees or both, is exempted from the requirement to appoint an auditor.</td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+
+const mutualFund3 = (
+  <>
+  <div>
+    <h2>Anguilla Public Fund License</h2>
+    <p>
+        The Mutual Funds Act provides for the registration or recognition and regulation of mutual
+        funds and the licensing of managers and administrators carrying on business in or from within
+        Anguilla. Provision is also made for unit trusts, which refer to an arrangement creating a trust
+        under the laws of Anguilla or of any jurisdiction in which unit holders participating in the
+        arrangement are the beneficiaries of the trust.
+    </p>
+    <p>
+        A mutual fund as defined by the Act means a company incorporated, a partnership formed, a
+        unit trust organized or other similar body formed under the laws of Anguilla or of any other
+        jurisdiction that collects and pools investor monies for the purpose of investing collectively. The
+        fund must also issue shares that entitle the holder of those shares to receive on demand or
+        within a specified period after demand an amount calculated by reference to the value of a
+        proportionate interest in the whole or in a part of the net assets of the company, partnership, the
+        unit trust or similar body.
+    </p>
+
+    <h2>About Anguilla Public Fund</h2>
+    <p>
+        The Act defines a public fund as a fund that is not a private or professional fund. In practical
+        terms, a public fund is one that offers shares in the entity used to form it to the general public
+        through the issuance of a prospectus. A prospectus is a document which purpose is to make an
+        invitation to the public or any section to subscribe for or purchase shares issued by a public
+        fund. A public fund must issue a prospectus.
+    </p>
+    <p>
+        Public funds must maintain accounting records and prepare annual audited financial accounts
+        for submission to the Commission.
+    </p>
+
+    <h2>Key legal requirements</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Requirement</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity</td>
+                <td>Anguilla domestic company</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>At least 1 shareholder (can also be a legal person, no nationality or residency restrictions)</td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Fund administrator</td>
+                <td>The Applicant must employ a fund administrator.</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Fund manager</td>
+                <td>The Applicant must employ a fund manager with no local requirement</td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Local office</td>
+                <td>Local Office Not Required</td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Capital requirement</td>
+                <td>No restrictions on capital and subscription requirement</td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Reporting</td>
+                <td>Public funds must maintain accounting records and prepare annual audited financial accounts for submission to the Commission.</td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Taxation</td>
+                <td>Zero tax</td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Auditor</td>
+                <td>An approved auditor is required for registered public fund</td>
+            </tr>
+        </tbody>
+    </table>
+</div></>
+);
+
+const mutualFund4 = (
+  <>
+  <div>
+    <h2>Belize Private Fund License</h2>
+    <p>
+        Mutual fund or “fund” means a company incorporated, a partnership formed, a unit trust
+        organised or other similar body formed or organised under the laws of Belize or that of any
+        other country or jurisdiction which,
+        (a) Collects and pools funds for the purpose of collective investment; and
+        (b) Issues shares (as herein defined) that entitle the holder to receive on demand or within a
+        specified period after demand an amount computed by reference to the value of a
+        proportionate interest in the whole or in a part of the net assets of the company, the
+        partnership or the unit trust, as the case may be,
+        And includes an umbrella fund whose shares are split into a number of different class funds or
+        sub-funds, but excludes any arrangements which are designated by regulations.
+    </p>
+    <p>
+        The conditions under which these funds are registered, administrated and managed from
+        within Belize (or elsewhere) are expressly anchored in the Mutual Fund Act and provides for
+        the basic protection of mutual fund investors. The Act does not impose specific requirements
+        with regard to the location of the manager, investment advisor, administrator or the custodian
+        of a public, private or professional fund. As is defined under the Mutual Fund Act, the
+        expression of carrying on business from within Belize includes carrying on business outside of
+        Belize from a place of business or from a registered office within Belize. For the purpose of
+        carrying on business as a mutual fund, a manager or administrator, shall, if carrying on
+        business anywhere outside of Belize, be deemed to be carrying on business from within Belize.
+    </p>
+
+    <h2>About Belize Private Fund</h2>
+    <p>
+        The Belize Mutual Funds Act defines a Private Fund as a fund that has less than fifty investors
+        and the constitutional documents of which prohibit the offering of its shares to the general
+        public. Certain private funds are designed primarily to provide capital growth while others are
+        intended to preserve capital.
+    </p>
+    <p>
+        At application, a proposed private fund will be expected to demonstrate the “private basis” of
+        offering its shares to prospective investors and to explain what criteria will enable any
+        particular investors to qualify as “private”. It remains with the Registrar of Mutual Funds to
+        either accept or reject any such explanation.
+    </p>
+
+    <h2>Key legal requirements</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Requirement</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity</td>
+                <td>
+                    <ol>
+                        <li>Belize International Business Company</li>
+                        <li>Unit Trust</li>
+                        <li>Limited partnership</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>The licensee will need at least 2 (two) natural persons Fit and Proper directors of any jurisdiction</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>
+                    <ol>
+                        <li>The investment dealer will need at least one shareholder.</li>
+                        <li>Corporate shareholding is allowed and 100% foreign ownership is permitted.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Belize office</td>
+                <td>Local physical office not necessary</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Capital requirement</td>
+                <td>No Minimum paid-up capital</td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Custodian</td>
+                <td>
+                    <ol>
+                        <li>The applicant must have a custodian approved by the IFSC who can be;</li>
+                        <li>A Custodian licensed and approved locally by the minister.</li>
+                        <li>A Custodian licensed and approved under the laws of a recognized country or jurisdiction.</li>
+                        <li>A person with written permission from the Minister to carry on Business as a Custodian.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Fund administrator</td>
+                <td>The Applicant must employ a fund administrator with no local requirement</td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Fund manager</td>
+                <td>The Applicant must employ a fund manager with no local requirement</td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Compliance officer</td>
+                <td>
+                    The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.
+                </td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Insurance</td>
+                <td>The applicant must have indemnity insurance coverage or a fidelity bond acceptable to the regulator.</td>
+            </tr>
+        </tbody>
+    </table>
+</div></>
+);
+
+const mutualFund5 = (
+  <>
+  <div>
+    <h2>Belize Professional Fund License</h2>
+    <p>
+        Mutual fund or “fund” means a company incorporated, a partnership formed, a unit trust
+        organised or other similar body formed or organised under the laws of Belize or that of any
+        other country or jurisdiction which,
+        (a) Collects and pools funds for the purpose of collective investment; and
+        (b) Issues shares (as herein defined) that entitle the holder to receive on demand or within a
+        specified period after demand an amount computed by reference to the value of a
+        proportionate interest in the whole or in a part of the net assets of the company, the
+        partnership or the unit trust, as the case may be,
+        And includes an umbrella fund whose shares are split into a number of different class funds or
+        sub-funds, but excludes any arrangements which are designated by regulations.
+    </p>
+    <p>
+        The conditions under which these funds are registered, administrated and managed from
+        within Belize (or elsewhere) are expressly anchored in the Mutual Fund Act and provides for
+        the basic protection of mutual fund investors. The Act does not impose specific requirements
+        with regard to the location of the manager, investment advisor, administrator or the custodian
+        of a public, private or professional fund. As is defined under the Mutual Fund Act, the
+        expression of carrying on business from within Belize includes carrying on business outside of
+        Belize from a place of business or from a registered office within Belize. For the purpose of
+        carrying on business as a mutual fund, a manager or administrator, shall, if carrying on
+        business anywhere outside of Belize, be deemed to be carrying on business from within Belize.
+    </p>
+
+    <h2>About Belize Professional Fund</h2>
+    <p>
+        Professional fund means a mutual fund which, is offered only to professional investors and the
+        initial investment in which, in respect of each investor, is not less than USD 100,000 or its
+        equivalent in any other currency; and is designated as a professional fund by regulations.
+    </p>
+    <p>
+        Professional investor means a person,
+        (a) Whose ordinary business involves the acquisition or disposal of property of the same
+        kind as the property, or a substantial part of the property of the fund; or
+        (b) Who has signed a declaration that he has net worth in excess of USD 1 million or its
+        equivalent in any other currency and that he consents to being treated as a professional
+        investor;
+    </p>
+    <p>
+        The professional fund must first receive official recognition from the Registrar of Mutual Funds
+        before it can commence its business operations from Belize.
+    </p>
+
+    <h2>Key legal requirements</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Requirement</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity</td>
+                <td>
+                    <ol>
+                        <li>Belize International Business Company</li>
+                        <li>Unit Trust</li>
+                        <li>Limited partnership</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>The licensee will need at least 2 (two) natural persons Fit and Proper directors of any jurisdiction</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>
+                    <ol>
+                        <li>The investment dealer will need at least one shareholder.</li>
+                        <li>Corporate shareholding is allowed and 100% foreign ownership is permitted.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Belize office</td>
+                <td>Local physical office not necessary</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Capital requirement</td>
+                <td>Initial minimum investment of USD 100,000 is required per investor.</td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Custodian</td>
+                <td>
+                    <ol>
+                        <li>The applicant must have a custodian approved by the IFSC who can be;</li>
+                        <li>A Custodian licensed and approved locally by the minister.</li>
+                        <li>A Custodian licensed and approved under the laws of a recognized country or jurisdiction.</li>
+                        <li>A person with written permission from the Minister to carry on Business as a Custodian.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Fund administrator</td>
+                <td>The Applicant must employ a fund administrator with no local requirement</td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Fund manager</td>
+                <td>The Applicant must employ a fund manager with no local requirement</td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Compliance officer</td>
+                <td>
+                    The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.
+                </td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Insurance</td>
+                <td>The applicant must have indemnity insurance coverage or a fidelity bond acceptable to the regulator.</td>
+            </tr>
+        </tbody>
+    </table>
+</div></>
+);
+
+const mutualFund6 = (
+  <>
+  <div>
+    <h2>Belize Public Fund License</h2>
+    <p>
+        Mutual fund or “fund” means a company incorporated, a partnership formed, a unit trust
+        organised or other similar body formed or organised under the laws of Belize or that of any
+        other country or jurisdiction which,
+        (a) Collects and pools funds for the purpose of collective investment; and
+        (b) Issues shares (as herein defined) that entitle the holder to receive on demand or within a
+        specified period after demand an amount computed by reference to the value of a
+        proportionate interest in the whole or in a part of the net assets of the company, the
+        partnership or the unit trust, as the case may be,
+        And includes an umbrella fund whose shares are split into a number of different class funds or
+        sub-funds, but excludes any arrangements which are designated by regulations.
+    </p>
+    <p>
+        The conditions under which these funds are registered, administrated and managed from
+        within Belize (or elsewhere) are expressly anchored in the Mutual Fund Act and provides for
+        the basic protection of mutual fund investors. The Act does not impose specific requirements
+        with regard to the location of the manager, investment advisor, administrator or the custodian
+        of a public, private or professional fund. As is defined under the Mutual Fund Act, the
+        expression of carrying on business from within Belize includes carrying on business outside of
+        Belize from a place of business or from a registered office within Belize. For the purpose of
+        carrying on business as a mutual fund, a manager or administrator, shall, if carrying on
+        business anywhere outside of Belize, be deemed to be carrying on business from within Belize.
+    </p>
+
+    <h2>About Belize Public Fund</h2>
+    <p>
+        Public fund means a mutual fund which, offers any shares it issues for subscription or purchase
+        to any member of the general public or any section thereof; and is not a private fund or a
+        professional fund.
+    </p>
+    <p>
+        Public Mutual Funds are allowed to conduct business only after its official prospectus has been
+        inspected by the Registrar of Mutual Funds for official recognition and registration.
+    </p>
+    <p>
+        The Public Mutual fund is widely considered to be one of the most important forms of
+        investment available in a capital market and public offerings made for the purchase of its
+        multiple share class subscriptions provide mutual fund investors with the potential for long-
+        term capital appreciation and growth.
+    </p>
+
+    <h2>Key legal requirements</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Requirement</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity</td>
+                <td>
+                    <ol>
+                        <li>Belize International Business Company</li>
+                        <li>Unit Trust</li>
+                        <li>Limited partnership</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>The licensee will need at least 2 (two) natural persons Fit and Proper directors of any jurisdiction</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>
+                    <ol>
+                        <li>The investment dealer will need at least one shareholder.</li>
+                        <li>Corporate shareholding is allowed and 100% foreign ownership is permitted.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Belize office</td>
+                <td>Local physical office not necessary</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Capital requirement</td>
+                <td>No minimum capital requirements.</td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Custodian</td>
+                <td>
+                    <ol>
+                        <li>The applicant must have a custodian approved by the IFSC who can be;</li>
+                        <li>A Custodian licensed and approved locally by the minister.</li>
+                        <li>A Custodian licensed and approved under the laws of a recognized country or jurisdiction.</li>
+                        <li>A person with written permission from the Minister to carry on Business as a Custodian.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Fund administrator</td>
+                <td>The Applicant must employ a fund administrator with no local requirement</td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Fund manager</td>
+                <td>The Applicant must employ a fund manager with no local requirement</td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Compliance officer</td>
+                <td>
+                    The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.
+                </td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Insurance</td>
+                <td>The applicant must have indemnity insurance coverage or a fidelity bond acceptable to the regulator.</td>
+            </tr>
+            <tr>
+                <td>11.</td>
+                <td>Auditor</td>
+                <td>
+                    The Licensee, within one month after becoming licensed, shall appoint an external auditor who is acceptable to the Commission.
+                </td>
+            </tr>
+            <tr>
+                <td>12.</td>
+                <td>Accounting and audit requirements</td>
+                <td>
+                    <ol>
+                        <li>A public fund has to prepare financial statements and maintain adequate accounting records that are reviewed annually by a recognized auditor from Belize (or elsewhere).</li>
+                        <li>The approved financial statements and accounting records for a registered public fund should be kept at its principal place of business in Belize and be made available to all investment shareholders and to the Registrar of Mutual Funds.</li>
+                    </ol>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div></>
+);
+
+const mutualFund7 = (
+  <>
+  <div>
+    <h2>Bermuda Administered Fund License</h2>
+    <p>
+        Investment Funds are pooled investment vehicles structured either as Mutual Fund Companies,
+        Unit Trusts, Partnership Funds or Limited Liability Company “LLC” Funds.
+    </p>
+    <p>
+        Bermuda Investment Funds Amendment Act 2019 sets forth the regulatory environment for
+        operation of mutual funds in Bermuda. The Amendment Act brings within scope closed-ended
+        investment funds and overseas investment funds. A person operating a closed-ended fund or
+        an overseas investment fund prior to 1 January 2020 may continue to operate the fund without
+        the fund being authorised, registered or designated under the Funds Act for a period of 6
+        months. Operators of funds should use the transition period to assess whether the changes to
+        the Funds Act are applicable to them. Open-ended investment funds are currently required to
+        be classified as one of the Authorised Funds or Registered Funds under the Funds Act.
+    </p>
+    <p>
+        An application for registration or authorisation must be submitted to the BMA in a prescribed
+        form, which will require the submission of certain information and documentation relating to
+        the fund and payment of a registration fee.
+    </p>
+    <p>
+        Authorised Funds include:
+    </p>
+    <ol>
+        <li>Institutional Fund;</li>
+        <li>Administered Fund;</li>
+        <li>Standard Fund;</li>
+        <li>Specified Jurisdiction Fund.</li>
+    </ol>
+    
+    <h2>About Administered Fund</h2>
+    <p>
+        A fund may be authorised as an Administered Fund if:
+    </p>
+    <ol>
+        <li>Its administrator is licensed under the Fund Administration Provider Business Act 2019;</li>
+        <li>It requires participants to invest a minimum amount of $50,000 in the fund pursuant to its constitution or it is listed on a stock exchange recognised by the BMA.</li>
+    </ol>
+
+    <h2>Key legal requirements</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Requirement</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity requirements</td>
+                <td>
+                    <ol>
+                        <li>The entity making the application is Bermuda:</li>
+                        <li>Company</li>
+                        <li>Limited partnerships,</li>
+                        <li>Unit trust</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>
+                    <ol>
+                        <li>The investment dealer will need at least one shareholder.</li>
+                        <li>Corporate shareholding is allowed and 100% foreign ownership is permitted.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Fund manager</td>
+                <td>The fund must appoint the following an investment/fund manager with no local requirement.</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Fund administrator</td>
+                <td>Must appoint fund administrator who is required to be based in Bermuda.</td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Auditor</td>
+                <td>Must appoint an auditor who must be independent of the operator of the fund and its service providers.</td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Custodian</td>
+                <td>
+                    The fund property must be entrusted to a custodian, who must be licensed under the Banks and Deposit Companies Act 1999, the Trusts (Regulation of Trust Business) Act 2001 or the Investment Business Act 2003 if incorporated in Bermuda or be subject to equivalent regulatory supervision if incorporated elsewhere, and (unless a waiver is obtained from the BMA) must be independent of the operator of the fund and the fund’s directors, partners or managers (as applicable).
+                </td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Fit and proper</td>
+                <td>The operator of the fund, its officers and proposed service providers must be fit and proper persons to act as such.</td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Capital requirement</td>
+                <td>Minimum investment amount of USD 50,000.</td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Accounting and audit requirements</td>
+                <td>The fund must prepare annual financial statements which must be audited.</td>
+            </tr>
+            <tr>
+                <td>11.</td>
+                <td>Offering Document requirements</td>
+                <td>
+                    Each Registered Fund and Authorised Fund is required to prepare an offering document that complies with the Investment Fund Offering Document Rules 2019 (the “Offering Document Rules”) and file the same with the BMA for approval prior to the offering of units to participants or potential participants.
+                </td>
+            </tr>
+            <tr>
+                <td>12.</td>
+                <td>Valuation</td>
+                <td>The operator of a Registered Fund or Authorised Fund must carry out valuations of the assets and liabilities of the fund for the purposes of determining its net asset value.</td>
+            </tr>
+            <tr>
+                <td>13.</td>
+                <td>Licensed principal</td>
+                <td>The Applicant must employ at least one individual who is licensed as a principal.</td>
+            </tr>
+        </tbody>
+    </table>
+</div></>
+);
+
+const mutualFund8 = (
+  <>
+  <div>
+    <h2>Bermuda Institutional Fund License</h2>
+    <p>
+        Investment Funds are pooled investment vehicles structured either as Mutual Fund Companies,
+        Unit Trusts, Partnership Funds or Limited Liability Company “LLC” Funds.
+    </p>
+    <p>
+        Bermuda Investment Funds Amendment Act 2019 sets forth the regulatory environment for
+        operation of mutual funds in Bermuda. The Amendment Act brings within scope closed-ended
+        investment funds and overseas investment funds. A person operating a closed-ended fund or
+        an overseas investment fund prior to 1 January 2020 may continue to operate the fund without
+        the fund being authorised, registered or designated under the Funds Act for a period of 6
+        months. Operators of funds should use the transition period to assess whether the changes to
+        the Funds Act are applicable to them. Open-ended investment funds are currently required to
+        be classified as one of the Authorised Funds or Registered Funds under the Funds Act.
+    </p>
+    <p>
+        An application for registration or authorisation must be submitted to the BMA in a prescribed
+        form, which will require the submission of certain information and documentation relating to
+        the fund and payment of a registration fee.
+    </p>
+    <p>
+        Authorised Funds include:
+    </p>
+    <ol>
+        <li>Institutional Fund;</li>
+        <li>Administered Fund;</li>
+        <li>Standard Fund;</li>
+        <li>Specified Jurisdiction Fund.</li>
+    </ol>
+    
+    <h2>About Institutional Fund</h2>
+    <p>
+        A fund may be authorised as an Institutional Fund if:
+    </p>
+    <ol>
+        <li>Pursuant to its constitution and offering document, it is only open to qualified participants or it requires each participant to invest a minimum amount of $100,000 in the fund;</li>
+        <li>It has an officer, trustee or representative resident in Bermuda that has access to the books and records of the fund.</li>
+    </ol>
+
+    <h2>Key legal requirements</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Requirement</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity requirements</td>
+                <td>
+                    <ol>
+                        <li>The entity making the application is Bermuda:</li>
+                        <li>Company</li>
+                        <li>Limited partnerships,</li>
+                        <li>Unit trust</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>
+                    <ol>
+                        <li>The investment dealer will need at least one shareholder.</li>
+                        <li>Corporate shareholding is allowed and 100% foreign ownership is permitted.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Fund manager</td>
+                <td>The fund must appoint the following an investment/fund manager with no local requirement.</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Fund administrator</td>
+                <td>Must appoint fund administrator who is required to be based in Bermuda.</td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Auditor</td>
+                <td>Must appoint an auditor who must be independent of the operator of the fund and its service providers.</td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Custodian</td>
+                <td>
+                    The fund property must be entrusted to a custodian, who must be licensed under the Banks and Deposit Companies Act 1999, the Trusts (Regulation of Trust Business) Act 2001 or the Investment Business Act 2003 if incorporated in Bermuda or be subject to equivalent regulatory supervision if incorporated elsewhere, and (unless a waiver is obtained from the BMA) must be independent of the operator of the fund and the fund’s directors, partners or managers (as applicable).
+                </td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Fit and proper</td>
+                <td>The operator of the fund, its officers and proposed service providers must be fit and proper persons to act as such.</td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Capital requirement</td>
+                <td>Minimum investment amount of USD 100,000.</td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Accounting and audit requirements</td>
+                <td>The fund must prepare annual financial statements which must be audited.</td>
+            </tr>
+            <tr>
+                <td>11.</td>
+                <td>Offering Document requirements</td>
+                <td>
+                    Each Registered Fund and Authorised Fund is required to prepare an offering document that complies with the Investment Fund Offering Document Rules 2019 (the “Offering Document Rules”) and file the same with the BMA for approval prior to the offering of units to participants or potential participants.
+                </td>
+            </tr>
+            <tr>
+                <td>12.</td>
+                <td>Valuation</td>
+                <td>The operator of a Registered Fund or Authorised Fund must carry out valuations of the assets and liabilities of the fund for the purposes of determining its net asset value.</td>
+            </tr>
+            <tr>
+                <td>13.</td>
+                <td>Licensed principal</td>
+                <td>The Applicant must employ at least one individual who is licensed as a principal.</td>
+            </tr>
+        </tbody>
+    </table>
+</div></>
+);
+
+const mutualFund9 = (
+  <>
+  <div>
+  <p>
+    <h2>Bermuda Private Fund License</h2>
+    Investment Funds are pooled investment vehicles structured either as Mutual Fund Companies,
+    Unit Trusts, Partnership Funds or Limited Liability Company “LLC” Funds.
+    Bermuda Investment Funds Amendment Act 2019 sets forth the regulatory environment for
+    operation of mutual funds in Bermuda. The Amendment Act brings within scope closed-ended
+    investment funds and overseas investment funds. A person operating a closed-ended fund or
+    an overseas investment fund prior to 1 January 2020 may continue to operate the fund without
+    the fund being authorised, registered or designated under the Funds Act for a period of 6
+    months. Operators of funds should use the transition period to assess whether the changes to
+    the Funds Act are applicable to them. Open-ended investment funds are currently required to
+    be classified as one of the Authorised Funds or Registered Funds under the Funds Act.
+    An application for registration or authorisation must be submitted to the BMA in a prescribed
+    form, which will require the submission of certain information and documentation relating to
+    the fund and payment of a registration fee.
+  </p>
+  <p>
+    A fund may apply for registration under the following classifications if it satisfies the relevant
+    criteria (as set out below):
+  </p>
+  <ol>
+    <li>Private Fund;</li>
+    <li>Professional Closed Fund;</li>
+    <li>Professional Class A Fund; or</li>
+    <li>Professional Class B Fund</li>
+  </ol>
+  <p>(collectively referred to herein as “Registered Funds”).</p>
+  <p>
+    Registered Funds are generally subject to less extensive regulation than Authorised Funds.
+  </p>
+  <p><strong>About Private Fund</strong></p>
+  <p>
+    A fund may be registered as a Private Fund if the number of participants does not exceed 20
+    persons and the fund does not promote itself by communicating an invitation or inducement to
+    the public generally.
+  </p>
+  <p>
+    A Private Fund must appoint a local service provider authorised and regulated by the BMA.
+    The operator of an open-ended Private Fund is required to appoint a custodian with regard to
+    ensuring safekeeping of the fund’s assets and a fund administrator. The operator of a closed-
+    ended Private Fund is required to designate responsibility for segregating and safekeeping the
+    investment fund property to a fit and proper person to act as such based on the nature of the
+    investment fund property.
+  </p>
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1. Entity requirements</td>
+        <td>
+          <ol>
+            <li>
+              The entity making the application is Bermuda:
+              <ul>
+                <li>Company</li>
+                <li>Limited partnerships,</li>
+                <li>Unit trust</li>
+              </ul>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2. Directors</td>
+        <td>
+          The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction
+        </td>
+      </tr>
+      <tr>
+        <td>3. Shareholders</td>
+        <td>
+          <ul>
+            <li>The investment dealer will need at least one shareholder.</li>
+            <li>Corporate shareholding is allowed and 100%foreign ownership is permitted.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>4. Fund manager</td>
+        <td>
+          The fund must appoint the following an investment/fund manager with no local requirement.
+        </td>
+      </tr>
+      <tr>
+        <td>5. Fund administrator</td>
+        <td>
+          Must appoint fund administrator who is required to be based in Bermuda.
+        </td>
+      </tr>
+      <tr>
+        <td>6. Auditor</td>
+        <td>
+          Must appoint an auditor who must be independent of the operator of the fund and its service providers.
+        </td>
+      </tr>
+      <tr>
+        <td>7. Custodian</td>
+        <td>
+          The fund property must be entrusted to a custodian, who must be licensed under the Banks and Deposit Companies Act 1999, the Trusts (Regulation of Trust Business) Act 2001 or the Investment Business Act 2003 if incorporated in Bermuda or be subject to equivalent regulatory supervision if incorporated elsewhere, and (unless a waiver is obtained from the BMA) must be independent of the operator of the fund and the fund’s directors, partners or managers (as applicable);
+        </td>
+      </tr>
+      <tr>
+        <td>8. Fit and proper</td>
+        <td>
+          The operator of the fund, its officers and proposed service providers must be fit and proper persons to act as such
+        </td>
+      </tr>
+      <tr>
+        <td>9. Capital requirement</td>
+        <td>
+          No minimum capital requirement
+        </td>
+      </tr>
+      <tr>
+        <td>10. Accounting and audit requirements</td>
+        <td>
+          The fund must prepare annual financial statements which must be audited.
+        </td>
+      </tr>
+      <tr>
+        <td>11. Offering Document requirements</td>
+        <td>
+          Each Registered Fund and Authorised Fund is required to prepare an offering document that complies with the Investment Fund Offering Document Rules 2019 (the “Offering Document Rules”) and file the same with the BMA for approval prior to the offering of units to participants or potential participants.
+        </td>
+      </tr>
+      <tr>
+        <td>12. Valuation</td>
+        <td>
+          The operator of a Registered Fund or Authorised Fund must carry out valuations of the assets and liabilities of the fund for the purposes of determining its net asset value.
+        </td>
+      </tr>
+      <tr>
+        <td>13. Licensed principal</td>
+        <td>
+          The Applicant must employ at least one individual who is licensed as a principal.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+
+const mutualFund10 = (
+  <><div>
+  <h2>Bermuda Professional Closed Fund License</h2>
+  <p>
+      Investment Funds are pooled investment vehicles structured either as Mutual Fund Companies,
+      Unit Trusts, Partnership Funds or Limited Liability Company “LLC” Funds.
+  </p>
+  <p>
+      Bermuda Investment Funds Amendment Act 2019 sets forth the regulatory environment for
+      operation of mutual funds in Bermuda. The Amendment Act brings within scope closed-ended
+      investment funds and overseas investment funds. A person operating a closed-ended fund or
+      an overseas investment fund prior to 1 January 2020 may continue to operate the fund without
+      the fund being authorised, registered or designated under the Funds Act for a period of 6
+      months. Operators of funds should use the transition period to assess whether the changes to
+      the Funds Act are applicable to them. Open-ended investment funds are currently required to
+      be classified as one of the Authorised Funds or Registered Funds under the Funds Act.
+  </p>
+  <p>
+      An application for registration or authorisation must be submitted to the BMA in a prescribed
+      form, which will require the submission of certain information and documentation relating to
+      the fund and payment of a registration fee.
+  </p>
+  <p>
+      A fund may apply for registration under the following classifications if it satisfies the relevant
+      criteria (as set out below):
+  </p>
+  <ol>
+      <li>Private Fund;</li>
+      <li>Professional Closed Fund;</li>
+      <li>Professional Class A Fund; or</li>
+      <li>Professional Class B Fund</li>
+  </ol>
+  <p>
+      (collectively referred to herein as “Registered Funds”).
+  </p>
+  <p>
+      Registered Funds are generally subject to less extensive regulation than Authorised Funds.
+  </p>
+
+  <h2>About Professional Closed End Fund</h2>
+  <p>
+      A fund may be registered as a Professional Closed Fund if:
+  </p>
+  <ol>
+      <li>it is a closed-ended investment fund;</li>
+      <li>it is open only to qualified participants;</li>
+      <li>all qualified participants are provided with an investment warning prior to the time of
+          purchase of units in such form and containing such statements and information as the
+          BMA deems appropriate;</li>
+      <li>the operator of the fund has appointed a local service provider who is licensed by the
+          BMA or an officer, trustee or representative resident in Bermuda who has authority to
+          access the books and records of the fund;</li>
+      <li>the operator of the fund has appointed an auditor;</li>
+      <li>the financial statements are prepared in accordance with International Financial
+          Reporting Standards (“IFRS”), Generally Accepted Accounting Principles (“GAAP”) in
+          Bermuda, Canada, the UK or the US, or such other GAAP as the BMA may recognise.</li>
+  </ol>
+  <p>
+      Additionally, the operator of Professional Closed Fund is required to designate responsibility
+      for segregating and safekeeping the investment fund property to a fit and proper person to act
+      as such based on the nature of the investment fund property.
+  </p>
+
+  <h2>Key legal requirements</h2>
+  <table>
+      <thead>
+          <tr>
+              <th>No.</th>
+              <th>Requirement</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>1.</td>
+              <td>Entity requirements</td>
+              <td>
+                  <ol>
+                      <li>The entity making the application is Bermuda:</li>
+                      <li>Company</li>
+                      <li>Limited partnerships,</li>
+                      <li>Unit trust</li>
+                  </ol>
+              </td>
+          </tr>
+          <tr>
+              <td>2.</td>
+              <td>Directors</td>
+              <td>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction</td>
+          </tr>
+          <tr>
+              <td>3.</td>
+              <td>Shareholders</td>
+              <td>
+                  <ol>
+                      <li>The investment dealer will need at least one shareholder.</li>
+                      <li>Corporate shareholding is allowed and 100% foreign ownership is permitted.</li>
+                  </ol>
+              </td>
+          </tr>
+          <tr>
+              <td>4.</td>
+              <td>Fund manager</td>
+              <td>The fund must appoint the following an investment/fund manager with no local requirement.</td>
+          </tr>
+          <tr>
+              <td>5.</td>
+              <td>Fund administrator</td>
+              <td>Must appoint fund administrator who is required to be based in Bermuda.</td>
+          </tr>
+          <tr>
+              <td>6.</td>
+              <td>Auditor</td>
+              <td>Must appoint an auditor who must be independent of the operator of the fund and its service providers.</td>
+          </tr>
+          <tr>
+              <td>7.</td>
+              <td>Custodian</td>
+              <td>
+                  The fund property must be entrusted to a custodian, who must be licensed under the Banks and Deposit Companies Act 1999, the Trusts (Regulation of Trust Business) Act 2001 or the Investment Business Act 2003 if incorporated in Bermuda or be subject to equivalent regulatory supervision if incorporated elsewhere, and (unless a waiver is obtained from the BMA) must be independent of the operator of the fund and the fund’s directors, partners or managers (as applicable).
+              </td>
+          </tr>
+          <tr>
+              <td>8.</td>
+              <td>Fit and proper</td>
+              <td>The operator of the fund, its officers and proposed service providers must be fit and proper persons to act as such.</td>
+          </tr>
+          <tr>
+              <td>9.</td>
+              <td>Capital requirement</td>
+              <td>No set minimum investment amount.</td>
+          </tr>
+          <tr>
+              <td>10.</td>
+              <td>Accounting and audit requirements</td>
+              <td>The fund must prepare annual financial statements which must be audited.</td>
+          </tr>
+          <tr>
+              <td>11.</td>
+              <td>Offering Document requirements</td>
+              <td>
+                  Each Registered Fund and Authorised Fund is required to prepare an offering document that complies with the Investment Fund Offering Document Rules 2019 (the “Offering Document Rules”) and file the same with the BMA for approval prior to the offering of units to participants or potential participants.
+              </td>
+          </tr>
+          <tr>
+              <td>12.</td>
+              <td>Valuation</td>
+              <td>The operator of a Registered Fund or Authorised Fund must carry out valuations of the assets and liabilities of the fund for the purposes of determining its net asset value.</td>
+          </tr>
+          <tr>
+              <td>13.</td>
+              <td>Licensed principal</td>
+              <td>The Applicant must employ at least one individual who is licensed as a principal.</td>
+          </tr>
+      </tbody>
+  </table>
+</div></>
+);
+
+const mutualFund11 = (
+  <>
+  <div>
+    <h2>Bermuda Standard Fund License</h2>
+    <p>
+        Investment Funds are pooled investment vehicles structured either as Mutual Fund Companies,
+        Unit Trusts, Partnership Funds or Limited Liability Company “LLC” Funds.
+    </p>
+    <p>
+        Bermuda Investment Funds Amendment Act 2019 sets forth the regulatory environment for
+        operation of mutual funds in Bermuda. The Amendment Act brings within scope closed-ended
+        investment funds and overseas investment funds. A person operating a closed-ended fund or
+        an overseas investment fund prior to 1 January 2020 may continue to operate the fund without
+        the fund being authorised, registered or designated under the Funds Act for a period of 6
+        months. Operators of funds should use the transition period to assess whether the changes to
+        the Funds Act are applicable to them. Open-ended investment funds are currently required to
+        be classified as one of the Authorised Funds or Registered Funds under the Funds Act.
+    </p>
+    <p>
+        An application for registration or authorisation must be submitted to the BMA in a prescribed
+        form, which will require the submission of certain information and documentation relating to
+        the fund and payment of a registration fee.
+    </p>
+    <p>
+        Authorised Funds include:
+    </p>
+    <ol>
+        <li>Institutional Fund;</li>
+        <li>Administered Fund;</li>
+        <li>Standard Fund;</li>
+        <li>Specified Jurisdiction Fund.</li>
+    </ol>
+    
+    <h2>About Standard Fund</h2>
+    <p>
+        A fund qualifies as a Standard fund if it does not fit within any other class of authorised fund.
+        Such funds are not restricted to sophisticated investors and may include a more significant
+        retail element among their investors. Consequently, they are subject to more comprehensive
+        regulation and supervision.
+    </p>
+    <p>
+        Typically for retail investors, a standard fund has no set minimum investment amount. A fund
+        administrator is required to be based in Bermuda while other fund officers may be based
+        anywhere in the world.
+    </p>
+
+    <h2>Key legal requirements</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Requirement</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity requirements</td>
+                <td>
+                    <ol>
+                        <li>The entity making the application is Bermuda:</li>
+                        <li>Company</li>
+                        <li>Limited partnerships,</li>
+                        <li>Unit trust</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>
+                    <ol>
+                        <li>The investment dealer will need at least one shareholder.</li>
+                        <li>Corporate shareholding is allowed and 100% foreign ownership is permitted.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Fund manager</td>
+                <td>The fund must appoint the following an investment/fund manager with no local requirement.</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Fund administrator</td>
+                <td>Must appoint fund administrator who is required to be based in Bermuda.</td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Auditor</td>
+                <td>Must appoint an auditor who must be independent of the operator of the fund and its service providers.</td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Custodian</td>
+                <td>
+                    The fund property must be entrusted to a custodian, who must be licensed under the Banks and Deposit Companies Act 1999, the Trusts (Regulation of Trust Business) Act 2001 or the Investment Business Act 2003 if incorporated in Bermuda or be subject to equivalent regulatory supervision if incorporated elsewhere, and (unless a waiver is obtained from the BMA) must be independent of the operator of the fund and the fund’s directors, partners or managers (as applicable).
+                </td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Fit and proper</td>
+                <td>The operator of the fund, its officers and proposed service providers must be fit and proper persons to act as such.</td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Capital requirement</td>
+                <td>No set minimum investment amount.</td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Accounting and audit requirements</td>
+                <td>The fund must prepare annual financial statements which must be audited.</td>
+            </tr>
+            <tr>
+                <td>11.</td>
+                <td>Offering Document requirements</td>
+                <td>
+                    Each Registered Fund and Authorised Fund is required to prepare an offering document that complies with the Investment Fund Offering Document Rules 2019 (the “Offering Document Rules”) and file the same with the BMA for approval prior to the offering of units to participants or potential participants.
+                </td>
+            </tr>
+            <tr>
+                <td>12.</td>
+                <td>Valuation</td>
+                <td>The operator of a Registered Fund or Authorised Fund must carry out valuations of the assets and liabilities of the fund for the purposes of determining its net asset value.</td>
+            </tr>
+            <tr>
+                <td>13.</td>
+                <td>Licensed principal</td>
+                <td>The Applicant must employ at least one individual who is licensed as a principal.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+</>
+);
+
+const mutualFund12 = (
+  <>
+  <div>
+  <p><strong>BVI Approved Funds</strong></p>
+  <p>The British Virgin Islands (BVI) is the second largest offshore jurisdiction for hedge funds globally and a prominent and flourishing jurisdiction for establishing offshore investment funds, generally. The BVI’s flexibility in offering alternative regulatory regimes for small to mid-sized hedge fund groups makes it an efficient proposition to establish investment managers and advisers in the BVI.</p>
+  <p><strong>About the license</strong></p>
+  <p>A BVI Approved fund is a low-cost hedge fund vehicle which allows a manager to bring together a small number of investors. This fund is cost-effective and designed to avoid the regulatory burden when establishing a small fund.</p>
+  <p>This category of fund was introduced in 2015, under the Securities and Investment Business Regulations. They can either be created as such or be converted from a BVI Incubator Fund, which can only operate for a maximum of three years. BVI Approved Funds have the following characteristics:</p>
+  <ol>
+    <li>Has no restriction on the minimum amount each investor subscribes.</li>
+    <li>The total number of investors is limited to 20.</li>
+    <li>Net assets of the Fund must not exceed US$100,000,000 or its equivalent in any other currency.</li>
+    <li>Requires an Administrator and Authorised Representative to be appointed.</li>
+    <li>No requirement for an auditor.</li>
+    <li>No restriction on the life of the Fund.</li>
+  </ol>
+  <p><strong>BVI Approved Funds benefits</strong></p>
+  <ul>
+    <li>Low cost set up when compared to other jurisdictions, which is great for small to midsize funds</li>
+    <li>There are no requirements for authorised capital or share capital, and depending on the Memorandum and Articles of Association, shares can be issued without par value.</li>
+    <li>In terms of the regulatory regime, private equity and venture capital managers are subject to a somewhat “lighter” touch</li>
+    <li>Good level of corporate governance and an accommodating corporate statute through the provisions of the BVI Business Companies Act</li>
+    <li>Legislation in line with EU legislation</li>
+  </ul>
+  <p><strong>Key legal requirements</strong></p>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Directors</td>
+        <td>An approved fund is required to appoint at least two directors, of whom at least one needs to be a natural person.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Administrator</td>
+        <td>
+          <ol>
+            <li>An approved fund must appoint an Administrator who will typically oversee the day-to-day operations of the fund, calculate and determine the net asset value (“NAV”) of the fund, process subscriptions and redemptions of the fund, act as the registrar and transfer agent, keep various records of the fund and undertake anti-money laundering procedures on behalf of the fund.</li>
+            <li>There is no requirement for the administrator chosen to be based in the BVI.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>An approved fund is required to appoint a custodian who must be functionally independent from the manager and the administrator.</li>
+            <li>The custodian must be a body corporate who is a fit and proper person to act as an authorised custodian of bearer shares; and has systems and procedures in place; for the secure custody of bearer shares; and that will enable it to comply with the obligations imposed on an authorised custodian.</li>
+            <li>A fund may apply for an exemption to engage a custodian, but in such event the FSC will want to be informed about the custodianship arrangements for the fund (for instance, whether a prime broker or the fund’s directors will be responsible for the safekeeping of the fund’s assets).</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Authorised representative</td>
+        <td>An approved fund must appoint an authorized representative in the BVI. The authorised representative will act as a conduit between the fund and the FSC. The authorized representative must hold a certificate issued by the FSC.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Investment manager</td>
+        <td>
+          <ol>
+            <li>A BVI domiciled investment manager can either be licensed under Part I of SIBA or be approved under the Investment Business (Approved Managers) Regulations, 2012 as amended (the “AMR”).</li>
+            <li>If the Investment Manager is licensed under SIBA, the approved fund has to obtain a license Category 3, sub-category B (and possibly E). Under this regime each director, shareholder (holding a significant interest of 10%) and officer of the person seeking a license must satisfy the FSC’s fit and proper criteria. The application also requires a detailed business plan. Multiple ongoing requirements are in place, such as the appointment of an anti-money laundering reporting officer and compliance officer, appropriate compliance systems and controls, the preparation of financial statements in accordance with certain accounting standards and the appointment of an authorized representative.</li>
+            <li>If licensed under the AMR which is a lighter regulation and licensing process whereby the manager may carry on business 7 days after submitting the application form to the FSC, without having to wait for the outcome. After being approved under the AMR, an approved investment manager may serve an unlimited number of private or professional funds recognized under SIBA, being restricted only by the amount of aggregated assets under management, which for open-ended funds cannot exceed USD 400 million. An approved manager may also manage funds domiciled outside of the BVI, provided that these funds will meet similar criteria as private or professional funds.</li>
+            <li>An approved manager must appoint an anti-money laundering reporting officer.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Taxation</td>
+        <td>BVI funds are not subject to any income, withholding or capital gains taxes in the BVI and there are no capital or stamp duties levied in the BVI on the issue, transfer or redemption of shares, interests or units of the fund.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Reporting requirements</td>
+        <td>
+          <ol>
+            <li>Filing an annual return with the BVI Financial Services Commission before 31 January</li>
+            <li>File a financial statement before June 30th</li>
+            <li>Filing a semi-annual return before 31 July</li>
+            <li>Updating the authorities of any changes to the terms of the fund’s offering</li>
+            <li>Comply with CRS Reporting and FATCA</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+
+const mutualFund13 = (
+  <>
+  <div>
+  <h2>BVI Incubator Fund</h2>
+  <p>
+    The BVI Incubator Fund is a start-up fund for those managers who want to keep costs in line
+    until they have a track record to attract sufficient subscriptions to make the funds viable for the
+    long term.
+  </p>
+  <p>
+    The incubator fund is designed for managers who are looking to start an investment strategy on
+    a trial basis with sophisticated investors. If the strategy succeeds within the prescribed
+    timescale, the Regulations provide a seamless route for the fund to be recognised or approved
+    as a private professional or approved fund, depending on the manager’s future plans for
+    growth of the fund. If the strategy does not succeed, the regime allows for an incubator fund to
+    close down or convert to an ordinary company. The incubator fund can exist and operate as
+    such for up to two years with the option to extend for an additional year.
+  </p>
+  <p>
+    An incubator fund can only accept 20 investors and has a minimum investment requirement of
+    US$20,000 and a maximum cap on net assets of US$20M. In addition, an incubator fund is not
+    required to appoint an auditor, administrator, custodian, investment manager, or auditor.
+  </p>
+  <h3>Benefits of BVI incubator fund</h3>
+  <ol>
+    <li>High level of corporate governance combined with a flexible corporate statute</li>
+    <li>A ‘lighter-touch’ regulatory regime that is more welcoming to venture capital managers and private equity managers</li>
+    <li>Suitable for smaller fund managers and those looking to build a track record</li>
+    <li>A robust and efficient commercial court</li>
+    <li>Competitive incorporation and running fees</li>
+    <li>No need for a custodian</li>
+    <li>No need for an offering document, only investor warnings, and investment strategy information</li>
+    <li>Legislation in line with EU legislation</li>
+  </ol>
+
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Directors</td>
+        <td>An incubator fund is required to appoint at least two directors, of whom at least one needs to be a natural person.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Authorised representative</td>
+        <td>Appoint an authorized representative and keep the authorities up to date with their details.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Minimum investment</td>
+        <td>US$ 20,000</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Number of investors</td>
+        <td>Maximum number of investors in the fund is 20</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Aggregate maximum investment</td>
+        <td>Not exceeding US$ 20 million (or its equivalent in another currency)</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Private placement memorandum</td>
+        <td>There is no formal requirement for a formal private placement memorandum. However, where no formal private placement memorandum is prepared, the regulatory requirement is for investors to each be given a written investment warning.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Audit</td>
+        <td>No audit requirement: rather, incubator funds are only required to prepare and file unaudited financial statements each year with the FSC. However, at the time of their future conversion into a private fund or a professional fund, an audit of (i) the fund’s current financial position (such audit being an independent determination of the status of the fund’s finances as opposed to an audit of its financial statements); and (ii) its compliance with the requirements of the incubator funds regime, will be required.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Fund administrator</td>
+        <td>No mandatory requirement for a third party fund administrator. However, it is advisable to engage a third party fund administrator, so as to (i) assist it with discharging its anti-money laundering obligations and automatic exchange of information reporting obligations under FATCA/ CRS; and (ii) enable it to have an independently calculated NAV, making it easier to market the fund’s track record to future prospective investors.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Reporting requirements</td>
+        <td>
+          <ol>
+            <li>Filing an annual return with the BVI Financial Services Commission before 31 January</li>
+            <li>File a financial statement before June 30th</li>
+            <li>Filing a semi-annual return before 31 July</li>
+            <li>Updating the authorities of any changes to the terms of the fund’s offering</li>
+            <li>Comply with CRS Reporting and FATCA</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Taxation</td>
+        <td>BVI funds are not subject to any income, withholding or capital gains taxes in the BVI and there are no capital or stamp duties levied in the BVI on the issue, transfer or redemption of shares, interests or units of the fund.</td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+
+const mutualFund14 = (
+  <>
+  <div>
+  <p><strong>BVI Private Funds</strong></p>
+  <p>An open-ended fund is defined as a company, Partnership or unit trust that:</p>
+  <ol>
+    <li>Collects and pools investor funds for the purpose of collective investment; and</li>
+    <li>Issues fund interests that entitle the holder to receive on demand, or within a specified period after demand, an amount computed by reference to the value of a proportionate interest in the whole or in part of the net assets of the entity.</li>
+  </ol>
+  <p>A Private Fund is a mutual fund whose constitutional documents specify either that it will have no more than 50 investors or that the making of an invitation to subscribe is to be made on a “private basis” only.</p>
+  <p><strong>Key features of a private fund include:</strong></p>
+  <ol>
+    <li>No minimum subscription threshold</li>
+    <li>No ‘professional’ or ‘sophistication’ tests for investors</li>
+    <li>Either no more than 50 investors at any one time or that fund interests are purely marketed on a private basis</li>
+    <li>Popular for friends and family offerings</li>
+    <li>Possible to obtain an exemption from the requirement to audit financial statements</li>
+    <li>Possible to obtain an exemption from requirement to appoint a custodian</li>
+    <li>No requirement for local auditor sign-off</li>
+  </ol>
+  <p><strong>Regulation</strong></p>
+  <p>The Securities and Investment Business Act 2010 (as amended) (SIBA) is the primary legislation regulating funds in the BVI and is monitored by the FSC. SIBA is supplemented by various regulations, including the Private Investment Funds Regulations (PIF Regulations) and the Financial Services Commission (Securities and Investment Business Fees) Regulations 2010 (as amended).</p>
+  <p><strong>Key legal requirements</strong></p>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>An investment fund can be structured as a BVI business company, segregated portfolio company (SPC), limited partnership (Partnership) or unit trust.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>A private fund shall at all times have at least 2 directors, at least one of whom shall be an individual.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Custodian</td>
+        <td>The custodian of a private or professional fund shall—
+          <ol>
+            <li>be a person who is functionally independent from the fund manager and the fund administrator; or</li>
+            <li>where the custodian is the same person as the fund manager or fund administrator, be a company having systems and controls that ensure that the persons fulfilling the custodial function are functionally independent from the persons fulfilling the fund management or fund administration functions.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Fund administrator/manager</td>
+        <td>Responsible for each of the following:
+          <ol>
+            <li>the management of fund property</li>
+            <li>the valuation of fund property</li>
+            <li>the safekeeping of fund property</li>
+          </ol>
+          For these purposes, the administrator must be either be an entity regulated (in the BVI or a recognised jurisdiction) to perform the specified functions; or an independent third party with experience in performing the specified functions; or a director, partner or trustee of the private investment fund.
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Auditor</td>
+        <td>A private fund shall appoint, and at all times have, an auditor for the purposes of auditing its financial statements.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Authorised representative</td>
+        <td>A private fund must appoint an authorized representative in the BVI. The authorised representative will act as a conduit between the fund and the FSC. The authorized representative must hold a certificate issued by the FSC.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Financial reporting</td>
+        <td>A private fund shall provide a copy of its audited financial statements to the Commission within 6 months after the financial year end for the financial statements or such extended period not exceeding 15 months.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Valuation of fund property</td>
+        <td>A private fund shall maintain a clear and comprehensive policy for the valuation of fund property with procedures that are sufficient to ensure that the valuation policy is effectively implemented.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Notification</td>
+        <td>Provide a written notice is required to be given to the FSC within 7 days of any resignation or termination of a functionary of a private fund. Further, no new functionary may be appointed without at least 7 days prior notification to the FSC of the proposed appointment. A fund does not breach the requirement of the Regulations if a functionary resigns, is terminated or otherwise ceases to act as a functionary and a replacement is appointed within 7 days of the original functionary ceasing to act.</td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+
+const mutualFund15 = (
+  <><div>
+  <h2>BVI Professional Fund</h2>
+  <p>
+    A Professional Fund is a mutual fund whose interests are made available only to professional
+    investors and the initial investment of each investor (other than certain “exempted investors”) is
+    not less than US$100,000.
+  </p>
+  <p>
+    A BVI Professional Fund is the most popular type of BVI open-ended investment fund
+    (approximately 70 per cent of all regulated funds in the jurisdiction). A professional investor is a
+    person;
+  </p>
+  <ol>
+    <li>whose ordinary business involves, whether for that person’s own account or the account of others, the acquisition or disposal of property of the same kind as the property, or a substantial part of the property, of the Fund, or</li>
+    <li>who has signed a declaration that the person, whether individually or jointly with such person’s spouse, has net worth in excess of US$1,000,000 (or its equivalent in any other currency) and that person consents to being treated as a professional investor.</li>
+  </ol>
+  <p>
+    A Professional Fund may carry on business in the BVI for up to 21 days prior to obtaining
+    recognition by the FSC, provided that the Professional Fund lodges an application for
+    recognition with the FSC within 14 days of launch. The FSC may recognize a mutual fund as a
+    Professional Fund if it is satisfied that the following qualifying criteria are met (“Recognition
+    Requirements”).
+  </p>
+  <h3>Key features</h3>
+  <ol>
+    <li>No restriction on the number of investors that can be brought into the fund</li>
+    <li>No AUM threshold</li>
+    <li>Interests in a professional fund may only be issued to ‘professional investors’</li>
+    <li>Minimum initial investment by each professional investor must not be less than US$100,000 (or other currency equivalent)</li>
+    <li>An investor can be ‘exempted’, in which case there is no minimum initial investment</li>
+    <li>For quick launch, it may carry on its business, or manage and administer its affairs, for a period of up to 21 days without being recognised by the FSC</li>
+    <li>Possible to obtain an exemption from the requirement to audit financial statements</li>
+    <li>Possible to obtain an exemption from requirement to appoint a custodian</li>
+    <li>No requirement for local auditor sign-off</li>
+    <li>A Professional Fund must not use the term “fund” or “mutual fund” or any derivative thereof in its name, unless the Professional Fund has obtained the prior written approval of the FSC and paid the requisite fee.</li>
+    <li>A Professional Fund can make an application to the FSC for exemption from the requirement to appoint a (i) Custodian (ii) Manager, and/or (iii) Auditor. There is no exemption for a Professional Fund from the requirement to have an Administrator.</li>
+  </ol>
+
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>An investment fund can be structured as a BVI business company, segregated company (SPC), limited partnership portfolio (Partnership), or unit trust.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>At least two Directors. At least one Director should be an individual. There is no need for a person to register as a Director with the FSC or for a Director to be resident in the BVI.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Minimum investment</td>
+        <td>US$100,000 or its equivalent in another currency. However, the minimum investment limit does not apply to the Manager, Administrator, promoter, underwriter, or an employee of the Professional Fund, which are each classed as “exempted investors”.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>The custodian of a professional fund shall be a person who is functionally independent from the fund manager and the fund administrator; or</li>
+            <li>Where the custodian is the same person as the fund manager or fund administrator, be a company having systems and controls that ensure that the persons fulfilling the custodial function are functionally independent from the persons fulfilling the fund management or fund administration functions.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund administrator/manager</td>
+        <td>Responsible for each of the following: the management of fund property, the valuation of fund property, the safekeeping of fund property. For these purposes, the administrator must be either be an entity regulated (in the BVI or a recognised jurisdiction) to perform the specified functions; or an independent third party with experience in performing the specified functions; or a director, partner, or trustee of the professional investment fund.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Auditor</td>
+        <td>A professional fund shall appoint, and at all times have, an auditor for the purposes of auditing its financial statements.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Authorised representative</td>
+        <td>A professional fund must appoint an authorized representative in the BVI. The authorised representative will act as a conduit between the fund and the FSC. The authorized representative must hold a certificate issued by the FSC.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Financial reporting</td>
+        <td>A professional fund shall provide a copy of its audited financial statements to the Commission within 6 months after the financial year end for the financial statements or such extended period not exceeding 15 months.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Valuation of fund property</td>
+        <td>A professional fund shall maintain a clear and comprehensive policy for the valuation of fund property with procedures that are sufficient to ensure that the valuation policy is effectively implemented.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Notification</td>
+        <td>Provide a written notice is required to be given to the FSC within 7 days of any resignation or termination of a functionary of a professional fund. Further, no new functionary may be appointed without at least 7 days prior notification to the FSC of the proposed appointment. A fund does not breach the requirement of the Regulations if a functionary resigns, is terminated, or otherwise ceases to act as a functionary and a replacement is appointed within 7 days of the original functionary ceasing to act.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>MLRO</td>
+        <td>A Professional Fund is also required to appoint a Money Laundering Reporting Officer.</td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+
+const mutualFund16 = (
+  <><div>
+  <p><strong>Cayman Islands Administered Fund</strong></p>
+  <p>The Cayman Islands is one of the world’s leading offshore jurisdictions for the establishment of investment funds.</p>
+  <p>The definition of a mutual fund, as established in the Mutual Funds Act, can be summarised as follows:</p>
+  <ol>
+    <li>A mutual fund is any company, trust or partnership either incorporated or established in the Cayman Islands, or if outside the Cayman Islands, managed from the Cayman Islands, which issues equity interest redeemable or repurchaseable at the option of the investor, the purpose of which is the pooling of investors’ funds with the aim of spreading investment risk and enabling investors to receive profits or gains from investments.</li>
+  </ol>
+  <p>The Mutual Funds Act (MFL) gives the Cayman Islands Monetary Authority responsibility for regulating certain categories of funds operating in and from the Cayman Islands.</p>
+  <p><strong>Key features of the Cayman Islands as a jurisdiction for mutual funds include:</strong></p>
+  <ol>
+    <li>The flexibility of the mutual funds regime within a clear and effective regulatory environment.</li>
+    <li>The quality and experience of the legal, administrative and accounting service providers.</li>
+    <li>Ease of registration procedures.</li>
+    <li>No requirement to have Cayman Islands-based directors or officers, managers, administrators or custodians.</li>
+    <li>No restriction on commercial matters such as investment objectives, trading strategies or leverage, trading or diversification limits. Such commercial matters are for the mutual fund’s sponsor to determine provided that full disclosure (and all associated risk factors) is made in the offering document.</li>
+  </ol>
+  <p><strong>About Administered Fund</strong></p>
+  <p>To be approved as an administered mutual fund, the fund must have a CIMA-licensed mutual fund administrator providing its principal office. The regulatory responsibility for the administered fund, which has more than 15 investors and which is not a licensed or registered mutual fund, is placed largely in the hands of a licensed Mutual Fund Administrator.</p>
+  <p>An administered mutual fund is the only type of regulated mutual fund that must appoint a Cayman Islands licensed mutual fund administrator to provide its principal office in the Cayman Islands.</p>
+  <p>For an administered mutual fund, the selected administrator, as principal office provider, undertakes the responsibility of being satisfied of the same matters that CIMA considers for a licensed fund.</p>
+  <p><strong>Fund administrator</strong></p>
+  <p>Mutual fund administration is defined as the management, including control of all or substantially all the assets of a mutual fund, or the administration of a mutual fund, or the provision of the principal office of the mutual fund in the Cayman Islands, or the provision of the operator (which is, as mentioned before, either the director, trustee or general partner) to a fund.</p>
+  <p><strong>Categories of Mutual Fund Administrators</strong></p>
+  <p>Currently, the Authority considers applications for the following types of Mutual Funds Administrators:</p>
+  <ol>
+    <li>Full Administrators: Can perform administration to an unlimited number of mutual funds.</li>
+    <li>Restricted Administrator: Can provide services for no more than 10 funds; must receive approval from the Authority for each fund for which they provide administration.</li>
+  </ol>
+  <p><strong>Key legal requirements</strong></p>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Corporate fund vehicle</td>
+        <td>Cayman Registered:
+          <ol>
+            <li>Exempted Company</li>
+            <li>Segregated Portfolio Company</li>
+            <li>Limited liability company</li>
+            <li>Unit Trust</li>
+            <li>Exempted Limited Partnership</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors/Trustees/Partners</td>
+        <td>
+          <ul>
+            <li>Minimum number is two</li>
+            <li>Corporate directorship allowed</li>
+            <li>Not required to be local</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Minimum subscription or investors</td>
+        <td>Minimum number of investors is 15</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Auditor</td>
+        <td>All regulated mutual funds must appoint an auditor from a list of firms approved by CIMA (and the local Cayman office of that audit firm will need to sign off on the audited financial statements).</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ul>
+            <li>The responsibility for regulatory oversight for administered funds is largely delegated to the licensed mutual fund administrator and therefore the administrator providing the fund's principal office must be satisfied that:
+              <ol>
+                <li>each promoter of the fund is of sound reputation</li>
+                <li>the fund's administration will be undertaken by persons with sufficient expertise to administer the mutual fund and who are of sound reputation</li>
+                <li>the fund's business and any offering of its equity interests will be carried out in a proper way</li>
+              </ol>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Investment manager</td>
+        <td>There is no restriction on the location or regulation of the investment manager of a regulated mutual fund and managers may wish to set up a Cayman Islands vehicle as the investment manager or adviser to the fund. The SIB Act regulates the advisory and management services of investment managers and investment advisers incorporated, registered or with a place of business in the Cayman Islands.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Custodian</td>
+        <td>Required</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Location of service providers</td>
+        <td>Save for the local auditor sign-off requirement, there is no requirement that a mutual fund’s service providers be based in the Cayman Islands or in any prescribed jurisdiction.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Offering document</td>
+        <td>A regulated mutual fund is required to file a copy of its offering document with the Authority before commencing business. This document must describe the shares, units or other interests on offer in all material respects and must contain sufficient information as is necessary to enable a prospective investor to make an informed decision as to whether or not to subscribe to or purchase the interests.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Accounting requirements</td>
+        <td>The Act requires an annual audit of the accounts of every regulated mutual fund by an auditor approved by the Authority. The audited accounts must be filed with the Authority within six months of the end of the fund’s financial year, although the Authority may allow an extension of time.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Annual filing</td>
+        <td>A regulated fund must file an annual report with the Authority. The annual return is usually submitted through the auditor and includes general information about the fund, operational information such as the nature of the investments held as well as financial information about the fund.</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>AML compliance</td>
+        <td>Cayman Islands investment funds, including mutual funds, are obliged to comply with Cayman Islands anti-money laundering, proliferation financing and terrorist financing (AML) legislation, including assessing and applying a risk-based approach to money laundering, proliferation financing and terrorist financing risks and compliance. Funds must designate natural persons to the roles of AML compliance officer, money laundering reporting officer and deputy money laundering reporting officer, after which performance of these functions can be delegated or outsourced.</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Principal office</td>
+        <td>A local physical office is required.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</>
+);
+
+const mutualFund17 = (
+  <div>
+  <h2>Cayman Islands Licensed Fund</h2>
+  <p>The Cayman Islands is one of the world’s leading offshore jurisdictions for the establishment of investment funds.</p>
+  <p>The definition of a mutual fund, as established in the Mutual Funds Act, can be summarised as follows:</p>
+  <p>A mutual fund is any company, trust or partnership either incorporated or established in the Cayman Islands, or if outside the Cayman Islands, managed from the Cayman Islands, which issues equity interest redeemable or repurchaseable at the option of the investor, the purpose of which is the pooling of investors’ funds with the aim of spreading investment risk and enabling investors to receive profits or gains from investments.</p>
+  <p>The Mutual Funds Act (MFL) gives the Cayman Islands Monetary Authority responsibility for regulating certain categories of funds operating in and from the Cayman Islands.</p>
+  <h3>Key features of the Cayman Islands as a jurisdiction for mutual funds include:</h3>
+  <ol>
+    <li>The flexibility of the mutual funds regime within a clear and effective regulatory environment.</li>
+    <li>The quality and experience of the legal, administrative and accounting service providers.</li>
+    <li>Ease of registration procedures.</li>
+    <li>No requirement to have Cayman Islands-based directors or officers, managers, administrators or custodians.</li>
+    <li>No restriction on commercial matters such as investment objectives, trading strategies or leverage, trading or diversification limits. Such commercial matters are for the mutual fund’s sponsor to determine provided that full disclosure (and all associated risk factors) is made in the offering document.</li>
+  </ol>
+  <h3>About Licensed Fund</h3>
+  <p>A mutual fund may qualify to conduct business by obtaining a licence from the Authority pursuant to the provisions of the Act and having a registered office in the Cayman Islands (or if a unit trust – the trustee is appropriately licensed).</p>
+  <p>The MFL specifies that a mutual fund operating in and from the Cayman Islands must have a licence unless: a licensed mutual fund administrator is providing its principal office; it meets the criteria set out in Section 4(3), which allows for funds to be registered, or it is exempt from regulation under Section 4(4).</p>
+  <p>A fund promoter manager would usually choose to licence a fund under the MF Act if the fund is intended to be a retail fund offered generally to the public outside the Cayman Islands, with its administrator and/or manager and other key service providers located outside the Cayman Islands. The provisions relating to licensed mutual funds benefit large, well known and reputable institutions, which do not propose to appoint Cayman Islands service providers.</p>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Corporate fund vehicle</td>
+        <td>
+          <ol>
+            <li>Cayman Registered;</li>
+            <li>Exempted Company</li>
+            <li>Segregated Portfolio Company</li>
+            <li>Limited liability company</li>
+            <li>Unit Trust</li>
+            <li>Exempted Limited Partnership</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors/ Trustees/ Partners</td>
+        <td>
+          <ol>
+            <li>Minimum number is two</li>
+            <li>Corporate directorship allowed</li>
+            <li>Not required to be local</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Minimum subscription or investors</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Auditor</td>
+        <td>All regulated mutual funds must appoint an auditor from a list of firms approved by CIMA (and the local Cayman office of that audit firm will need to sign off on the audited financial statements).</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund administrator</td>
+        <td>Although not a MF Act requirement, in practice regulated mutual funds will generally appoint an independent administrator whose function will be to handle all of the day to day fund accounting, net asset value calculations and investor due diligence and reporting.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Investment manager</td>
+        <td>
+          <ol>
+            <li>There is no restriction on the location or regulation of the investment manager of a regulated mutual fund and managers may wish to set up a Cayman Islands vehicle as the investment manager or adviser to the fund.</li>
+            <li>The SIB Act regulates the advisory and management services of investment managers and investment advisers incorporated, registered or with a place of business in the Cayman Islands.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Custodian</td>
+        <td>Required</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Location of service providers</td>
+        <td>Save for the local auditor sign-off requirement, there is no requirement that a mutual fund’s service providers be based in the Cayman Islands or in any prescribed jurisdiction.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Offering document</td>
+        <td>A regulated mutual fund is required to file a copy of its offering document with the Authority before commencing business. This document must describe the shares, units or other interests on offer in all material respects and must contain sufficient information as is necessary to enable a prospective investor to make an informed decision as to whether or not to subscribe to or purchase the interests.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Accounting requirements</td>
+        <td>
+          <ol>
+            <li>The Act requires an annual audit of the accounts of every regulated mutual fund by an auditor approved by the Authority.</li>
+            <li>The audited accounts must be filed with the Authority within six months of the end of the fund’s financial year, although the Authority may allow an extension of time.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Annual filing</td>
+        <td>A regulated fund must file an annual report with the Authority. The annual return is usually submitted through the auditor and includes general information about the fund, operational information such as the nature of the investments held as well as financial information about the fund.</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>AML compliance</td>
+        <td>
+          <ol>
+            <li>Cayman Islands investment funds, including mutual funds, are obliged to comply with Cayman Islands anti-money laundering, proliferation financing and terrorist financing (AML) legislation, including assessing and applying a risk-based approach to money laundering, proliferation financing and terrorist financing risks and compliance.</li>
+            <li>Funds must designate natural persons to the roles of AML compliance officer, money laundering reporting officer and deputy money laundering reporting officer, after which performance of these functions can be delegated or outsourced.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+);
+
+const mutualFund18 = (
+  <><div>
+  <h2>Cayman Islands Registered Fund</h2>
+  <p>
+    The Cayman Islands is one of the world’s leading offshore jurisdictions for the establishment of investment funds. The definition of a mutual fund, as established in the Mutual Funds Act, can be summarised as follows: A mutual fund is any company, trust, or partnership either incorporated or established in the Cayman Islands, or if outside the Cayman Islands, managed from the Cayman Islands, which issues equity interest redeemable or repurchaseable at the option of the investor, the purpose of which is the pooling of investors’ funds with the aim of spreading investment risk and enabling investors to receive profits or gains from investments. The Mutual Funds Act (MFL) gives the Cayman Islands Monetary Authority responsibility for regulating certain categories of funds operating in and from the Cayman Islands.
+  </p>
+  <h3>Key features of the Cayman Islands as a jurisdiction for mutual funds include:</h3>
+  <ol>
+    <li>The flexibility of the mutual funds regime within a clear and effective regulatory environment.</li>
+    <li>The quality and experience of the legal, administrative, and accounting service providers.</li>
+    <li>Ease of registration procedures.</li>
+    <li>No requirement to have Cayman Islands-based directors or officers, managers, administrators, or custodians.</li>
+    <li>No restriction on commercial matters such as investment objectives, trading strategies or leverage, trading or diversification limits. Such commercial matters are for the mutual fund’s sponsor to determine provided that full disclosure (and all associated risk factors) is made in the offering document.</li>
+  </ol>
+  <h3>About Registered Fund</h3>
+  <p>
+    This is by far the most popular type of regulated mutual fund, comprising around 97% of all such funds. A mutual fund may qualify to conduct business by simply registering as such with the Authority on the basis that:
+  </p>
+  <ol>
+    <li>The minimum initial investment per investor in the fund is at least US$100,000 (CI$82,000) or the equivalent;</li>
+    <li>The shares, units or other interests in the fund are listed on a recognised stock exchange; or</li>
+    <li>The equity interests are held by not more than fifteen investors, a majority of whom are capable of appointing or removing the operator of the fund.</li>
+  </ol>
+  <h3>Master funds</h3>
+  <p>
+    Master funds are a sub-category of registered funds. The master-feeder fund structure is popular for drawing in investment funds from different jurisdictions and consolidating them in one central investment platform. Particularly useful at adapting to country-specific regulations, master-feeders are flexible and efficient vehicles for raising financing for investment internationally.
+  </p>
+  <p>
+    A master fund is defined as “a company, partnership or unit trust that; a) is established or incorporated in Cayman; b) issues equity interest to one or more investors; c) holds investments and conducts trading activities for the principal purpose of implementing the overall investment strategy of the regulated feeder fund and d) has one or more regulated feeder funds either directly or through an intermediary entity established to invest in the master fund.” A regulated feeder fund is defined as “a regulated mutual fund that conducts more than 51% of its investing in a master fund either directly or through an intermediary entity”.
+  </p>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Corporate fund vehicle</td>
+        <td>
+          <ol>
+            <li>Cayman Registered;</li>
+            <li>Exempted Company</li>
+            <li>Segregated Portfolio Company</li>
+            <li>Limited liability company</li>
+            <li>Unit Trust</li>
+            <li>Exempted Limited Partnership</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors/ Trustees/ Partners</td>
+        <td>
+          <ol>
+            <li>Minimum number is two</li>
+            <li>Corporate directorship allowed</li>
+            <li>Not required to be local</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Minimum subscription or investors</td>
+        <td>The minimum initial investment per investor in the fund is at least US$100,000 (CI$82,000) or the equivalent</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Auditor</td>
+        <td>All regulated mutual funds must appoint an auditor from a list of firms approved by CIMA (and the local Cayman office of that audit firm will need to sign off on the audited financial statements).</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund administrator</td>
+        <td>
+          <p>Although not a MF Act requirement, in practice regulated mutual funds will generally appoint an independent administrator whose function will be to handle all of the day to day fund accounting, net asset value calculations and investor due diligence and reporting</p>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Investment manager</td>
+        <td>
+          <p>There is no restriction on the location or regulation of the investment manager of a regulated mutual fund and managers may wish to set up a Cayman Islands vehicle as the investment manager or adviser to the fund. The SIB Act regulates the advisory and management services of investment managers and investment advisers incorporated, registered or with a place of business in the Cayman Islands.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Custodian</td>
+        <td>Required</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Location of service providers</td>
+        <td>Save for the local auditor sign-off requirement, there is no requirement that a mutual fund’s service providers be based in the Cayman Islands or in any prescribed jurisdiction.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Offering document</td>
+        <td>
+          <p>A regulated mutual fund is required to file a copy of its offering document with the Authority before commencing business. This document must describe the shares, units or other interests on offer in all material respects and must contain sufficient information as is necessary to enable a prospective investor to make an informed decision as to whether or not to subscribe to or purchase the interests.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Accounting requirements</td>
+        <td>
+          <p>The Act requires an annual audit of the accounts of every regulated mutual fund by an auditor approved by the Authority. The audited accounts must be filed with the Authority within six months of the end of the fund’s financial year, although the Authority may allow an extension of time.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Annual filing</td>
+        <td>
+          <p>A regulated fund must file an annual report with the Authority. The annual return is usually submitted through the auditor and includes general information about the fund, operational information such as the nature of the investments held as well as financial information about the fund.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>AML compliance</td>
+        <td>
+          <p>Cayman Islands investment funds, including mutual funds, are obliged to comply with Cayman Islands anti-money laundering, proliferation financing and terrorist financing (AML) legislation, including assessing and applying a risk-based approach to money laundering, proliferation financing and terrorist financing risks and compliance. Funds must designate natural persons to the roles of AML compliance officer, money laundering reporting officer and deputy money laundering reporting officer, after which performance of these functions can be delegated or outsourced.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</>
+);
+const mutualFund19 = (
+  <>
+  <div>
+    <h2>Costa Rica Investment Fund License</h2>
+    <p>The Law No. 7523, of July 7, 1995 provides the legal framework for the provision of Investment Funds Services in Costa Rica. As per the Act, investment funds are separate assets belonging to a plurality of investors. With the assistance of a custody entity, they will be administered by the administrative companies and will be used to be invested in the manner provided in the respective prospectus, within the framework allowed by this law and the regulations of the Superintendency. The property right of the fund must be represented by participation certificates. For all legal purposes, when exercising the disposition and administration of an investment fund, it shall be understood that the managing company acts on behalf of and for the account of the investors of the respective fund.</p>
+    
+    <h3>Types Investment Funds allowed</h3>
+    <ol>
+        <li>Open investment funds: those whose assets are variable and unlimited; units placed among the public are directly redeemable by the fund and their term is indefinite. In these cases, the units may not be subject to operations other than redemption.</li>
+        <li>Closed investment funds: those whose assets are fixed; units placed among the public are not directly redeemable by the fund, except in the circumstances and procedures provided in this law.</li>
+        <li>Open or closed financial investment funds: they are those that have all of their assets invested in securities or in other financial instruments representing financial assets.</li>
+        <li>Open or closed non-financial investment funds: those whose main objective is investment in non-financial assets.</li>
+        <li>Investment mega-funds: those whose assets are invested exclusively in units of other investment funds.</li>
+    </ol>
+    
+    <h3>Key legal requirements</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Obligatory requirements</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Entity</td>
+                <td>
+                    <ol>
+                        <li>The entity making the application is a Costa Rican Company which includes:</li>
+                        <li>A Corporation</li>
+                        <li>Limited liability companies</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>
+                    <ol>
+                        <li>The licensee will need at least 1 (one) natural person Fit and Proper Director of any jurisdiction.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Shareholders</td>
+                <td>
+                    <ol>
+                        <li>The Mutual Funds Company will need at least 2 (two) shareholders.</li>
+                        <li>Corporate shareholding is allowed and 100% foreign ownership is permitted.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Financial Portfolio managers</td>
+                <td>
+                    <ol>
+                        <li>The Applicant’s Financial Portfolio Managers must be licensed or certified to perform said activities by the Costa Rican Chamber of Investment Funds.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Fund sales representative</td>
+                <td>
+                    <ol>
+                        <li>The Applicant’s Fund sales representative must be licensed or certified to perform said activities by the Costa Rican Chamber of Investment Funds.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Stock broker</td>
+                <td>
+                    <ol>
+                        <li>The Licensee will need to have an Authorized Broker Agent to do any transactions in the Stock Market.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Compliance officer</td>
+                <td>
+                    <ol>
+                        <li>The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Local office</td>
+                <td>
+                    <ol>
+                        <li>The company must have an office in Costa Rica and some employees must reside there.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Auditor</td>
+                <td>
+                    <ol>
+                        <li>The Licensee must establish an internal Audit committee or outsource depending on the Company requirements.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Capital requirement</td>
+                <td>
+                    <ol>
+                        <li>The Applicant must have the prescribed minimum paid-up capital and is able to meet the prescribed minimum net liquid capital requirement in cash or readily marketable securities. The prescribed minimum paid-up capital is USD 45,000.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>11.</td>
+                <td>Financial reporting</td>
+                <td>
+                    <ol>
+                        <li>Financial statements are to be provided quarterly as well as annually. Annual statements have to be audited and supplemented with an additional report on compliance with securities regulations and internal controls.</li>
+                    </ol>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+</>
+);
+
+const mutualFund20 = (
+  <>
+  <div>
+    <h2>Dubai Qualified Investor Fund (QIF) License</h2>
+    <p>Dubai International Financial Centre (DIFC) is one of the world’s top ten onshore financial centers and offers a secure and efficient platform for businesses and financial institutions to reach into and out of the emerging markets of the region. The quality and independence of DIFC’s regulator, the prevailing common law framework, excellent infrastructure, and tax efficiencies make it the perfect base to take advantage of the rapidly growing demand for financial and business services in the MENASA region. The DFSA is the independent regulator of financial and ancillary services conducted in or from the DIFC, responsible for managing or distributing Collective Investment Funds (Funds).</p>
+    
+    <h3>About the license</h3>
+    <p>Qualified Investor Funds are open only to Professional Clients (as defined by the DIFC). The other features of a QIF in the DIFC are:</p>
+    <ol>
+        <li>Minimum subscription of US$ 500,000;</li>
+        <li>Can have only 50 or fewer unit-holders; and</li>
+        <li>Units are offered to persons only by way of a Private Placement.</li>
+    </ol>
+    
+    <h3>Fund manager</h3>
+    <p>One of the main requirements to incorporate a QIF is to have a Fund Manager. A Fund Manager is the person who is legally accountable to the unitholders for the management of the Fund, including the property held for or within the Fund (“Fund Property”), and who establishes, manages, or otherwise operates or winds up the fund. A person who performs this financial service in the DIFC must obtain from the DFSA the regulatory permission of ‘Managing a Collective Investment Fund’.</p>
+    <p>To establish and manage a Fund in the DIFC you need to be either:</p>
+    <ol>
+        <li>A DFSA-licensed Fund Manager; or</li>
+        <li>An External Fund Manager</li>
+    </ol>
+    <p><strong>A Domestic Fund Manager</strong> is a Fund Manager who is incorporated in the DIFC and is licensed and regulated by the DFSA to provide the financial service of managing a CIF. A Domestic Fund Manager is licensed by the DFSA to operate the Fund and can provide this financial service to either Domestic or Foreign Funds.</p>
+    <p><strong>An External Fund Manager</strong> is a Foreign Fund Manager who is permitted to establish and manage a Domestic Fund in the DIFC without having to establish a place of business in the DIFC. The External Fund Manager must be subject to regulation by a Financial Services Regulator in a Recognised Jurisdiction (as defined by the DFSA) and subject itself to the DIFC laws and jurisdiction of the DIFC courts. The External Fund Manager must appoint a Fund Administrator or Trustee in the DIFC to act as its agent in its dealings with the DFSA, Unitholders, and prospective Unitholders.</p>
+    
+    <h3>Key legal requirements</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Obligatory requirements</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Fund vehicle</td>
+                <td>
+                    <ol>
+                        <li>Three types of vehicles can be used to establish a Domestic Fund in the DIFC, namely Investment Companies, Investment Trusts, and Investment Partnerships.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Directors</td>
+                <td>
+                    <ol>
+                        <li>A well-organized, diverse Board of directors with Independent Directors and robust governance policies. The Chair would have to be a non-executive Director.</li>
+                        <li>Minimum number is two.</li>
+                        <li>Corporate directorship is allowed.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Capital requirement</td>
+                <td>
+                    <ol>
+                        <li>The base capital requirement for a Category 3C Fund Manager is $70,000 if it manages Qualified Investor Funds (QIF). Actual capital required will depend on the nature, quantum of business, and forecasted annual expenditure, as per the financial model of the proposed firm.</li>
+                        <li>Capital waivers may be available to the DIFC branch of a regulated financial institution having its head office in a recognized regulatory jurisdiction.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Senior executive officer</td>
+                <td>
+                    <ol>
+                        <li>Senior banking professional with over 10-15 years of experience, ordinarily resident in the UAE.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Finance officer</td>
+                <td>
+                    <ol>
+                        <li>Senior and suitably-qualified finance professional. In case of a group, the FO can be from the parent company and does not have to be resident in the UAE.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Risk officer</td>
+                <td>
+                    <ol>
+                        <li>Senior risk professional, can be from the parent entity in case of a group.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Compliance officer</td>
+                <td>
+                    <ol>
+                        <li>Senior compliance professional with over 10 years of experience, ordinarily resident in the UAE.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Money laundering reporting officer</td>
+                <td>
+                    <ol>
+                        <li>Senior AML professional with over 10 years of experience, ordinarily resident in the UAE. This function can be combined with Compliance and one individual can carry out both responsibilities.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>External auditor</td>
+                <td>
+                    <ol>
+                        <li>Senior and suitably qualified external audit firm. The DFSA maintains a list of recognised auditors.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Fund manager</td>
+                <td>
+                    <ol>
+                        <li>Licensed fund manager is required.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>11.</td>
+                <td>Custodian</td>
+                <td>
+                    <ol>
+                        <li>Required.</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>12.</td>
+                <td>Taxation</td>
+                <td>
+                    <ol>
+                        <li>The DIFC provides a 40-year guarantee of zero taxes on corporate income and profits. Accordingly, no corporate income tax is imposed on the DIFC funds or on the fund manager. From an investor’s perspective, there is no withholding tax and no transfer tax.</li>
+                    </ol>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+</>
+);
+
+
+
 
 
 const LicensingServices = {
@@ -18927,7 +21430,88 @@ const LicensingServices = {
       Content: Payment_services_provider_licenses_23,
     },
   ],
-  Investment_Funds: [],
+  Investment_Funds: [
+    {
+      Service: "Anguilla Professional Fund license",
+      Content: mutualFund1,
+    },
+    {
+      Service: "Anguilla Professional Fund license",
+      Content: mutualFund2,
+    },
+    {
+      Service: "Anguilla Public Fund license",
+      Content: mutualFund3,
+    },
+    {
+      Service: "Belize Private Fund license",
+      Content: mutualFund4,
+    },
+    {
+      Service: "Belize Professional Fund license",
+      Content: mutualFund5,
+    },
+    {
+      Service: "Belize Public Fund license",
+      Content: mutualFund6,
+    },
+    {
+      Service: "Bermuda Administered Fund License",
+      Content: mutualFund7,
+    },
+    {
+      Service: "Bermuda Institutional Fund License",
+      Content: mutualFund8,
+    },
+    {
+      Service: "Bermuda Private Fund License",
+      Content: mutualFund9,
+    },
+    {
+      Service: "Bermuda Professional Closed Fund License",
+      Content: mutualFund10,
+    },
+    {
+      Service: "Bermuda Standard Fund License",
+      Content: mutualFund11,
+    },
+    {
+      Service: "BVI Approved Funds",
+      Content: mutualFund12,
+    },
+    {
+      Service: "BVI Incubator Fund",
+      Content: mutualFund13,
+    },
+    {
+      Service: "BVI Private Funds",
+      Content: mutualFund14,
+    },
+    {
+      Service: "BVI Professional Fund",
+      Content: mutualFund15,
+    },
+    {
+      Service: "Cayman Islands Administered Fund",
+      Content: mutualFund16,
+    },
+    {
+      Service: "Cayman Islands Licensed Fund",
+      Content: mutualFund17,
+    },
+    {
+      Service: "Cayman Islands Registered Fund",
+      Content: mutualFund18,
+    },
+    {
+      Service: "Costa Rica Investment Fund license",
+      Content: mutualFund19,
+    },
+    {
+      Service: "Dubai Qualified Investor Fund (QIF) license",
+      Content: mutualFund20,
+    },
+  ],
   Insurance: [
     {
       Service: "Insurance Companies and Intermediaries in the Czech Republic",
