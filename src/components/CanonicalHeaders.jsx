@@ -12,6 +12,7 @@ const CanonicalHeaders = ({title, description}) => {
          <Helmet>
                 <title>{title}</title>
                 <meta name="description" content={description}/>
+                <meta name="robots" content="noindex"/>
                 <link rel="canonical" href={canonicalUrl} />
         </Helmet>
         </>
