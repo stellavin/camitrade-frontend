@@ -4,11 +4,16 @@ import BannerSlider from '../components/BannerSlider';
 import Footer from '../components/Footer';
 import Breadcrumbs from '../components/Breadcrumbs';
 import OffersServiceList from '../components/Offers';
+import CanonicalHeaders from '../components/CanonicalHeaders';
 
 const   Offers = () => {
     const [serviceName, setServiceName]=useState('CamiTrade Offers');
     return (
         <>
+        <CanonicalHeaders
+                title ="About Us | We ensure legal compliance and sustainable growth."
+                description ="Camitrade Fiduciaries provides global company incorporation and administration services, Licensing services and Payment solutions"
+            />
             <Header />
             <Breadcrumbs pageTitle='CamiTrade Offers'/>
             <OffersServiceList handleSetName={setServiceName}/>

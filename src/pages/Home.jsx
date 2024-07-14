@@ -8,20 +8,15 @@ import AboutUs from '../components/AboutUs';
 import Consultation from '../components/Consultation';
 import Testimonial from '../components/Testimonial';
 import Footer from '../components/Footer';
-import { Helmet } from 'react-helmet-async';
-import { useLocation } from 'react-router-dom';
+import CanonicalHeaders from '../components/CanonicalHeaders';
 
 const   Home = () => {
-    const location = useLocation();
-    const canonicalUrl = `https://www.camitrade.com${location.pathname}`;
-  
     return (
         <>
-            <Helmet>
-                <title>Fiduciary & Licenses Services - Camitrade Services Registrars</title>
-                <meta name="description" content="Camitrade Fiduciaries Limited is licensed globally by Financial Services Authority for Trust & Corporate Services" />
-                <link rel="canonical" href={canonicalUrl} />
-            </Helmet>
+            <CanonicalHeaders
+            title ="Fiduciary & Licenses Services - Camitrade Services Registrars"
+            description ="Camitrade Fiduciaries Limited is licensed globally by Financial Services Authority for Trust & Corporate Services"
+            />
             <Header />
             <BannerSlider/>
             <Feature />
