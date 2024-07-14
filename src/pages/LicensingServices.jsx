@@ -10,7 +10,7 @@ const LicensingServices = () => {
     return (
         <>
          <CanonicalHeaders
-                title ={`${setServiceName}| We ensure legal compliance and sustainable growth.`}
+                title ={`${serviceName}| We ensure legal compliance and sustainable growth.`}
                 description ="Camitrade Fiduciaries provides global company incorporation and administration services, Licensing services and Payment solutions"
             />
             <Header />
