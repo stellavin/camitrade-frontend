@@ -10,8 +10,8 @@ const LicensingServices = () => {
     return (
         <>
          <CanonicalHeaders
-                title ={`${serviceName}| We ensure legal compliance and sustainable growth.`}
-                description ="Camitrade Fiduciaries provides global company incorporation and administration services, Licensing services and Payment solutions"
+               title ={`We Offer ${serviceName.replace(/_/g, " ")} Services`}
+               description ={`Camitrade Fiduciaries Offers ${serviceName.replace(/_/g, " ")} Services Globally | Mauritius | Seychelles | South Africa | Dubai| UAE | Cook Islands | Curacao`}
             />
             <Header />
             <Breadcrumbs pageTitle={serviceName.replace(/_/g, ' ')}/>

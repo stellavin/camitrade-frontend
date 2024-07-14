@@ -8,7 +8,6 @@ import CanonicalHeaders from '../components/CanonicalHeaders';
 const OtherServices = () => {
     const [serviceName, setServiceName]=useState('Other Services');
 
-    console.log('service name----', serviceName);
     return (
         <>
         <CanonicalHeaders
