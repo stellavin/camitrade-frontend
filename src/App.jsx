@@ -41,7 +41,7 @@ import Offers from './pages/Offers';
 function App() {
 
   //  Preloader 
-  let [isLoading, setIsLoading] = useState(true)
+  let [isLoading, setIsLoading] = useState(false)
 
   useEffect(() => {
     setTimeout(() => {
