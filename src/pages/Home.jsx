@@ -13,7 +13,7 @@ import { useLocation } from 'react-router-dom';
 
 const   Home = () => {
     const location = useLocation();
-    const canonicalUrl = `https://www.camitrade.com/${location.pathname}`;
+    const canonicalUrl = `https://www.camitrade.com${location.pathname}`;
   
     return (
         <>
