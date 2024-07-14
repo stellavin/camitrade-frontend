@@ -41,12 +41,12 @@ import Offers from './pages/Offers';
 function App() {
 
   //  Preloader 
-  let [isLoading, setIsLoading] = useState(false)
+  let [isLoading, setIsLoading] = useState(true)
 
   useEffect(() => {
     setTimeout(() => {
       setIsLoading(false)
-    }, 1500)
+    }, 10)
   }, [])
 
 
