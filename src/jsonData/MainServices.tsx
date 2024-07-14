@@ -6508,6 +6508,2386 @@ const MaltaSecuritizationVehicleHTML = (
   </div>
 );
 
+const Brokarage1 = (
+  <>
+  <div>
+  <h1>Australia Financial Services License</h1>
+  <p>
+    The Australian Financial Services Licence (AFSL) is a legal licence provided by the Australian Securities and Investments Commission (ASIC) enabling the operation and activities of Australian financial services businesses. The AFSL is issued by ASIC under Chapter 7 (section 911A) of the Corporations Act 2001, in line with its regulatory supervision of the financial services industry. Australian Financial Service Businesses must submit an application to ASIC coupled with supporting documents to be assessed.
+  </p>
+  <p>The AFSL is a legal requirement for any business that:</p>
+  <ol>
+    <li>provides or deals with a financial product including securities and interests in managed investment schemes.</li>
+    <li>provides ratings services to financial planners.</li>
+    <li>markets a financial product; and</li>
+    <li>Operates a registered scheme; and</li>
+    <li>Provides a custodial or depository service; and</li>
+    <li>Provides traditional trustee company services.</li>
+  </ol>
+  <p>In total, the procedure for obtaining a financial license in Australia takes 3-4 months.</p>
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Entity</td>
+        <td>
+          A resident company (A private (i.e. “Pty Ltd”) company). The company can be 100% established by non-residents of Australia.
+        </td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Directors</td>
+        <td>
+          Minimum of two directors are required. At least 1 director of the company must be a resident of Australia.
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Australian Public Officer</td>
+        <td>
+          Upon the request of the local tax authority, there must be a position at each enterprise that can only be occupied by an Australian citizen who has an accounting education.
+        </td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Auditor</td>
+        <td>
+          ASIC registered company auditor is required
+        </td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Insurance</td>
+        <td>
+          Appropriate professional indemnity insurance should be maintained
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <h2>Responsible Manager</h2>
+  <p>
+    You will need to employ "responsible directors/managers" with the required experience in the stated activities. "Responsible director/manager" is a person who is responsible for daily decisions regarding the provision of financial services of the company.
+  </p>
+</div>
+  </>
+);
+
+const Brokarage2 = (
+  <>
+  <div>
+  <h1>Bahamas Broker Dealer License</h1>
+  <p>
+    No company may carry on or has purpose to carry on securities business in or from the Bahamas unless that company is duly registered with the Securities Commission of the Bahamas (hereinafter Commission). The above-mentioned Commission is the national body responsible for the licensing of all types of financial dealers in Bahamas.
+  </p>
+  <p>
+    The Securities Commission of The Bahamas (“the Commission”) is responsible for the administration of the Securities Industry Act, 2011 (SIA, 2011) and the Investment Funds Act, 2003 (IFA, 2003), pursuant to which it supervises and regulates the activities of the investment funds, securities and capital markets. The Commission, having been appointed Inspector of Financial and Corporate Service Providers January 1, 2008, is also responsible for administering the Financial and Corporate Service Providers Act, 2000 (FCSPA 2000).
+  </p>
+  <h2>Licensed Activities</h2>
+  <ol>
+    <li>Deal in securities as agent or principal;</li>
+    <li>Manage securities;</li>
+    <li>Arrange deals in securities; and</li>
+    <li>Advise on securities.</li>
+  </ol>
+  <h2>Legal requirements</h2>
+  <table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Obligatory Requirement</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Entity</td>
+      <td>Bahamas company limited by shares</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Capital requirement</td>
+      <td>
+        <ol>
+          <li>Minimum of USD 300,000 for dealing as Agent and Principal</li>
+          <li>Minimum of USD 120,000 for dealing only as Agent</li>
+          <li>Minimum of USD 25,000 for advising on securities</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Physical presence</td>
+      <td>Approved fully furnished office is required</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Registered Representative</td>
+      <td>The license should appoint a representative who has been registered with the commission for the securities business.</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Directors</td>
+      <td>Minimum 1 director (can be only natural persons, no nationality or residency restrictions)</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Shareholder</td>
+      <td>Minimum 1 shareholder (can be natural or legal persons, no nationality or residency restrictions)</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Key Personnel</td>
+      <td>
+        <ol>
+          <li>Chief Executive Officer or Managing Director who must reside in the Bahamas</li>
+          <li>An independent Compliance Officer/MLRO who must reside in the Bahamas and who must be approved by the Securities Commission and Financial Intelligence Unit</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Taxation</td>
+      <td>
+        <ol>
+          <li>No tax on income and dividends</li>
+          <li>No capital gains and inheritance tax</li>
+          <li>No exchange control restrictions</li>
+          <li>No corporate tax</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Insurance</td>
+      <td>A registered firm shall at all times maintain insurance policies in an amount appropriate to the complexity, size and nature of the securities business of the firm to cover at least professional indemnity.</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Accounting and audit</td>
+      <td>
+        <ol>
+          <li>The Company will be required to file a copy of its audited financial statements with the Commission by not later than 120 days after the end of its financial year.</li>
+          <li>The Company will need an engagement letter with an approved auditor and the retainer.</li>
+          <li>Audit should be done from Bahamas</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Leverage</td>
+      <td>
+        <ol>
+          <li>With the new rules, all underlying CFD assets must have a minimum margin of 0.5% and a maximum leverage ratio of 200:1, as compared to the previous ratio of 500:1.</li>
+          <li>Forex brokers must also ensure that retail client accounts have a net equity at least 50%.</li>
+          <li>These retail clients are also no longer allowed to trade in binary options.</li>
+          <li>Stop-loss orders will now be set at 50% instead of the previous 20 or 30%.</li>
+        </ol>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div></>
+);
+
+const Brokarage3 = (
+  <>
+  <div>
+  <h1>Barbados Investment Dealer License</h1>
+  <p>
+    Barbados is an island country in the Lesser Antilles of the West Indies, in the Caribbean region of North America, and is the most easterly of the Caribbean islands.
+  </p>
+  <h2>About the license</h2>
+  <p>
+    The Financial Services Commission is responsible for supervising and regulating non-bank financial institutions in Barbados. Securities Companies are regulated by the Securities Act Cap. 318A.
+  </p>
+  <h2>Permitted Activities</h2>
+  <ol>
+    <li>
+      Makes or offers to make an agreement with another person to enter into or offer to enter into an agreement, for or with a view to acquiring, disposing of, subscribing for or underwriting securities or in any way effects or causes to effect a securities transaction;
+    </li>
+    <li>
+      Manages a portfolio of securities for another person on terms under which the first mentioned person may hold property of the other person.
+    </li>
+  </ol>
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Directors</td>
+        <td>At least 2 (two) natural persons Fit and Proper Directors of any jurisdiction</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Entity</td>
+        <td>
+          The entity making the application is a Barbados:
+          <ol>
+            <li>A company</li>
+            <li>Limited partnerships</li>
+            <li>Unit trust</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The Securities Company will need at least 2 shareholders.</li>
+            <li>Corporate shareholding is allowed</li>
+            <li>100% foreign ownership is permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Fit and Properness</td>
+        <td>
+          <ol>
+            <li>Has been awarded a degree or professional qualification in economics, banking, law, accountancy, business administration or chartered secretaryship from a university or other educational institution recognised by the Commission; or</li>
+            <li>Has at least 2 years’ experience of work as a trader or in some other capacity in which he was actively associated with and involved in the stockbroking activities of a member company or member firm of a securities exchange in any country within the Commonwealth or the United States of America; and</li>
+            <li>Has such other qualification as the Commission may prescribe.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Compliance officer</td>
+        <td>The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Local office</td>
+        <td>The applicant must have premises acceptable to the Commission.</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Auditor</td>
+        <td>The license must appoint an auditor who shall be a member in good standing of the Institute of Chartered Accountants of Barbados.</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Insurance</td>
+        <td>The applicant must have indemnity insurance coverage or a fidelity bond acceptable to the Commission.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h2>Minimum capital requirement</h2>
+  <ol>
+    <li>Where the securities company is to carry on the business of broking only, $500,000;</li>
+    <li>Where the business of the securities company is to extend to equities and other securities, $1,000,000;</li>
+    <li>Where the securities company is to carry on other activities in addition to broking for which registration under the Act is required, $5,000,000</li>
+  </ol>
+  <h2>Reporting</h2>
+  <ol>
+    <li>The proof of money balances of all ledger accounts in the form of trial balances;</li>
+    <li>A reasonable calculation of the minimum free capital required.</li>
+  </ol>
+</div></>
+);
+const Brokarage4 = (
+  <>
+  <div>
+  <h2>Belize Trading in Securities License</h2>
+  <p>
+    Belize is an independent country located in Central America, bordering Mexico and Guatemala. It enjoys a good reputation in financial services and is well-known internationally to banks and payment providers. Belize has implemented licensing legislation specifically focused on forex trading companies, regulated by the International Financial Services Commission of Belize (IFSC). This allows Belize to offer a full range of investment vehicles, making it an attractive jurisdiction for starting a business.
+  </p>
+  <h3>About License</h3>
+  <p>
+    The license permits entities to engage in trading and brokerage activities related to equity and debt securities, including acting as a broker for United States listed equities and other securities. Unlike some other licenses, such as foreign exchange licenses, the Trading in Securities License has broader coverage. It enables license holders to advise clients, manage investments, and perform tasks related to purchasing and selling stocks, bonds, and other securities.
+  </p>
+  <p>
+    The International Financial Services Commission Act of 2011 regulates trading in financial and commodity-based derivative instruments and other securities in Belize. The services provided by the licensee must align with those offered by licensed brokers for trading in financial and commodity-based derivatives. License holders can engage in brokerage, consultancy, and advisory services related to various financial activities.
+  </p>
+  <h3>Legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>Partnership</li>
+            <li>International Business Company</li>
+            <li>Limited Company</li>
+            <li>Unit Trust</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Directors</td>
+        <td>
+          <p>At least 2 (two) natural persons Fit and Proper Directors. At least one should be resident.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Shareholders</td>
+        <td>At least 2 shareholders</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Auditor</td>
+        <td>An approved auditor of any jurisdiction is required</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Compliance officer</td>
+        <td>The Compliance Officer must be approved by the commission from any jurisdiction</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Belize office</td>
+        <td>
+          <p>The applicant will operate an office, although it is not compulsory in Belize. The Licensee shall not establish a branch, subsidiary, or representative office without the prior approval of the IFSC.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Minimum capital requirement</td>
+        <td>
+          <p>The Licensee shall at all times keep deposited with a bank or other licensed financial institution in Belize the minimum paid up and unimpaired capital of USD 500,000</p>
+        </td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Taxation</td>
+        <td>
+          <p>Belize Forex brokerage companies are exempt from Belize local taxes on income derived outside of Belize</p>
+        </td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Reporting</td>
+        <td>
+          <ol>
+            <li>Quarterly financial reports to the IFSC (not audited)</li>
+            <li>Yearly company statement reports to the IFSC</li>
+            <li>Audit of the company’s financial reports and further submission of the audit results to the IFSC</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+const Brokarage5 = (
+  <>
+  <div>
+  <h2>Legal requirements for Bermuda Investment Business License</h2>
+  <p>The Investment Business Act 2003 (the “Act”) is the statutory basis for regulating investment business in Bermuda. The Act provides for a licensing regime for any person or entity (unless otherwise exempted or excluded) engaging in investment business, as defined by the Act, either in or from Bermuda. Bermuda Monetary Authority regulates “investment business” in or from with the Bermuda and provides that no person may carry on “investment business” of any kind in or from within the Bermuda unless they are licensed.</p>
+  
+  <h3>Permitted Activities</h3>
+  <p>The types of activity constituting investment business are broadly defined as follows:</p>
+  <ol>
+    <li>Dealing in investments;</li>
+    <li>Arranging deals in investments;</li>
+    <li>Managing investments;</li>
+    <li>Providing investment advice;</li>
+    <li>Providing administrative services with respect to investments; and</li>
+    <li>Operating an investment exchange.</li>
+  </ol>
+  
+  <h3>Categories and Sub-Categories of Investment Business License</h3>
+  <p>The following are the categories:</p>
+  <dl>
+    <dt>Category 1: Dealing in Investments</dt>
+    <dd>
+      <ol>
+        <li>Dealing as Agent</li>
+        <li>Dealing as Principal</li>
+      </ol>
+    </dd>
+    <dt>Category 2: Arranging Deals in Investments</dt>
+    <dd>
+      <ul>
+        <li>Making or offering, or agreeing to make—</li>
+        <li>Arrangements with a view to another person buying, selling, subscribing for or underwriting a particular investment, being arrangements which bring about or would bring about the transaction in question;</li>
+        <li>Arrangements with a view to a person who participates in the arrangements buying, selling, subscribing for or underwriting investments.</li>
+      </ul>
+    </dd>
+    <dt>Category 3: Investment Management</dt>
+    <dd>
+      <ol>
+        <li>Managing or offering, or agreeing to manage, assets belonging to another person where those assets consist of or include investments.</li>
+      </ol>
+    </dd>
+    <dt>Category 4: Investment Advice</dt>
+    <dd>
+      <ol>
+        <li>Giving or offering, or agreeing to give, to persons in their capacity as clients or potential clients, advice on the merits of their purchasing, selling, subscribing for or underwriting an investment, or exercising any right conferred by an investment to acquire, dispose of, underwrite or convert an investment.</li>
+      </ol>
+    </dd>
+  </dl>
+  
+  <h3>Legal requirements for Bermuda Investment Business License</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>A company registered or incorporated in Bermuda or elsewhere, including partnerships that are bodies corporate.</li>
+            <li>Types of companies include:
+              <ol>
+                <li>a company limited by shares;</li>
+                <li>a company limited by guarantee that is not authorized to issue shares;</li>
+                <li>a company limited by guarantee that is authorized to issue shares.</li>
+              </ol>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>Minimum of 2 (two) natural persons as Fit and Proper Directors from any jurisdiction.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Shareholder</td>
+        <td>
+          <ol>
+            <li>At least one shareholder required.</li>
+            <li>Corporate shareholding allowed.</li>
+            <li>100% foreign ownership permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Authorized representative</td>
+        <td>
+          <p>Required unless the license has significant management presence in Bermuda. Must be an individual certified by the Bermuda Monetary Authority.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Local office</td>
+        <td>
+          <ol>
+            <li>Cannot operate through a branch, representative, or contact office outside Bermuda without prior approval.</li>
+            <li>Cannot incorporate, form, or acquire a subsidiary without prior approval.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Auditor</td>
+        <td>
+          <p>Must appoint an auditor for auditing financial statements at all times.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Insurance</td>
+        <td>
+          <p>Must maintain professional indemnity and other prescribed insurance.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Minimum capital requirement</td>
+        <td>
+          <p>Must maintain capital resources not less than the prescribed minimum as per Regulatory Code.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Reporting</td>
+        <td>
+          <p>Financial statements must be submitted to the Bermuda Monetary Authority within six months of the end of the financial year.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>Client assets provisions</td>
+        <td>
+          <p>Must ensure client assets are identified, segregated, accounted for, and protected properly.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>Minimum net assets</td>
+        <td>
+          <ol>
+            <li>Minimum net asset levels:</li>
+            <li>
+              <ul>
+                <li>For investment activities as principal: $250,000</li>
+                <li>For investment activities as agent: $100,000</li>
+                <li>For other investment activities: $12,000</li>
+              </ul>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>Leverage ratio</td>
+        <td>
+          <p>Leverage ratio for the investment business license is 1:500.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+const Brokarage6 = (
+  <>
+  <div>
+  <h2>Legal requirements for British Virgin Islands Securities and Investment Business License</h2>
+  <p>The British Virgin Islands (BVI) is a self-governing British overseas territory located approximately sixty miles east of Puerto Rico and two miles from St. Thomas, U.S. Virgin Islands. BVI offers a well-established framework for companies providing financial services, regulated by the British Virgin Islands Financial Service Commission (BVI FSC). The BVI FSC regulates, supervises, and inspects all financial services within the BVI.</p>
+  
+  <h3>About license</h3>
+  <p>The BVI FSC licenses and authorizes companies under the Securities and Investment Business Act (SIBA) 2010, enabling them to operate financial service business.</p>
+  
+  <h3>Permitted Activities</h3>
+  <p>The types of activity constituting investment business are broadly defined in Schedule 2 of SIBA as follows:</p>
+  <ol>
+    <li>Dealing in investments;</li>
+    <li>Arranging deals in investments;</li>
+    <li>Managing investments;</li>
+    <li>Providing investment advice;</li>
+    <li>Providing custodial services with respect to investments;</li>
+    <li>Providing administrative services with respect to investments; and</li>
+    <li>Operating an investment exchange.</li>
+  </ol>
+  
+  <h3>Categories and Sub-Categories of Investment Business License</h3>
+  <dl>
+    <dt>Category 1: Dealing in Investments</dt>
+    <dd>
+      <ol>
+        <li>Sub-category A: Dealing as Agent</li>
+        <li>Sub-category B: Dealing as Principal</li>
+      </ol>
+    </dd>
+    <dt>Category 2: Arranging Deals in Investments</dt>
+    <dd></dd>
+    <dt>Category 3: Investment Management</dt>
+    <dd>
+      <ol>
+        <li>Sub-category A: Managing Segregated Portfolios (Excluding Mutual Funds)</li>
+        <li>Sub-category B: Managing Mutual Funds</li>
+        <li>Sub-category C: Managing Pension Schemes</li>
+        <li>Sub-category D: Managing Insurance Products</li>
+        <li>Sub-category E: Managing Other Types of Investment</li>
+      </ol>
+    </dd>
+    <dt>Category 4: Investment Advice</dt>
+    <dd>
+      <ol>
+        <li>Sub-category A: Investment Advice (Excluding Mutual Funds)</li>
+        <li>Sub-category B: Investment Advice (Mutual Funds)</li>
+      </ol>
+    </dd>
+    <dt>Category 5: Custody of Investments</dt>
+    <dd></dd>
+    <dt>Category 6: Administration of Investments</dt>
+    <dd></dd>
+    <dt>Category 7: Operating an Investment Exchange</dt>
+    <dd></dd>
+  </dl>
+  
+  <h3>Legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Entity</td>
+        <td>BVI Business Company</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>Minimum of 2 (two) natural person Fit and Proper directors from any jurisdiction.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>At least one shareholder required.</li>
+            <li>Corporate shareholding is allowed.</li>
+            <li>100% foreign ownership permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Authorised representative</td>
+        <td>
+          <p>A Licensee must appoint and at all times have an authorised representative who shall be a person or entity resident in the BVI and certified by the FSC.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Capital requirement</td>
+        <td>
+          <p>There are currently no minimum capital requirements, but the licensee must maintain adequate capital resources to support its investment business.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Physical presence</td>
+        <td>
+          <ol>
+            <li>Adequate, suitably qualified staff located in the BVI.</li>
+            <li>Adequate expenditure incurred in the BVI.</li>
+            <li>Physical offices or premises appropriate for the “core income-generating activities”.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Indemnity insurance</td>
+        <td>
+          <p>A registered firm must maintain insurance policies appropriate to cover professional indemnity.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Auditor</td>
+        <td>
+          <p>An approved auditor should be appointed.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Client assets</td>
+        <td>
+          <p>A Licensee must ensure that client assets are identified or identifiable, appropriately segregated, accounted for, and protected.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>Company records</td>
+        <td>
+          <p>A Licensee must keep records for at least five years, even after the cancellation or revocation of its license.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>Leverage</td>
+        <td>
+          <p>Maximum leverage of 1:1000.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>Compliance officer</td>
+        <td>
+          <p>A licensee must appoint a compliance officer unless exempt under specific regulations.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td>Taxation</td>
+        <td>
+          <p>Capital gains, death duties, inheritance taxes, dividends, royalties, or interest are not subject to taxation.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>Accounting requirements</td>
+        <td>
+          <p>Annual audited financial statements are required.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+const Brokarage7 = (
+  <>
+  <div>
+  <h2>Legal requirements for Cayman Islands Securities Investment Business License</h2>
+  <p>The Cayman Islands, located in the western Caribbean, are known as one of the major financial centers globally. The Cayman financial services industry is well-regulated, maintaining a positive reputation among investors. Companies incorporated in the Cayman Islands intending to conduct brokerage business must obtain a license from the Cayman Islands Monetary Authority (CIMA). Investment activities are regulated under the Securities Investment Business Law (SIBL) (latest amendment in 2015).</p>
+  
+  <h3>Permitted activities</h3>
+  <p>As per the Securities Investment Business Law (2011 Revision), a Securities Investment Business can carry out the following activities:</p>
+  <ol>
+    <li>Dealing in securities: buying, selling, subscribing for, or underwriting securities, or offering or agreeing to do so, either as principal or agent.</li>
+    <li>Arranging deals in securities: making arrangements with a view to:
+      <ol>
+        <li>Another person (whether as a principal or an agent) buying, selling, subscribing for, or underwriting; or</li>
+        <li>A person who participates in the arrangements of buying, selling, subscribing for or underwriting investments.</li>
+      </ol>
+    </li>
+    <li>Managing securities: managing securities belonging to another person involving the exercise of discretion.</li>
+    <li>Investment advice: giving or offering advice to persons as investors on the merits of buying, selling, subscribing for or underwriting a security.</li>
+  </ol>
+  
+  <h3>Advantages of Cayman SIBL</h3>
+  <ul>
+    <li>Cayman Islands are a major financial hub.</li>
+    <li>No local presence required.</li>
+    <li>Bank account can be held in any bank (not necessarily local).</li>
+    <li>No local income, corporation, capital gains, profits or withholding taxes for Cayman exempted companies.</li>
+    <li>High level of asset protection.</li>
+  </ul>
+  
+  <h3>Legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Entity</td>
+        <td>
+          <p>Companies incorporated in the Cayman Islands;</p>
+          <p>Partnerships established under Cayman Islands law;</p>
+          <p>Foreign companies registered in the Cayman Islands;</p>
+          <p>Other vehicles and individuals with a place of business in the Cayman Islands for securities investment business.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Directors</td>
+        <td>
+          <p>At least 2 directors (natural persons only, no restrictions on citizenship or residence).</p>
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Shareholders</td>
+        <td>
+          <p>At least 1 shareholder (natural persons and legal entities allowed, no restrictions on citizenship or residence).</p>
+        </td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Auditor</td>
+        <td>
+          <p>An approved auditor is required.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Minimum capital requirement</td>
+        <td>
+          <p>Minimum paid-up capital of at least CID 100,000.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Insurance</td>
+        <td>
+          <p>The company must maintain insurance covering professional indemnity, liability of senior officers and corporate secretary, and/or business interruption.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Physical presence</td>
+        <td>
+          <p>Neither the SIB Law nor CIMA requires a licensee to maintain a direct physical presence in the Cayman Islands; all functions can be delegated.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Compliance officer</td>
+        <td>
+          <p>A compliance officer meeting fit and proper requirements by CIMA must be appointed.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Taxation</td>
+        <td>
+          <ul>
+            <li>No corporate tax.</li>
+            <li>No income tax on earnings outside the Cayman Islands.</li>
+            <li>No interest tax.</li>
+            <li>No dividend tax.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>Accounting and audit requirements</td>
+        <td>
+          <ul>
+            <li>Submission of quarterly returns.</li>
+            <li>Submission of annual audited financial statements.</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+const Brokarage8 = (
+  <>
+  <div>
+  <h2>Cyprus Investment Firm License</h2>
+  <p>Cyprus offers a well-established environment for Forex broker firms and is highly regarded within the EU for acquiring financial licenses. It adheres to strict rules and regulations set by the Cyprus Securities and Exchange Commission (CySEC).</p>
+  <p>The Cyprus Investment Firm (CIF) is licensed and supervised by CySEC under the Investment Services and Activities and Regulated Markets Law of 2017 (L.87(I)/2017), governing investment services, activities, and regulated markets.</p>
+  <p>There are two types of licenses for CIFs in Cyprus:</p>
+  <ul>
+    <li>Standard license – approximately EUR 125,000.00, allows handling clients' money but not trading on its own account.</li>
+    <li>Full license – requires approximately EUR 730,000.00, allows dealing on its own account (market maker).</li>
+  </ul>
+  
+  <h3>Investment Services</h3>
+  <p>A Cyprus Investment Firm (CIF) must apply for at least one of the following services:</p>
+  <ol>
+    <li>Reception and transmission of orders;</li>
+    <li>Execution of orders on behalf of clients;</li>
+    <li>Dealing on own account;</li>
+    <li>Portfolio management;</li>
+    <li>Investment advice;</li>
+    <li>Underwriting and/or placing of financial instruments on a firm commitment basis;</li>
+    <li>Placing of financial instruments without a firm commitment basis;</li>
+    <li>Operation of Multilateral Trading Facilities.</li>
+  </ol>
+  
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Entity</td>
+        <td>Incorporation of a company under the Companies Law, Cap. 113.</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Directors</td>
+        <td>
+          <p>The Board of Directors of the CIF shall consist of at least two executive members and two independent non-executive members. At least 3 of them must be Cyprus residents.</p>
+          <p>Directors must demonstrate knowledge and experience and must pass the “fit and proper” test of CySEC.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Shareholders</td>
+        <td>At least one shareholder (can also be a legal person, no nationality restriction).</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Physical presence</td>
+        <td>The head office of a Cyprus Investment Firm (CIF) must be located in the Republic of Cyprus.</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>€75,000 for Reception & Transmission, Execution of orders on behalf of clients, Portfolio management, Investment advice without being authorized for holding clients’ funds.</li>
+            <li>€150,000 STP License (Reception & Transmission, Execution of orders on behalf of clients, Portfolio management, Investment advice).</li>
+            <li>€750,000 Market Maker License (Reception & Transmission, Execution of orders on behalf of clients, Portfolio management, Investment advice, Underwriting and placing of financial instruments on a firm commitment basis, Dealing on Own Account, Operation of Multilateral Trading Facility).</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Management</td>
+        <td>The management of a Cyprus Investment Firm (CIF) must be undertaken by at least two persons of good reputation and experience, ensuring professional, safe, and prudent management of the company.</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Local employees</td>
+        <td>Local resident staff members must be hired on a full-time basis to fulfill key functions of the Company. Depending on the license selected, a minimum number of personnel must be hired.</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Compliance</td>
+        <td>Establish defined policies and procedures ensuring the company’s compliance with legal obligations.</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Taxation</td>
+        <td>
+          <ul>
+            <li>Low corporate tax (12.5%).</li>
+            <li>0% tax for corporate gain.</li>
+            <li>Lowest VAT at 19%.</li>
+            <li>No withholding tax on dividends.</li>
+            <li>An extensive network of double-taxation treaties.</li>
+            <li>Access to EU directives and EU VAT registration.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>Accounting requirements</td>
+        <td>Regular accounting and audited accounts submission are required.</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>Duration</td>
+        <td>Process duration typically ranges from 5 to 9 months.</td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+
+const Brokarage9 =(
+  <>
+  <div>
+  <h2>Dubai DIFC Category 3A License</h2>
+  <p>The Dubai Financial Service Authority (DFSA) is the financial regulatory agency in Dubai, operating under the Regulatory Law 2004. This law establishes the DFSA's constitution and sets the regulatory framework for licensing, authorization, registration, and supervision within the Dubai International Financial Centre (DIFC).</p>
+  <p>Under the Regulatory Law 2004, the DFSA administers several key laws:</p>
+  <ol>
+    <li>Markets Law 2012</li>
+    <li>Law Regulating Islamic Financial Business 2004</li>
+    <li>Collective Investment Law 2010</li>
+    <li>Investment Trust Law 2006</li>
+  </ol>
+  <p>Prior to conducting broker services, authorization from the DFSA in the form of a DFSA Forex broker license is mandatory. The DFSA oversees all financial activities within the DIFC, including authorization, recognition, supervision, enforcement, policy-making, rulemaking, and international cooperation.</p>
+  <p>The DFSA imposes stringent guidelines for obtaining and conducting forex business in Dubai, emphasizing adherence to these guidelines to prevent legal complications. The Dubai International Financial Centre provides a comprehensive DFSA rule book outlining all rules and regulations related to broker license application, acquisition, and maintenance.</p>
+  
+  <h3>DIFC Category 3A License</h3>
+  <p>Permitted activities include:</p>
+  <ol>
+    <li>Dealing in investments as principal (not as matched principal)</li>
+    <li>Dealing as agents</li>
+  </ol>
+
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Entity</td>
+        <td>A firm must be a body corporate or partnership. It can be formed in the DIFC, or a firm can establish a branch of a legal entity based in another jurisdiction.</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Capital requirement</td>
+        <td>The base capital requirement for a Category 3A Brokerage license US$ 500,000.</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Location of office</td>
+        <td>A firm must carry on its activities from a place of business in the DIFC.</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Key personnel</td>
+        <td>A firm must appoint a Senior Executive Officer, a Compliance Officer, an Anti-Money Laundering Reporting Officer and a Finance Officer. The first three positions require the individuals responsible to be resident in the UAE.</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Tax obligations</td>
+        <td>VAT of 5% and CIT of 9% on income above AED 375’000.</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Audit</td>
+        <td>Required to have an internal audit function.</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Duration</td>
+        <td>8-12 months.</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Directors</td>
+        <td>Minimum of 2 directors required.</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  </>
+);
+const Brokarage10 =(
+  <>
+   <div>
+      <h2>Fiji Foreign Exchange Dealer Licence</h2>
+      <p>
+        The Fiji Islands are located in the region of Oceania. A company in Fiji is an excellent way for international entrepreneurs to conduct business in one of the world’s most rapidly growing economies. In contrast to classic offshore jurisdictions, Fiji Islands have a very positive reputation among investors.
+      </p>
+      <p>
+        The company incorporated in Fiji Islands that wishes to conduct exchange business activities is required to hold a Foreign Exchange Dealer License granted by Reserve Bank of Fiji (RBF). The license grants rights to:
+      </p>
+      <ol>
+        <li>Sale, purchase and repatriation of travelers checks and foreign currency notes</li>
+        <li>Remittance of the proceeds of repatriated Fiji currency notes</li>
+        <li>Issue of bank drafts</li>
+        <li>Use of telegraphic or electronic transfers for payment and receipt of funds</li>
+        <li>Undertake matching of funds (transactions) to be restricted to Merchandise Imports</li>
+        <li>Make payments in line with all currently delegated transactions as specified by the RBF</li>
+      </ol>
+      <p>
+        There are three categories of Authorized Dealers in Fiji:
+      </p>
+      <ol>
+        <li>
+          Money changers — who are restricted to foreign exchange dealings in travel related transactions only. Money changers are allowed to convert travellers’ cheques and foreign currency notes to Fijian currency and vice versa, remit proceeds of repatriated Fiji currency notes and issue bank drafts;
+        </li>
+        <li>
+          Restricted foreign exchange dealers — who are allowed to conduct transactions permitted for money changers as well as additional transactions such as telegraphic or electronic transfers for payment and receipt of funds and any other payments as specified by the Reserve Bank;
+        </li>
+        <li>
+          Fully authorized foreign exchange dealers — who are allowed to conduct all types of foreign exchange transactions. Commercial banks are classified as fully authorized foreign exchange dealers.
+        </li>
+      </ol>
+      <p>
+        <strong>Advantages of Fiji</strong>
+      </p>
+      <ol>
+        <li>Client Confidence: Companies rooted in Fiji exude credibility, instilling a sense of unwavering confidence in clients.</li>
+        <li>Corporate Shareholding Flexibility: An environment that warmly embraces diverse corporate ownership structures, permitting corporate shareholders to engage actively.</li>
+        <li>Confidentiality: A regulatory milieu characterized by an unwavering commitment to safeguarding the sacrosanct nature of confidentiality, with an impenetrable shield against prying eyes through the absence of publicly accessible records.</li>
+        <li>AEOI Exemption: Fiji resolutely abstains from participating in the Automatic Exchange of Information (AEOI), guaranteeing a sanctuary of privacy and discretion.</li>
+      </ol>
+
+      <h2>Key legal requirements</h2>
+      <table>
+  <thead>
+    <tr>
+      <th>Number</th>
+      <th>No Obligatory requirement</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Entity</td>
+      <td>The entity making the application is a company registered or incorporated in Fiji</td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>Directors</td>
+      <td>Minimum 1 director (no nationality restrictions). At least one local director is required.</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Shareholders</td>
+      <td>
+        <ol>
+          <li>Minimum 1 shareholder (no nationality restrictions)</li>
+          <li>Corporate shareholding is allowed</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>Principal officer</td>
+      <td>Applicant will be required to appoint a local “principal officer”, who will be an individual and approved by the Reserve Bank of Fiji.</td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>Local office</td>
+      <td>The licensee will be required to secure a business place for operations.</td>
+    </tr>
+    <tr>
+      <td>6.</td>
+      <td>Auditor</td>
+      <td>The relevant licensee shall appoint and at all times a qualified auditor for the purposes of auditing its financial statements.</td>
+    </tr>
+    <tr>
+      <td>7.</td>
+      <td>Insurance</td>
+      <td>A licensee shall at all times maintain such professional indemnity and other insurance as may be prescribed.</td>
+    </tr>
+    <tr>
+      <td>8.</td>
+      <td>Minimum initial capital</td>
+      <td>The mandated minimum paid-up capital requirement stands at a substantial $25,000 USD.</td>
+    </tr>
+    <tr>
+      <td>9.</td>
+      <td>Duration</td>
+      <td>3 to 5 months</td>
+    </tr>
+    <tr>
+      <td>10.</td>
+      <td>Client assets provisions</td>
+      <td>
+        A Licensee must ensure that client assets are identified or identifiable and appropriately segregated and accounted for and make arrangements for the proper protection of client assets.
+      </td>
+    </tr>
+    <tr>
+      <td>11.</td>
+      <td>Taxation</td>
+      <td>
+        <ol>
+          <li>Value added tax (VAT) - 9%</li>
+          <li>Company Corporate Tax - 20% (Loss carry back years)</li>
+          <li>Withholding Taxes: Dividends: 0/15%, Interests: 10%, Royalties: 15%</li>
+          <li>8 Tax treaties: New Zealand, Japan, Australia, UK, Singapore, UAE, Malaysia, South Korea</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>12.</td>
+      <td>Accounting and audit</td>
+      <td>The Regulator may determine in its discretion to have accounts of the company audited.</td>
+    </tr>
+  </tbody>
+</table>
+    </div></>
+);
+const Brokarage11 =(
+  <>
+  <div>
+  <h2>Ghana Broker Dealer License</h2>
+  <p>
+    The Ghana Securities and Exchange Commission is the governing body mandated to regulate and promote the growth and development of an efficient, fair and transparent securities market in which investors and the integrity of the market are protected. Upon the successful acquisition of Broker Dealer License from the Securities and Exchange Commission, the entity may proceed to apply to the Bank of Ghana (BoG) for authorization to trade on the forex market.
+  </p>
+  <p>
+    The securities industry in Ghana is governed by the Securities Industry Act, 2016 (Act 929) and its Regulations. Local and International Brokers who want to operate in Ghana’s Forex market are required to obtain prior approval from the Bank of Ghana at the beginning of every calendar year.
+  </p>
+  <p>
+    Permitted Instruments: The Broker Dealer license provides for trade in traditional financial instruments ranging from securities on the Ghana stock exchange (main and alternative markets) to debentures listed or not listed. The license permits trade in:
+  </p>
+  <ol>
+    <li>Foreign currency in the interbank market (upon authorization from the BoG)</li>
+    <li>Index</li>
+    <li>Shares</li>
+    <li>Commodities (gold, silver and agricultural commodities)</li>
+    <li>Options</li>
+    <li>Physical Shares (please note that the Central Securities Depositories provide a linkage between sellers and buyers and thus allow for easy transfer of the securities from one owner to another, using book entry rather than the physical transfer of certificates)</li>
+  </ol>
+
+  <h2>Key Structuring Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>A body corporate, including an incorporated private partnership.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Key Board requirements</td>
+        <td>
+          <ol>
+            <li>The applicant is required to have at least 3 directors with one resident in Ghana.</li>
+            <li>Directors are not required to be shareholders unless the company’s constitution requires directors to hold shares in the company.</li>
+            <li>The Board shall comprise a balance of executive directors, non-executive directors and independent directors, all of whom shall be natural persons and at least one third shall be independent non-executive directors.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Chief executive officer</td>
+        <td>The applicant must have a qualified Chief executive Officer with relevant experience.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Key personnel</td>
+        <td>Fit and proper compliance officer and auditor are required.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Local office</td>
+        <td>The applicant must have a registered office and principal place of business in the republic with the necessary infrastructure including office space, equipment and staff, to effectively discharge its activities.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Minimum capital requirement</td>
+        <td>The minimum capital requirement for a Broker Dealer is GHC 1,500,000 (Approx. USD 250,000).</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Liquidity requirement</td>
+        <td>Broker shall have and maintain at any given time the minimum liquid funds amounting to a percentage of the aggregate indebtedness of the dealer as determined by circular from time to time.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Client funds provision</td>
+        <td>
+          <ol>
+            <li>All money held on behalf of a client shall be held separately from money belonging to the Broker Dealer.</li>
+            <li>The Broker Dealer’s accounts shall clearly identify the money being held on behalf of clients.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Leverage ratio provisions</td>
+        <td>Not applicable - Please note that the current position is under review and may change.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Tax obligations</td>
+        <td>
+          <ol>
+            <li>Companies are generally liable to pay income tax on their profits at the current rate of 25%.</li>
+            <li>Companies listing on the Exchange enjoy a 3% rebate on their corporate tax rate for the first three years of formal listing.</li>
+            <li>Resident companies are taxed on their worldwide income, non-resident companies are only taxed on the income sourced in Ghana.</li>
+            <li>Non-resident companies that conduct activities in Ghana through a branch are liable to pay a tax at 8% on earned repatriated profits, payable within 30 days.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Accounting Records</td>
+        <td>
+          A broker-dealer shall:
+          <ol>
+            <li>Keep the accounting records that will correctly record and explain the transactions and financial position of the business of dealing in securities carried on by that broker-dealer.</li>
+            <li>Keep the accounting records in a manner that will enable a true and fair income statement and statement of financial position to be prepared from time to time.</li>
+            <li>Keep the accounting records in a manner that will enable the income statement and statement of financial position of the business of dealing in securities carried on by the broker-dealer to be conveniently and properly audited.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Auditor</td>
+        <td>
+          A license is needed to appoint an auditor to audit the accounts. The requirements are:
+          <ol>
+            <li>If in the case of an individual that person:
+              <ul>
+                <li>Is not a qualified company auditor; or</li>
+                <li>Is indebted to the broker-dealer or holds investments with the broker-dealer; or</li>
+                <li>Is a partner or employee of the broker-dealer;</li>
+              </ul>
+            </li>
+            <li>In the case of a body corporate unless:
+              <ul>
+                <li>At least one partner of the body corporate is ordinarily resident in the country;</li>
+                <li>The partners of the body corporate ordinarily resident in the country are qualified company auditors;</li>
+                <li>A partner of the body corporate is not indebted to the broker-dealer or holds investments with the broker-dealer;</li>
+                <li>A partner of the body corporate is not a partner or employee of the broker-dealer.</li>
+              </ul>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Reporting requirements</td>
+        <td>
+          <ol>
+            <li>A broker-dealer must annually prepare a financial statement meeting international accounting standards and submit it to the Commission along with an auditor's report before the prescribed deadline for each financial year, excluding those before or after the commencement of this Act.</li>
+            <li>The Commission can approve an extension or further extension of a period, as per a broker-dealer's application before the expiration of a two-month or three-month period mentioned in the definition of "prescribed day" in subsection (4). The approval may include conditions imposed by the Commission.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+const Brokarage12 =(
+  <>
+  <div>
+  <h2>Hong Kong Securities and Future License</h2>
+  <p>An SFC license refers to an official permit issued by the Securities and Futures Commission (SFC). This license grants entities the legal permission to engage in regulated activities within the securities and futures industry in Hong Kong. Please note that the requirement to obtain an SFC license applies to both local and foreign companies.</p>
+  <p>Securities & Futures Ordinance defines 12 different types of regulated activities. SFC license types for regulated activities:</p>
+  <ol>
+    <li>
+      <strong>Type 1: Dealing with securities</strong><br/>
+      This license is required for entities involved in the buying or selling of securities, which include financial instruments like stocks, bonds, or debentures, either on behalf of clients or for their own accounts.
+    </li>
+    <li>
+      <strong>Type 2: Dealing in futures contracts</strong><br/>
+      Entities wishing to engage in trading futures contracts in Hong Kong must obtain this license. Futures contracts can involve various underlying assets such as agricultural products, energy commodities, metals, or currencies.
+    </li>
+    <li>
+      <strong>Type 3: Leveraged foreign exchange trading</strong><br/>
+      This license is necessary for those engaged in leveraged foreign exchange trading activities, which include activities like forex (foreign exchange) brokerage or providing a trading platform for leveraged forex trading.
+    </li>
+    <li>
+      <strong>Type 4: Advising on securities</strong><br/>
+      Entities providing guidance on securities investments to clients, such as financial advisory firms or investment advisory companies, require this license.
+    </li>
+    <li>
+      <strong>Type 5: Advising on futures contracts</strong><br/>
+      Entities offering advice on futures contracts, including research, analysis, and tailored trading strategies for various asset classes like commodities, currencies, or equity index futures, must obtain this license.
+    </li>
+    <li>
+      <strong>Type 6: Advising on corporate finance</strong><br/>
+      This license is needed for entities offering strategic advice and assistance in complex financial activities, including mergers and acquisitions (M&A), capital raising, and restructuring, to corporations, investors, and other entities.
+    </li>
+    <li>
+      <strong>Type 7: Providing automated trading services</strong><br/>
+      Entities offering automated trading services, such as algorithmic trading or electronic trading platforms, are required to have a Type 7 license.
+    </li>
+    <li>
+      <strong>Type 8: Securities margin financing</strong><br/>
+      This license is necessary for entities engaged in securities margin financing activities, which involve providing loans or credit facilities to clients for trading in securities.
+    </li>
+    <li>
+      <strong>Type 9: Asset management</strong><br/>
+      Entities managing portfolios of securities or futures contracts on behalf of clients need to obtain this license. It covers activities related to asset management and investment.
+    </li>
+    <li>
+      <strong>Type 10: Providing credit rating services</strong><br/>
+      Entities providing credit rating services, which assess the creditworthiness of issuers of financial instruments, require a Type 10 license.
+    </li>
+    <li><strong>Type 11 – Dealing or advising in OTC derivative products (not yet in operation)</strong></li>
+    <li><strong>Type 12 – Providing clearing agency services for OTC derivatives transactions</strong></li>
+  </ol>
+
+  <h3>Key License Requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Companies incorporated in Hong Kong or an overseas company registered with the Companies Registry of Hong Kong.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Senior management</td>
+        <td>Holds the primary responsibility for ensuring the maintenance of appropriate standards of conduct and adherence to proper procedures includes:
+          <ul>
+            <li>Directors</li>
+            <li>Responsible Officers</li>
+            <li>Manager-In-Charge ("MIC") of core functions</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Directors</td>
+        <td>Minimum 1 director (can be only natural persons, advisable to have at least 1 resident in Hong Kong).</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Shareholders</td>
+        <td>Minimum 1 shareholder (can be natural or legal persons, no nationality or residency restrictions).</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Manager-In-Charge ("MIC")</td>
+        <td>Designate one MIC for each of the eight core functions;
+          <ul>
+            <li>MICs of overall management oversight function and the key business line function must be ROs;</li>
+            <li>The remaining MICs are appointed individual(s) who are responsible for operational control and review, risk management, finance and accounting, information technology, compliance, AML/CTF; and</li>
+            <li>A MIC can be in charge of more than one core function or appoint two or more individuals as MICs to jointly manage one core function.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Responsible Officers</td>
+        <td>At least 2 (preferably 3) Responsible Officers (RO).
+          <ul>
+            <li>At least 1 RO must be an executive director.</li>
+            <li>No requirement to be resident in Hong Kong.</li>
+            <li>They are subject to fit and proper requirements.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Licensed Representative (L.R)</td>
+        <td>
+          <ul>
+            <li>All personnel carrying on regulated activities need to be licensed as a LR; and</li>
+            <li>Subject to fit and proper requirements.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Fit and Proper</td>
+        <td>Demonstrate to the SFC that it is fit and proper in the following criteria:
+          <ul>
+            <li>Financial status or solvency;</li>
+            <li>Relevant educational or other qualifications or experience;</li>
+            <li>Competent, honest and fair; and</li>
+            <li>Reputation, character, reliability and financial integrity.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Capital requirement</td>
+        <td>The company must satisfy the minimum financial requirements specified by the SFC, illustrating that it possesses adequate capital and resources to operate responsibly and sustainably.
+
+        <table>
+          <thead>
+            <tr>
+              <th>Regulated activity</th>
+              <th>Minimum paid-up share capital</th>
+              <th>Minimum liquid capital</th>
+            </tr>
+          </thead>
+          <tbody>
+          <tr>
+              <td>Type 1</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>(a) in the case where the corporation is an approved introducing agent or a trader</td>
+              <td>Not applicable</td>
+              <td>$500,000</td>
+            </tr>
+            <tr>
+              <td>(b) in the case where the corporation provides securities margin financing</td>
+              <td>$10,000,000</td>
+              <td>$3,000,000</td>
+            </tr>
+            <tr>
+              <td>(c) in any other case</td>
+              <td>$5,000,000</td>
+              <td>$3,000,000</td>
+            </tr>
+            <tr>
+              <td>Type 2</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>(a) in the case where the corporation is an approved introducing agent, a trader or a futures non-clearing dealer</td>
+              <td>Not applicable</td>
+              <td>$500,000</td>
+            </tr>
+            <tr>
+              <td>(b) in any other case</td>
+              <td>$5,000,000</td>
+              <td>$3,000,000</td>
+            </tr>
+            <tr>
+              <td>Type 3</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>(a) in the case where the corporation is an approved introducing agent</td>
+              <td>$5,000,000</td>
+              <td>$3,000,000</td>
+            </tr>
+            <tr>
+              <td>Type 4</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>(a) in the case where in relation to Type 4 regulated activity, the corporation is subject to the licensing condition that it shall not hold client assets</td>
+              <td>Not applicable</td>
+              <td>$100,000</td>
+            </tr>
+            <tr>
+              <td>(b) in any other case</td>
+              <td>$5,000,000</td>
+              <td>$3,000,000</td>
+            </tr>
+            <tr>
+              <td>Type 5</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>(a) in the case where in relation to Type 5 regulated activity, the corporation is subject to the licensing condition that it shall not hold client assets</td>
+              <td>Not applicable</td>
+              <td>$100,000</td>
+            </tr>
+            <tr>
+              <td>(b) in any other case</td>
+              <td>$5,000,000</td>
+              <td>$3,000,000</td>
+            </tr>
+            <tr>
+              <td>Type 6</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>(a) In the case where the corporation acts as a sponsor: <br/> • hold client assets <br/> • not hold client assets</td>
+              <td>$10,000,000 <br/> $10,000,000</td>
+              <td>$3,000,000 <br/> Not applicable</td>
+            </tr>
+            <tr>
+              <td>(b) In the case where the corporation does not act as a sponsor: <br/> • hold client assets <br/> • not hold client assets</td>
+              <td>$5,000,000 <br/> Not applicable</td>
+              <td>$3,000,000 <br/> $100,000</td>
+            </tr>
+            <tr>
+              <td>Type 9</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>(a) in the case where in relation to Type 9 regulated activity, the corporation is subject to the licensing condition that it shall not hold client assets</td>
+              <td>Not applicable</td>
+              <td>$100,000</td>
+            </tr>
+            <tr>
+              <td>(b) in any other case</td>
+              <td>$5,000,000</td>
+              <td>$3,000,000</td>
+            </tr>
+          </tbody>
+      </table>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Staffing resources</td>
+        <td>
+          <ul>
+            <li>Appoint one compliance officer and/or operations manager with finance, accounting, compliance or risk management background; and</li>
+            <li>A RO should not take up the compliance function of the company as the SFC expects for segregation of duties.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Taxation</td>
+        <td>
+          <ul>
+            <li>0% tax rate if profits are derived from activities carried outside Hong Kong;</li>
+            <li>16.5% tax rate if profits are derived from Hong Kong sources;</li>
+            <li>No tax on capital gains, dividends or interests.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Audit requirements</td>
+        <td>
+          <ul>
+            <li>Audit should be done from Hong Kong by an appointed auditor who must be a member of the Hong Kong Society of Accountants and hold a practicing certificate.</li>
+            <li>Submit audited accounts and other required documents within 4 months after each financial year end.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Record keeping</td>
+        <td>The company is mandated to maintain precise and complete records of its business activities, transactions, and client information in accordance with SFC regulations.</td>
+      </tr>
+      <tr>
+        <td>14.</td>
+        <td>Submission of financial resources returns</td>
+        <td>
+          <ul>
+            <li>Monthly filing with a filing deadline of 21 calendar days of the monthly period end;</li>
+            <li>Semi-annually filing with a filing deadline of 21 calendar days of the semi-annual period end, subject to the licensing condition of not holding clients’ assets.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>15.</td>
+        <td>Anti-money laundering (AML) Measures</td>
+        <td>The company must implement effective AML measures in accordance with SFC guidelines to prevent financial crime.</td>
+      </tr>
+      <tr>
+        <td>16.</td>
+        <td>Disclosure and Transparency</td>
+        <td>The company must maintain transparency in its dealings with clients and investors, providing accurate and timely information as required by SFC rules.</td>
+      </tr>
+      <tr>
+        <td>17.</td>
+        <td>Annual Inspection and examination</td>
+        <td>The SFC may conduct inspections and examinations of the company on an annual basis. These assessments aim to evaluate compliance with regulatory standards and the terms of the SFC license.</td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+const Brokarage13 =(
+  <>
+  <div>
+  <h2>Kenya Capital Markets Securities Licenses (Non-Dealing Online Foreign Exchange Broker License)</h2>
+  <p>The Capital Markets Regulatory landscape in Kenya;</p>
+  <ol>
+    <li><strong>Name of Regulator:</strong> Capital Markets Authority</li>
+    <li><strong>Industry Regulatory Structure:</strong> Online Foreign Exchange Trading</li>
+  </ol>
+  
+  <h3>The Capital Markets (Online Foreign Exchange Trading) Regulations, 2017</h3>
+  <ol>
+    <li><strong>Binary options:</strong> An option which involves making a bet on the price movement of an underlying asset in the near future for a fixed amount.</li>
+    <li><strong>Money manager:</strong> An entity licensed by the Authority to engage in the business of managing the online foreign exchange portfolio of an individual or institutional investor in return for a fee based on a percentage of assets under management.</li>
+    <li><strong>Dealing online foreign exchange broker:</strong> An entity licensed by the Authority to engage in the business of online foreign exchange trading as principal and market maker.</li>
+    <li><strong>Non-dealing online foreign exchange broker:</strong> An entity licensed by the authority that acts as a link between the foreign exchange market and a client in return for a commission or mark-up in spreads and does not engage in market making activities.</li>
+  </ol>
+  
+  <h4>Online forex business activity categories as defined under the act are:</h4>
+  <ol>
+    <li>Dealing online foreign exchange broker</li>
+    <li>Non-dealing online foreign exchange broker</li>
+    <li>Money manager</li>
+  </ol>
+  
+  <h3>Money manager</h3>
+  <p>Permitted activities include:</p>
+  <ol>
+    <li>Choose and manage investments prudently for his or her clients;</li>
+    <li>Develop an appropriate investment strategy;</li>
+    <li>Take positions in the market to meet the investment goals of the client;</li>
+    <li>Undertake financial analysis; and monitor foreign exchange portfolio investments on behalf of the client.</li>
+  </ol>
+  
+  <h3>Non-dealing online foreign exchange broker</h3>
+  <p>Permitted activities include:</p>
+  <ol>
+    <li>Open clients’ accounts;</li>
+    <li>Provide a trading platform;</li>
+    <li>Provide access to market information that the clients may utilize in formulating their strategies;</li>
+    <li>Monitor traders’ positions; or</li>
+    <li>Provide end-of-day reports.</li>
+  </ol>
+  
+  <p>An online foreign exchange broker shall not offer for trading:</p>
+  <ol>
+    <li>Currency pairs involving the Kenya shilling; and</li>
+    <li>Binary options.</li>
+  </ol>
+  
+  <h3>Dealing online foreign exchange broker</h3>
+  <p>A dealing online foreign exchange broker may trade as principal and market maker. An online foreign exchange broker shall not offer for trading:</p>
+  <ol>
+    <li>Currency pairs involving the Kenya shilling; and</li>
+    <li>Binary options.</li>
+  </ol>
+  
+  <h2>Key Structuring Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity A company incorporated in Kenya and limited by shares</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>
+          <ol>
+            <li>A fit and proper chief executive officer who has experience of not less than five years in the business of buying, selling, managing, or dealing in foreign exchange, foreign exchange futures or futures contracts and is a member of a professional body is required.</li>
+            <li>A foreigner is allowed.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>The applicant must have the necessary infrastructure including office space, equipment and staff, to effectively discharge its activities</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Chief Financial Officer - Should be a member of the Institute of Certified Public Accountants of Kenya (ICPAK).</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Compliance officer - Should be a Chartered Institute of Securities and Investments (CISI) accredited officer and who can also be the anti-money laundering officer.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Risk management officer - The board shall appoint a risk management officer in accordance with the corporate governance regulations</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Internal auditor - Should be a member of the Institute of Certified Public Accountants of Kenya (ICPAK).</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>
+          <ol>
+            <li>A minimum of 3 directors a third of whom must be natural persons.</li>
+            <li>At least one non–executive director</li>
+            <li>Independent Board Chair who shall be a non-executive director. The Chair shall not be appointed as the chief executive officer.</li>
+            <li>A director should not hold more than 2 directorships in market intermediaries unless they are subsidiaries or holding companies.</li>
+            <li>Foreign directors are allowed</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>
+          <ol>
+            <li>A minimum of 3 shareholders are required each holding not more than thirty-three and a third per cent of the issued share capital</li>
+            <li>Receive not more than thirty-three and a third per cent of the aggregate dividends and interest on shareholders loans paid in any given financial year</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>The applicant must maintain unimpaired minimum paid up capital of thirty million shillings</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Leverage Ratio is 1:400</td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+const Brokarage14 =(
+  <><div>
+  <h2>Labuan Money Broking License</h2>
+  <p>
+    The money broking business is defined as the business of arranging transactions between
+    buyers and sellers in the money or foreign exchange markets with brokers acting as an
+    intermediary earning brokerage fees / commission. Labuan Forex Money Broking license,
+    however, does not include the buying or selling of Malaysian Ringgit and foreign currencies
+    by the broker as principal in such markets.
+  </p>
+  <p>
+    Guidelines for money broking business that is carried on in the Labuan IBFC was issued by
+    the Labuan Financial Services Authority (“FSA”) with effect from 1 January 2018.
+  </p>
+  <h3>Regulator</h3>
+  <p>
+    Labuan FSA is the statutory body responsible for the development and administration of the
+    Labuan International Business and Financial Centre (Labuan IBFC). Labuan FSA’s key role
+    is to license and regulate licensed entities operating within Labuan IBFC and to ensure all
+    such entities remain in compliance with the internal and international best standards
+    adopted by the jurisdiction.
+  </p>
+  <h3>Eligible Applicants</h3>
+  <ol>
+    <li>
+      Individual or institution with money broking expertise with a good track record and
+      sufficient years of experience in the industry.
+    </li>
+    <li>
+      Regulated money broker or provider of such services from other jurisdictions with
+      approval from home authority with the letter of consent.
+    </li>
+    <li>
+      Any licensed institutions including approved money broker under the Financial
+      Services Act 2013 with approval from the Central Bank of Malaysia.
+    </li>
+  </ol>
+  <h3>Permissible Money Broking Activities</h3>
+  <p>
+    Labuan money broking business is intended to serve institutional investors and high-net-
+    worth individuals. The licensee is expected to;
+  </p>
+  <ol>
+    <li>
+      Bring together the counterparties on mutually acceptable terms for the same financial
+      products in money or foreign exchange market to facilitate the conclusion of a
+      transaction;
+    </li>
+    <li>
+      Receive payment for its service in the form of brokerage or commission fees; and
+    </li>
+    <li>
+      Act as a mediator and is strictly not permitted to act as a principal(1).
+    </li>
+  </ol>
+  <h2>Legal Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity Labuan trading company</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>At least two directors are required.</li>
+            <li>Foreign directorship is 100% allowed</li>
+            <li>Corporate directorship is not allowed</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>At least one shareholder.</li>
+            <li>100% foreign ownership is permitted</li>
+            <li>100% corporate ownership is allowed</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Minimum paid up capital</td>
+        <td>
+          Maintain minimum paid-up capital unimpaired by losses of
+          RM500,000 or its equivalent in any foreign currency (3).
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Physical presence</td>
+        <td>
+          Required to maintain an operational office in Labuan. The
+          operational office should be used for business purposes only and
+          must be appropriately furnished with office equipment.
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Auditor</td>
+        <td>Labuan money broker is required to appoint a Labuan Approved Auditor for the accounts.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Substance requirements</td>
+        <td>
+          <ol>
+            <li>Minimum number of two (2) full time employees in Labuan and minimum annual operating expenditure of RM100,000 in Labuan</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Leverage</td>
+        <td>
+          The money broking company shall impose a maximum leverage
+          limit of 100:1 on clients’ trading transactions (i.e. a minimum of
+          1% margin deposit to enable the opening of trade position)
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Client assets provisions</td>
+        <td>
+          Maintain a separate account for clients’ monies and marked
+          clearly each clients monies in record and client’s withdrawal has
+          to be done within 3 working days
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>AML/CFT Compliance</td>
+        <td>
+          Mandatory to observe and comply with the AML/CFT Act and
+          Guidelines issued by Central Bank of Malaysia and Labuan
+          Authority via the provision of a compliance officer
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>Labuan Money Brokers can enjoy preferred tax rate of 3% if comply with economic substance requirement (ESR) to employ 2 full time employees in Labuan and spent annual operating expenses in Labuan of MYR 100,000 (or estimate USD 25,000)</li>
+            <li>ZERO withholding tax on payments of dividend and interest to non-residents.</li>
+            <li>No import duty / sales tax.</li>
+            <li>No foreign exchange controls.</li>
+            <li>No capital gain tax / inheritance tax.</li>
+            <li>Double Tax Agreements between Malaysia and over 70 countries.</li>
+            <li>100% exemption for director’s fees received by non-citizen directors of Labuan companies.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Reporting requirements</td>
+        <td>
+          <ol>
+            <li>Audited financial statements within six months from financial year end.</li>
+            <li>Statistics, Compliance reporting and other information required by Labuan FSA.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+const Brokarage15 =(
+  <>
+  <div>
+  <h2>MAURITIUS INVESTMENT DEALER LICENSE</h2>
+  <p>
+    The Republic of Mauritius is an island nation in the Indian Ocean about 2,000 kilometres
+    (1,200 mi) off the southeast coast of the African continent. Financial services are one of the
+    growing sectors of the economy. Mauritius has an outsize offshore sector which it built on a
+    low tax regime and extensive treaty network. Mauritius accounted for 42 percent of India's
+    foreign direct investment between 2000 and 2011.
+  </p>
+  <p>
+    An Investment Dealer license provides permission to its holder to establish a trading
+    platform in Mauritius and trade securities and similar products on behalf of clients.
+  </p>
+  <h3>About License</h3>
+  <p>
+    The Securities Act 2005 coupled with the Securities (licensing) Rules 2007 are the main legal
+    framework governing the provisions and setting the parameters within which a GBC 1 with
+    an Investment Dealer license can operate. Application for Investment Dealer license must be
+    made under a Category 1 Global Business Company and license is granted subject to the
+    approval of the Financial Services Commission.
+  </p>
+  <h3>Mauritius Investment Dealer License categories:</h3>
+  <ol>
+    <li>
+      Full-Service Dealer (Including Underwriting):
+      <p>
+        Such license allows the licensee to trade in securities as principal with the intention of
+        reselling these securities to the public, to underwrite or distribute securities on behalf of an
+        issuer or a holder, to give investment advice which is ancillary to the normal course of its
+        business activities and to manage portfolio of clients.
+      </p>
+      <p>
+        Minimum unimpaired stated capital of MUR 10 million or an equivalent amount in a major
+        currency and shall have a Professional Indemnity cover that varies with the volume of
+        activities and risk of its business.
+      </p>
+    </li>
+    <li>
+      Full-Service Dealer (Excluding Underwriting):
+      <p>
+        As opposed to the Full-Service Dealer Including underwriting, this category of licence does
+        not allow the licensee to underwrite or distribute securities on behalf of an issuer or a
+        holder.
+      </p>
+      <p>
+        Minimum unimpaired stated capital of MUR 1 million always or equivalent amount in a
+        major currency. The licensee is also requested to have a Professional Indemnity cover that
+        varies with the volume of activities and risk of its business.
+      </p>
+    </li>
+    <li>
+      Investment Dealer - Broker:
+      <p>
+        An Investment Dealer - Broker licence allows the licensee to execute orders for its clients, to
+        manage portfolio of clients and to give advice on securities transactions to its clients.
+      </p>
+      <p>
+        Minimum unimpaired stated capital of MUR 700,000 or equivalent in any major transaction
+        and it should also comply with the minimum competency standard requirements for its
+        representatives and officers.
+      </p>
+    </li>
+    <li>
+      Investment Dealer – Discount Broker:
+      <p>
+        An investment Dealer – Discount Broker is authorized to execute orders for clients without
+        giving advice.
+      </p>
+      <p>
+        Minimum unimpaired stated capital of MUR 600,000 at all times or equivalent amount in a
+        major currency.
+      </p>
+    </li>
+    <li>
+      Investment Dealer (Commodity Derivatives Segment):
+      <p>
+        An Investment Dealer (Commodity Derivatives Segment) is authorised to act as broker in
+        Commodity Derivatives only.
+      </p>
+      <p>
+        Minimum unimpaired stated capital of MUR 1 million always or equivalent amount in a
+        major currency.
+      </p>
+    </li>
+    <li>
+      Investment Dealer (Currency Derivatives Segment):
+      <p>
+        An Investment Dealer (Currency Derivatives Segment) is authorized to act as broker in
+        Currency Derivatives only.
+      </p>
+      <p>
+        Minimum unimpaired stated capital of MUR 1 million at all times or equivalent amount in a
+        major currency.
+      </p>
+    </li>
+  </ol>
+  <h2>Mauritius Investment Dealer License Legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entry requirements</td>
+        <td>
+          Mauritius company holding a Global Business Category One License (GBL1).
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>No. of directors</td>
+        <td>
+          <ol>
+            <li>Two local directors required to occupy non-executive positions</li>
+            <li>A minimum of one fit and proper director required to occupy the Executive position</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>Minimum 1 shareholder required.</li>
+            <li>Corporate shareholding is allowed.</li>
+            <li>100% foreign ownership is permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Dealers</td>
+        <td><table>
+          <thead>
+            <tr>
+              <th>Type of license</th>
+              <th>No. Of officers required</th>
+              <th>Years of experience required by regulator</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Investment Dealer (Full-Service Dealer including Underwriting)</td>
+              <td>2</td>
+              <td>A degree in a relevant field and at least 8 years of relevant experience in investment business</td>
+            </tr>
+            <tr>
+              <td>Investment Dealer (Full-Service Dealer excluding Underwriting)</td>
+              <td>2</td>
+              <td>A degree in a relevant field and at least 8 years of relevant experience in investment business</td>
+            </tr>
+            <tr>
+              <td>Investment Dealer (Broker)</td>
+              <td>1</td>
+              <td>A degree in a relevant field and at least 4 years of relevant experience in investment business</td>
+            </tr>
+            <tr>
+              <td>Investment Dealer (Discount Broker)</td>
+              <td>1</td>
+              <td>A diploma course in a relevant field and at least 2 years of relevant experience in investment business</td>
+            </tr>
+            <tr>
+              <td>Investment Adviser (Unrestricted)</td>
+              <td>1</td>
+              <td>Degree in a relevant field and at least 4 years of relevant experience in investment business</td>
+            </tr>
+            <tr>
+              <td>Investment Adviser (Restricted)</td>
+              <td>1</td>
+              <td>Degree in a relevant field and at least 3 years of relevant experience in investment business</td>
+            </tr>
+            <tr>
+              <td>Investment Adviser (Corporate Finance Advisory)</td>
+              <td>1</td>
+              <td>Degree in a relevant field and at least 5 years of relevant experience in investment business</td>
+            </tr>
+          </tbody>
+        </table></td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Compliance officer, MLRO and Deputy MLRO</td>
+        <td>
+          <ol>
+            <li>Must be resident in Mauritius</li>
+            <li>Must satisfy requirements of being fit and proper</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Mauritius office</td>
+        <td>A full-service office in Mauritius is required and will need to be approved by FSC.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Auditor</td>
+        <td>An approved auditor is required who shall audit the company’s accounts annually.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Insurance</td>
+        <td>
+          A Professional Indemnity cover that varies with the volume of activities and risk of its
+          business is required.
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Minimal Capital Requirements</td>
+        <td>
+          The minimum stated unimpaired capital shall be fully paid and no amount shall be due or
+          payable.
+          <table>
+          <thead>
+            <tr>
+              <th>License Type</th>
+              <th>Capital required</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Full-Service Dealer (Including Underwriting)</td>
+              <td>MUR 10 million</td>
+            </tr>
+            <tr>
+              <td>Full-Service Dealer (Excluding Underwriting)</td>
+              <td>MUR 1 million</td>
+            </tr>
+            <tr>
+              <td>Investment Dealer - Broker</td>
+              <td>MUR 700,000</td>
+            </tr>
+            <tr>
+              <td>Investment Dealer – Discount Broker</td>
+              <td>MUR 600,000</td>
+            </tr>
+            <tr>
+              <td>Investment Dealer (Commodity Derivatives Segment)</td>
+              <td>MUR 1 million</td>
+            </tr>
+            <tr>
+              <td>Investment Dealer (Currency Derivatives Segment)</td>
+              <td>MUR 1 million</td>
+            </tr>
+          </tbody>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Tax obligations</td>
+        <td>Liable to a tax of 3% on net profit.</td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+const Brokarage16 =(
+  <>
+  <div>
+  <h2>Montserrat Securities Exchange License</h2>
+  <p>
+    Montserrat is a British Overseas Territory in the Caribbean. It is part of the Leeward Islands,
+    the northern portion of the Lesser Antilles chain of the West Indies. Montserrat is the only
+    non-fully sovereign full member of the Caribbean Community and the Organisation of
+    Eastern Caribbean States.
+  </p>
+  <h3>About License</h3>
+  <p>
+    The Securities Act of 2008 provides regulations on Montserrat Securities Exchange License.
+    The license is regulated by Financial Services Commission Montserrat and the Eastern
+    Caribbean Securities Regulatory Commission.
+  </p>
+  <h3>Subject to the Securities Exchange License, an applicant can carry on the below businesses:</h3>
+  <ol>
+    <li>A broker dealer;</li>
+    <li>Limited-service broker;</li>
+    <li>An investment adviser;</li>
+    <li>A custodian;</li>
+    <li>A principal of a broker dealer, limited-service broker or corporate investment adviser; or</li>
+    <li>A representative of a broker dealer, limited-service broker or investment adviser.</li>
+  </ol>
+  <h3>Permitted Activities</h3>
+  <p>
+    For the purposes of subsection (1) of the Act a person who sells securities includes a person
+    who:
+  </p>
+  <ol>
+    <li>
+      Purports to sell the securities;
+    </li>
+    <li>
+      Offers to sell the securities;
+    </li>
+    <li>
+      Holds himself out as entitled to sell the securities; or
+    </li>
+    <li>
+      Instructs a broker to sell the securities.
+    </li>
+  </ol>
+  <p>
+    For the purposes of subsection (1), a person is treated as owning securities only if that
+    person:
+  </p>
+  <ol>
+    <li>
+      Or his agent is legally entitled to the securities;
+    </li>
+    <li>
+      Has purchased the securities, or has entered into an unconditional contract to
+      purchase the securities, even if he does not yet have title to them;
+    </li>
+    <li>
+      Owns other securities convertible into or exchangeable for the securities and has
+      tendered the other securities for conversion or exchange;
+    </li>
+    <li>
+      Has an option to acquire the securities and has exercised the option; or
+    </li>
+    <li>
+      Has rights or warrants to subscribe to the securities and has exercised the rights or
+      warrants.
+    </li>
+  </ol>
+  <h2>Legal Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>Partnership</li>
+            <li>Corporation</li>
+            <li>Limited Liability Company</li>
+            <li>Any other entity as may be approved by the commissioner</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>At least 2 (two) natural persons Fit and Proper directors of any jurisdiction</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>The licensee will need at least 2 shareholders</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Authorised representative</td>
+        <td>The applicant must employ a principal licensed or authorised by the Commission</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Auditor</td>
+        <td>An approved auditor is required</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Insurance</td>
+        <td>
+          Every licensee, other than an accredited principal and representative, shall, to the satisfaction of or on terms
+          prescribed by the Commission, effect and maintain appropriate policies of insurance on such terms and
+          conditions as may be determined by the Commission for the purpose of indemnifying such licensee against any
+          liability that may be incurred as a result of any act or omission by the licensee or any of its officers or
+          employees in the conduct of the licensee’s securities business or its business as a custodian or management
+          company of a collective investment scheme.
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Compliance Officer, Money-laundering Reporting Officer and Money Laundering Compliance Officer</td>
+        <td>The law has not yet defined the need of a Compliance officer</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Montserrat office</td>
+        <td>The applicant will operate an office in Montserrat.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Minimum capital requirement</td>
+        <td>
+          <ol>
+            <li>Broker-dealer: EC$1,000,000.00</li>
+            <li>Limited-service broker: EC$250,000.00</li>
+            <li>Investment adviser: EC$250,000.00</li>
+            <li>Custodian: EC$250,000.00</li>
+            <li>Securities exchange: EC$5,000,000.00</li>
+            <li>Clearing agency: EC$1,000,000.00</li>
+            <li>Securities registry: EC$250,000.00</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></>
+);
+
 const MaltaProtectedCellCompaniesHTML = (
   <div>
     <h1>Malta Protected Cell Companies</h1>
@@ -14875,6 +17255,70 @@ const LicensingServices = {
   {
     Service: "Malta Securitization Vehicle",
     Content: MaltaSecuritizationVehicleHTML,
+  },
+  {
+    Service: "Australia Financial Services License",
+    Content: Brokarage1,
+  },
+  {
+    Service: "Bahamas Broker Dealer License",
+    Content: Brokarage2,
+  },
+  {
+    Service: "Barbados Investment Dealer License",
+    Content: Brokarage3,
+  },
+  {
+    Service: "Belize Trading in Securities License",
+    Content: Brokarage4,
+  },
+  {
+    Service: "Bermuda Investment Business License",
+    Content: Brokarage5,
+  },
+  {
+    Service: "British Virgin Islands Securities and Investment Business License",
+    Content: Brokarage6,
+  },
+  {
+    Service: "Cayman Islands Securities Investment Business License",
+    Content: Brokarage7,
+  },
+  {
+    Service: "Cyprus Investment Firm License",
+    Content: Brokarage8,
+  },
+  {
+    Service: "Dubai DIFC Category 3A License",
+    Content: Brokarage9,
+  },
+  {
+    Service: "Fiji Foreign Exchange Dealer Licence",
+    Content: Brokarage10,
+  },
+  {
+    Service: "Ghana Broker Dealer License",
+    Content: Brokarage11,
+  },
+  {
+    Service: "Hong Kong Securities and Future License",
+    Content: Brokarage12,
+  },
+  {
+    Service: "Kenya Capital Markets Securities Licenses (Non-Dealing Online Foreign Exchange Broker License)",
+    Content: Brokarage13,
+  },
+  {
+    Service: "Labuan Money Broking License",
+    Content: Brokarage14,
+  },
+  {
+    Service: "Mauritius investment dealer license",
+    Content: Brokarage15,
+  },
+  {
+    Service: "Montserrat Securities Exchange License ---",
+    Content: Brokarage16,
   },
 ],
   Gaming_and_gambling: [
