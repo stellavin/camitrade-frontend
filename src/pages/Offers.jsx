@@ -11,8 +11,8 @@ const   Offers = () => {
     return (
         <>
         <CanonicalHeaders
-                title ="About Us | We ensure legal compliance and sustainable growth."
-                description ="Camitrade Fiduciaries provides global company incorporation and administration services, Licensing services and Payment solutions"
+                title ="Offers |Licences |kenya |Labuan |Seychelles |SA |Mauritius |Belize"
+                description ="Camitrade Fiduciaries offers global licensing services covering brokers/forex, bank opening, mutual funds, cryptocurrencies, and digital assets."
             />
             <Header />
             <Breadcrumbs pageTitle='CamiTrade Offers'/>
