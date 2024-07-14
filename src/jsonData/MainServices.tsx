@@ -8888,6 +8888,1432 @@ const Brokarage16 =(
 </div></>
 );
 
+const Brokarage17 =(
+<>
+<div>
+  <h2>New Zealand Financial Service Providers License</h2>
+  <p>The Financial Service Providers Register (FSPR) is the financial regulatory body in New Zealand. The FSPR oversees and ensures that all FSPs are registered with them before they can legally provide financial services. The FSPR aims to achieve greater accountability and transparency in the financial sector. The FSPR’s key objectives include:</p>
+  <ol>
+    <li>Provide an electronic register of FSPs, as mandated by the Financial Service Providers (Registration and Dispute Resolution) Act 2008;</li>
+    <li>Assist New Zealand to comply with its international obligations to prevent money laundering and the financing of terrorism;</li>
+    <li>Increase the level of transparency of public information related to FSPs, their licensed services and their related dispute resolution schemes;</li>
+    <li>Ensure certain people are prevented from being involved in the management of FSPs, such as those with specific criminal convictions.</li>
+  </ol>
+
+  <h3>Types of FSPs and their activities</h3>
+  <p>FSP license allows a licensee to perform the following key financial activities:</p>
+  <ol>
+    <li>Broking service</li>
+    <li>Financial adviser service</li>
+    <li>Acting as a deposit taker</li>
+    <li>Keep, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons</li>
+    <li>Provide credit under a credit contract</li>
+    <li>Operating a money or value transfer service</li>
+    <li>Issue and managing means of payment</li>
+    <li>Giving financial guarantees</li>
+    <li>Changing foreign currency</li>
+    <li>Entering into derivative transactions, or trading in money market instruments, foreign exchange, interest rate and index instruments, transferable securities and futures contracts on behalf of another person.</li>
+  </ol>
+
+  <p>In order to apply for FSP license, a company must be registered within New Zealand as this option is not available for foreign legal entities.</p>
+
+  <h3>Licensed services</h3>
+  <p>Licensed financial services are covered under the following legislations:</p>
+  <ol>
+    <li>Reserve Bank of New Zealand Act 1989</li>
+    <li>Insurance (Prudential Supervision) Act 2010</li>
+    <li>Financial Markets Supervisors Act 2011</li>
+    <li>Financial Markets Conduct Act 2013</li>
+    <li>Non-bank Deposit Takers Act 2013</li>
+  </ol>
+
+  <h3>Legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Company registered in New Zealand</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>At least one director is required (natural persons only, at least one local director or a resident of any enforcement country, who is a director of a company registered in that enforcement country)</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>At least 1 shareholder (natural persons and legal entities allowed, no restrictions with regards to citizenship or residence)</li>
+            <li>Foreign ownership is allowed</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirement</td>
+        <td>There is no minimum capital requirement.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Physical presence</td>
+        <td>A physical operational office in New Zealand is required.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>AML/CFT Compliance</td>
+        <td>To file an annual Anti-Money Laundering and Countering Financing of Terrorism Act 2009 Report (AML/CFT)</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Bank account</td>
+        <td>To open and maintain a local business bank account.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Company secretary</td>
+        <td>Required</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>28% corporate income tax rate</li>
+            <li>15% Goods and Services Tax rate (GST, similar to VAT), not applied to residential rents and financial services</li>
+            <li>Around 40 Double Taxation Avoidance (DTA) agreements signed</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Accounting and audit requirements</td>
+        <td>
+          <ol>
+            <li>Preparing and filing annual returns is mandatory.</li>
+            <li>Annual audit is mandatory</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</>
+);
+const Brokarage18 =(
+  <>
+  <div>
+  <p>
+    Panama Broker Dealer House License<br />
+    Broker-dealer and investment advisor activities are mainly regulated in Panama by Law Decree No.1 of 1999, as amended (the “Securities Law”). The license is issued by the National Securities Commission.
+  </p>
+
+  <p>
+    Permitted Activities<br />
+    Broker-Dealer Houses are entities authorized to engage in activities to receive, process and execute orders and trades on behalf of others or on its own behalf. The following are permitted activities:
+  </p>
+
+  <ol>
+    <li>Provide advisement to clients concerning investment opportunities</li>
+    <li>Management of custodial accounts</li>
+    <li>Management of individual investment portfolios</li>
+    <li>Act as agent of payment, transfer and registration</li>
+    <li>Grant loans for the purchase of securities</li>
+    <li>Mediation in public offerings on behalf of the issuer</li>
+  </ol>
+
+  <table>
+    <caption>Legal requirements</caption>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>The following types of investment companies can register with the National Securities Commission and apply for the license:
+              <ul>
+                <li>Simple investment companies</li>
+                <li>Umbrella investment companies</li>
+                <li>Multiple class investment companies</li>
+              </ul>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>The licensee will need at least 3 (three) natural persons Fit and Proper Directors who must have proven business and professional integrity.</li>
+            <li>Appropriate knowledge and experience for individuals are determined by the commission through duties as principal executives or other similar responsibilities in other public and private entities for a period of 2 years.</li>
+            <li>No corporate directors allowed.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholder</td>
+        <td>Minimum of one shareholder is required</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Principal Executive</td>
+        <td>
+          <ol>
+            <li>The licensee must at least appoint one person as Principal Executive. The volumes of the business will determine the number of principal executives to have, and they must have corresponding licenses issued by the Commission</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Compliance officer</td>
+        <td>The licensee must appoint a person that shall act as Compliance Officer. The compliance Officer may be any member of the organization and shall be a holder of the Main Executive License issued by the National Security Commission.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>External auditor</td>
+        <td>An independent external auditor is required who shall audit the Investment Company at least once a year and prepare the audited financial statements for the company in accordance with Accounting Regulations approved by the National Securities Commission and its Agreements</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Minimum capital requirement</td>
+        <td>Minimum registered capital of USD150,000 is required</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Reporting</td>
+        <td>A Broker Dealer House shall reflect the sales information in the Global Monthly Transaction Report referred to in Article 17 of Agreement No. 2-2004 dated April 30, 2004, through Form DMI-5.6.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage19 =(
+  <>
+  <div>
+  <h2>Rwanda Online Forex Exchange Broker</h2>
+  <p>The Name of Regulator is the Capital Markets Authority of Rwanda and the Industry Regulatory Structure we will reference is the Online Foreign Exchange Trading. The CMA of Rwanda, established in June 2011, is the regulator of brokers, dealers, sponsors, investment advisers, investment banks, investment managers, custodians, securities exchange, clearing house, and credit rating agency.</p>
+  <p>The law regulating the capital markets business in Rwanda requires all persons intending to conduct capital markets business to hold a valid license issued by the Capital Market Authority of Rwanda. A person holding a license granted by the Authority will be allowed to carry out capital market business for which he has applied for. The following is the list of business activities regulated under the Authority that are to be applied for a license:</p>
+  <ol>
+    <li>Custodial services</li>
+    <li>Securities exchange</li>
+    <li>Clearing house</li>
+    <li>Securities broker</li>
+    <li>Dealer</li>
+    <li>Securities sponsor</li>
+    <li>Investment adviser</li>
+    <li>Investment manager</li>
+    <li>Investment bank</li>
+    <li>Credit rating</li>
+    <li>Trustee</li>
+  </ol>
+
+  <h3>Market Intermediaries in the Rwanda Capital Markets</h3>
+  <p>The main market intermediaries in the Rwanda capital markets include:</p>
+  <ol>
+    <li>Custodial services – Custodial services are services carried out by a custodian, which can be a bank licensed under the Banking Act and approved by the Authority to carry out the function of Safekeeping and administering capital markets instruments.</li>
+    <li>Securities broker/dealer – A firm or individual person licensed by the Authority under the Act to carry out the following functions: dealing in capital markets instruments; arranging deals in capital markets instruments; safekeeping and administering of capital markets instruments; managing capital markets instruments; and giving capital markets advice.</li>
+    <li>Securities sponsor – A person licensed by the Authority under the Act to undertake the following activities: arranging deals in capital markets instruments; giving capital markets advice; safekeeping and administering capital markets instruments.</li>
+    <li>Investment adviser – A firm licensed by the Authority under the Act to undertake the following activities: arranging deals in capital markets instruments; and giving capital markets advice.</li>
+    <li>Investment manager – A firm licensed by the Authority under the Act to carry out the following functions: arranging deals in capital markets instruments; managing capital markets instruments; and giving capital markets advice.</li>
+    <li>Investment bank – A non-deposit taking institution licensed by the Authority under the Act to carry out the following functions: dealing in capital markets instruments; arranging deals in capital markets instruments; and giving capital markets advice.</li>
+  </ol>
+
+  <h3>List of Capital Market Instruments that can be traded</h3>
+  <ol>
+    <li>Shares in the share capital of a public company - Shares referred to herein are those in public companies or any other person incorporated under Rwandan or foreign Laws with the exception of investment schemes.</li>
+    <li>Instruments creating or acknowledging indebtedness - The following instruments acknowledge indebtedness: Debentures, debenture stock, loan stocks, certificates of deposit and other instruments creating or acknowledging a present or future indebtedness.</li>
+    <li>Government-owned capital market instruments - Government may offer some of the following capital market instruments: loan stocks and other instruments creating or acknowledging indebtedness issued by or on behalf of a government, local government or public institutions.</li>
+    <li>Instruments entitling to shares or capital market instruments - Instruments entitling to shares or capital market instruments are warrants or other instruments entitling the holder to subscribe for any capital market instrument. Rights conferred by such instruments may be of current or future time.</li>
+    <li>Certificates representing capital market instruments - Certificates representing capital market instruments are certificates representing capital market instruments or other instruments which confer contractual or property rights, in respect of any capital market instrument held by someone other than the person to whom the rights are conferred by the certificate or instrument and the transfer of which may be effected without requiring the consent of that person.</li>
+    <li>Options - Options to acquire or dispose of a commodity or property within specified time.</li>
+    <li>Contract with future rights - Rights under a contract for the sale of a commodity or property of any description under which delivery is to be made at a future date.</li>
+    <li>Contracts for difference - Rights under a contract for differences or under any other contract for the purpose to securing a profit or avoiding a loss resulting from fluctuations in the price of property or capital market index during a specific period of time or resulting from other factors provided for in the contract.</li>
+    <li>Rights and interests in capital market instruments - Rights and interests in capital market instruments are any rights or interest in anything which is a capital market instrument falling within any of the instruments listed above.</li>
+  </ol>
+
+  <h3>Key Structuring Requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>SR. No.</th>
+        <th>Element</th>
+        <th>Requirements</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>A company incorporated in Rwanda and limited by shares.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Rwanda office</td>
+        <td>Capital market business must be carried out on a permanent basis and from an appropriate place in Rwanda.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Compliance officer</td>
+        <td>A compliance officer must be appointed and must not be involved in the performance of services or activities they monitor.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Auditor</td>
+        <td>An approved auditor must be appointed.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Minimum capital requirement</td>
+        <td>The level of shareholders funds (paid up share capital and reserves) for a broker, dealer who is a body corporate or a sponsor shall not be below RWF. 7, 5 and 7 million respectively or such higher amount as may be determined by the Authority.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Capital liquidity requirement</td>
+        <td>The Act requires that a firm must at all times satisfy the solvency test, namely the firm is able to pay its debts as they become due in the normal course of business; and the value of the company's assets is greater than the sum of:
+          <ol>
+            <li>the value of its liabilities; and</li>
+            <li>company‘s stated capital</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Client funds provision</td>
+        <td>
+          <ol>
+            <li>A firm must keep such records and accounts as are necessary to enable it at any time and without delay to distinguish assets held for one client from assets held for any other client and from its own assets.</li>
+            <li>A client money must be promptly deposited in a central bank or a commercial bank licensed by the National Bank of Rwanda or a bank holding an equivalent license in another country and is held in an account or accounts identified separately from any accounts used to hold funds belonging to the firm.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Leverage ratio provisions</td>
+        <td>The Act has no provisions for the minimum and maximum leverage ratio.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Submission of financial statement</td>
+        <td>Every licensed entity must submit an annual audited financial statement within ninety (90) days at the end of the financial year which starts on 1st January and ends on 31st December.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Directors</td>
+        <td>A minimum of one director is required. At least one of the directors must be an executive director.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Shareholders</td>
+        <td>At least one shareholder is required.</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Tax obligations</td>
+        <td>Standard Corporate Income Tax(CIT) is 30%.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage20 =(
+  <>
+  <div>
+  <h2>Samoa Forex Dealer Licence</h2>
+  <p>Samoa, officially the Independent State of Samoa and until 1997 known as Western Samoa, is a Polynesian island country consisting of two main islands; two smaller, inhabited islands; and several smaller, uninhabited islands, including the Aleipata Islands.</p>
+  <p>The Central Bank of Samoa is the Authority responsible for issuing licenses to operate a Money Transfer or Money Changer business in Samoa. This is pursuant to powers stipulated under the Central Bank of Samoa Act 1984, The Financial Institutions Act 1996, The Money Laundering Prevention Act 2007, and Foreign Exchange Control Regulations 1999.</p>
+  
+  <h3>Permitted activities</h3>
+  <p>Forex trading in this country is only allowed with an appropriate permit. In accordance with received permission, currency dealers possess the right to provide the following:</p>
+  <ol>
+    <li>Transferring operations (receiving and conducting payments between the jurisdiction and other countries in any currencies)</li>
+    <li>Exchanging operations (purchase and sale) of globally used currencies</li>
+    <li>Approval of applications for various operations with currencies, if needed and if the dealer has the authority to do so</li>
+  </ol>
+  
+  <h3>Legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>SR. No.</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity: The entity making the application is a company registered or incorporated in Samoa and includes a partnership which is a body corporate.</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors: The licensee will need at least 2 (two) natural persons Fit and Proper Directors of any jurisdiction and at least one resident director.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders: The licensee will need at least one shareholder. Corporate shareholding is allowed, and 100% foreign ownership is permitted.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Local office: The Central Bank of Samoa requires each licensee to procure a business premise from where the activities will be conducted.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Auditor: The relevant licensee shall appoint and at all times have a qualified auditor for the purposes of auditing its financial statements.</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Insurance: A licensee shall at all times maintain such professional indemnity and other insurance as may be prescribed.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Client assets provisions:
+          <ol>
+            <li>A Licensee must ensure that client assets are identified or identifiable and appropriately segregated and accounted for.</li>
+            <li>Make arrangements for the proper protection of client assets.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Minimum capital requirement:
+          <ol>
+            <li>Money Transfer Operator: $100,000 STA</li>
+            <li>Money Changer: $30,000 STA</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Reporting: Money Transfer Operators and Money Changers should comply with the reporting requirements in accordance with the Exchange Control Regulation of the Central Bank or any other report the Bank may require.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage21 =(
+  <>
+  <div>
+  <h2>Seychelles Securities Dealer Licence</h2>
+  <p>The Securities Act 2007 provides the legal framework for the provision of Securities Dealer Services. A Seychelles Securities Dealer License is a license which allows a company to trade in securities either as a principal (on its own account) or as an agent (on behalf of its clients). The regulatory authority, which grants the authorization for such a firm, is the Financial Services Authority (Seychelles).</p>
+
+  <h3>Permitted Activities</h3>
+  <ol>
+    <li>Securities Market Making</li>
+    <li>Securities Brokerage</li>
+    <li>Securities Dealing</li>
+    <li>Investment Advisory</li>
+    <li>Portfolio Management</li>
+  </ol>
+
+  <h3>Permitted Securities</h3>
+  <ol>
+    <li>Primary Equities</li>
+    <li>Primary Debt Instruments</li>
+    <li>Derivative Instruments (futures, options, forwards, contracts, CFDs and Swaps), on any of the following underlying assets; Equities, bonds, metals, commodities, currencies including cryptocurrency</li>
+  </ol>
+
+  <h2>Seychelles Securities Dealer License Legal Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory Requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Seychelles Domestic Company</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <p>&#8226; A minimum of 2 fit and proper directors</p>
+          <p>&#8226; Foreign directors are allowed</p>
+          <p>&#8226; No requirement for local directors</p>
+          <p>&#8226; Corporate directorship is not allowed</p>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <p>&#8226; A minimum of 2 shareholders</p>
+          <p>&#8226; Foreign shareholders are allowed</p>
+          <p>&#8226; No requirement for local shareholder</p>
+          <p>&#8226; Corporate shareholding is allowed</p>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Authorised representative</td>
+        <td>At least one individual who is licensed as a representative under section 52 of the Act is required.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Compliance officer</td>
+        <td>
+          <p>&#8226; A fit and proper compliance officer is required</p>
+          <p>&#8226; Must be a resident in Seychelles</p>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Local office</td>
+        <td>Full furnished office is compulsory</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Auditor</td>
+        <td>An approved auditor is required.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Capital requirement</td>
+        <td>Minimum issued and paid-up capital required is USD 50,000</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Professional Indemnity Cover (insurance)</td>
+        <td>A registered firm shall at all times maintain insurance policies in an amount appropriate to the complexity, size and nature of the securities business of the firm to cover at least professional indemnity.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Leverage</td>
+        <td>No restriction on minimum or maximum ratio</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Tax obligations</td>
+        <td>1.5% on the gross revenue</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Duration</td>
+        <td>3-4 months</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Ongoing obligations</td>
+        <td>A Securities Dealer is required to have its accounts audited annually by an auditor.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage22 =(
+  <>
+  <div>
+  <h2>Singapore Capital Markets Services (CMS) License</h2>
+  <p>
+    Singapore is the third largest FX centre globally after London and New York and is the
+    largest in Asia Pacific. Everyday, almost 1 trillion US dollars of FX is traded in Singapore.
+    The FX sector is pivotal to Singapore’s standing as a major trading and corporate treasury
+    hub in the region and underpins the vibrancy of Singapore’s international financial centre.
+    MAS has expanded the scope of the Securities and Futures Act to include OTC derivatives in
+    2018. Dealing in capital markets products, including securities, units in a collective
+    investment scheme, exchange-traded derivatives contracts, OTC derivatives contracts and
+    spot foreign exchange contracts for the purposes of leveraged foreign exchange trading, is a
+    regulated activity under the Securities and Futures Act, and financial institutions conducting
+    this activity in Singapore will need to apply for the Capital Markets Services (“CMS”)
+    license.
+  </p>
+  <h3>About the license</h3>
+  <p>
+    If your company wishes to conduct regulated activities under the SFA, it must hold a CMS
+    licence. Individuals conducting regulated activities on behalf of CMS licensees or exempt
+    CMS entities (such as banks) need to be appointed as representatives.
+  </p>
+  <p>These regulated activities are:</p>
+  <ol>
+    <li>Dealing in capital markets products</li>
+    <li>Advising on corporate finance</li>
+    <li>Fund management</li>
+    <li>Real estate investment trust management</li>
+    <li>Product financing</li>
+    <li>Providing credit rating services</li>
+    <li>Providing custodial services for securities</li>
+  </ol>
+  <p>Companies which may be required to hold a CMS licence include the below:</p>
+  <ol>
+    <li>Broker-dealers (including securities-based crowdfunding (SCF) operators)</li>
+    <li>Corporate finance advisers</li>
+    <li>Credit rating agencies</li>
+    <li>Real estate investment trust (REIT) managers</li>
+    <li>Fund managers</li>
+  </ol>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Singapore private limited company</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>Minimum of 2 directors, at least one is resident in Singapore.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>At least one shareholder. 100% foreign ownership is permitted.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Chief executive officer</td>
+        <td>Chief Executive Officer with least 10 years of relevant experience and is resident in Singapore.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Authorised representative</td>
+        <td>
+          At least 2 full-time representatives who are based in Singapore (except for REIT management). The individuals
+          appointed must meet the below criteria;
+          <ol>
+            <li>Be at least 21 years old.</li>
+            <li>Satisfy the minimum academic qualification and examination requirements as set out in Notice SFA 04-N09
+              Minimum Entry and Examination Requirements for Representatives of Holders of Capital Markets Services
+              Licence and Exempt Financial Institutions.</li>
+            <li>Satisfy the fit and proper criteria set out in FSG-G01 Guidelines on Fit and Proper Criteria</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Financial requirements</td>
+        <td>Must be able to fulfil the financial requirements that are applicable to the specific regulated activity</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Insurance</td>
+        <td>Professional Indemnity Insurance required</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Audit requirements</td>
+        <td>Internal and external audit is mandatory</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>AML/CFT compliance</td>
+        <td>
+          Internal policies and procedures should be prepared with a view to ensuring compliance with Singapore’s
+          Anti-Money Laundering/Counter-Financing of Terrorism laws and regulations.
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Staff requirements</td>
+        <td>Minimum of 2 full-time Singapore-based individuals for each regulated activity.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Admission Criteria and Requirements</td>
+        <td>
+          <ol>
+            <li>Fitness and propriety of the applicant, its shareholders and directors.</li>
+            <li>Track record and management expertise of the applicant and its parent company or major shareholders.</li>
+            <li>Ability to meet the minimum financial requirements prescribed under the SFA.</li>
+            <li>Strength of internal risk management and compliance systems.</li>
+            <li>Business model/ plans and projections and the associated risks</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Capital requirements</td>
+        <td> <table>
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Base Capital Requirements</th>
+        <th>Other Financial Requirements</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Broker-dealer</td>
+        <td>
+          The base capital requirement ranges from S$50,000 to S$5 million, depending on the types of products offered,
+          clientele type, and whether the broker-dealer is a member of an approved clearing house or exchange, if it
+          carries any customers’ positions in its books or handles customers’ money or assets or enters into
+          transactions with customers as principal. If licensed for multiple activities, the highest requirement applies.
+        </td>
+        <td>
+          A broker-dealer is required to maintain financial resources which exceed its total risk requirements. If licensed
+          for multiple activities, the highest base capital requirement among all activities applies.
+        </td>
+      </tr>
+      <tr>
+        <td>SCF operator</td>
+        <td>
+          The base capital requirement ranges from S$50,000 to S$1 million, depending on the types of products offered,
+          clientele type, and whether the SCF operator handles customers’ moneys or assets or enters into transactions
+          with customers as principal. If licensed for multiple activities, the highest requirement applies.
+        </td>
+        <td>
+          A SCF operator is required to maintain financial resources which exceed its total risk requirements. If licensed
+          for multiple activities, the highest base capital requirement among all activities applies.
+        </td>
+      </tr>
+      <tr>
+        <td>Corporate finance adviser</td>
+        <td>
+          The base capital requirement is S$250,000. If licensed for dealing in securities, CIS units, or exchange-traded
+          derivatives as a non-clearing or trading member, a higher requirement of S$1 million applies.
+        </td>
+        <td>
+          A corporate finance adviser is required to maintain financial resources which exceed its total risk
+          requirements. If licensed for multiple activities, the highest base capital requirement among all activities
+          applies.
+        </td>
+      </tr>
+      <tr>
+        <td>Credit rating agency</td>
+        <td>The base capital requirement is S$250,000.</td>
+        <td>Not applicable</td>
+      </tr>
+      <tr>
+        <td>REIT manager</td>
+        <td>The base capital requirement is S$1 million.</td>
+        <td>
+          A REIT manager is required to maintain financial resources which exceed its total risk requirements.
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Reporting requirements</td>
+        <td>Quarterly and annual</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage23 =(
+  <>
+  <div>
+  <h2>South Africa Financial Service Provider License</h2>
+  <p>Financial Service Providers are non-banking firms or persons that have been granted authorization as a financial services provider by the issue to that person of a license under the Financial Advisory and Intermediary Services Act, 2002. Forex brokers are licensed under this regime.</p>
+  <p>Previously known as the Financial Services Board (FSB), the Financial Sector Conduct Authority (FSCA) is the regulatory body of South Africa’s non-banking financial services industry, which includes collective investment schemes and financial advisors and brokers, among others. It operates under the Financial Advisory and Intermediary Services Act 37 of 2002 (FAIS).</p>
+
+  <h3>License Categories</h3>
+  <p>Administrative: This broker renders intermediary services in respect of financial products such as securities and instruments including shares, debentures, foreign currency deposits etc. They also do bulking.</p>
+  <p>Discretionary: They render all services same as the administrative category except they cannot engage in bulking.</p>
+  <p>Note: Bulking - is the ability and certification to aggregate client funds when buying or investing in financial instruments.</p>
+  <p>They are further categorized as:</p>
+  <ol>
+    <li>Category I – authorized to render the financial services (other than financial services mentioned in Categories II, IIA, III and IV);</li>
+    <li>Category II - authorized as discretionary FSPs;</li>
+    <li>Category IIA – authorized as hedge fund FSPs;</li>
+    <li>Category III - authorized as administrative FSPs;</li>
+    <li>Category IV – authorized as Assistance Business FSP.</li>
+  </ol>
+  <h2>South Africa Financial Service Provider requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Directors</td>
+        <td>
+          <p>&#8226; Minimum one fit and proper director (can be only natural persons)</p>
+          <p>&#8226; A local director is required</p>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Shareholders</td>
+        <td>Minimum one shareholder (can be legal entities or natural persons) – no restrictions on residence/nationality</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Key individual</td>
+        <td>
+          <p>&#8226; Must be a resident in South Africa</p>
+          <p>&#8226; Must satisfy fit and proper requirements as required by FSCA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Compliance officer</td>
+        <td>A fit and proper Compliance Officer (must be a resident)</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Insurance</td>
+        <td>Professional indemnity coverage of R 5,000,000 (USD 342,000)</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>South Africa office</td>
+        <td>Fully furnished approved office is required</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Auditor</td>
+        <td>Approved external auditor are required.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Reporting</td>
+        <td>Financial statements need to be submitted annually to FSCA</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Tax obligations</td>
+        <td>Corporate tax rate is 28% on taxable net income for both resident and non-resident companies.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage24 =(
+  <>
+  <div>
+  <h2>South Africa OTC Derivative License</h2>
+  <p><strong>OTC Definition:</strong> Over the counter (OTC) or off-exchange trading is done directly between two parties, without the supervision of an exchange. It is contrasted with exchange trading, which occurs via exchanges. A stock exchange has the benefit of facilitating liquidity, providing transparency, and maintaining the current market price. In an OTC trade, the price is not necessarily published for the public.</p>
+  <p>OTC trading, as well as exchange trading, occurs with commodities, financial instruments (including stocks), and derivatives of such products. Products traded on the exchange must be well standardized. This means that exchanged deliverables match a narrow range of quantity, quality, and identity which is defined by the exchange and identical to all transactions of that product. This is necessary for there to be transparency in trading.</p>
+
+  <h3>About South Africa’s OTC Derivatives Provider License</h3>
+  <p>The FMA Regulations make it compulsory for all ODPs to be licensed. An ODP is “a person who as a regular feature of its business and transacting as principal:</p>
+  <ul>
+    <li>(a) Originates, issues or sells OTC derivatives; or</li>
+    <li>(b) Makes a market in OTC derivatives”.</li>
+  </ul>
+  <p>Further, the FMA Regulations define an “OTC derivative” as an unlisted derivative instrument that is executed, whether confirmed or not confirmed, excluding foreign exchange spot contracts and physically settled commodity derivatives.</p>
+
+  <h2>South Africa’s OTC Derivatives Provider License Legal Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>SA Private Company regulated by the Companies and Intellectual Property Commission (CIPC)</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <p>&#8226; Fit and proper director required</p>
+          <p>&#8226; Local director is required</p>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Key Individual</td>
+        <td>
+          <p>&#8226; Must be a resident in South Africa</p>
+          <p>&#8226; Must satisfy fit and proper requirements as required by FSCA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Shareholders</td>
+        <td>
+          <p>&#8226; At least one shareholder.</p>
+          <p>&#8226; Corporate shareholding is allowed.</p>
+          <p>&#8226; No restrictions on nationalities and residences</p>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Compliance officer and MLRO</td>
+        <td>A fit and proper compliance officer (must be a resident)</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>South Africa office</td>
+        <td>Authorized and fully equipped office from where the operations of the company shall be run is required.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Auditor</td>
+        <td>An approved auditor is required.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Insurance</td>
+        <td>A Professional Indemnity cover that varies with the volume of activities and risk of its business is required.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Minimum capital requirement</td>
+        <td>
+          <p>&#8226; Maintain capital, together with retained earnings and reserves proportional to the risks relating to the business of the provider in RSA.</p>
+          <p>&#8226; Hold sufficient capital and liquid net assets funded by equity in the Republic of South Africa to cover potential business losses.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Tax obligations</td>
+        <td>CIT rate is applicable for corporate income of both resident and non-resident companies at a flat rate of 28%.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage25 =(
+  <>
+  <div>
+  <h2>Legal Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>
+          Entity: Company, limited partnerships, unit trust, or other business entity, which is incorporated, registered
+          or otherwise established under the laws of a member territory of the Eastern Caribbean Currency Union.
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>
+          Capital requirement: The applicant must have paid-up capital of no less than One Million Eastern Caribbean
+          Dollars (EC$1.0 million).
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>
+          Authorised representative: The applicant must employ at least one individual who is licensed as a
+          representative under section 62 and as principal.
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>
+          Fit and Proper person to be licensed by the commission:
+          <ol type="a">
+            <li>Shall have regard to, in respect of each of its directors and officers:
+              <ol type="i">
+                <li>His financial status;</li>
+                <li>His educational or other qualifications or experience having regard to the nature of his
+                  application;</li>
+                <li>His ability to perform his proposed function efficiently, honestly and fairly;</li>
+                <li>His reputation, character, financial integrity and reliability; and</li>
+              </ol>
+            </li>
+            <li>May take into account any matter relating to -
+              <ol type="i">
+                <li>Any person who is or is to be employed by, or associated with, the applicant for the purposes of the
+                  business to which the application relates;</li>
+                <li>Any person who will be acting as a principal or representative in relation to such business; and</li>
+                <li>Any substantial shareholder, director or officer of the company, any other company in the same group of
+                  companies or to any director or officer of any such company.</li>
+              </ol>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>
+          Auditor:
+          <ul>
+            <li>Within one month after becoming licensed under this Act a licensee, other than an accredited principal and
+              representative, shall appoint an auditor who is acceptable to the Commission.</li>
+            <li>No person shall be qualified for appointment as an auditor unless he is an accountant.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>
+          Insurance: Applicant must comply with the insurance requirement under section 80 by having sufficient professional
+          indemnity.
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>
+          AML/CFT Compliance: Forex companies must have robust Anti-Money Laundering (AML) and Countering the Financing of
+          Terrorism (CFT) policies and procedures in place.
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>
+          Physical office: License holders must maintain a physical office in Saint Kitts and Nevis.
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>
+          Compliance officer: A local compliance officer is required.
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>
+          Taxation:
+          <ul>
+            <li>No Income Tax: Corporate profits are not subject to income tax, permitting forex companies to retain more of
+              their earnings.</li>
+            <li>No Capital Gains Tax: Gains from the sale of assets are not taxed, providing further financial advantages.</li>
+            <li>No Withholding Tax: There is no withholding tax on dividends or interest payments, reducing the cost of doing
+              business and increasing investor returns.</li>
+            <li>No Import or Export Duties: Import and export duties on trading instruments are non-existent, making it easier
+              and more cost-effective to conduct forex operations.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>
+          Compliance and reporting: License holders must maintain ongoing compliance with regulatory requirements and
+          regularly report to the FSRC.
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>
+          Audited Accounts:
+          <ul>
+            <li>For the financial year beginning on the day on which it commences to carry on securities business; and</li>
+            <li>For each subsequent year submit to the Commission, within ninety days after the end of the financial year,
+              audited financial statements prepared in accordance with international accounting standards, and which contain
+              such additional information as may be prescribed.</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage26 =(
+  <>
+  <div>
+  <h2>Tanzania Capital Markets and Securities Authority (CMSA) Dealer License</h2>
+  <p>The Capital Markets and Securities Act (CMS Act), gives the CMSA mandate of licensing all market participants. These include securities dealers / brokers and their representatives, Nominated Advisers and their representatives, investment advisers, fund managers, custodians of securities, Central Depositories (CSD), stock exchanges and commodity exchanges.</p>
+  <p>Section 32(a-e) of the Capital Markets and Securities Act, Cap. 79 of the Laws of Tanzania requires all persons intending to carry on the business of a stockbroker, dealer, investment bank, fund manager, investment adviser, and authorized depository to hold a valid license issued by the Authority.</p>
+
+  <h3>About CMSA Dealer License</h3>
+  <p>Below are definitions explained by CMSA in relation to a dealer License:</p>
+  <ol>
+    <li>A dealer means a person who carries on the business of dealing in securities whether he carries on any other business or not but does not include an exempt dealer.</li>
+    <li>Dealer’s Representative means a person, in the direct employment of, or acting for, or by arrangement with, a dealer, who performs for that dealer any of the functions of a dealer, other than work ordinarily performed by accountants, clerks or cashiers, whether his remuneration is by way of salary, wages, commission or otherwise; and where the dealer is a body corporate, includes any director or officer of the body corporate who performs for the body corporate any of the said functions.</li>
+    <li>Exempt Dealer means the following persons or bodies corporate:
+      <ol>
+        <li>any bank as defined in the Banking and Financial Institutions Act; and</li>
+        <li>such other persons as the Minister may by regulation exempt</li>
+      </ol>
+      <p>An exempt dealer shall be exempted from the requirements imposed upon a dealer as per the Capital Markets and Securities Act and any conditions or restrictions as may be prescribed to carry out dealing in securities on his own account and on behalf of any third party.</p>
+    </li>
+  </ol>
+
+  <h2>Key Structuring Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Must be a company incorporated in Tanzania under the Companies Act (2002)</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Authorised Dealer's Representative</td>
+        <td>Must have a minimum of two Authorised Dealers’ Representatives who have attended and successfully completed the CMSA’s Dealer’s course.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Fit and Proper documentation for Directors and Key personnel including:</td>
+        <td>
+          <ol>
+            <li>Duly certified National Identification Cards for Tanzanian Citizens and Passport copies for foreigners;</li>
+            <li>Duly certified police clearance certificates;</li>
+            <li>Duly certified academic certificates;</li>
+            <li>Complete profile of Directors and Principle officers;</li>
+            <li>Comprehensive Curriculum and Passport photographs.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Compliance officer</td>
+        <td>This is not mandatory although you are required to have an Anti-Money Laundering Policy/Manual and a standard Client Service Agreement that will be used.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Tanzania office</td>
+        <td>Necessary infrastructure and office facilities are required</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Board of Directors</td>
+        <td>
+          <ol>
+            <li>A minimum of 3 directors a third of whom must be natural persons.</li>
+            <li>At least one third independent and non–executive directors.</li>
+            <li>Not more than one third of the directors who are close relations of any director.</li>
+            <li>A director should not hold more than 2 directorships in market intermediaries unless they are subsidiaries or holding companies.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Accounts and Audit</td>
+        <td>
+          <ol>
+            <li>Every dealer shall keep accounts:</li>
+            <li>Such accounting records as will reflect correctly and explain the transactions and financial position of the business of dealing in securities carried on by him;</li>
+            <li>The accounting records in such a manner as will enable true and fair profit and loss accounts and balance sheets to be prepared from time to time; and</li>
+            <li>The accounting records in such a manner as will enable profit and loss accounts and balance sheets of the business of dealing in securities carried on by him to be conveniently and properly audited.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Auditor Requirements</td>
+        <td>
+          <ol>
+            <li>At least one member of the body is ordinarily resident in Tanzania;</li>
+            <li>All the members of the body ordinarily resident in Tanzania are qualified company auditors;</li>
+            <li>No member of the body is indebted in an amount exceeding one hundred thousand shillings to the dealer; and</li>
+            <li>No member of the body is a partner or employee of the dealer.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Minimum capital requirement</td>
+        <td>Must have a minimum paid up capital to be at least USD 250,000 or its equivalent TZS</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Capital liquidity requirement</td>
+        <td>The company is required to have a sum of Tanzania Shillings 150,000,000/- equivalent to USD 65,000</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Asset classes permitted</td>
+        <td>The license also permits trading in:
+          <ol>
+            <li>Shares.</li>
+            <li>Physical Shares.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Type of client allowed</td>
+        <td>Retail, professional and corporate clients</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Marketing</td>
+        <td>Marketing and cross-sale is limited to the East African Community.</td>
+      </tr>
+      <tr>
+        <td>14.</td>
+        <td>Reporting Requirement</td>
+        <td>Every dealer must, at the end of each quarter of the financial year, submit quarterly reports to the Authority and the Stock Exchange indicating the financial performance of the company during that particular quarter.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage27 =(
+  <>
+  <div>
+  <h2>Turks and Caicos Investment Dealer License</h2>
+  <p>
+    The Turks and Caicos Islands are a British Overseas Territory consisting of the larger Caicos Islands and smaller Turks Islands, two groups of tropical islands in the Lucayan Archipelago of the Atlantic Ocean and northern West Indies. They are known primarily for tourism and as an offshore financial centre.
+  </p>
+  <h3>About the license</h3>
+  <p>
+    Activities related to certain investments carried out in this jurisdiction are permitted in accordance with two official acts. These acts are the Investment Dealer Operations Ordinance (IDLO) and the Mutual Fund Ordinance (MFO). Under these regulations, the responsibility for licensing, supervising and regulating investment dealers and mutual funds rests with the regulatory authorities of the jurisdiction.
+  </p>
+  <h3>Investment Dealers</h3>
+  <p>
+    An investment dealer means a person who trades on behalf of customers, acts as a fund manager, solicits subscriptions for new issues of investments, and offers advice about investments by way of a business. Investments include commodities trading, corporate bonds, equities, government and local authority bonds, units in collective investment schemes, warrants, options, futures, forward contracts, swaps and so on as well as synthetic products which replicate these items (section 2).
+  </p>
+  <h3>Licensing</h3>
+  <p>
+    Applications for licences are made to the licensing committee of Financial Services Commission (“FSC”). The IDLO in Section 8 provides for the licensing of a company or partners in a partnership to be licenced as:
+  </p>
+  <ol>
+    <li>Investment advisers (“adviser’s licence”)</li>
+    <li>Investment dealers acting in an execution only capacity (“execution only licence”)</li>
+    <li>Investment dealers (“full licence”). Holders of the full licence may; offer advice, trade on behalf of customers, act as fund manager (see below) and solicit subscriptions for new issues of investments; and</li>
+    <li>Fund managers who trade in investments on behalf of mutual funds (“fund managers licence”)</li>
+  </ol>
+
+  <h2>Legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>The entity making the application is a Turks and Caicos:</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td>
+          <ol>
+            <li>A company</li>
+            <li>Unit Trust</li>
+            <li>Partnerships</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>At least two directors who are natural persons and must be precluded by its articles of association from issuing bearer shares.</li>
+            <li>An applicant which is a partnership must have at least one partner who is ordinarily resident in the Islands and suitably qualified.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>At least one shareholder</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Authorised representative</td>
+        <td>Each applicant (if a company) must have a manager who is ordinarily resident in the Islands,</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Audit requirements</td>
+        <td>Audited accounts must be submitted to the FSC within 6 months of the end of the licensee’s financial year</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Compliance requirements</td>
+        <td>The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Insurance</td>
+        <td>A licensed investment dealer shall maintain with a recognized insurer, professional indemnity insurance in the amount of not less than $2,000,000 to cover any one loss including any loss due to theft by an employee or negligence by a director.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Local office</td>
+        <td>The applicant must have premises in the island acceptable to the commission prior to operating the business.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Minimum capital requirement</td>
+        <td>A licensed investment dealer shall maintain in liquid assets, a minimum capital of $250,000 or 2.5% (whichever is higher) of investments and money held on behalf of clients.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const Brokarage28 =(
+  <>
+  <div>
+  <h2>Vanuatu Securities Dealer License</h2>
+  <p>
+    Vanuatu, officially the Republic of Vanuatu, is an archipelago in the South Pacific Ocean, east of Australia west of Fiji and North of New Zealand, consisting of a chain of 13 principals and many smaller islands. Financial services in Vanuatu are regulated by Vanuatu Financial Services Commission (VFSC). Vanuatu is a great location for forex brokers with limited amount of resources because capital (or bond) requirements are relatively small. The forex brokerage license can be obtained based on Dealer’s in Securities (Licensing) Act [CAP 70]. An application can be made for a Dealers in Securities License under this act by a Vanuatu international company or by an individual, who is a Director / Officer of the company. Moreover, the clients can benefit from this license because it permits the holder to manage the portfolio of investments and to operate with securities (sell and buy) for the client or even on his behalf.
+  </p>
+  <h3>Types of Forex licenses</h3>
+  <p>
+    As of 8 January 2019, Amendments of Financial Dealers Licensing Act came in force, dividing Principal’s license into Class A, Class B or Class C Principal’s License.
+  </p>
+  <dl>
+    <dt>Class A Principal’s License:</dt>
+    <dd>means to carry on or purport to carry on the business of dealing in any of the following securities:
+      <ol>
+        <li>Debenture stocks; or</li>
+        <li>Loan stock, bonds; or</li>
+        <li>Certificate of deposit; or</li>
+        <li>Proceeds of Foreign Exchange</li>
+      </ol>
+    </dd>
+    <dt>Class B Principal’s License:</dt>
+    <dd>means to carry on or purport to carry on the business of dealing in future contracts and derivative products but not limited to futures and options.</dd>
+    <dt>Class C Principal’s License:</dt>
+    <dd>means to carry on or purport to carry on the business of dealing in any of the following securities:
+      <ol>
+        <li>Shares in share capital of a corporation;</li>
+        <li>Proceeds of precious metals; or</li>
+        <li>Proceeds of commodities; or</li>
+        <li>A right despite whether or not conferred by warrant, subscribe for shares or debt securities; or</li>
+        <li>A right under depository receipt;</li>
+        <li>An option to acquire or dispose of any security falling within any other provision of the Act; or</li>
+        <li>A right under a contract for the acquisition of securities.</li>
+      </ol>
+    </dd>
+  </dl>
+
+  <h2>Legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>Vanuatu Private company limited by shares</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>License manager</td>
+        <td>
+          <ol>
+            <li>The licensing of resident manager is an alternative to having a fully fledge physical presence in Vanuatu. In order to grant a license manager approval by VFSC they should have met the below criteria:</li>
+            <ol type="a">
+              <li>Natural Person</li>
+              <li>Has met the fit and proper as required under section 5A</li>
+              <li>Has qualification and experiences in managerial services of a financial dealer security</li>
+              <li>Has appropriate staffing</li>
+              <li>Has a physical office in Vanuatu</li>
+              <li>Has resides in Vanuatu for 6 months in a year</li>
+            </ol>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>At least one (only natural person)</li>
+            <li>Shall normally reside for 6 months within each year in Vanuatu</li>
+            <li>Must have at least 5 years’ experience dealing in securities and is competent to meet the obligation of a licensee as required by VFSC</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Shareholders</td>
+        <td>Only one shareholder (can also be a legal person, no nationality restriction or residency restrictions)</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Compliance officer</td>
+        <td>An AML officer and Alternative AML officer are required</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Physical presence</td>
+        <td>
+          The company must operate from a physical premise located in Vanuatu, which maintains the following systems:
+          <ol>
+            <li>A filing system;</li>
+            <li>A management and accounting system;</li>
+            <li>A business continuity system;</li>
+            <li>A software system and server</li>
+          </ol>
+          VFSC has provided clear guidance on physical presence of financial dealer licensees and Employees in Vanuatu.
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Capital requirement</td>
+        <td>A deposit of $50,000 must be paid.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Insurance</td>
+        <td>A license must have adequate insurance cover, including professional indemnity insurance indemnity for partners and employees, former partners and employees, and consultants, to serve as a protection for the investor’s funds in the event of financial loss.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Taxation</td>
+        <td>The company is exempted from capital gains, tax on profits and stamp duty after incorporation for 20 years on income derived outside of Vanuatu</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Accounting and audit requirements</td>
+        <td>Financial statement must be prepared by an independent auditor and submitted 3 months after the anniversary date in accordance with the International Accounting Standard or other standard in agreement with the Commissioner</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+
 const MaltaProtectedCellCompaniesHTML = (
   <div>
     <h1>Malta Protected Cell Companies</h1>
@@ -17317,8 +18743,56 @@ const LicensingServices = {
     Content: Brokarage15,
   },
   {
-    Service: "Montserrat Securities Exchange License ---",
+    Service: "Montserrat Securities Exchange License",
     Content: Brokarage16,
+  },
+  {
+    Service: "New Zealand Financial Service Providers License",
+    Content: Brokarage17,
+  },
+  {
+    Service: "Panama Broker Dealer House License",
+    Content: Brokarage18,
+  },
+  {
+    Service: "Rwanda Online Forex Exchange Broker",
+    Content: Brokarage19,
+  },
+  {
+    Service: "Samoa Forex Dealer Licence",
+    Content: Brokarage20,
+  },
+  {
+    Service: "Seychelles Securities Dealer Licence",
+    Content: Brokarage21,
+  },
+  {
+    Service: "Singapore Capital Markets Services (CMS) License",
+    Content: Brokarage22,
+  },
+  {
+    Service: "South Africa Financial Service Provider License",
+    Content: Brokarage23,
+  },
+  {
+    Service: "South Africa OTC Derivative License",
+    Content: Brokarage24,
+  },
+  {
+    Service: "St Kitts and Nevis Securities Dealer License",
+    Content: Brokarage25,
+  },
+  {
+    Service: "Tanzania Capital Markets and Securities Authority (CMSA) Dealer License",
+    Content: Brokarage26,
+  },
+  {
+    Service: "Turks and Caicos Investment Dealer License",
+    Content: Brokarage27,
+  },
+  {
+    Service: "Vanuatu Securities Dealer License",
+    Content: Brokarage28,
   },
 ],
   Gaming_and_gambling: [
