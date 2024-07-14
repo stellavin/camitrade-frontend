@@ -21084,6 +21084,2760 @@ const mutualFund20 = (
 </>
 );
 
+const mutualFund21 = (
+  <>
+  <div>
+  <h2>Labuan Private Fund License</h2>
+  <p>
+    A mutual fund or fund means a Labuan company, a corporation incorporated under the laws of any recognised country or jurisdiction, a partnership, a protected cell company, a foundation or a unit trust which:
+  </p>
+  <ol>
+    <li>Collects and pools funds for the purpose of collective investment with the aim of spreading investment risk; and</li>
+    <li>Issues interests in a mutual fund which entitles the holder to redeem his investments that is agreed upon by the parties and receives an amount computed by reference to the value of a proportionate interest in the whole or part of the net assets of the aforesaid types of entities, as the case may be, and includes an umbrella fund whose interests in a mutual fund or units are split into a number of different classes of funds or subfunds and whose participants are entitled to exchange rights in one part for rights in another.</li>
+  </ol>
+  <p>
+    Labuan mutual funds which can either be in the form of public fund or private fund can be structured as a Labuan company, a corporation incorporated under the laws of any recognised country or jurisdiction, who is a member of the International Organization of Securities Commissions (IOSCO), a partnership, a protected cell company, a foundation or a unit trust.
+  </p>
+  <p>
+    Labuan Islamic mutual funds shall operate in compliance with Shariah principles.
+  </p>
+  <p>
+    Labuan mutual fund are governed under Part III of the Labuan Financial Services and Securities Act 2010 (LFSSA) and Labuan Islamic mutual fund are governed under Part IV of the Labuan Islamic Financial Services and Securities Act 2010 (LIFSSA).
+  </p>
+  <h3>About Private Fund</h3>
+  <p>
+    Labuan private funds are mutual funds whose securities are not offered to the general public and are owned or held by:
+  </p>
+  <ol>
+    <li>Not more than 50 investors where the first time investment of each of such investors is not less than RM250,000 equivalent in any foreign currency; Or</li>
+    <li>Any number of investors where the first time investment of each such investors is not less than RM500,000 equivalent in any foreign currency.</li>
+  </ol>
+  <p>
+    Islamic private funds are private funds with similar definition to the above and are in compliance with Shariah principles.
+  </p>
+  <p>
+    A private fund can carry on its affairs by giving notice in writing of its scope and nature of business to Labuan FSA. The notification shall be accompanied with an information memorandum or such other offering document and should be lodged through a Labuan licensed entity. The information memorandum or such other offering document will be deemed as a prospectus and a lodgement fee of USD600 is applicable.
+  </p>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>The entity making the application is a Labuan company under Labuan Financial Services and Securities Act 2010 (LFSSA). Company includes:</li>
+            <ul>
+              <li>Company;</li>
+              <li>LLP;</li>
+              <li>PCC</li>
+              <li>Any other similar body formed under the laws of Labuan</li>
+            </ul>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>The licensee will need at least 2 (two) natural person Fit and Proper directors of any jurisdiction.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The Private Fund will need at least one shareholder.</li>
+            <li>Corporate shareholding is allowed and</li>
+            <li>100% foreign ownership is permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirement</td>
+        <td>The Applicant must have the prescribed minimum subscription and is able to meet the prescribed minimum net liquid capital requirement in cash or readily marketable securities. The prescribed minimum subscription is RM250,000 (USD 63,000).</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Service providers required</td>
+        <td>
+          <ol>
+            <li>May appoint a fund manager, fund administrator or other service providers.</li>
+            <li>If appointment is made, to submit an audited financial statement of its promoter and fund manager, where applicable, for three (3) preceding years along with the lodgement of Information Memorandum.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Accounting requirements</td>
+        <td>Maintain adequate and proper accounting and other records in line with the Directive on Accounts and Record-Keeping Requirement for Labuan Entities issued by Labuan FSA that will sufficiently explain its transactions and financial position and indicate clearly its names on its letterhead, stationery and other documents.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Fit and proper</td>
+        <td>The shareholder and every members of the Board of the private fund including any other relevant person must be fit and proper persons in accordance with the Guidelines on Fit and Proper Person issued by Labuan FSA.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>AML/CFT Compliance</td>
+        <td>Ensure compliance with the Anti-Money Laundering and Anti-Terrorism Financing Act 2001 and Guidelines on Anti-Money Laundering and Counter Financing of Terrorism which is relevant to Labuan IBFC.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund22 = (
+  <>
+  <div>
+  <h2>Labuan Public Fund License</h2>
+  <p>
+    A mutual fund or fund means a Labuan company, a corporation incorporated under the laws of any recognised country or jurisdiction, a partnership, a protected cell company, a foundation or a unit trust which:
+  </p>
+  <ol>
+    <li>Collects and pools funds for the purpose of collective investment with the aim of spreading investment risk; and</li>
+    <li>Issues interests in a mutual fund which entitles the holder to redeem his investments that is agreed upon by the parties and receives an amount computed by reference to the value of a proportionate interest in the whole or part of the net assets of the aforesaid types of entities, as the case may be, and includes an umbrella fund whose interests in a mutual fund or units are split into a number of different classes of funds or subfunds and whose participants are entitled to exchange rights in one part for rights in another.</li>
+  </ol>
+  <p>
+    Labuan mutual funds which can either be in the form of public fund or private fund can be structured as a Labuan company, a corporation incorporated under the laws of any recognised country or jurisdiction, who is a member of the International Organization of Securities Commissions (IOSCO), a partnership, a protected cell company, a foundation or a unit trust.
+  </p>
+  <p>
+    Labuan Islamic mutual funds shall operate in compliance with Shariah principles.
+  </p>
+  <p>
+    Labuan mutual fund are governed under Part III of the Labuan Financial Services and Securities Act 2010 (LFSSA) and Labuan Islamic mutual fund are governed under Part IV of the Labuan Islamic Financial Services and Securities Act 2010 (LIFSSA).
+  </p>
+  <h3>About Public Fund</h3>
+  <p>
+    Labuan public funds are those whose securities are offered for subscription to any members of the general public. No public fund shall carry on business in or from within Labuan unless it has been registered under Section 33(1)(a) of the Labuan Financial Services and Securities (Amendment) Act 2022 (Act A1654) (LFSSA) or in the case of an Islamic public fund, Section 38(1)(a) of the Labuan Islamic Financial Services and Securities (Amendment) Act 2022 (Act A1655) (LIFSSA). The annual fee payable is USD600.
+  </p>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>The entity making the application is a Labuan company under Labuan Financial Services and Securities Act 2010 (LFSSA). Company includes:</li>
+            <ul>
+              <li>Company;</li>
+              <li>LLP;</li>
+              <li>PCC</li>
+              <li>Any other similar body formed under the laws of Labuan</li>
+            </ul>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>The licensee will need at least 2 (two) natural person Fit and Proper directors of any jurisdiction.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The Private Fund will need at least one shareholder.</li>
+            <li>Corporate shareholding is allowed and</li>
+            <li>100% foreign ownership is permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirement</td>
+        <td>Ensure that all subscriptions are repaid immediately if the minimum level of subscription required is not met within the stipulated time.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Service providers required</td>
+        <td>
+          <ol>
+            <li>Must appoint a fund manager, trustee, administrator and custodian approved by Labuan FSA.</li>
+            <li>Ensure that the duties of the fund manager and custodian or trustee of the Labuan public fund are independent from each other.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Accounting requirements</td>
+        <td>Maintain adequate and proper accounting and other records in line with the Directive on Accounts and Record-Keeping Requirement for Labuan Entities issued by Labuan FSA that will sufficiently explain its transactions and financial position and indicate clearly its names on its letterhead, stationery and other documents.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Fit and proper</td>
+        <td>The shareholder and every members of the Board of the private fund including any other relevant person must be fit and proper persons in accordance with the Guidelines on Fit and Proper Person issued by Labuan FSA.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>AML/CFT Compliance</td>
+        <td>Ensure compliance with the Anti-Money Laundering and Anti-Terrorism Financing Act 2001 and Guidelines on Anti-Money Laundering and Counter Financing of Terrorism which is relevant to Labuan IBFC.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Physical presence</td>
+        <td>Maintain a registered office in Labuan. For a Labuan public fund which is permitted to be managed by a non-Labuan licensed fund manager, at least one of the service providers must be approved by Labuan FSA.</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Auditor</td>
+        <td>Appoint an approved auditor to carry out an annual audit of the accounts in respect of the business operations and submit the audit report to the investors and Labuan FSA pursuant to Section 174 of the LFSSA and Section 135 of the LIFSSA within six months after the close of each financial year.</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Reporting requirements</td>
+        <td>
+          <ol>
+            <li>Provide half yearly reporting to the investors, which includes (but not limited to) the following:</li>
+            <ul>
+              <li>Portfolio valuation report showing actual portfolio mix of the fund;</li>
+              <li>The net asset value of the investment;</li>
+              <li>Independent verification/confirmation of existence of the fund’s assets; and</li>
+              <li>Other pertinent information to the investor with regard to the fund’s performance.</li>
+            </ul>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+
+const mutualFund23 = (
+  <>
+  <div>
+  <h2>Mauritius Closed End Fund (CEF) License</h2>
+  <p>
+    A Mutual Fund pools together money from different investors, which is then used to invest in a variety of asset classes, such as shares, bonds and real estate. The fund is managed by a professional fund manager, who allocates the fund’s assets according to a predefined strategy, with the aim of generating capital gains or income for investors. The fund manager selects and buys a variety of securities and these are then split into equal units which are sold to investors. Investment Funds and their Intermediaries (CIS Managers, CIS Administrators and Custodians) are regulated by the FSC under the Securities Act 2005 and the Securities (Collective Investment Schemes and Closed-End Funds) Regulations 2008, which provide for a consolidated regulatory and supervisory framework.
+  </p>
+  <h3>About Closed End Fund</h3>
+  <p>
+    Closed-end funds are defined under Mauritius laws as arrangements or schemes, other than a collective investment scheme, constituted in such legal form as may be approved by the Commission and whose object is to invest funds, collected from subscribers during an offering made under Part V of the Securities Act or from sophisticated investors, in a portfolio of securities, or in other financial or non-financial assets, or real property, as may be approved by the Commission.
+  </p>
+  <p>
+    Key features of Closed End Fund include:
+  </p>
+  <ol>
+    <li>Closed-ended funds have a fixed number of shares or units issued during the fund’s initial offering.</li>
+    <li>Investors cannot redeem or purchase additional units directly from the fund; instead, they must buy or sell existing units on the secondary market.</li>
+    <li>The market price of closed-ended funds may differ from their Net Asset Value due to supply and demand dynamics.</li>
+  </ol>
+  <p>
+    Investment Funds’ Intermediaries, CIS Managers, Custodians and CIS Administrators, ensure the proper functioning of the CIS/CEF and have to undergo a rigorous assessment during the licensing process. Once licensed, the FSC continually monitors the intermediaries for compliance with supervisory, prudential and conduct of business norms as per the CIS Regulations.
+  </p>
+  <h3>THE ADVANTAGES OF MAURITIUS</h3>
+  <ol>
+    <li>Low tax – (Partial Exemption Regime – applicable to domestic and global business companies (GBCs) – 80% of foreign-source income from collective investment schemes (CIS), closed-end funds (CEFs), CIS manager or administrator will be exempted from income tax. And a tax rate of just 3%.</li>
+    <li>Recently strengthened CTF and AML laws</li>
+    <li>No capital gains tax and no withholding tax on dividends and interest</li>
+    <li>No exchange controls and no repatriation fees</li>
+    <li>Politically and economically stable</li>
+    <li>Professionalism</li>
+    <li>Strong, flexible and effective legislative and Court system</li>
+    <li>Geographic and time zone advantages for the global markets (GMT +4) (or the same as GST) – Investment Promotion and Protection Agreements (IPPAs) – There are some clear advantages for establishing a fund here, the offshore island enjoys a low tax regime bolstered by the safety of double tax treaties (DTAAs) with other jurisdictions – you can access a list of jurisdictions here.</li>
+    <li>Low-cost jurisdiction for services</li>
+    <li>Risk mitigation platform into MENA and GCC</li>
+    <li>Range of structuring options with varying advantages (Global CIS, Professional CIS, Specialised CIS and Expert Fund)</li>
+  </ol>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          A collective investment scheme may be constituted:
+          <ol>
+            <li>as a company limited by shares;</li>
+            <li>as a trust; or</li>
+            <li>in any other legal form approved by the Commission.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>CIS manager</td>
+        <td>Funds in Mauritius are required to be managed by a Mauritius licensed manager which in effect holds a CIS Manager licence from the Financial Services Commission.</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Custodian</td>
+        <td>There is no requirement for a custodian to be appointed in the case of a CEF.</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Minimum capital</td>
+        <td>
+          <ol>
+            <li>A CIS manager holding a licence issued by the Commission shall maintain a minimum stated unimpaired capital of at least Mauritian rupees 1 million or an equivalent amount;</li>
+            <li>A CIS administrator shall at all times have a minimum stated unimpaired capital of Mauritian rupees 500,000 or an equivalent amount.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Audit</td>
+        <td>
+          The appointment of an auditor of a collective investment scheme shall be made in accordance with section 107 of the Act.
+          <ol>
+            <li>The auditor shall audit the financial statements of the collective investment scheme in accordance with these regulations and in such manner as the Commission may determine.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Financial reports</td>
+        <td>All funds are subject to ongoing reporting obligations as imposed by the FSC under the SA and FSA. Reporting obligations include filing audited financial statements on a yearly basis as per section 30 of the FSA, filing of regulatory surveys on a quarterly basis and payment of the requisite annual licence fees.</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Shares</td>
+        <td>The interests of participants in a collective investment scheme shall consist of shares or fraction of shares and each share or fraction of share shall be treated as representing the interest of the participant in the capital assets of the collective investment scheme.</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Economic substance requirements</td>
+        <td>
+          The funds being tax resident entities are taxed at a corporate rate of 15% on its income subject to an 80% exemption provided that it satisfies the prescribed economic substance requirements as follows:
+          <ol>
+            <li>Carrying out its core income generating activities in Mauritius. These activities include; For CEF – investment of funds collected from sophisticated investors in portfolios of securities or in other financial or non-financial assets or real estate property.</li>
+            <li>Employing directly or indirectly an adequate number of suitably qualified persons to conduct its core income-generating activities; and</li>
+            <li>Incurring a minimum expenditure proportionate to its level of activities.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund24 = (
+  <>
+  <div>
+  <h2>Mauritius Collective Investment Scheme (CIS) License</h2>
+  <p>A Mutual Fund pools together money from different investors, which is then used to invest in a variety of asset classes, such as shares, bonds and real estate. The fund is managed by a professional fund manager, who allocates the fund’s assets according to a predefined strategy, with the aim of generating capital gains or income for investors. The fund manager selects and buys a variety of securities and these are then split into equal units which are sold to investors. Investment Funds and their Intermediaries (CIS Managers, CIS Administrators and Custodians) are regulated by the FSC under the Securities Act 2005 and the Securities (Collective Investment Schemes and Closed-End Funds) Regulations 2008, which provide for a consolidated regulatory and supervisory framework.</p>
+  
+  <h3>About Open-end or Collective Investment Schemes (CIS)</h3>
+  <p>They are commonly structured as a public or private company, a unit trust or a protect cell company (PCC). These can be targeted towards retail and non-retail investors. With open-end funds there is an obligation to redeem a participant’s shares at their request, at a price corresponding to the net asset value of those investments (less fees and commission). Open-end funds are subject to stricter regulation than closed-end funds.</p>
+  
+  <h3>Recognition of Foreign Schemes</h3>
+  <p>The FSC may also recognize, under Section 101 of the Securities Act 2005, a CIS established in a foreign country subject to such conditions as the FSC considers necessary for the protection of participants in the CIS.</p>
+  
+  <h3>Investment Funds’ Intermediaries</h3>
+  <p>The Intermediaries, CIS Managers, Custodians and CIS Administrators, ensure the proper functioning of the CIS/CEF and have to undergo a rigorous assessment during the licensing process. Once licensed, the FSC continually monitors the intermediaries for compliance with supervisory, prudential and conduct of business norms as per the CIS Regulations.</p>
+  
+  <h2>THE ADVANTAGES OF MAURITIUS</h2>
+  <ol>
+    <li>Low tax – (Partial Exemption Regime – applicable to domestic and global business companies (GBCs) – 80% of foreign-source income from collective investment schemes (CIS), closed-end funds (CEFs), CIS manager or administrator will be exempted from income tax. And a tax rate of just 3%.</li>
+    <li>Recently strengthened CTF and AML laws</li>
+    <li>No capital gains tax and no withholding tax on dividends and interest</li>
+    <li>No exchange controls and no repatriation fees</li>
+    <li>Politically and economically stable</li>
+    <li>Professionalism</li>
+    <li>Strong, flexible and effective legislative and Court system</li>
+    <li>Geographic and time zone advantages for the global markets (GMT +4) (or the same as GST) – Investment Promotion and Protection Agreements (IPPAs) – There are some clear advantages for establishing a fund here, the offshore island enjoys a low tax regime bolstered by the safety of double tax treaties (DTAAs) with other jurisdictions – you can access a list of jurisdictions here.</li>
+    <li>Low-cost jurisdiction for services</li>
+    <li>Risk mitigation platform into MENA and GCC</li>
+    <li>Range of structuring options with varying advantages (Global CIS, Professional CIS, Specialised CIS and Expert Fund)</li>
+  </ol>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>
+          <p>Entity A collective investment scheme may be constituted -</p>
+          <ol>
+            <li>as a company limited by shares;</li>
+            <li>as a trust; or</li>
+            <li>in any other legal form approved by the Commission.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>
+          <p>Directors Legally speaking, a minimum of 2 directors are required for GBC 1 holding a special license such a CIS Manager license. However, the regulator’s and Mauritius Corporate Governance regime require that:</p>
+          <ol>
+            <li>Such an entity has got a well-balanced board in terms of experience, expertise and governance independence;</li>
+            <li>There needs to be fit and proper directors in different areas of running such a regulated Investment Business.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>
+          <p>Shareholders</p>
+          <ol>
+            <li>The CIS Manager will need at least one shareholder.</li>
+            <li>Corporate shareholding is allowed.</li>
+            <li>100% Foreign ownership is permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>
+          <p>Mauritius office The applicant must satisfy the authorities that they have procured and equipped a place of business in Mauritius from where the operations of the company shall be run.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>
+          <p>CIS manager Funds in Mauritius are required to be managed by a Mauritius licensed manager which in effect holds a CIS Manager license from the Financial Services Commission</p>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>
+          <p>Custodian Every collective investment scheme shall appoint and shall at all times have a Custodian.</p>
+          <ol>
+            <li>A person wishing to hold the assets of a collective investment scheme for safe keeping shall apply to the Commission for a custodian license.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>
+          <p>Minimum funding The prospectus of a scheme shall specify that the scheme must receive a minimum amount of subscriptions of at least 5 per cent of the total amount to be raised from investors so as to begin operating the scheme, or such higher amount as may be disclosed in its prospectus.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>
+          <p>Insurance A CIS Manager is also required to have a Professional Indemnity cover that varies with the volume of activities and risk of its business.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>
+          <p>Minimum capital</p>
+          <ol>
+            <li>A CIS manager holding a licence issued by the Commission shall maintain a minimum stated unimpaired capital of at least Mauritian rupees 1 million or an equivalent amount;</li>
+            <li>A CIS administrator shall at all times have a minimum stated unimpaired capital of Mauritian rupees 500,000 or an equivalent amount.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>
+          <p>Audit The appointment of an auditor of a collective investment scheme shall be made in accordance with section 107 of the Act.</p>
+          <ol>
+            <li>The auditor shall audit the financial statements of the collective investment scheme in accordance with these regulations and in such manner as the Commission may determine.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>
+          <p>Financial reports The CIS manager or a self-managed Scheme shall file with the Commission the following documents relating to the Scheme it manages –</p>
+          <ol>
+            <li>The prospectus or offer document of the collective investment scheme; and</li>
+            <li>The audited annual financial statements and the management report of the Scheme prepared in accordance with the Sixth Schedule.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>
+          <p>Shares The interests of participants in a collective investment scheme shall consist of shares or fraction of shares and each share or fraction of share shall be treated as representing the interest of the participant in the capital assets of the collective investment scheme.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund25 = (
+  <>
+  <div>
+  <h2>Mauritius Expert Funds License</h2>
+  <p>A Mutual Fund pools together money from different investors, which is then used to invest in a variety of asset classes, such as shares, bonds and real estate. The fund is managed by a professional fund manager, who allocates the fund’s assets according to a predefined strategy, with the aim of generating capital gains or income for investors. The fund manager selects and buys a variety of securities and these are then split into equal units which are sold to investors. Investment Funds and their Intermediaries (CIS Managers, CIS Administrators and Custodians) are regulated by the FSC under the Securities Act 2005 and the Securities (Collective Investment Schemes and Closed-End Funds) Regulations 2008, which provide for a consolidated regulatory and supervisory framework.</p>
+
+  <p>In terms of the Regulations, Collective Investment Schemes can be broken down into the following categories:</p>
+  <ol>
+    <li>Regulated Global Collective Investment Schemes</li>
+    <li>Professional Collective Investment Schemes</li>
+    <li>Specialized Collective Investment Schemes</li>
+    <li>Expert Fund</li>
+  </ol>
+
+  <p><strong>About Expert Funds</strong></p>
+  <p>Collective Investment Scheme can apply to the FSC to be authorized as an Expert Fund based on the condition that the scheme is only available to expert investors.</p>
+  <p>The Regulations define an “expert investor” as either:</p>
+  <ol>
+    <li>An investor that makes minimum initial investment for his own account in an amount of not less than USD 100,000</li>
+    <li>A Sophisticated Investor as defined by the Securities Act</li>
+  </ol>
+
+  <p>The investment manager of an Expert Fund either needs to hold a Collective Investment Scheme Managers Licence or must hold a licence issued by a regulator in a jurisdiction having comparable regulation as Mauritius for investor protection. An expert fund is exempted from several provisions of the Securities regulations.</p>
+
+  <p><strong>Recognition of Foreign Schemes</strong></p>
+  <p>The FSC may also recognize, under Section 101 of the Securities Act 2005, a CIS established in a foreign country subject to such conditions as the FSC considers necessary for the protection of participants in the CIS.</p>
+
+  <p><strong>Investment Funds’ Intermediaries</strong></p>
+  <p>The Intermediaries, CIS Managers, Custodians and CIS Administrators, ensure the proper functioning of the CIS/CEF and have to undergo a rigorous assessment during the licensing process. Once licensed, the FSC continually monitors the intermediaries for compliance with supervisory, prudential and conduct of business norms as per the CIS Regulations.</p>
+
+  <h2>THE ADVANTAGES OF MAURITIUS</h2>
+  <ol>
+    <li>Low tax – (Partial Exemption Regime – applicable to domestic and global business companies (GBCs) – 80% of foreign-source income from collective investment schemes (CIS), closed-end funds (CEFs), CIS manager or administrator will be exempted from income tax. And a tax rate of just 3%.</li>
+    <li>Recently strengthened CTF and AML laws</li>
+    <li>No capital gains tax and no withholding tax on dividends and interest</li>
+    <li>No exchange controls and no repatriation fees</li>
+    <li>Politically and economically stable</li>
+    <li>Professionalism</li>
+    <li>Strong, flexible and effective legislative and Court system</li>
+    <li>Geographic and time zone advantages for the global markets (GMT +4) (or the same as GST) – Investment Promotion and Protection Agreements (IPPAs) – There are some clear advantages for establishing a fund here, the offshore island enjoys a low tax regime bolstered by the safety of double tax treaties (DTAAs) with other jurisdictions – you can access a list of jurisdictions here.</li>
+    <li>Low-cost jurisdiction for services</li>
+    <li>Risk mitigation platform into MENA and GCC</li>
+    <li>Range of structuring options with varying advantages (Global CIS, Professional CIS, Specialised CIS and Expert Fund)</li>
+  </ol>
+
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Type of investors</td>
+        <td>
+          <ol>
+            <li>For expert investors who make an initial investment, for their own account, of no less than USD 100,000; or sophisticated investors*.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Minimum investment</td>
+        <td>US$100,000</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Administrator</td>
+        <td>Must be resident in Mauritius</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Mauritius office</td>
+        <td>The applicant must satisfy the authorities that they have procured and equipped a place of business in Mauritius from where the operations of the company shall be run.</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>CIS manager</td>
+        <td>Funds in Mauritius are required to be managed by a Mauritius licensed manager which in effect holds a CIS Manager license from the Financial Services Commission</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>Every collective investment scheme shall appoint and shall at all times have a Custodian.</li>
+            <li>A person wishing to hold the assets of a collective investment scheme for safe keeping shall apply to the Commission for a custodian license.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Insurance</td>
+        <td>A CIS Manager is also required to have a Professional Indemnity cover that varies with the volume of activities and risk of its business.</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Minimum capital</td>
+        <td>
+          <ol>
+            <li>A CIS manager holding a licence issued by the Commission shall maintain a minimum stated unimpaired capital of at least Mauritian rupees 1 million or an equivalent amount;</li>
+            <li>A CIS administrator shall at all times have a minimum stated unimpaired capital of Mauritian rupees 500,000 or an equivalent amount.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Audit</td>
+        <td>
+          <ol>
+            <li>The appointment of an auditor of a collective investment scheme shall be made in accordance with section 107 of the Act.</li>
+            <li>The auditor shall audit the financial statements of the collective investment scheme in accordance with these regulations and in such manner as the Commission may determine.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Financial reports</td>
+        <td>
+          <ol>
+            <li>The CIS manager or a self-managed Scheme shall file with the Commission the following documents relating to the Scheme it manages:</li>
+            <ul>
+              <li>The prospectus or offer document of the collective investment scheme;</li>
+              <li>The audited annual financial statements and the management report of the Scheme prepared in accordance with the Sixth Schedule.</li>
+            </ul>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund26 = (
+  <>
+  <div>
+  <h2>Panama Private Investment Fund (PIF-20 up to 20 investors) or (20-FP)</h2>
+  <p>
+    Private investment fund is a company incorporated for the purpose of doing specific
+    investments on behalf of its shareholders, and that does not solicit capital from retail investors
+    or the general public, unless as specifically allowed in the local securities laws, which usually
+    refers to qualified investors.
+  </p>
+  <p>
+    The operation of a Panama Private Fund is governed by Decree-Law No.1 of July 8, 1999 (the
+    “Securities Act”) together with Regulation No.5 of July 23, 2004 (the “Regulations”) issued by
+    the Superintendency of the Securities Market (the “SSM”), which is the government body
+    responsible for regulating funds in Panama.
+  </p>
+  <h3>Advantages of a Panama Fund</h3>
+  <ol>
+    <li>Once a private fund is established there is no requirement to register with, or notify the
+      Superintendency of the Securities Market. Additionally, this type of private fund is not
+      required to comply with the provisions of the Regulations of a 50-FP</li>
+    <li>There is no restriction on the type of assets the private fund can invest in</li>
+    <li>The directors of the private fund do not need to be based in Panama</li>
+    <li>If the private fund holds assets locally in Panama it may require additional regulations
+      in Panama</li>
+    <li>A private fund of up to 20 investors does not need an auditor, a custodian or investment
+      manager</li>
+    <li>A 20-FP has a very light regulatory touch in Panama and can be established relatively
+      quickly and cost effectively</li>
+  </ol>
+  <h3>About the license</h3>
+  <p>
+    The fund is limited to 20 investors maximum, investors which should be related to each other
+    by their belonging to a company, association, or group. The shares of this fund can also not be
+    commercialized, distributed, or publicly offered. The article also includes another exception to
+    the rule, which is corporations in which shares were emitted in virtue of a contract between
+    participants, prohibiting the entrance of new shareholders. Under these two exceptions, the
+    fund will not need to: 1. Register with the SMV (Superintendence of Securities), 2. Be supervised
+    by the SMV or 3. Notify them of the beginning of your operations.
+  </p>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>The entity making the application is a company registered under the Panamanian Public
+              Registry or a foreign company.</li>
+            <li>If it is a foreign company, it must be registered at the Panamanian Public Registry as a
+              foreign corporation.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>Every Panama Private Fund shall be managed by the Board of Directors.</li>
+            <li>A minimum of 3 directors is required.</li>
+            <li>Corporate directors are not permitted.</li>
+            <li>All directors must be individuals of full age (at least 18 years old).</li>
+            <li>Residents of any country may be appointed as directors.</li>
+            <li>The Board of Directors appoints officers (President, Secretary and Treasurer). Officers must
+              be individuals. Officers may be residents of any country. One person may hold more than one
+              officer position. No officer needs to be a director.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The shares of a private fund are to be offered on a private basis rather than to the general
+              public, there may be up to 20 shareholders/investors.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Legal representative</td>
+        <td>
+          <ol>
+            <li>The PIF must have a legal representative in the Republic of Panama, who may be a broker,
+              a brokerage house, an investment advisor, a bank, a firm of public accountants, a lawyer, a
+              law firm or, in any event, people authorized for such purposes by the SSM. The legal
+              representatives will represent the PIF before the SSM and receive administrative and judicial
+              notifications in representation on its behalf.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Authorised capital</td>
+        <td>
+          <ol>
+            <li>The authorized capital of a private fund is the sum of US$10,000.00, divided into:
+              <ol type="a">
+                <li>10,000,000 common, registered shares with a par value of five one-hundredths of a cent
+                  (US$0.0005) each.</li>
+                <li>10,000,000 preferred, registered shares with a par value of five one-hundredths of a cent
+                  (US$0.0005) each.</li>
+              </ol>
+            </li>
+            <li>The capital may be modified by the issuance of additional shares and also by varying the par
+              value, class and rights of said shares. It is expressly prohibited to issue bearer shares.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Accounting and audit requirements</td>
+        <td>
+          <ol>
+            <li>A private fund that has 20 investors does not need an auditor, a custodian or investment
+              manager.</li>
+            <li>There are no statutory requirements of audit for Panama international companies.</li>
+            <li>Accounting records are required and may be kept in any country. Directors of the private fund
+              are required to provide the address of accounting records to their Panama registered agent.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Annual general meetings</td>
+        <td>
+          <ol>
+            <li>Annual meetings are not required. Board of directors may decide to conduct an annual meeting
+              of shareholders. Such meeting shall be held within Panama unless otherwise stated in the Articles
+              of Incorporation or By-Laws.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund27 = (
+  <>
+  <div>
+  <h2>Saint Lucia International Public Fund</h2>
+  <p>
+    Under the International Mutual Funds Act, Cap 12.16 (the Act) of the 2008 revised laws of St.
+    Lucia, a mutual fund may be defined as a pool of investors’ funds for the purpose of collective
+    investment arranged in the form of a company incorporated, a partnership formed or a unit
+    trust organized pursuant to the law in force in St. Lucia.
+  </p>
+  <p>
+    The FSRA licenses Public Mutual Funds and registers Private Mutual Funds. The International
+    Mutual Funds Act, Cap 12.16 (the Act) of the 2008 revised laws of St. Lucia and The
+    International Mutual Funds Guidance Notes set out the requirements for the aforementioned
+    and also the Management and Administration of these Mutual Funds.
+  </p>
+  <h3>About the International Public Mutual Funds</h3>
+  <p>
+    International Public Mutual Funds, as their name suggests, are funds open to the public for
+    investment. A public mutual fund can therefore be an index fund, a stock fund, a bond fund or
+    a money market fund. They are managed by professional fund managers, who actively invest in
+    various securities to achieve stated objectives, which can be for example, capital growth or
+    income. Public mutual funds are monitored through the analysis of the companies’ audited
+    accounts which is submitted to the FSRA three months after the financial year end.
+  </p>
+  <h3>Legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Legal entity</td>
+        <td>
+          <ol>
+            <li>A body corporate which is incorporated or continued under the International Business Companies Act, Cap. 12.14; for the purpose of carrying on international public mutual fund business and whose objects or business activities are restricted to international public mutual fund business.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>A public fund is required to appoint at least one director, who must be natural persons.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ol>
+            <li>A fund administrator of an international public mutual fund must be a person who is granted and holds a valid international public mutual fund administrator licence issued by the minister.</li>
+            <li>The fund administrator must be a person who is an international business company incorporated.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>An auditor must be a member of the Institute of Chartered Accountants of the Eastern Caribbean or another professional accounting institute or association and who is approved as an auditor by the Minister.</li>
+            <li>The auditor must be independent of the international mutual fund or the administrator or the manager which he or she is auditing.</li>
+            <li>The auditor must have at least 5 years of experience in performing audits of financial institutions or mutual funds.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund manager</td>
+        <td>
+          <ol>
+            <li>A fund manager carrying out business as an international public mutual fund manager must be a person who is granted and holds a valid international public mutual fund manager licence and complies with the provisions of this Act, the Regulations and the terms and conditions of the international public mutual fund manager licence.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Offering Memorandum</td>
+        <td>
+          <ol>
+            <li>An international public mutual fund must have a current offering document filed by the director and which must provide full, true and plain disclosure of:
+              <ol type="a">
+                <li>The issue price of any equity interests being offered.</li>
+                <li>Particulars of the business and finances of the international public mutual fund offering such equity interests.</li>
+                <li>All facts present or foreseeable that significantly affect or would reasonably be expected to have a significant effect on the disclosure required in a) above.</li>
+              </ol>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Accounting requirements</td>
+        <td>
+          <ol>
+            <li>An international public mutual fund licensee shall have its accounts audited annually or at such other times as the Director may require by an auditor appointed by the international public mutual fund licensee who shall conduct the audit in accordance with international standards on auditing.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>There is no taxation of any kind on mutual funds or administrators (unless as IBC’s they elect to pay 1% tax).</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund28 = (
+  <>
+  <div>
+  <h2>Saint Lucia International Private Fund</h2>
+  <p>
+    Under the International Mutual Funds Act, Cap 12.16 (the Act) of the 2008 revised laws of St.
+    Lucia, a mutual fund may be defined as a pool of investors’ funds for the purpose of collective
+    investment arranged in the form of a company incorporated, a partnership formed or a unit
+    trust organized pursuant to the law in force in St. Lucia.
+  </p>
+  <p>
+    The Financial Services Regulatory Authority, FSRA licenses Public Mutual Funds and registers
+    Private Mutual Funds. The International Mutual Funds Act, Cap 12.16 (the Act) of the 2008
+    revised laws of St. Lucia and The International Mutual Funds Guidance Notes set out the
+    requirements for the aforementioned and also the Management and Administration of these
+    Mutual Funds.
+  </p>
+  <h3>About international private mutual funds</h3>
+  <p>
+    International Private Mutual Funds is an investment club of not more than one hundred
+    persons, each of whom makes an investment of not less than US$ 50,000.00 into the fund, are
+    not required to have a licensed Administrator, although they must be registered with the
+    Director of Financial Services.
+  </p>
+  <p>
+    A private mutual fund does not require a license to carry on mutual fund business from St.
+    Lucia, however it needs to be registered with the Financial Services Regulatory Authority
+    (FSRA). An International Private Mutual Fund does not require to have any service providers
+    including directors of corporate entities in St. Lucia, other than that of the registered agent
+    or registered trustee. Therefore its service providers such as investment advisers,
+    administrators, investment managers and custodians may be located in any jurisdiction.
+  </p>
+  <p>
+    Persons qualified to operate international private mutual funds in St. Lucia are as follows:
+    <ol>
+      <li>Persons having experience in the type of investment portfolio of the fund</li>
+      <li>Persons who are members of investment clubs</li>
+      <li>International Business Companies</li>
+      <li>Persons, whether individually or jointly have a minimum net worth in excess of US One million dollars (US $1,000,000.00)</li>
+    </ol>
+  </p>
+  <p>
+    International Mutual fund Manager is the person(s) responsible for implementing a fund’s
+    investing strategy and managing its portfolio trading activities while the International Mutual
+    Fund Administration is the management of (including the control of all or substantially all the
+    assets of) the mutual fund or the administration of the mutual fund. Mutual Fund
+    Administrators perform activities and tasks required to run a mutual fund. Examples of fund
+    administration tasks include the preparation of financial statements, the calculation of fund
+    performance, and the maintenance of the books.
+  </p>
+  <h3>Key legal requirements</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Legal entity</td>
+        <td>
+          <ol>
+            <li>A body corporate which is incorporated or continued under the International Business Companies Act, Cap. 12.14; for the purpose of carrying on international public mutual fund business and whose objects or business activities are restricted to international public mutual fund business.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>A private fund is required to appoint at least one director, who must be natural persons.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ol>
+            <li>A fund administrator of an international private mutual fund must be a person who is granted and holds a valid international public mutual fund administrator licence issued by the minister.</li>
+            <li>The fund administrator must be a person who is an international business company incorporated.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>An auditor must be a member of the Institute of Chartered Accountants of the Eastern Caribbean or another professional accounting institute or association and who is approved as an auditor by the Minister.</li>
+            <li>The auditor must be independent of the international mutual fund or the administrator or the manager which he or she is auditing.</li>
+            <li>The auditor must have at least 5 years of experience in performing audits of financial institutions or mutual funds.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund manager</td>
+        <td>
+          <ol>
+            <li>A fund manager carrying out business as an international private mutual fund manager must be a person who is granted and holds a valid international public mutual fund manager licence and complies with the provisions of this Act, the Regulations and the terms and conditions of the international public mutual fund manager licence.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>There is no taxation of any kind on mutual funds or administrators (unless as IBC’s they elect to pay 1% tax).</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Accounting requirements</td>
+        <td>
+          <ol>
+            <li>Administrators and mutual funds must file audited accounts with the Financial Services Regulatory Authority (FSRA).</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Offering Memorandum</td>
+        <td>
+          <ol>
+            <li>An international private mutual fund must have a current offering document filed by the director and which must provide full, true and plain disclosure of:
+              <ol type="a">
+                <li>The issue price of any equity interests being offered.</li>
+                <li>Particulars of the business and finances of the international public mutual fund offering such equity interests.</li>
+                <li>All facts present or foreseeable that significantly affect or would reasonably be expected to have a significant effect on the disclosure required in (a) above.</li>
+              </ol>
+            </li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund29 = (
+  <div>
+  <h2>Samoa Private Fund license</h2>
+  <p>The International Mutual Funds Act 2008 provides for the licensing and supervision of International Mutual Funds, Collective Investments Schemes and for managers and administrators. The Registrar of International Mutual Funds who is appointed by the Samoa International Finance Authority (SIFA) is expressly given the mandate to supervise and regulate Mutual Funds. Other responsibilities of the Registrar include maintaining a general review of the fund industry and applicable know your customer and money laundering policies and procedures. A Mutual Fund can be established as an International Company, a Partnership, a Unit Trust or other similar body formed or organized under the other international financial services legislation.</p>
+  <h2><strong>Private Fund</strong></h2>
+  <p>A private mutual fund is defined as one whose shares are not offered to the general public but to specified persons or by reason of a private or business connection between the promoter and investor with no minimum investment amount or are held by not more than 250 investors with a minimum investment of USD$25,000 for each investor or is designated as a private fund by regulators.</p>
+  <h2><strong>Management and administration of mutual funds</strong></h2>
+  <p>A person carrying on business as a manager or administrator or both of a mutual fund must be licensed under the Act. The Registrar is prohibited from granting a license to a Manager or Administrator or both of a mutual fund unless he is satisfied the applicant is a fit and proper person. To decide whether a person is fit and proper, regard must be had to all circumstances including that person integrity, competence and financial soundness. The licensed fund manager and or administrator must seek prior written approval of the Registrar for approval of its directors or other key persons and for issue or transfer of any of its shares or other securities except where shares or other securities are issued to existing shareholders on a pro rata bases that would not result in a change of its beneficial ownership. Every licensed fund manager and or administrator must keep adequate accounting records, and prepare financial statements for each financial year as per generally accepted accounting principles. It must also keep accounting records and financial statements available for examination by the Registrar at its place of business or registered office in Samoa or other place deemed fit by its officers. The licensed fund manager and or administrator must also file its audited accounts with the Registrar within 6 months of financial year end.</p>
+  <h2><strong>Key legal requirements</strong></h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Key legal requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>A Mutual Fund can be established as:
+              <ul>
+                <li>an International Company,</li>
+                <li>a Partnership,</li>
+                <li>a Unit Trust or</li>
+                <li>other similar body formed or organized under the other international financial services legislation.</li>
+              </ul>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction.</li>
+            <li>The company must have a resident director who must be a natural person</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The professional fund will need at least one shareholder.</li>
+            <li>Corporate shareholding is allowed</li>
+            <li>100% foreign ownership is permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Compliance officer</td>
+        <td>
+          <ol>
+            <li>The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Licensed principal</td>
+        <td>
+          <ol>
+            <li>The Applicant must employ at least one individual who is licensed as a principal.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ol>
+            <li>Samoa licensed fund administrator by the Samoa International Finance Authority (SIFA) or</li>
+            <li>Approved Foreign Administrator by the Authority and from a recognized country or jurisdiction as per the International Mutual Fund Act, 2008.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Fund manager</td>
+        <td>
+          <ol>
+            <li>The company is required to appoint and maintain at all times a registered fund manager which must be a licensed trustee company to protect investors and creditors and ensure compliance with the Act.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>The applicant must have a licensed/approved custodian at all times.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Local office</td>
+        <td>
+          <ol>
+            <li>The applicant must have premises acceptable to the authority. The premises should be able to facilitate confidential interaction between the applicant and its clients, and provide for safe and confidential storage of documents.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>The Licensee, within one month after becoming licensed, shall appoint an external auditor who is acceptable to the SIFA.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Insurance</td>
+        <td>
+          <ol>
+            <li>The applicant must have indemnity insurance coverage or a fidelity bond acceptable to the regulator.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>A minimum investment of USD$25,000 for each investor who are not more than 250 investors.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>Capital gains tax is levied at 27% on profits arising from the disposal of capital assets sold within 3 years of the date of acquisition.</li>
+            <li>The company tax rate is 27%.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>14.</td>
+        <td>Accounting requirements</td>
+        <td>
+          <ol>
+            <li>Must prepare audited accounts.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  
+);
+const mutualFund30 = (
+  <>
+  <div>
+  <h2>Samoa Professional Fund license</h2>
+  <p>The International Mutual Funds Act 2008 provides for the licensing and supervision of International Mutual Funds, Collective Investments Schemes and for managers and administrators. The Registrar of International Mutual Funds who is appointed by the Samoa International Finance Authority (SIFA) is expressly given the mandate to supervise and regulate Mutual Funds. Other responsibilities of the Registrar include maintaining a general review of the fund industry and applicable know your customer and money laundering policies and procedures. A Mutual Fund can be established as an International Company, a Partnership, a Unit Trust or other similar body formed or organized under the other international financial services legislation.</p>
+  <h2>Professional Fund</h2>
+  <p>A professional fund is one in which shares are made available only to professional investors and initial investment in which in respect of which the majority of each investor is not less than USD$100,000 or equivalent provided the said minimum investment must not apply to any investment made by the manager, administrator promoter or underwriter of the professional fund.</p>
+  <h2>Management and administration of mutual funds</h2>
+  <p>A person carrying on business as a manager or administrator or both of a mutual fund must be licensed under the Act. The Registrar is prohibited from granting a license to a Manager or Administrator or both of a mutual fund unless he is satisfied the applicant is a fit and proper person. To decide whether a person is fit and proper, regard must be had to all circumstances including that person integrity, competence and financial soundness. The licensed fund manager and or administrator must seek prior written approval of the Registrar for approval of its directors or other key persons and for issue or transfer of any of its shares or other securities except where shares or other securities are issued to existing shareholders on a pro rata bases that would not result in a change of its beneficial ownership. Every licensed fund manager and or administrator must keep adequate accounting records, and prepare financial statements for each financial year as per generally accepted accounting principles. It must also keep accounting records and financial statements available for examination by the Registrar at its place of business or registered office in Samoa or other place deemed fit by its officers. The licensed fund manager and or administrator must also file its audited accounts with the Registrar within 6 months of financial year end.</p>
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Key legal requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>A Mutual Fund can be established as:
+              <ol>
+                <li>an International Company,</li>
+                <li>a Partnership,</li>
+                <li>a Unit Trust,</li>
+                <li>or other similar body formed or organized under the other international financial services legislation.</li>
+              </ol>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction.</li>
+            <li>The company must have a resident director who must be a natural person.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The professional fund will need at least one shareholder.</li>
+            <li>Corporate shareholding is allowed.</li>
+            <li>100% foreign ownership is permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Compliance officer</td>
+        <td>
+          <ol>
+            <li>The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Licensed principal</td>
+        <td>
+          <ol>
+            <li>The Applicant must employ at least one individual who is licensed as a principal.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ol>
+            <li>Samoa licensed fund administrator by the Samoa International Finance Authority (SIFA) or</li>
+            <li>Approved Foreign Administrator by the Authority and from a recognized country or jurisdiction as per the International Mutual Fund Act, 2008.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Fund manager</td>
+        <td>
+          <ol>
+            <li>The company is required to appoint and maintain at all times a registered fund manager which must be a licensed trustee company to protect investors and creditors and ensure compliance with the Act.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>The applicant must have a licensed/approved custodian at all times.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Local office</td>
+        <td>
+          <ol>
+            <li>The applicant must have premises acceptable to the authority. The premises should be able to facilitate confidential interaction between the applicant and its clients, and provide for safe and confidential storage of documents.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>The Licensee, within one month after becoming licensed, shall appoint an external auditor who is acceptable to the SIFA.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Insurance</td>
+        <td>
+          <ol>
+            <li>The applicant must have indemnity insurance coverage or a fidelity bond acceptable to the regulator.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>Minimum subscription of USD 100,000.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>Capital gains tax is levied at 27% on profits arising from the disposal of capital assets sold within 3 years of the date of acquisition.</li>
+            <li>The company tax rate is 27%.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>14.</td>
+        <td>Accounting requirements</td>
+        <td>
+          <ol>
+            <li>Must prepare audited accounts.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </>
+);
+const mutualFund31 = (
+  <>
+  <div>
+  <h2>Samoa Public Fund license</h2>
+  <p>The International Mutual Funds Act 2008 provides for the licensing and supervision of International Mutual Funds, Collective Investments Schemes and for managers and administrators. The Registrar of International Mutual Funds who is appointed by the Samoa International Finance Authority (SIFA) is expressly given the mandate to supervise and regulate Mutual Funds. Other responsibilities of the Registrar include maintaining a general review of the fund industry and applicable know your customer and money laundering policies and procedures. A Mutual Fund can be established as an International Company, a Partnership, a Unit Trust or other similar body formed or organized under the other international financial services legislation.</p>
+  
+  <h2>Public Fund</h2>
+  <p>A public fund defined as an international mutual fund which is neither a private or professional fund is compelled to undergo a registration procedure similar to the licensing of international banks and insurance companies.</p>
+  
+  <h2>Management and administration of mutual funds</h2>
+  <p>A person carrying on business as a manager or administrator or both of a mutual fund must be licensed under the Act. The Registrar is prohibited from granting a license to a Manager or Administrator or both of a mutual fund unless he is satisfied the applicant is a fit and proper person. To decide whether a person is fit and proper, regard must be had to all circumstances including that person integrity, competence and financial soundness. The licensed fund manager and or administrator must seek prior written approval of the Registrar for approval of its directors or other key persons and for issue or transfer of any of its shares or other securities except where shares or other securities are issued to existing shareholders on a pro rata bases that would not result in a change of its beneficial ownership. Every licensed fund manager and or administrator must keep adequate accounting records, and prepare financial statements for each financial year as per generally accepted accounting principles. It must also keep accounting records and financial statements available for examination by the Registrar at its place of business or registered office in Samoa or other place deemed fit by its officers. The licensed fund manager and or administrator must also file its audited accounts with the Registrar within 6 months of financial year end.</p>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Key legal requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>A Mutual Fund can be established as:
+              <ol>
+                <li>an International Company,</li>
+                <li>a Partnership,</li>
+                <li>a Unit Trust,</li>
+                <li>or other similar body formed or organized under the other international financial services legislation.</li>
+              </ol>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>The licensee will need at least 2 (two) natural person Fit and Proper Directors of any jurisdiction.</li>
+            <li>The company must have a resident director who must be a natural person.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The professional fund will need at least one shareholder.</li>
+            <li>Corporate shareholding is allowed.</li>
+            <li>100% foreign ownership is permitted.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Compliance officer</td>
+        <td>
+          <ol>
+            <li>The Licensee must establish and maintain an appropriate and effective compliance function within the firm which operates independently of all operational and business line functions and senior or supervisory management.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Licensed principal</td>
+        <td>
+          <ol>
+            <li>The Applicant must employ at least one individual who is licensed as a principal.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ol>
+            <li>Samoa licensed fund administrator by the Samoa International Finance Authority (SIFA) or</li>
+            <li>Approved Foreign Administrator by the Authority and from a recognized country or jurisdiction as per the International Mutual Fund Act, 2008.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Fund manager</td>
+        <td>
+          <ol>
+            <li>The company is required to appoint and maintain at all times a registered fund manager which must be a licensed trustee company to protect investors and creditors and ensure compliance with the Act.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>The applicant must have a licensed/approved custodian at all times.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Local office</td>
+        <td>
+          <ol>
+            <li>The applicant must have premises acceptable to the authority. The premises should be able to facilitate confidential interaction between the applicant and its clients, and provide for safe and confidential storage of documents.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>The Licensee, within one month after becoming licensed, shall appoint an external auditor who is acceptable to the SIFA.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Insurance</td>
+        <td>
+          <ol>
+            <li>The applicant must have indemnity insurance coverage or a fidelity bond acceptable to the regulator.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>No minimum investment required or subscribers required</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Taxation</td>
+        <td>
+          <ol>
+            <li>Capital gains tax is levied at 27% on profits arising from the disposal of capital assets sold within 3 years of the date of acquisition.</li>
+            <li>The company tax rate is 27%.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>14.</td>
+        <td>Accounting requirements</td>
+        <td>
+          <ol>
+            <li>A registered public fund shall maintain adequate accounting records and prepare financial statements in respect of each financial year in accordance with generally accepted accounting principles.</li>
+            <li>The financial statements required must be audited by an auditor acceptable to the Registrar in accordance with generally accepted auditing standards.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund32 = (
+  <>
+  <div>
+  <h2>Seychelles Private Mutual Funds</h2>
+  <p>Seychelles mutual funds (“Seychelles investment funds”) are a popular choice for private equity funds (“private funds”). In Seychelles, private mutual funds are governed by the Seychelles Mutual Fund and Hedge Fund Act 2007 and are licensed by the Seychelles Financial Services Authority. The Seychelles Mutual Fund and Hedge Fund Act 2007 defines a “mutual fund” as a company, unit trust or partnership that collects and pools funds for collective investment purposes including hedge fund purposes or with the aim of spreading investment risks, and issues equity interests enabling investors in the mutual fund to receive or have the right to receive a portion of profits or gains derived from the investments and includes;</p>
+  <p>a) An umbrella fund whose equity interests are split or segregated into different funds or sub funds and</p>
+  <p>b) A hedge fund.” An “equity interest” means a share, trust unit or partnership that</p>
+  <ol>
+    <li>Carries an entitlement to participate in the profits or gains of the company, unit trust or partnership; and</li>
+    <li>Is redeemable or re-purchasable at the option of the investor before commencement of the winding-up, termination or dissolution of the company, unit trust or partnership, but does not include a debt.</li>
+  </ol>
+  
+  <h2>About the license</h2>
+  <p>Private Fund is a kind of a Mutual Fund, which is not open for subscription for everybody. The number of investors is restricted and does not require the details to be made public. A Private Fund licence may be issued to a mutual fund which meets the following criteria:</p>
+  <ol>
+    <li>Its constitutional documents specify that it will not have more than 50 investors</li>
+    <li>or</li>
+    <li>Its constitutional documents specify that the making of any invitations to the public to subscribe for or purchase shares in the fund is prohibited; or</li>
+    <li>The invitation is to be made on a private basis.</li>
+  </ol>
+  <p>In accordance with the Act, an invitation is made on a private basis when it is made:</p>
+  <ol>
+    <li>To specified persons or specified ascertainable class of persons and is not calculated to result in shares becoming available to other persons</li>
+    <li>By reason of a private client or business relationship between the person making the invitation and the investor; or</li>
+    <li>It is designated as a Private Fund by Regulations.</li>
+  </ol>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Key legal requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Permitted Fund vehicles</td>
+        <td>
+          <ol>
+            <li>An IBC (International Business Company), under the International Business Companies Act, 2016.</li>
+            <li>CSL (Special License Company) under Companies (Special Licences) Act, 2003</li>
+            <li>Trust under the International Trust Act, 1994</li>
+            <li>PCC (Protected Cell Company) under the Protected Cell Companies Act, 2003</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors/ Trustees/ Partners requirements</td>
+        <td>
+          <ol>
+            <li>For a Company - Two natural persons as directors, which is resident in or outside Seychelles.</li>
+            <li>For a Partnership - One natural person as general partners or one natural person as directors of one or more corporate general partners which is resident in or outside Seychelles.</li>
+            <li>For a Unit trust - One natural person as trustees or one natural person as directors of corporate trustees, which is resident in or outside Seychelles.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The licensee will need at least 2 shareholders to hold management shares. This can be either and individual or a corporation from any jurisdiction with the exception of UN sanctioned jurisdictions.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Investors</td>
+        <td>
+          <ol>
+            <li>The License doesn’t require a minimum number of subscriptions or investors but the License cannot accommodate more than 50 investors.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ol>
+            <li>A Seychelles licensed fund must be administered by a licensed Seychelles Fund Administrator or an approved Foreign Administrator.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>The Act mandates the licensee to appoint an FSA approved auditor. The auditor can be a foreign auditor or a Seychelles based auditor.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>A Seychelles private fund is required to appoint a custodian to entrust with the safekeeping of its investor assets. The custodian may be:</li>
+            <li>A licensed bank under the Financial Institutions Act, 2004</li>
+            <li>A licensed trustee services provider under the International Corporate Service Providers Act, 2003; or</li>
+            <li>Such other financial institution or person in or outside Seychelles, as may be approved by the Authority.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Offering Memorandum requirements</td>
+        <td>
+          <ol>
+            <li>Every Seychelles Private fund must file a Private Offering Memorandum with the authority. Such document shall contain the following at the minimum :</li>
+            <li>Fund registration details.</li>
+            <li>The jurisdiction and date of formation of the fund, with an indication of its duration if limited.</li>
+            <li>Particulars of the fund's investment objectives and policy.</li>
+            <li>Particulars of any investment restrictions.</li>
+            <li>Particulars of the risk factors of the fund.</li>
+            <li>If any area of investment of the fund may reasonably be considered to be a high risk area, a warning to that effect, and a description of the risks involved.</li>
+            <li>The names and registered addresses of all functionaries.</li>
+            <li>If the fund is listed or proposed to be listed, the relevant stock exchange, all listing details.</li>
+            <li>The subscription, redemption distribution details and charges.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Accounting records</td>
+        <td>
+          <ol>
+            <li>Every licensed private fund must maintain adequate accounting records and prepare financial statements in respect of each financial year in accordance with generally accepted accounting principles.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Audited Accounts</td>
+        <td>
+          <ol>
+            <li>Every private licensed fund must have its accounts audited annually according to the International Financial Reporting Standards.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>NAV calculation and investor reporting</td>
+        <td>
+          <ol>
+            <li>Every private fund is required to conduct NAV calculations at least once a year and report the same to all investors.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Investors identification</td>
+        <td>
+          <ol>
+            <li>A licensed fund must at all times know and be able to identify its investors and be able to identify the beneficial owners of its investors which are companies or other entities.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund33 = (
+  <>
+  <div>
+  <h2>Seychelles Professional Mutual Funds</h2>
+  <p>Seychelles mutual funds (“Seychelles investment funds”) are a popular choice for funds limited to sophisticated investors (“professional funds”). In Seychelles, professional mutual funds are governed by the Seychelles Mutual Fund and Hedge Fund Act 2007 and are licensed by the Seychelles Financial Services Authority. The Seychelles Mutual Fund and Hedge Fund Act 2007 defines a “mutual fund” as a company, unit trust or partnership that collects and pools funds for collective investment purposes including hedge fund purposes or with the aim of spreading investment risks, and issues equity interests enabling investors in the mutual fund to receive or have the right to receive a portion of profits or gains derived from the investments and includes:</p>
+  <p>a) An umbrella fund whose equity interests are split or segregated into different funds or sub funds and<br/>b) A hedge fund.” An “equity interest” means a share, trust unit or partnership that<br/>a) Carries an entitlement to participate in the profits or gains of the company, unit trust or partnership; and<br/>b) Is redeemable or re-purchasable at the option of the investor before commencement of the winding-up, termination or dissolution of the company, unit trust or partnership, but does not include a debt.</p>
+  
+  <h2>About the license</h2>
+  <p>The Act defines a Professional Fund as:</p>
+  <ol>
+    <li>A mutual fund in which shares can only be held by professional investors; and</li>
+    <li>The initial minimum investment amount per each investor is at least US$100,000 or its equivalent in any other convertible currency.</li>
+  </ol>
+  <p>A professional investor is defined as:</p>
+  <ol>
+    <li>A person whose ordinary business or employment involves, whether for his own account or the accounts of others the acquisition or disposal of property of the same kind or substantially the same kind as the property of the relevant fund;</li>
+    <li>A person who has a net worth, whether individual or jointly with his spouse exceeding US$ 1,000,000 or its equivalent in any other convertible currency; and has signed a declaration to such effect and whereby he also consents to being treated as a professional investor;</li>
+    <li>A bank licensed under the Financial Institutions Act, 2004 or under the corresponding law of a recognised jurisdiction;</li>
+    <li>A mutual fund licensed under this Act or under the corresponding law of a recognised jurisdiction;</li>
+    <li>An insurance company licensed in Seychelles or under the corresponding law of a recognised jurisdiction; or</li>
+    <li>A securities dealer or stock broker licensed in Seychelles or under the corresponding law of a recognised jurisdiction.</li>
+  </ol>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>IBC (International Business Company), under the International Business Companies Act, 2016 (the “Act”).</li>
+            <li>CSL (Special License Company) under Companies (Special Licences) Act, 2003 (the Act).</li>
+            <li>Trust under the International Corporate Service Providers Act, 2003 and the International Trust Act, 1994.</li>
+            <li>PCC (Protected Cell Company) under the Protected Cell Companies Act, 2003.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors/ Trustees/ Partners</td>
+        <td>
+          <ol>
+            <li>For a Company - Two natural persons as directors, which is resident in or outside Seychelles.</li>
+            <li>For a Partnership - Two natural persons as general partners or two natural persons as directors of one or more corporate general partners which is resident in or outside Seychelles.</li>
+            <li>For a Unit trust - Two natural persons as trustees or two natural persons as directors of corporate trustees, which is resident in or outside Seychelles.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The licensee will need at least 1 shareholder to hold management shares. This can be either an individual or a corporation from any jurisdiction with the exception of UN sanctioned jurisdictions.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ol>
+            <li>Under the Mutual Fund and Hedge Fund Act, 2008 a Seychelles Professional Fund must be administered by a licensed Seychelles Fund administrator or an approved foreign administrator.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>A Seychelles professional fund is required to appoint a custodian to entrust with the safekeeping of its investor assets. The custodian may be:</li>
+            <li>A licensed bank under the Financial Institutions Act, 2004.</li>
+            <li>A licensed trustee services provider under the International Corporate Service Providers Act, 2003; or</li>
+            <li>Other financial institution or person in or outside Seychelles, as may be approved by the Authority.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>The Act mandates the licensee to appoint an FSA approved auditor. The auditor can be a foreign auditor or a Seychelles based auditor.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Offering Memorandum requirements</td>
+        <td>
+          <ol>
+            <li>Every Seychelles Professional fund must file an offering memorandum with the authority. Such document shall contain the following at the minimum :</li>
+            <li>Fund registration details.</li>
+            <li>The jurisdiction and date of formation of the fund, with an indication of its duration if limited.</li>
+            <li>Particulars of the fund's investment objectives and policy.</li>
+            <li>Particulars of any investment restrictions.</li>
+            <li>Particulars of the risk factors of the fund.</li>
+            <li>If any area of investment of the fund may reasonably be considered to be a high risk area, a warning to that effect, and a description of the risks involved.</li>
+            <li>The names and registered addresses of all functionaries.</li>
+            <li>If the fund is listed or proposed to be listed, the relevant stock exchange, all listing details.</li>
+            <li>The subscription, redemption distribution details and charges.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Accounting records</td>
+        <td>
+          <ol>
+            <li>Every licensed professional fund must maintain adequate accounting records and prepare financial statements in respect of each financial year in accordance with generally accepted accounting principles.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Audited Accounts</td>
+        <td>
+          <ol>
+            <li>Every licensed professional fund must have its accounts audited annually according to the International Financial Reporting Standards.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>NAV calculation and investor reporting</td>
+        <td>
+          <ol>
+            <li>Every professional fund is required to conduct NAV calculations at least once a year and report the same to all investors.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Tax obligations</td>
+        <td>
+          <ol>
+            <li>All licensed and exempt funds are exempted from the provisions of the Business Tax Act except for a company under Companies (Special License) Act, 2003, in which case a tax rate of 1.5% will be applicable on the income of the fund.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Investors identification</td>
+        <td>
+          <ol>
+            <li>A licensed fund must at all times know and be able to identify its investors and be able to identify the beneficial owners of its investors which are companies or other entities.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund34 = (
+  <>
+  <div>
+  <h2>Seychelles Public Mutual Funds</h2>
+  <p>Seychelles mutual funds (“Seychelles investment funds”) are a popular choice for private equity funds (“private funds”). In Seychelles, mutual funds are governed by the Seychelles Mutual Fund and Hedge Fund Act 2007 and are licensed by the Seychelles Financial Services Authority. The Seychelles Mutual Fund and Hedge Fund Act 2007 defines a “mutual fund” as a company, unit trust or partnership that collects and pools funds for collective investment purposes including hedge fund purposes or with the aim of spreading investment risks, and issues equity interests enabling investors in the mutual fund to receive or have the right to receive a portion of profits or gains derived from the investments and includes:</p>
+  <p>a) an umbrella fund whose equity interests are split or segregated into different funds or sub funds and<br/>b) a hedge fund.” An “equity interest” means a share, trust unit or partnership that<br/>a) carries an entitlement to participate in the profits or gains of the company, unit trust or partnership; and<br/>b) is redeemable or re-purchasable at the option of the investor before commencement of the winding-up, termination or dissolution of the company, unit trust or partnership, but does not include a debt.</p>
+  
+  <h2>About the license</h2>
+  <p>The Act defines a Public Fund simply as a mutual fund which is not a Private or a Professional Fund. The Fund is designed to be mass marketed and needs to provide the detailed information to public in the offering document.</p>
+  
+  <h2>Advantages of Seychelles Mutual Funds</h2>
+  <ol>
+    <li>Seychelles licensed funds are exempted from taxes on total fund’s income. They are also exempt from withholding tax and stamp duty.</li>
+    <li>Umbrella funds are allowed (i.e., a fund that invests in a range of different fund or sub-funds).</li>
+    <li>A broad range of fund vehicle options are available to choose from. E.g., IBC (International Business Company), CSL (Special License Company), Trust, and PCC (Protected Cell Company).</li>
+    <li>Mutual fund in Seychelles can be administered in Seychelles by a Seychelles Licensed fund administrator or outside of Seychelles by approved foreign administrator.</li>
+    <li>Accounts for mutual funds can be prepared overseas and audited by approved overseas auditors.</li>
+  </ol>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>IBC (International Business Company), under the International Business Companies Act, 2016 (the “Act”).</li>
+            <li>CSL (Special License Company) under Companies (Special Licences) Act, 2003 (the Act).</li>
+            <li>Trust under the International Corporate Service Providers Act, 2003 and the International Trust Act, 1994.</li>
+            <li>PCC (Protected Cell Company) under the Protected Cell Companies Act, 2003.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors/Trustees/Partners</td>
+        <td>
+          <ol>
+            <li>Two natural persons as directors, in the case of a company, which is resident in or outside Seychelles.</li>
+            <li>Two natural persons as general partners or two natural persons as directors of one or more corporate general partners, in the case of a partnership, which is resident in or outside Seychelles.</li>
+            <li>Two natural persons as trustees or two natural persons as directors of corporate trustees, in the case of a unit trust, which is resident in or outside Seychelles.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>The licensee will need at least 2 shareholders to hold management shares. This can be either an individual or a corporation from any jurisdiction with the exception of UN sanctioned jurisdictions.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ol>
+            <li>A Seychelles licensed public fund must be administered by a licensed Seychelles Fund Administrator or an approved Foreign Administrator.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>A mutual fund is required to entrust the safekeeping of its assets to a custodian which may be:</li>
+            <li>A licensed bank under the Financial Institutions Act, 2004.</li>
+            <li>A licensed trustee services provider under the International Corporate Service Providers Act, 2003, or</li>
+            <li>Such other financial institution or person in or outside Seychelles, as may be approved by the Authority.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>The Act mandates the licensee to appoint an FSA approved auditor. The auditor can be a foreign auditor or a Seychelles based auditor.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Accounting records</td>
+        <td>
+          <ol>
+            <li>Every licensed fund must maintain adequate accounting records and prepare financial statements in respect of each financial year in accordance with generally accepted accounting principles.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Audited Accounts</td>
+        <td>
+          <ol>
+            <li>Every licensed fund must have its accounts audited annually according to the International Financial Reporting Standards. The Act allows for licensees incorporated under the Companies Act, 1972 to appoint a foreign auditor subject to the Authority’s approval.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Investors identification</td>
+        <td>
+          <ol>
+            <li>A licensed fund must at all times know and be able to identify its investors and be able to identify the beneficial owners of its investors which are companies or other entities.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Offering Memorandum requirements</td>
+        <td>
+          <ol>
+            <li>Every Seychelles Public fund must file a Public Offering Memorandum with the authority. Such document shall contain the following at the minimum:</li>
+            <li>Fund registration details.</li>
+            <li>The jurisdiction and date of formation of the fund, with an indication of its duration if limited.</li>
+            <li>Particulars of the fund’s investment objectives and policy.</li>
+            <li>Particulars of any investment restrictions.</li>
+            <li>Particulars of the risk factors of the fund.</li>
+            <li>If any area of investment of the fund may reasonably be considered to be a high-risk area, a warning to that effect, and a description of the risks involved.</li>
+            <li>The names and registered addresses of all functionaries.</li>
+            <li>If the fund is listed or proposed to be listed, the relevant stock exchange, all listing details.</li>
+            <li>The subscription, redemption distribution details and charges.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund35 = (
+  <>
+  <div>
+  <h2>St. Kitts and Nevis Private Fund license</h2>
+  <p>The Nevis International Mutual Funds Ordinance 2004 and its accompanying Regulations provide a modern regulatory structure for mutual funds, their managers, and administrators. Mutual fund or “fund” means a company incorporated, a partnership formed, a unit trust organized or other similar body formed or organized under the laws of Nevis or of any other country or jurisdiction which:</p>
+  <ol>
+    <li>Collects and pools investor funds for the purpose of collective investment, and</li>
+    <li>issues shares (as herein defined) that entitle the holder to receive or demand or within a specified period after demand an account computed by reference to the value of a proportionate interest in the whole or in a part of the net assets of the company, the partnership the unit trust or other similar body, as the case may be,</li>
+  </ol>
+  <p>and includes:</p>
+  <ol>
+    <li>an umbrella fund whose shares are split into a number of different class funds or sub-funds, and or</li>
+    <li>a fund which has one or more investors which is a mutual fund not registered or recognized under the Ordinance.</li>
+  </ol>
+  <p>The funds can be structured as a company, a partnership, unit trust or other similar body formed.</p>
+  
+  <h2>About private mutual fund</h2>
+  <p>Private fund means a mutual fund;</p>
+  <ol>
+    <li>the constitutional documents of which specify that it will have no more than one hundred investors;</li>
+    <li>the constitutional documents of which specify that the making of an invitation to subscribe for or purchase shares issued by the mutual fund is to be made on a private basis and this includes an invitation which is made;</li>
+    <ol>
+      <li>to specified persons (however described) and is not calculated to result in shares becoming available to other persons; or</li>
+      <li>by reason of a private or business connection between the person making the invitation and the investor.</li>
+    </ol>
+  </ol>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Corporate vehicle</td>
+        <td>
+          <ol>
+            <li>St. Nevis Company, Partnership or Unit Trust</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>Minimum of two independent directors. The independent directors have a duty to protect the interest of investors of the fund and in carrying out that duty the independent directors shall at the expense of the fund engage the services of legal counsel and auditors independent of any legal counsel and auditors engaged by the manager of the fund.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Investors</td>
+        <td>
+          <ol>
+            <li>Maximum of 100 investors</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>No minimum capital requirement</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund manager/administrator</td>
+        <td>
+          <ol>
+            <li>Every fund in respect of which registration or recognition is sought shall have an administrator and a manager who shall be independent separate persons, save they may be affiliates provided that the Registrar is satisfied that there is independence between the two persons by way of management and control.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>Every authorized fund shall have, and maintain, a custodian who is an approved custodian. An approved custodian must be independent of the operators.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>The Licensee shall appoint an external auditor who is acceptable to the Commission</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Insurance</td>
+        <td>
+          <ol>
+            <li>The applicant must have indemnity insurance coverage acceptable to the regulator</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Accounting requirements</td>
+        <td>
+          <ol>
+            <li>The licensee shall for the financial year beginning on the day on which it commences to carry on securities business; and for each subsequent year submit to the Commission, within ninety days after the end of the financial year, audited financial statements prepared in accordance with international accounting standards, and which contain such additional information as may be prescribed.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund36 = (
+  <>
+  <div>
+  <h2>St. Kitts and Nevis Professional Fund license</h2>
+  <p>The Nevis International Mutual Funds Ordinance 2004 and its accompanying Regulations provide a modern regulatory structure for mutual funds, their managers, and administrators. Mutual fund or “fund” means a company incorporated, a partnership formed, a unit trust organized or other similar body formed or organized under the laws of Nevis or of any other country or jurisdiction which:</p>
+  <ol>
+    <li>Collects and pools investor funds for the purpose of collective investment, and</li>
+    <li>issues shares (as herein defined) that entitle the holder to receive or demand or within a specified period after demand an account computed by reference to the value of a proportionate interest in the whole or in a part of the net assets of the company, the partnership the unit trust or other similar body, as the case may be,</li>
+  </ol>
+  <p>and includes:</p>
+  <ol>
+    <li>an umbrella fund whose shares are split into a number of different class funds or sub-funds, and or</li>
+    <li>a fund which has one or more investors which is a mutual fund not registered or recognized under the Ordinance.</li>
+  </ol>
+  <p>The funds can be structured as a company, a partnership, unit trust or other similar body formed.</p>
+  
+  <h2>About professional mutual fund</h2>
+  <p>Professional mutual fund means a fund the shares of which are made available only to professional investors and the initial investment in which, in respect of the majority of each of such investors, is not less than USD 100,000 or its equivalent in any other currency, but this minimum initial investment limit shall not apply in respect of an investment made by the manager, administrator, promoter or underwriter of the professional fund. A professional investor is an individual who either alone or with their spouse has a net worth of greater than US$1,000,000. Their ordinary business must involve the acquisition and disposal of fund-owned property.</p>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Corporate vehicle</td>
+        <td>
+          <ol>
+            <li>St. Nevis Company, Partnership or Unit Trust</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>Minimum of two independent directors. The independent directors have a duty to protect the interest of investors of the fund and in carrying out that duty the independent directors shall at the expense of the fund engage the services of legal counsel and auditors independent of any legal counsel and auditors engaged by the manager of the fund.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Investors</td>
+        <td>
+          <ol>
+            <li>Maximum of 100 investors</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>Minimum investment per investor is USD 100,000</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund manager/administrator</td>
+        <td>
+          <ol>
+            <li>Every fund in respect of which registration or recognition is sought shall have an administrator and a manager who shall be independent separate persons, save they may be affiliates provided that the Registrar is satisfied that there is independence between the two persons by way of management and control.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>Every authorized fund shall have, and maintain, a custodian who is an approved custodian. An approved custodian must be independent of the operators.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>The Licensee shall appoint an external auditor who is acceptable to the Commission</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Insurance</td>
+        <td>
+          <ol>
+            <li>The applicant must have indemnity insurance coverage acceptable to the regulator</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Accounting requirements</td>
+        <td>
+          <ol>
+            <li>The licensee shall for the financial year beginning on the day on which it commences to carry on securities business; and for each subsequent year submit to the Commission, within ninety days after the end of the financial year, audited financial statements prepared in accordance with international accounting standards, and which contain such additional information as may be prescribed.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund37 = (
+  <>
+  <div>
+  <h2>St. Kitts and Nevis Public Fund license</h2>
+  <p>The Nevis International Mutual Funds Ordinance 2004 and its accompanying Regulations provide a modern regulatory structure for mutual funds, their managers, and administrators. Mutual fund or “fund” means a company incorporated, a partnership formed, a unit trust organized or other similar body formed or organized under the laws of Nevis or of any other country or jurisdiction which:</p>
+  <ol>
+    <li>Collects and pools investor funds for the purpose of collective investment, and</li>
+    <li>issues shares (as herein defined) that entitle the holder to receive or demand or within a specified period after demand an account computed by reference to the value of a proportionate interest in the whole or in a part of the net assets of the company, the partnership the unit trust or other similar body, as the case may be,</li>
+  </ol>
+  <p>and includes:</p>
+  <ol>
+    <li>an umbrella fund whose shares are split into a number of different class funds or sub-funds, and or</li>
+    <li>a fund which has one or more investors which is a mutual fund not registered or recognized under the Ordinance.</li>
+  </ol>
+  <p>The funds can be structured as a company, a partnership, unit trust or other similar body formed.</p>
+  
+  <h2>About Public mutual fund</h2>
+  <p>Public fund means a mutual fund which is not a private fund or a professional fund.</p>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Corporate vehicle</td>
+        <td>
+          <ol>
+            <li>St. Nevis Company, Partnership or Unit Trust</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>Minimum of two independent directors. The independent directors have a duty to protect the interest of investors of the fund and in carrying out that duty the independent directors shall at the expense of the fund engage the services of legal counsel and auditors independent of any legal counsel and auditors engaged by the manager of the fund.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Investors</td>
+        <td>
+          <ol>
+            <li>Maximum of 100 investors</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>No minimum investment requirement</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund manager/administrator</td>
+        <td>
+          <ol>
+            <li>Every fund in respect of which registration or recognition is sought shall have an administrator and a manager who shall be independent separate persons, save they may be affiliates provided that the Registrar is satisfied that there is independence between the two persons by way of management and control.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Custodian</td>
+        <td>
+          <ol>
+            <li>Every authorized fund shall have, and maintain, a custodian who is an approved custodian. An approved custodian must be independent of the operators.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Auditor</td>
+        <td>
+          <ol>
+            <li>The Licensee shall appoint an external auditor who is acceptable to the Commission</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Insurance</td>
+        <td>
+          <ol>
+            <li>The applicant must have indemnity insurance coverage acceptable to the regulator</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Accounting and audit requirements</td>
+        <td>
+          <ol>
+            <li>Every registered public fund shall maintain adequate accounting records and prepare financial statements in respect of each financial year in accordance with international financial reporting standards;</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Prospectus</td>
+        <td>
+          <ol>
+            <li>No registered public fund shall in or outside Nevis make an invitation to the public or any section thereof to purchase its shares unless prior to such invitation it publishes in writing a prospectus signed by or on behalf of the board of directors (by whatever name called) or in the case of a partnership, unit trust or other similar body, the equivalent governing body of the fund which approved the contents of the prospectus or authorized its publishing, and files a copy thereof with the Registrar.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund38 = (
+  <>
+  <div>
+  <h2>St. Vincent Private Fund license</h2>
+  <p>St. Vincent and the Grenadines (SVG) operates a small but well regulated international financial services sector (IFS) comprising International Business Companies (IBCs) including Segregated Cell Companies, Limited Liability Companies (LLCs), Mutual Funds, International Banks, International Insurances, International Trusts and Registered Agent and Trustees.</p>
+  <p>Key institutions that are pillars in ensuring the sound regulation of the financial services industry are the SVG Financial Intelligence Unit (FIU) and the National Anti-Money Laundering Committee.</p>
+  <p>In Saint Vincent and the Grenadines (SVG), investment funds are commonly known as “mutual funds”, as defined under the Mutual Funds Act CAP 154 of the Laws of SVG 2009 Edition.</p>
+  
+  <h2>About Private Fund License</h2>
+  <p>According to the Mutual Funds ACT chapter 154, private fund is defined as:</p>
+  <ol>
+    <li>The constitutional documents of which specify that it will have no more than fifty investors;</li>
+    <li>The constitutional documents of which specify the making of an invitation to subscribe for or purchase shares issued by the mutual fund is to be made on a private basis, which shall include:
+      <ol>
+        <li>An invitation made to specified persons and is not calculated to result in shares becoming available to other persons or to a large number of investors, or</li>
+        <li>By reason of a private or business connection between the person making the invitation and the investor;</li>
+      </ol>
+    </li>
+    <li>Which is designated as a private or accredited fund by the regulations;</li>
+  </ol>
+  <p>All applications to carry on business as a Private Fund must be submitted to the St. Vincent and the Grenadines Financial Services Authority to the attention of the Registrar of Mutual Funds.</p>
+  
+  <h2>Key Advantages of St. Vincent & Grenadines License</h2>
+  <ul>
+    <li>Great degree of flexibility in terms of the investment portfolio or risk-return profile</li>
+    <li>IBCs (International Business Company) share capital can be denominated in any currency or in multiple currencies,</li>
+    <li>There is no limit to the number, type or designation or rights of different classes of shares which can be created.</li>
+    <li>There are no restrictions on borrowing powers or investment practices or policies, which are limited only by what sponsors indicate to prospective investors,</li>
+    <li>Minimum formality and speedy approval procedures allow funds to be created quickly, once the structure, investment criteria and prospectus have been finalized, and</li>
+    <li>There are no exchange controls or other restrictions on the movement of funds.</li>
+  </ul>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>St. Vincent International Business Company</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>A minimum of one director is required. Director may be individual or corporate entity</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>At least 1 shareholder (can also be a legal person, no nationality or residency restrictions)</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>There is no minimum paid-up capital for private fund prescribed by FSA.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Service providers required</td>
+        <td>
+          <ol>
+            <li>Fund manager</li>
+            <li>Fund administrator</li>
+            <li>Custodian</li>
+            <li>Auditor</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Reporting requirements</td>
+        <td>
+          <ol>
+            <li>Need to provide audited financial statements to the authorities</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Local office</td>
+        <td>
+          <ol>
+            <li>Physical office not required</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund39 = (
+  <>
+  <div>
+  <h2>St. Vincent Public Fund license</h2>
+  <p>St. Vincent and the Grenadines (SVG) operates a small but well regulated international financial services sector (IFS) comprising International Business Companies (IBCs) including Segregated Cell Companies, Limited Liability Companies (LLCs), Mutual Funds, International Banks, International Insurances, International Trusts and Registered Agent and Trustees.</p>
+  <p>Key institutions that are pillars in ensuring the sound regulation of the financial services industry are the SVG Financial Intelligence Unit (FIU) and the National Anti-Money Laundering Committee.</p>
+  <p>In Saint Vincent and the Grenadines (SVG), investment funds are commonly known as “mutual funds”, as defined under the Mutual Funds Act CAP 154 of the Laws of SVG 2009 Edition.</p>
+  
+  <h2>About Public Fund License</h2>
+  <p>A Public Fund offers any shares it issues for subscription or purchase to any interested member of the general public. All public funds registered must publish a prospectus and file it with the Financial Services Authority. There are no capital adequacy requirements or minimum subscription limits placed on public funds. Also they must maintain accounting records and financial statements. Public funds that intend to do business with residents must also submit an offering document synopsis to the Financial Services Authority.</p>
+  
+  <h2>Key Advantages of St. Vincent & Grenadines License</h2>
+  <ol>
+    <li>Great degree of flexibility in terms of the investment portfolio or risk-return profile</li>
+    <li>IBCs (International Business Company) share capital can be denominated in any currency or in multiple currencies,</li>
+    <li>There is no limit to the number, type or designation or rights of different classes of shares which can be created.</li>
+    <li>There are no restrictions on borrowing powers or investment practices or policies, which are limited only by what sponsors indicate to prospective investors,</li>
+    <li>Minimum formality and speedy approval procedures allow funds to be created quickly, once the structure, investment criteria and prospectus have been finalized, and</li>
+    <li>There are no exchange controls or other restrictions on the movement of funds.</li>
+  </ol>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>St. Vincent International Business Company</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>A minimum of one director is required. Director may be individual or corporate entity</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Shareholders</td>
+        <td>
+          <ol>
+            <li>At least 1 shareholder (can also be a legal person, no nationality or residency restrictions)</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Capital requirement</td>
+        <td>
+          <ol>
+            <li>There is no minimum paid-up capital for private fund prescribed by FSA.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Service providers required</td>
+        <td>
+          <ol>
+            <li>Fund manager</li>
+            <li>Fund administrator</li>
+            <li>Custodian</li>
+            <li>Auditor</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Accounting and audit requirements</td>
+        <td>
+          <ol>
+            <li>Every registered public fund shall maintain adequate accounting records and prepare financial statements in respect of each financial year in accordance with generally accepted accounting principles;</li>
+            <li>The financial statements shall be audited by an auditor acceptable to the Registrar (in the Act called “the approved auditor”) in accordance with generally accepted auditing standards;</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Local office</td>
+        <td>
+          <ol>
+            <li>Physical office not required</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+const mutualFund40 = (
+  <>
+  <div>
+  <h2>Vanuatu Mutual Funds</h2>
+  <p>Per the definition of the Mutual Fund Act, a mutual fund;</p>
+  <ol>
+    <li>Means a company, a unit trust or a partnership that issues equity interests, the purpose or effect of which is the pooling of investors’ fund with the aim of spreading investments risks; and</li>
+    <li>Enabling investors in the mutual fund to receive profits or gains from the acquisition, holding, management or disposal of investments, but does not include a bank within the meaning of the Financial Institution Act [CAP 254] or the International Banking Act [CAP 280], an insurer within the meaning of the Insurance Act No 54 of 2005.</li>
+  </ol>
+  
+  <p>Vanuatu has revamped the Mutual Funds Act in 2005 to offer a competitive edge to established Mutual Funds and administrators in the world of onerous compliance and suffocating regulations of their jurisdiction’s regulators.</p>
+  
+  <p>The Act has provisions to protect investors by allowing only licensed mutual funds to operate, and by requiring administrators of mutual funds to be licensed. Mutual fund administrators must apply for a Representation License simultaneously with the Mutual Fund License Application.</p>
+  
+  <p>The Vanuatu Financial Services Commission administers the licensing regime. The Act gives the Commission powers to effectively supervise the operation of mutual funds.</p>
+  
+  <h3>Types of Mutual Funds</h3>
+  <p>The Act makes a distinction between 2 main types of funds:</p>
+  <ol>
+    <li>Foreign mutual fund</li>
+    <li>General mutual fund</li>
+  </ol>
+  
+  <p>The Act also makes provision for those who administer the above mutual fund in or from within Vanuatu to hold a mutual fund administrator license.</p>
+  
+  <h3>Foreign Mutual Fund</h3>
+  <p>A Foreign Mutual Fund License is a mutual fund that is constituted outside Vanuatu and operates in Vanuatu. A Foreign Mutual Fund licence may be issued to the administrator of a foreign mutual fund if:</p>
+  <ol>
+    <li>If the fund promoter is of sound reputation; and</li>
+    <li>The fund will have a mutual fund administrator in Vanuatu that will be providing an office in Vanuatu for the fund.</li>
+    <li>That the fund’s administrator will at all times keep an office in Vanuatu for the fund.</li>
+  </ol>
+  
+  <h3>General Mutual Fund</h3>
+  <p>A General Mutual Fund license may be issued to the promoter of a general mutual fund if:</p>
+  <ol>
+    <li>Each promoter of the fund is of sound reputations; and</li>
+    <li>The fund will have a mutual fund administrator in Vanuatu that be providing an office in Vanuatu for the fund; and</li>
+    <li>The arrangements for the administration of the fund are otherwise satisfactory; and</li>
+    <li>If the fund is a company, the fund must at least have two directors and the rules prohibit the Issue of bearer shares;</li>
+  </ol>
+  
+  <p>A mutual fund administrator can be:</p>
+  <ol>
+    <li>a company incorporated in Vanuatu and registered under the Companies Act No 25 of 2012; or</li>
+    <li>a overseas company incorporated outside Vanuatu whether or not it is registered under Part 10 of the Companies Act No 25 of 2012</li>
+    <li>a Limited partnership within the meaning of the Partnership Act [CAP 92]; or</li>
+    <li>a partnership constituted for the sole purpose of undertaking the administration of mutual funds.</li>
+  </ol>
+  
+  <h2>Key legal requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Obligatory requirements</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.</td>
+        <td>Entity</td>
+        <td>
+          <ol>
+            <li>Funds licensed in Vanuatu may be structured as:</li>
+            <ol>
+              <li>a company incorporated in Vanuatu or in a recognised jurisdiction.</li>
+              <li>a limited partnership registered in Vanuatu or in a recognised jurisdiction.</li>
+              <li>a unit trust registered in Vanuatu or in a recognised jurisdiction.</li>
+            </ol>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Directors</td>
+        <td>
+          <ol>
+            <li>Minimum of two directors if it is a company</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>License period</td>
+        <td>
+          <ol>
+            <li>A general mutual fund license and a foreign mutual fund license are to be issued for a period of 1 year from the date of the issue and may be renewed.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Fund administrator</td>
+        <td>
+          <ol>
+            <li>A mutual licensed fund must be administered by a licensed Mutual Fund Administrator</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Fund administrator’s returns</td>
+        <td>
+          <ol>
+            <li>A mutual fund administrator must file the following return with the commission:</li>
+            <ol>
+              <li>A list of all mutual funds for which it acts, showing all changes that have occurred since the previous list was filed.</li>
+              <li>A certificate signed by a director or general partner of the administrator stating the best of his or her knowledge and belief that the administrator has conducted the fund’s business properly and in compliance with this Act.</li>
+              <li>The list and certificate must be filed no later than the first day of March in each year.</li>
+              <li>Annual accounts to be prepared in accordance with generally accepted accounting principles and audited by an independent auditor.</li>
+              <li>Forward the account to the investors in the fund and lodge a copy with the Commission within 4 months of the end of the financial year to which they relate.</li>
+              <li>Details of change in the information in the mutual fund license application form or in the business plan.</li>
+            </ol>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Local office</td>
+        <td>
+          <ol>
+            <li>The fund administrator is required to maintain an office in Vanuatu for the fund.</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Service providers required</td>
+        <td>
+          <ol>
+            <li>Custodian</li>
+            <li>Fund manager</li>
+            <li>Auditor</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Tax treatment</td>
+        <td>
+          <ol>
+            <li>Vanuatu has no income tax, capital gains tax, tax on wealth, estate duty or inheritance tax.</li>
+          </ol>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </>
+);
+
 
 
 
@@ -21510,6 +24264,86 @@ const LicensingServices = {
     {
       Service: "Dubai Qualified Investor Fund (QIF) license",
       Content: mutualFund20,
+    },
+    {
+      Service: "Labuan Private Fund license",
+      Content: mutualFund21,
+    },
+    {
+      Service: "Labuan Public Fund license",
+      Content: mutualFund22,
+    },
+    {
+      Service: "Mauritius Closed End Fund (CEF) License",
+      Content: mutualFund23,
+    },
+    {
+      Service: "Mauritius Collective Investment Scheme (CIS) License",
+      Content: mutualFund24,
+    },
+    {
+      Service: "Mauritius Expert Funds License",
+      Content: mutualFund25,
+    },
+    {
+      Service: "Panama Private Investment Fund (PIF-20 up to 20 investors) or (20-FP)",
+      Content: mutualFund26,
+    },
+    {
+      Service: "Saint Lucia International Public Fund",
+      Content: mutualFund27,
+    },
+    {
+      Service: "Saint Lucia International Private Fund",
+      Content: mutualFund28,
+    },
+    {
+      Service: "Samoa Private Fund license",
+      Content: mutualFund29,
+    },
+    {
+      Service: "Samoa Professional Fund license",
+      Content: mutualFund30,
+    },
+    {
+      Service: "Samoa Public Fund license",
+      Content: mutualFund31,
+    },
+    {
+      Service: "Seychelles Private Mutual Funds",
+      Content: mutualFund32,
+    },
+    {
+      Service: "Seychelles Professional Mutual Funds",
+      Content: mutualFund33,
+    },
+    {
+      Service: "Seychelles Public Mutual Funds",
+      Content: mutualFund34,
+    },
+    {
+      Service: "St. Kitts and Nevis Private Fund license",
+      Content: mutualFund35,
+    },
+    {
+      Service: "St. Kitts and Nevis Professional Fund license",
+      Content: mutualFund36,
+    },
+    {
+      Service: "St. Kitts and Nevis Public Fund license",
+      Content: mutualFund37,
+    },
+    {
+      Service: "St. Vincent Private Fund license",
+      Content: mutualFund38,
+    },
+    {
+      Service: "St. Vincent Public Fund license",
+      Content: mutualFund39,
+    },
+    {
+      Service: "Vanuatu Mutual Funds",
+      Content: mutualFund40,
     },
   ],
   Insurance: [
