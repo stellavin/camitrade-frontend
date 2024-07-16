@@ -8,7 +8,7 @@ const HeaderTopbar = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-7 col-sm-8">
-                            <div className="header-left">
+                            <div className="header-left titl_font-style">
                                 <ul>
                                     <li>
                                         <a href="mailto:info@camitrade.com">
@@ -26,10 +26,10 @@ const HeaderTopbar = () => {
                                 <div className="soical-profile">
                                     <SocialShare />
                                 </div>
-                                <div className="office-number">
+                                <div className="office-number titl_font-style">
                                     <ul>
-                                        <li><span>Call us</span>
-                                            <a href="tel:2482611651​">+2 (482) 611 651</a>
+                                        <li><span className='titl_font-style'>Call us</span>
+                                            <a href="tel:2482611651​" className='titl_font-style'>+2 (482) 611 651</a>
                                         </li>
                                     </ul>
                                 </div>
