@@ -1,0 +1,1 @@
+import{j as r}from"./index-3139f6c3.js";import{a as e,F as s}from"./Footer-ffda50c7.js";import{B as o}from"./Breadcrumbs-caa4fb0b.js";import{S as t}from"./Service-d6a3a17e.js";import"./SingleService-409365bd.js";const j=()=>r.jsxs(r.Fragment,{children:[r.jsx(e,{}),r.jsx(o,{pageTitle:"Services Two"}),r.jsx(t,{}),r.jsx(s,{})]});export{j as default};
