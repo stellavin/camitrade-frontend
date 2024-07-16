@@ -5,7 +5,7 @@ const PreLoader = () => {
         <>
             <div id="preloader">
                 <div id="finaleyas-preloader" className="finaleyas-preloader">
-                    <div className="animation-preloader_">
+                    <div className="animation-preloader">
                         <div className="spinner"></div>
                         <div className="txt-loading">
                             <span data-text-preloader="C" className="letters-loading">
