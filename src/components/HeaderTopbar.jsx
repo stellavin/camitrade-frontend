@@ -17,7 +17,7 @@ const HeaderTopbar = () => {
                                     </li>
                                     <li>
                                         <i className="icofont-map-pins"></i>
-                                        8th Floor Hennessy TowerPope Hennessy Street Port Louis, Mauritius</li>
+                                        Suite 201, The Catalyst ,40 Silicon Ave, Ebene, Mauritius</li>
                                 </ul>
                             </div>
                         </div>

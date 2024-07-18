@@ -86,9 +86,9 @@ const Footer = () => {
                                                     </div>
                                                     <div className="media-body">
                                                         <span className="inner-text">Mauritius</span> <br />
-                                                        <span className="inner-text">8th Floor Hennessy Tower</span>
-                                                        <span className="inner-text">Pope Hennessy Street </span>
-                                                        <span className="inner-text">Port Louis, Mauritius</span>
+                                                        <span className="inner-text">Suite 201, The Catalyst,</span>
+                                                        <span className="inner-text">40 Silicon Ave,</span>
+                                                        <span className="inner-text">Ebene</span>
                                                     </div>
                                                 </div>
                                             </div>

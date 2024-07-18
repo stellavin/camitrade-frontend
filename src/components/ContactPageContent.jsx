@@ -76,9 +76,9 @@ const ContactPageContent = () => {
                                 </div>
                                 <div className="contact-info-text">
                                     <h2>Office: Mauritius</h2>
-                                    <span>8th Floor Hennessy Tower</span>
-                                    <span>Pope Hennessy Street</span>
-                                    <span>Port Louis, Mauritius</span>
+                                    <span>Suite 201, The Catalyst,</span>
+                                    <span>40 Silicon Ave,</span>
+                                    <span>Ebene</span>
                                 </div>
                             </div>
                         </div>
@@ -124,7 +124,7 @@ const ContactPageContent = () => {
                     </div>
                     <div className="row">
                         <div className="col-lg-8">
-                            <ContactForm />
+                            <ContactForm heading={'Get in touch'} />
                         </div>
                     </div>
                 </div>

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import servicesData from '../jsonData/MainServices';
 import { useLocation } from 'react-router-dom';
+import ContactForm from './ContactForm';
 
 const ServiceCard = ({ country, service, flag, onClick, showDetails }) => {
   return (
@@ -96,6 +97,10 @@ const CorporateContent = ({ handleSetName }) => {
                   <React.Fragment>{services[SelectedService][activeService]?.Content}</React.Fragment>
                 </div>
               )}
+
+              <div>
+                <ContactForm heading={'Get in touch'} description={`We're here to help you navigate the process seamlessly. Fill out the form below to get started on your path to success`} />
+              </div>
             </div>
            
           </div>
