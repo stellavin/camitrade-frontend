@@ -4068,7 +4068,7 @@ footer.footer {
 	cursor: pointer;
 	transition: background-color 0.3s ease-in-out;
 	border-radius: 40px!important;
-    padding: 9px 32px;
+    padding: 9px 25px;
   }
   
   .continent:hover,
@@ -4088,7 +4088,7 @@ footer.footer {
 	border-radius: 8px;
 	margin: 8px;
 	text-align: center;
-	width: 300px;
+	width: 390px;
 	display: flex;
   	align-items: center;
   }
