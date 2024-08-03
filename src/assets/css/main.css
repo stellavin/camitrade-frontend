@@ -4618,3 +4618,22 @@ p.feature-text-me {
 .titl_font-style {
     font-size: 14px !important;
 }
+.service-content {
+	display: flex;
+	justify-content:end;
+	align-items:end;
+  }
+  
+  .share-buttons {
+	display: flex;
+	gap: 10px; /* Adjust spacing between icons */
+  }
+  
+  .service-text {
+	flex: 1;
+  }
+  .share-icon {
+	display: flex;
+	align-items: center;
+	margin-right: 10px; /* Adjust spacing between icon and share buttons */
+  }

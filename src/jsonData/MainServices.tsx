@@ -25116,159 +25116,196 @@ const OffersServices = {
 
 const CorporateServices = {
   International_Business_Company_IBC_Formation: [
-      {
+    {
       Service: "International Business Company (IBC) Formation",
       Content: IBCFormationContent,
+      id: "International-Business-Company-IBC-Formation",
     },
     {
       Service: "Anguilla International Business Company",
       Content: AnguillaInternationalBusinessCompany_HTML,
+      id: "Anguilla-International-Business-Company",
     },
     {
       Service: "Antigua and Barbuda International Business Company (IBC)",
       Content: AntiguaAndBarbudaInternationalBusinessCompany_HTML,
+      id: "Antigua-and-Barbuda-International-Business-Company-IBC",
     },
     {
       Service: "Aruba Exempt Company (AVV)",
       Content: ArubaExemptCompanyAVV_HTML,
+      id: "Aruba-Exempt-Company-AVV",
     },
     {
       Service: "Bahamas International Business Company (IBC)",
       Content: BahamasInternationalBusinessCompany_HTML,
+      id: "Bahamas-International-Business-Company-IBC",
     },
     {
       Service: "Barbados International Business Company (IBC)",
       Content: BarbadosInternationalBusinessCompany_HTML,
+      id: "Barbados-International-Business-Company-IBC",
     },
     {
       Service: "Bermuda Exempted Company",
       Content: BermudaExemptedCompany_HTML,
+      id: "Bermuda-Exempted-Company",
     },
     {
       Service: "British Virgin Islands International Business Company (IBC)",
       Content: BVIInternationalBusinessCompany_HTML,
+      id: "British-Virgin-Islands-International-Business-Company-IBC",
     },
     {
       Service: "Cayman Islands Exempt Company",
       Content: CaymanIslandsExemptCompany_HTML,
+      id: "Cayman-Islands-Exempt-Company",
     },
     {
       Service: "Cook Islands International Business Company (IBC)",
       Content: CookIslandsInternationalBusinessCompany_HTML,
+      id: "Cook-Islands-International-Business-Company-IBC",
     },
     {
       Service: "Dubai RAK International Business Company",
       Content: DubaiRAKInternationalBusinessCompany_HTML,
+      id: "Dubai-RAK-International-Business-Company",
     },
     {
       Service: "Gibraltar Non-Resident Company",
       Content: GibraltarNonResidentCompany_HTML,
+      id: "Gibraltar-Non-Resident-Company",
     },
     {
       Service: "Hong Kong Offshore Company",
       Content: HongKongOffshoreCompany_HTML,
+      id: "Hong-Kong-Offshore-Company",
     },
     {
       Service: "Isle of Man Offshore Company",
       Content: IsleOfManOffshoreCompany_HTML,
+      id: "Isle-of-Man-Offshore-Company",
     },
     {
       Service: "Labuan Offshore Company",
       Content: LabuanOffshoreCompany_HTML,
+      id: "Labuan-Offshore-Company",
     },
     {
       Service: "Marshall Islands International Business Company (IBC)",
       Content: MarshallIslandsIBC_HTML,
+      id: "Marshall-Islands-International-Business-Company-IBC",
     },
     {
       Service: "Mauritius Authorised Company",
       Content: MauritiusAuthorisedCompany_HTML,
+      id: "Mauritius-Authorised-Company",
     },
     {
       Service: "Montserrat International Business Company",
       Content: MontserratInternationalBusinessCompany_HTML,
+      id: "Montserrat-International-Business-Company",
     },
     {
       Service: "New Zealand Limited Liability Company (LLC)",
       Content: NewZealandLimitedLiabilityCompany_HTML,
+      id: "New-Zealand-Limited-Liability-Company-LLC",
     },
     {
       Service: "Panama International Business Company (IBC)",
       Content: PanamaInternationalBusinessCompany_HTML,
+      id: "Panama-International-Business-Company-IBC",
     },
     {
       Service: "Samoa International Company",
       Content: SamoaInternationalCompany_HTML,
+      id: "Samoa-International-Company",
     },
     {
       Service: "Seychelles International Business Company (IBC)",
       Content: SeychellesInternationalBusinessCompany_HTML,
+      id: "Seychelles-International-Business-Company-IBC",
     },
     {
       Service: "St Kitts and Nevis International Business Company",
       Content: StKittsAndNevisInternationalBusinessCompany_HTML,
+      id: "St-Kitts-and-Nevis-International-Business-Company",
     },
     {
       Service: "St Lucia International Business Company",
       Content: StLuciaInternationalBusinessCompany_HTML,
+      id: "St-Lucia-International-Business-Company",
     },
     {
       Service: "St Vincent & The Grenadines Business Company",
       Content: StVincentGrenadinesBusinessCompany_HTML,
-    },{
-      Service:"Seychelles Company and Legal Entity Formations",
+      id: "St-Vincent-The-Grenadines-Business-Company",
+    },
+    {
+      Service: "Seychelles Company and Legal Entity Formations",
       Content: SeychellesCompanyandLegalEntityFormations,
+      id: "Seychelles-Company-and-Legal-Entity-Formations",
     },
     {
       Service: "Malta Protected Cell Companies",
       Content: MaltaProtectedCellCompaniesHTML,
+      id: "Malta-Protected-Cell-Companies",
     },
     {
       Service: "Gibraltar Protected Cell Companies",
       Content: GibraltarProtectedCellCompaniesHTML,
+      id: "Gibraltar-Protected-Cell-Companies",
     },
   ],
   Registered_Agent_Services: [
     {
-    Service: "Registered Agent Services",
-    Content: RegisteredAgentServicesContent,
-  }
+      Service: "Registered Agent Services",
+      Content: RegisteredAgentServicesContent,
+      id: "Registered-Agent-Services",
+    },
   ],
-  Trust_and_Foundation_Registration: [{
-    Service: "Trust and Foundation Registration",
-    Content: TrustAndFoundationServicesContent,
-  }],
+  Trust_and_Foundation_Registration: [
+    {
+      Service: "Trust and Foundation Registration",
+      Content: TrustAndFoundationServicesContent,
+      id: "Trust-and-Foundation-Registration",
+    },
+  ],
   Nominee_Director_and_Shareholder_Access: [
     {
-    Service: "Nominee Director and Shareholder Access",
-    Content: NomineeDirectorAndShareholderServicesContent,
-  }
-],
-Bank_Account_Opening: [
-  {
-    Service: "Bank Account Opening",
+      Service: "Nominee Director and Shareholder Access",
+      Content: NomineeDirectorAndShareholderServicesContent,
+      id: "Nominee-Director-and-Shareholder-Access",
+    },
+  ],
+  Bank_Account_Opening: [
+    {
+      Service: "Bank Account Opening",
       Content: BankAccountOpeningContent,
-    }
+      id: "Bank-Account-Opening",
+    },
   ],
   Accounting_and_Auditing_Services: [
     {
       Service: "Accounting and Auditing Services",
       Content: AccountingAndAuditingServicesContent,
-    }
+      id: "Accounting-and-Auditing-Services",
+    },
   ],
   Legal_Opinions_of_Distinction: [
     {
       Service: "Legal Opinions of Distinction",
       Content: LegalOpinionsOfDistinctionContent,
-    }
+      id: "Legal-Opinions-of-Distinction",
+    },
   ],
   Virtual_Physical_Office_Services: [
     {
       Service: "Virtual/Physical Office Services",
       Content: VirtualPhysicalOfficeServicesContent,
-    }
+      id: "Virtual-Physical-Office-Services",
+    },
   ],
-  
+};
 
-}
 export default {OtherServices,LicensingServices,OffersServices, CorporateServices }
