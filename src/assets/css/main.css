@@ -4620,8 +4620,9 @@ p.feature-text-me {
 }
 .service-content {
 	display: flex;
-	justify-content:end;
-	align-items:end;
+	flex-direction: column;
+	/* justify-content:end;
+	align-items:end; */
   }
   
   .share-buttons {
@@ -4637,6 +4638,7 @@ p.feature-text-me {
 	align-items: center;
 	margin-right: 10px; /* Adjust spacing between icon and share buttons */
   }
+  
   @media (max-width: 990px) {
     .single-testimonial {
         padding: 40px 20px;
