@@ -1937,7 +1937,7 @@ input[type=number] {
 	margin-left: 75px;
 	border: 1px solid #007693;
 	transition: all 0.4s ease 0s;
-	height: 48vh !important;
+	height: 62vh !important;
 }
 
 .single-testimonial:hover {
@@ -4637,3 +4637,20 @@ p.feature-text-me {
 	align-items: center;
 	margin-right: 10px; /* Adjust spacing between icon and share buttons */
   }
+  @media (max-width: 990px) {
+    .single-testimonial {
+        padding: 40px 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 45vh !important;
+    }
+}
+
+@media (min-width: 991px) {
+    .single-testimonial {
+        padding: 40px 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 60vh !important;
+    }
+}
