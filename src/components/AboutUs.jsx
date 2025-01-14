@@ -7,7 +7,7 @@ const AboutUs = () => {
 			<div className="about-us-sec bg-blue-dark">
 				<div className="container">
 					<div className="row">
-						<div className="col-lg-6 offset-lg-6 col-12">
+						<div className="col-lg-12 offset-lg-12 col-12">
 							<AboutContent/>
 						</div>
 					</div>

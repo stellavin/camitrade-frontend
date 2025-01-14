@@ -90,8 +90,10 @@ const ContactPageContent = () => {
                                 </div>
                                 <div className="contact-info-text">
                                     <h2>phone number</h2>
-                                    <span><a href="tel:(0117) 900 9463" className='me-1'>+2(482) 611 651</a></span>
-                                    <span><a href="tel:(0121) 268 3610">+1(540)2342232</a></span>
+                                    <span><a href="tel:+248 2 668 292" className='me-1'>+248 2 668 292</a></span>
+                                    <span><a href="tel:+971 56 106 6155">+971 56 106 6155</a></span>
+                                    <span><a href="tel:+254 715 826 827" className='me-1'>+254 715 826 827</a></span>
+                                    <span><a href="tel:+357 95 990 867">+357 95 990 867</a></span>
                                 </div>
                             </div>
                         </div>

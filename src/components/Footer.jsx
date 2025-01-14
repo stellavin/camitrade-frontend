@@ -134,8 +134,10 @@ const Footer = () => {
                                                         <span className="icon"><i className="icofont-ui-call"></i></span>
                                                     </div>
                                                     <div className="media-body">
-                                                        <a className="inner-text" href="tel:+2(482) 611 651">+2(482) 611 651</a> <br />
-                                                        <a className="inner-text" href="tel:+1(540)2342232">+1(540)2342232</a>
+                                                        <a className="inner-text" href="tel:+248 2 668 292">+248 2 668 292</a> <br />
+                                                        <a className="inner-text" href="tel:+971 56 106 6155">+971 56 106 6155</a><br />
+                                                        <a className="inner-text" href="tel:+254 715 826 827">+254 715 826 827</a><br />
+                                                        <a className="inner-text" href="tel:+357 95 990867">+357 95 990 867</a>
                                                     </div>
                                                 </div>
                                             </div>
