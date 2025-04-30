@@ -6,6 +6,7 @@ import CorporateData from '../jsonData/corporateData.json'
 import LicensingData from '../jsonData/licensingData.json'
 import OffersData from '../jsonData/offersData.json'
 import OtherServices from '../jsonData/MainServices';
+import { formatServiceId } from '../utils/urlTransform';
 
 
 const OffCanvasMenu = () => {
@@ -45,9 +46,14 @@ const OffCanvasMenu = () => {
                                             {iconToggle2 ? <i className="icofont-plus"></i> : <i className="icofont-minus"></i>}
                                         </Link>
                                         <ul className="dropdown-menu">
-                                        {CorporateData.map((service)=> (
+                                        {CorporateData.map((service) => (
                                             <li>
-                                            <Link className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} to={`/corporate?id=${service?.id}`}>{service.name}</Link>
+                                            <Link 
+                                                className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} 
+                                                to={`/corporate?id=${formatServiceId(service?.id)}`}
+                                            >
+                                                {service.name}
+                                            </Link>
                                         </li>
                                         ))}
                                             

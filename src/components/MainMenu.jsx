@@ -3,6 +3,7 @@ import OffCanvasMenu from './OffCanvasMenu';
 import logo from '/img/logo/logo.png'
 import { HashLink as Link } from 'react-router-hash-link';
 import OtherServices from '../jsonData/MainServices';
+import { formatServiceId } from '../utils/urlTransform';
 
 const MainMenu = () => {
 
@@ -49,7 +50,7 @@ const MainMenu = () => {
                                                     <Link to="/services?id=Corporate#">Corporate</Link>
                                                     <ul>
                                                     {CorporateData.map((service, index)=> (
-                                                            <li key={index}><Link to={`/corporate?id=${service}`}>{service.replace(/_/g, ' ')}</Link></li>
+                                                            <li key={index}><Link to={`/corporate?id=${formatServiceId(service)}`}>{service.replace(/_/g, ' ')}</Link></li>
                                                         ))}
                                                     </ul>
                                                 </li>

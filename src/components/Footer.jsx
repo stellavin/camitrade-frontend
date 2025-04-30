@@ -156,7 +156,10 @@ const Footer = () => {
                             <div className="col-md-12 col-sm-12">
                                 <Fade top delay={1000}>
                                     <div className="copy-right">
-                                        <p>&copy; {new Date().getFullYear()} Camitrade Investment Fiduciaries. All Rights Reserved.</p>
+                                        <p>
+                                            &copy; {new Date().getFullYear()} Camitrade Investment Fiduciaries. All Rights Reserved. | 
+                                            Developed by <a href="https://eliteteqagency.web.app/" target="_blank" rel="noopener noreferrer" style={{ color: '#fff', textDecoration: 'underline' }}>EliteTeQ</a>
+                                        </p>
                                     </div>
                                 </Fade>
                             </div>

@@ -14,14 +14,14 @@ import {
 } from 'react-share';
 import { FaShareAlt } from 'react-icons/fa';
 
-const ServiceCard = ({ country, service, flag, onClick, showDetails }) => {
+const ServiceCard = ({ service, onClick, showDetails }) => {
   return (
     <div
       className={`service-option ${showDetails ? 'active' : ''}`}
       onClick={onClick}
     >
       <div className="service-header">
-        <h2 className="service-name">{country} {service}</h2>
+        <h2 className="service-name">{service}</h2>
       </div>
     </div>
   );
@@ -32,15 +32,21 @@ const CorporateContent = ({ handleSetName }) => {
   const location = useLocation();
   const navigate = useNavigate();
   const searchParams = new URLSearchParams(location.search);
-  const serviceId = searchParams.get('id');
+  const rawServiceId = searchParams.get('id');
+  
+  // Convert the URL parameter to match the services object key format
+  const serviceId = rawServiceId
+    ?.replace(/-/g, '_')
+    ?.replace(/\([^)]*\)/g, '')  // Remove parentheses and their contents
+    ?.replace(/\s+/g, '_')       // Replace spaces with underscores
+    ?.toUpperCase();
+
   const [activeService, setActiveService] = useState(0);
 
-  const handleClick = (index, service) => {
-    console.log(service);
-    setActiveService(index);
-    const newUrl = `/corporate?id=${serviceId}&serviceIndex=${index}`;
-    navigate(newUrl);
-  };
+  console.log('Raw Service ID:', rawServiceId);
+  console.log('Processed Service ID:', serviceId);
+  console.log('Available Services:', Object.keys(services));
+  console.log('Current Service Data:', services[serviceId]);
 
   useEffect(() => {
     if (serviceId && services[serviceId]) {
@@ -50,16 +56,17 @@ const CorporateContent = ({ handleSetName }) => {
     }
   }, [serviceId, searchParams]);
 
+  const handleClick = (index) => {
+    setActiveService(index);
+    const newUrl = `/corporate?id=${rawServiceId}&serviceIndex=${index}`;
+    navigate(newUrl);
+  };
+
+  // Get the current service array
+  const currentServices = services[serviceId] || [];
+
   const isMobile = window.innerWidth <= 768;
-
-  const serviceOptions = services[serviceId]?.map((service, index) => (
-    <option key={index} value={index}>
-      {service.Country} {service.Service}
-    </option>
-  ));
-
-  // Construct the share URL
-  const shareUrl = `${window.location.origin}/corporate?id=${serviceId}`;
+  const shareUrl = `${window.location.origin}/corporate?id=${rawServiceId}`;
 
   return (
     <section className="why-choose-us-sec te-pt-70 te-pb-50 te-md-pt-60 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
@@ -69,43 +76,27 @@ const CorporateContent = ({ handleSetName }) => {
             <div className="mobile-service-select">
               <select
                 value={activeService}
-                onChange={(e) => handleClick(Number(e.target.value), services[serviceId][Number(e.target.value)])}
+                onChange={(e) => handleClick(Number(e.target.value))}
               >
-                <option value={0}>Select a service</option>
-                {serviceOptions}
+                <option value="">Select a service</option>
+                {currentServices.map((service, index) => (
+                  <option key={index} value={index}>
+                    {service.Service}
+                  </option>
+                ))}
               </select>
             </div>
           )}
           {!isMobile && (
             <div className="service-list">
               <div className="service-card">
-                {services[serviceId]?.map((service, index) => (
-                  <div key={index}>
-                    {service.Service === 'Free Zone Company Solutions' ? (
-                      <div>
-                        <h2 className="FreeZone">Free Zone Company Solutions</h2>
-                        {service?.Content?.map((service, index) => (
-                          <ServiceCard
-                            key={index}
-                            country={service?.Country}
-                            service={service?.Service}
-                            flag={service?.Flag}
-                            onClick={() => handleClick(index, service)}
-                            showDetails={activeService === index}
-                          />
-                        ))}
-                      </div>
-                    ) : (
-                      <ServiceCard
-                        key={index}
-                        country={service?.Country}
-                        service={service?.Service}
-                        flag={service?.Flag}
-                        onClick={() => handleClick(index, service)}
-                        showDetails={activeService === index}
-                      />
-                    )}
-                  </div>
+                {currentServices.map((service, index) => (
+                  <ServiceCard
+                    key={index}
+                    service={service.Service}
+                    onClick={() => handleClick(index)}
+                    showDetails={activeService === index}
+                  />
                 ))}
               </div>
             </div>
@@ -113,7 +104,7 @@ const CorporateContent = ({ handleSetName }) => {
           <div className={`service-details ${isMobile ? 'mobile' : ''}`}>
             <div className="service-content">
               <div className="share-buttons">
-              <div className="share-icon">
+                <div className="share-icon">
                   <FaShareAlt size={24} />
                 </div>
                 <FacebookShareButton url={shareUrl}>
@@ -129,36 +120,37 @@ const CorporateContent = ({ handleSetName }) => {
                   <WhatsappIcon size={32} round />
                 </WhatsappShareButton>
               </div>
-              </div>
-              <div className="service-text">
-                {activeService !== null && (
-                  <React.Fragment>{services[serviceId][activeService]?.Content}</React.Fragment>
-                )}
-              </div>
-            
-
+            </div>
+            <div className="service-text">
+              {currentServices[activeService]?.Content && (
+                <div className="content-wrapper">
+                  {currentServices[activeService].Content}
+                </div>
+              )}
+            </div>
             <div>
-              
-              <ContactForm heading={'Get in touch'} description={`We're here to help you navigate the process seamlessly. Fill out the form below to get started on your path to success`} />
-
+              <ContactForm 
+                heading={'Get in touch'} 
+                description={`We're here to help you navigate the process seamlessly. Fill out the form below to get started on your path to success`} 
+              />
               <div className="service-content">
-              <div className="share-buttons">
-              <div className="share-icon">
-                  <FaShareAlt size={24} />
+                <div className="share-buttons">
+                  <div className="share-icon">
+                    <FaShareAlt size={24} />
+                  </div>
+                  <FacebookShareButton url={shareUrl}>
+                    <FacebookIcon size={32} round />
+                  </FacebookShareButton>
+                  <TwitterShareButton url={shareUrl}>
+                    <TwitterIcon size={32} round />
+                  </TwitterShareButton>
+                  <LinkedinShareButton url={shareUrl}>
+                    <LinkedinIcon size={32} round />
+                  </LinkedinShareButton>
+                  <WhatsappShareButton url={shareUrl}>
+                    <WhatsappIcon size={32} round />
+                  </WhatsappShareButton>
                 </div>
-                <FacebookShareButton url={shareUrl}>
-                  <FacebookIcon size={32} round />
-                </FacebookShareButton>
-                <TwitterShareButton url={shareUrl}>
-                  <TwitterIcon size={32} round />
-                </TwitterShareButton>
-                <LinkedinShareButton url={shareUrl}>
-                  <LinkedinIcon size={32} round />
-                </LinkedinShareButton>
-                <WhatsappShareButton url={shareUrl}>
-                  <WhatsappIcon size={32} round />
-                </WhatsappShareButton>
-              </div>
               </div>
             </div>
           </div>

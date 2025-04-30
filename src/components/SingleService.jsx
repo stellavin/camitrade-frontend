@@ -1,6 +1,7 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
 import { HashLink as Link } from 'react-router-hash-link';
+import { formatServiceId } from '../utils/urlTransform';
 
 const SingleService = ({ type, service }) => {
     let { serviceIcon, serviceTitle, serviceText, serviceBtn, delay, id, countriesFlags } = service;
@@ -15,11 +16,11 @@ const SingleService = ({ type, service }) => {
                      <div className="service-content">
                          
                          <div className="services-i">
-                                 <h2><Link to={`/corporate?id=${service.id}`} className="serviceTitle">{service.title}</Link></h2>
+                                 <h2><Link to={`/corporate?id=${formatServiceId(service.id)}`} className="serviceTitle">{service.title}</Link></h2>
                              </div>
                          <p>{service.intro}</p>
                          <div className="service-button">
-                             <Link to={`/corporate?id=${service.id}`} className='link-hover'>Read More</Link>
+                             <Link to={`/corporate?id=${formatServiceId(service.id)}`} className='link-hover'>Read More</Link>
                          </div>
                          
                      </div>

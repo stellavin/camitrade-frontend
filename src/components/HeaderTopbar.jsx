@@ -25,6 +25,7 @@ const HeaderTopbar = () => {
                             <div className="header-right-div">
                                 <div className="soical-profile">
                                     <SocialShare />
+                                    <div id="google_translate_element"></div>
                                 </div>
                                 <div className="office-number titl_font-style">
                                     <ul>
