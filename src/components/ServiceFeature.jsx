@@ -2,14 +2,14 @@ import React, { useState } from 'react';
 import FeatureData from '../jsonData/ServiceMainData.json'
 import SingleService from './SingleService';
 import AllCorporateData from '../jsonData/CorporateMainData.json';
-import { useLocation } from 'react-router-dom';
+import { useLocation, useParams } from 'react-router-dom';
 import LicenseData from '../jsonData/licensingData.json'
 
 const ServiceFeature = ({setServiceName}) => {
     console.log('here ==========');
     const location = useLocation();
-    const searchParams = new URLSearchParams(location.search);
-    const serviceId = searchParams.get('id');
+    const { id } = useParams(); // Get ID from path parameter
+    const serviceId = id || location.pathname.split('/').pop(); // Fallback to last part of path if no params
     console.log('get data ==========', serviceId);
     setServiceName(serviceId);
 
@@ -59,7 +59,7 @@ const ServiceFeature = ({setServiceName}) => {
                     )
                    }
 
-{
+                   {
                     serviceId === 'Corporate' && (
                         <div className="row">
                             {AllCorporateData.map(service =>

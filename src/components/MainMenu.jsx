@@ -47,10 +47,14 @@ const MainMenu = () => {
                                                 <li className="active"><Link to="/#">Home</Link></li>
                                                 <li><Link to="/about#">about Us</Link></li>
                                                 <li className="has-children-menu">
-                                                    <Link to="/services?id=Corporate#">Corporate</Link>
+                                                    <Link to="/services/Corporate">Corporate</Link>
                                                     <ul>
                                                     {CorporateData.map((service, index)=> (
-                                                            <li key={index}><Link to={`/corporate?id=${formatServiceId(service)}`}>{service.replace(/_/g, ' ')}</Link></li>
+                                                            <li key={index}>
+                                                                <Link to={`/corporate/${formatServiceId(service)}`}>
+                                                                    {service.replace(/_/g, ' ')}
+                                                                </Link>
+                                                            </li>
                                                         ))}
                                                     </ul>
                                                 </li>

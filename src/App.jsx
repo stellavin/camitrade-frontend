@@ -65,6 +65,8 @@ function App() {
               <Route path="/jurisdictions" element={<Jurisdictions />} />
               <Route path="/about" element={<About />} />
               <Route path="/services" element={<Services />} />
+              <Route path="/services/Corporate" element={<Services />} />
+              <Route path="/services/:id" element={<Services />} />
               <Route path="/corporate" element={<Corporate />} />
               <Route path="/other-services" element={<OtherServicesPage />} />
               <Route path="/licensing-services" element={<LicensingServices />} />

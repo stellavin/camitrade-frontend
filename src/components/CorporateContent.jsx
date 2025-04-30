@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import servicesData from '../jsonData/MainServices';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate, useParams } from 'react-router-dom';
 import ContactForm from './ContactForm';
 import {
   FacebookShareButton,
@@ -28,14 +28,13 @@ const ServiceCard = ({ service, onClick, showDetails }) => {
 };
 
 const CorporateContent = ({ handleSetName }) => {
+  const { id } = useParams(); // Get the ID from the URL path
   const services = servicesData.CorporateServices;
   const location = useLocation();
   const navigate = useNavigate();
-  const searchParams = new URLSearchParams(location.search);
-  const rawServiceId = searchParams.get('id');
   
   // Convert the URL parameter to match the services object key format
-  const serviceId = rawServiceId
+  const serviceId = id
     ?.replace(/-/g, '_')
     ?.replace(/\([^)]*\)/g, '')  // Remove parentheses and their contents
     ?.replace(/\s+/g, '_')       // Replace spaces with underscores
@@ -43,7 +42,7 @@ const CorporateContent = ({ handleSetName }) => {
 
   const [activeService, setActiveService] = useState(0);
 
-  console.log('Raw Service ID:', rawServiceId);
+  console.log('Raw Service ID:', id);
   console.log('Processed Service ID:', serviceId);
   console.log('Available Services:', Object.keys(services));
   console.log('Current Service Data:', services[serviceId]);
@@ -51,14 +50,14 @@ const CorporateContent = ({ handleSetName }) => {
   useEffect(() => {
     if (serviceId && services[serviceId]) {
       handleSetName(serviceId);
-      const serviceIndex = parseInt(searchParams.get('serviceIndex'), 10) || 0;
+      const serviceIndex = parseInt(location.search.split('serviceIndex=')[1]) || 0;
       setActiveService(serviceIndex);
     }
-  }, [serviceId, searchParams]);
+  }, [serviceId, location.search]);
 
   const handleClick = (index) => {
     setActiveService(index);
-    const newUrl = `/corporate?id=${rawServiceId}&serviceIndex=${index}`;
+    const newUrl = `/corporate/${id}?serviceIndex=${index}`;
     navigate(newUrl);
   };
 
@@ -66,7 +65,7 @@ const CorporateContent = ({ handleSetName }) => {
   const currentServices = services[serviceId] || [];
 
   const isMobile = window.innerWidth <= 768;
-  const shareUrl = `${window.location.origin}/corporate?id=${rawServiceId}`;
+  const shareUrl = `${window.location.origin}/corporate/${id}`;
 
   return (
     <section className="why-choose-us-sec te-pt-70 te-pb-50 te-md-pt-60 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
