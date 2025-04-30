@@ -9,8 +9,9 @@ const ServiceFeature = ({setServiceName}) => {
     console.log('here ==========');
     const location = useLocation();
     const { id } = useParams(); // Get ID from path parameter
-    // Convert hyphenated URL back to underscore format for internal use
-    const serviceId = id?.replace(/-/g, '_');
+    
+    // Handle the service ID without any transformation for direct matches
+    const serviceId = id || location.pathname.split('/').pop();
     console.log('get data ==========', serviceId);
     setServiceName(serviceId);
 
@@ -27,7 +28,7 @@ const ServiceFeature = ({setServiceName}) => {
                         <div className="col-lg-6 offset-lg-3 text-center">
                             <div className="sec-title">
                             {
-                            serviceId === 'Other_services' && (
+                            serviceId === 'Other-services' && (
                                 <h1>Our Other Services</h1>
                             )}
                              {
@@ -51,10 +52,10 @@ const ServiceFeature = ({setServiceName}) => {
                     )
                    }
                    {
-                    serviceId === 'Other_services' && (
+                    (serviceId === 'Other-services' || serviceId === 'Other_services') && (
                         <div className="row">
                             {FeatureData.map(service =>
-                                <SingleService service={service} key={service.id} />
+                                <SingleService type="Other_services" service={service} key={service.id} />
                             )}
                         </div>
                     )
