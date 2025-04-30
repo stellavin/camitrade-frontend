@@ -71,10 +71,15 @@ const MainMenu = () => {
                                                         ))}
                                                     </ul>
                                                 </li>
-                                                <li className="has-children-menu"><Link to="/services?id=Other_services#">Other services</Link>
+                                                <li className="has-children-menu">
+                                                    <Link to="/services/Other-services">Other services</Link>
                                                     <ul>
                                                         {OtherServicesKeys?.map((service, index)=> (
-                                                            <li key={index}><Link to={`/other-services?id=${service}`}>{service.replace(/_/g, ' ')}</Link></li>
+                                                            <li key={index}>
+                                                                <Link to={`/other-services/${service.replace(/_/g, '-')}`}>
+                                                                    {service.replace(/_/g, ' ')}
+                                                                </Link>
+                                                            </li>
                                                         ))}
                                                     </ul>
                                                 </li>

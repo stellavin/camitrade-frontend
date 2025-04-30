@@ -53,11 +53,17 @@ const SingleService = ({ type, service }) => {
                     <div className="service-content">
                         
                         <div className="services-i">
-                                <h2><Link to={`/other-services?id=${id}`}className="serviceTitle">{serviceTitle}</Link></h2>
+                                <h2>
+                                    <Link to={`/other-services/${id.replace(/_/g, '-')}`} className="serviceTitle">
+                                        {serviceTitle}
+                                    </Link>
+                                </h2>
                             </div>
                         <p>{serviceText}</p>
                         <div className="service-button">
-                            <Link to={`/other-services?id=${id}`} className='link-hover'>{serviceBtn}</Link>
+                            <Link to={`/other-services/${id.replace(/_/g, '-')}`} className='link-hover'>
+                                {serviceBtn}
+                            </Link>
                         </div>
                         
                     </div>

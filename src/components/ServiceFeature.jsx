@@ -9,7 +9,8 @@ const ServiceFeature = ({setServiceName}) => {
     console.log('here ==========');
     const location = useLocation();
     const { id } = useParams(); // Get ID from path parameter
-    const serviceId = id || location.pathname.split('/').pop(); // Fallback to last part of path
+    // Convert hyphenated URL back to underscore format for internal use
+    const serviceId = id?.replace(/-/g, '_');
     console.log('get data ==========', serviceId);
     setServiceName(serviceId);
 
