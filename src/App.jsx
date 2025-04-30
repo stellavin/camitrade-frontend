@@ -83,6 +83,7 @@ function App() {
               <Route path="/blog-details" element={<BlogDetails />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/preloader" element={<PreLoader />} />
+              <Route path="/licensing-services/:id" element={<LicensingServices />} />
               <Route path="*" element={<ErrorPage />} />
             </Routes>
           </Suspense>

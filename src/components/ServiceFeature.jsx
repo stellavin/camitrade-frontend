@@ -9,7 +9,7 @@ const ServiceFeature = ({setServiceName}) => {
     console.log('here ==========');
     const location = useLocation();
     const { id } = useParams(); // Get ID from path parameter
-    const serviceId = id || location.pathname.split('/').pop(); // Fallback to last part of path if no params
+    const serviceId = id || location.pathname.split('/').pop(); // Fallback to last part of path
     console.log('get data ==========', serviceId);
     setServiceName(serviceId);
 

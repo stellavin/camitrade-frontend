@@ -60,15 +60,20 @@ const OffCanvasMenu = () => {
                                         </ul>
                                     </li>
                                     <li className="nav-item dropdown">
-                                        <Link className="nav-link dropdown-toggle" to="/services#" role="button" data-bs-toggle="dropdown" aria-expanded="false" onClick={() => setIconToggle2(!iconToggle2)}>
+                                        <Link className="nav-link dropdown-toggle" to="/services/Licensing" role="button" data-bs-toggle="dropdown" aria-expanded="false" onClick={() => setIconToggle2(!iconToggle2)}>
                                         Licensing
                                             {iconToggle2 ? <i className="icofont-plus"></i> : <i className="icofont-minus"></i>}
                                         </Link>
                                         <ul className="dropdown-menu">
                                         {LicensingDataKeys.map((service)=> (
                                             <li>
-                                            <Link className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} to={`/licensing-services?id=${service}`}>{service === 'Brokerage_Forex' ? 'Brokerage/Forex':service.replace(/_/g, ' ')}</Link>
-                                        </li>
+                                                <Link 
+                                                    className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} 
+                                                    to={`/licensing-services/${service}`}
+                                                >
+                                                    {service === 'Brokerage_Forex' ? 'Brokerage/Forex' : service.replace(/_/g, ' ')}
+                                                </Link>
+                                            </li>
                                         ))}
                                         </ul>
                                     </li>

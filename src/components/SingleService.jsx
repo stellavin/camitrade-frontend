@@ -35,11 +35,11 @@ const SingleService = ({ type, service }) => {
                     <div className="service-content">
                         
                         <div className="services-i">
-                                <h2><Link to={`/licensing-services?id=${service.id}`} className="serviceTitle">{service.title}</Link></h2>
+                                <h2><Link to={`/licensing-services/${service.id}`} className="serviceTitle">{service.title}</Link></h2>
                             </div>
                         <p>{service.text}</p>
                         <div className="service-button">
-                            <Link to={`/licensing-services?id=${service.id}`} className='link-hover'>Read More</Link>
+                            <Link to={`/licensing-services/${service.id}`} className='link-hover'>Read More</Link>
                         </div>
                     </div>
                 </div>

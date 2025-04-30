@@ -59,10 +59,15 @@ const MainMenu = () => {
                                                     </ul>
                                                 </li>
 
-                                                <li className="has-children-menu"><Link to="/services?id=Licensing#">Licensing</Link>
+                                                <li className="has-children-menu">
+                                                    <Link to="/services/Licensing">Licensing</Link>
                                                     <ul>
                                                     {LicensingDataKeys.map((service, index)=> (
-                                                            <li key={index}><Link to={`/licensing-services?id=${service}`}>{service === 'Brokerage_Forex' ? 'Brokerage/Forex':service.replace(/_/g, ' ')}</Link></li>
+                                                            <li key={index}>
+                                                                <Link to={`/licensing-services/${service}`}>
+                                                                    {service === 'Brokerage_Forex' ? 'Brokerage/Forex' : service.replace(/_/g, ' ')}
+                                                                </Link>
+                                                            </li>
                                                         ))}
                                                     </ul>
                                                 </li>
