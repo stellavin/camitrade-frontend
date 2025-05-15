@@ -66,8 +66,10 @@ useEffect(() => {
   }
 }, [serviceId, location.search]);
 
-const handleClick = (index) => {
+const handleClick = (index, service) => {
+  console.log('new ------ service', service);
   setActiveService(index);
+  // const newUrl = `/corporate-services/${id}?serviceIndex=${index}`;
   const newUrl = `/corporate-services/${id}?serviceIndex=${index}`;
   navigate(newUrl);
 };
@@ -106,7 +108,7 @@ const currentServices = normalizedServices[serviceId] || [];
                   <ServiceCard
                     key={index}
                     service={service.Service}
-                    onClick={() => handleClick(index)}
+                    onClick={() => handleClick(index, service)}
                     showDetails={activeService === index}
                   />
                 ))}

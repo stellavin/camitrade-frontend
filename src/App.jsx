@@ -29,9 +29,6 @@ const Blog = React.lazy(() => import('./pages/Blog'));
 const Contact = React.lazy(() => import('./pages/Contact'));
 const Services2 = React.lazy(() => import('./pages/Services2'));
 const ServiceDetails = React.lazy(() => import('./pages/ServiceDetails'));
-const ProjectDetails = React.lazy(() => import('./pages/ProjectDetails'));
-const Teams = React.lazy(() => import('./pages/Teams'));
-const TeamDetails = React.lazy(() => import('./pages/TeamDetails'));
 const BlogDetails = React.lazy(() => import('./pages/BlogDetails'));
 const BlogGrid = React.lazy(() => import('./pages/BlogGrid'));
 const ErrorPage = React.lazy(() => import('./pages/ErrorPage'));
@@ -74,6 +71,7 @@ function App() {
               <Route path="/offers" element={<Offers />} />
               <Route path="/jurisdictions" element={<Jurisdictions />} />
               <Route path="/payments" element={<Payments />} />
+              <Route path="/contact" element={<Contact />} />
               <Route path="*" element={<ErrorPage />} />
             </Routes>
           </Suspense>

@@ -68,7 +68,7 @@ useEffect(() => {
 
 const handleClick = (index) => {
   setActiveService(index);
-  const newUrl = `/corporate-services/${id}?serviceIndex=${index}`;
+  const newUrl = `/licensing-services/${id}?serviceIndex=${index}`;
   navigate(newUrl);
 };
 
@@ -76,9 +76,9 @@ const handleClick = (index) => {
 const currentServices = normalizedServices[serviceId] || [];
 
   const isMobile = window.innerWidth <= 768;
-  const shareUrl = `${window.location.origin}/corporate-services/${id}`;
+  const shareUrl = `${window.location.origin}/licensing-services/${id}`;
 
-  console.log('corporate services:');
+  console.log('licensing services:');
 
   return (
     <section className="why-choose-us-sec te-pt-70 te-pb-50 te-md-pt-60 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
