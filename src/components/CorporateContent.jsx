@@ -28,59 +28,98 @@ const ServiceCard = ({ service, onClick, showDetails }) => {
 };
 
 const CorporateContent = ({ handleSetName }) => {
-  const { id } = useParams(); // Get the ID from the URL path
+  const { id } = useParams();
   const services = servicesData.CorporateServices;
   const location = useLocation();
   const navigate = useNavigate();
-  console.log('new id', id);
-  
-// Ensure consistent formatting for serviceId
-const serviceId = id
-    ?.replace(/-/g, '_') // Replace hyphens with underscores
-    ?.replace(/\([^)]*\)/g, '') // Remove parentheses and their contents
-    ?.replace(/\s+/g, '_') // Replace spaces with underscores
-    ?.replace(/_+/g, '_') // Remove duplicate underscores
-    ?.toLocaleLowerCase(); // Convert to lowercase
-
   const [activeService, setActiveService] = useState(0);
+  const [currentServices, setCurrentServices] = useState([]);
+  const [currentService, setCurrentService] = useState(null);
+  const [currentCategory, setCurrentCategory] = useState(null);
 
-  console.log('Raw Service ID:', id);
-  console.log('Processed Service ID:', serviceId);
-  console.log('Available Services:', Object.keys(services));
-  console.log('Current Service Data:', services[serviceId]);
+  // Ensure consistent formatting for serviceId
+  const serviceId = id
+    ?.replace(/-/g, '_')
+    ?.replace(/\([^)]*\)/g, '')
+    ?.replace(/\s+/g, '_')
+    ?.replace(/_+/g, '_')
+    ?.toLocaleLowerCase();
 
- // Ensure the serviceId matches the keys in the services object
-const normalizedServices = Object.keys(services).reduce((acc, key) => {
-  acc[key.toLowerCase()] = services[key];
-  return acc;
-}, {});
+  // Normalize services
+  const normalizedServices = Object.keys(services).reduce((acc, key) => {
+    acc[key.toLowerCase()] = services[key];
+    return acc;
+  }, {});
 
-console.log('Normalized Services:', normalizedServices);
-console.log('Current Service Data:', normalizedServices[serviceId]);
-
-useEffect(() => {
-  if (serviceId && normalizedServices[serviceId]) {
-      handleSetName(serviceId);
-      const serviceIndex = parseInt(location.search.split('serviceIndex=')[1]) || 0;
-      setActiveService(serviceIndex);
+  // Helper to find a service and its category by id
+  function findServiceAndCategoryById(servicesOrArray, serviceId, id) {
+    if (Array.isArray(servicesOrArray)) {
+      const found = servicesOrArray.find(service => service.id === id);
+      if (found) {
+        return { service: found, category: id };
+      } else {
+        const found = servicesOrArray.find(service => service.id === serviceId);
+        return { service: found, category: id };
+      }
+    } else {
+      for (const [category, serviceList] of Object.entries(servicesOrArray)) {
+        const found = serviceList.find(service => service.id === id);
+        if (found) {
+          return { service: found, category };
+        }
+      }
+      return { service: null, category: null };
+    }
   }
-}, [serviceId, location.search]);
 
-const handleClick = (index, service) => {
-  console.log('new ------ service', service);
-  setActiveService(index);
-  // const newUrl = `/corporate-services/${id}?serviceIndex=${index}`;
-  const newUrl = `/corporate-services/${id}?serviceIndex=${index}`;
-  navigate(newUrl);
-};
+  // Helper to normalize category keys
+  function normalizeKey(key) {
+    return key.replace(/-/g, '_').toLowerCase();
+  }
 
-// Get the current service array
-const currentServices = normalizedServices[serviceId] || [];
+  useEffect(() => {
+    const normalizedCategoryKey = normalizeKey(id);
+
+    if (normalizedServices[serviceId]) {
+      const { service, category } = findServiceAndCategoryById(normalizedServices[serviceId], serviceId, id);
+      setCurrentService(service);
+      setCurrentCategory(5);
+      setCurrentServices(service ? normalizedServices[serviceId] : []);
+    } else {
+      const targetId = serviceId;
+      let foundEntry = null;
+      let foundKey = null;
+      let foundArr = null;
+
+      for (const [key, arr] of Object.entries(normalizedServices)) {
+        if (Array.isArray(arr)) {
+          const index = arr.findIndex(item => item.id === targetId);
+          if (index !== -1) {
+            foundEntry = arr[index];
+            foundKey = key;
+            foundArr = arr;
+            setActiveService(index);
+            break;
+          }
+        }
+      }
+
+      if (foundEntry) {
+        setCurrentCategory(normalizedCategoryKey);
+        setCurrentServices(foundArr);
+        setCurrentService(foundArr[activeService]);
+      }
+    }
+  }, [id, serviceId, normalizedServices, activeService]);
+
+  const handleClick = (index, service) => {
+    setActiveService(index);
+    const newUrl = `/corporate-services/${service.id}`;
+    navigate(newUrl);
+  };
 
   const isMobile = window.innerWidth <= 768;
   const shareUrl = `${window.location.origin}/corporate-services/${id}`;
-
-  console.log('corporate services:');
 
   return (
     <section className="why-choose-us-sec te-pt-70 te-pb-50 te-md-pt-60 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
@@ -90,7 +129,7 @@ const currentServices = normalizedServices[serviceId] || [];
             <div className="mobile-service-select">
               <select
                 value={activeService}
-                onChange={(e) => handleClick(Number(e.target.value))}
+                onChange={(e) => handleClick(Number(e.target.value), currentServices[Number(e.target.value)])}
               >
                 <option value="">Select a service</option>
                 {currentServices.map((service, index) => (
