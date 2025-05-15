@@ -50,7 +50,7 @@ const OffCanvasMenu = () => {
                                             <li>
                                             <Link 
                                                 className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} 
-                                                to={`/corporate?id=${formatServiceId(service?.id)}`}
+                                                to={`/corporate/${formatServiceId(service?.id)}`}
                                             >
                                                 {service.name}
                                             </Link>
