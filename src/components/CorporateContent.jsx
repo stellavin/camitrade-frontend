@@ -32,13 +32,15 @@ const CorporateContent = ({ handleSetName }) => {
   const services = servicesData.CorporateServices;
   const location = useLocation();
   const navigate = useNavigate();
+  console.log('new id', id);
   
-  // Convert the URL parameter to match the services object key format
-  const serviceId = id
-    ?.replace(/-/g, '_')
-    ?.replace(/\([^)]*\)/g, '')  // Remove parentheses and their contents
-    ?.replace(/\s+/g, '_')       // Replace spaces with underscores
-    ?.toUpperCase();
+// Ensure consistent formatting for serviceId
+const serviceId = id
+    ?.replace(/-/g, '_') // Replace hyphens with underscores
+    ?.replace(/\([^)]*\)/g, '') // Remove parentheses and their contents
+    ?.replace(/\s+/g, '_') // Replace spaces with underscores
+    ?.replace(/_+/g, '_') // Remove duplicate underscores
+    ?.toLocaleLowerCase(); // Convert to lowercase
 
   const [activeService, setActiveService] = useState(0);
 
@@ -47,25 +49,36 @@ const CorporateContent = ({ handleSetName }) => {
   console.log('Available Services:', Object.keys(services));
   console.log('Current Service Data:', services[serviceId]);
 
-  useEffect(() => {
-    if (serviceId && services[serviceId]) {
+ // Ensure the serviceId matches the keys in the services object
+const normalizedServices = Object.keys(services).reduce((acc, key) => {
+  acc[key.toLowerCase()] = services[key];
+  return acc;
+}, {});
+
+console.log('Normalized Services:', normalizedServices);
+console.log('Current Service Data:', normalizedServices[serviceId]);
+
+useEffect(() => {
+  if (serviceId && normalizedServices[serviceId]) {
       handleSetName(serviceId);
       const serviceIndex = parseInt(location.search.split('serviceIndex=')[1]) || 0;
       setActiveService(serviceIndex);
-    }
-  }, [serviceId, location.search]);
+  }
+}, [serviceId, location.search]);
 
-  const handleClick = (index) => {
-    setActiveService(index);
-    const newUrl = `/corporate/${id}?serviceIndex=${index}`;
-    navigate(newUrl);
-  };
+const handleClick = (index) => {
+  setActiveService(index);
+  const newUrl = `/corporate/${id}?serviceIndex=${index}`;
+  navigate(newUrl);
+};
 
-  // Get the current service array
-  const currentServices = services[serviceId] || [];
+// Get the current service array
+const currentServices = normalizedServices[serviceId] || [];
 
   const isMobile = window.innerWidth <= 768;
   const shareUrl = `${window.location.origin}/corporate/${id}`;
+
+  console.log('corporate services:');
 
   return (
     <section className="why-choose-us-sec te-pt-70 te-pb-50 te-md-pt-60 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
@@ -129,7 +142,7 @@ const CorporateContent = ({ handleSetName }) => {
             </div>
             <div>
               <ContactForm 
-                heading={'Get in touch'} 
+                heading={'Get in touch with us'} 
                 description={`We're here to help you navigate the process seamlessly. Fill out the form below to get started on your path to success`} 
               />
               <div className="service-content">

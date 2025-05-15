@@ -25299,7 +25299,7 @@ const CorporateServices = {
       id: "Legal-Opinions-of-Distinction",
     },
   ],
-  Virtual_Physical_Office_Services: [
+  Virtual_Physical_Office: [
     {
       Service: "Virtual/Physical Office Services",
       Content: VirtualPhysicalOfficeServicesContent,

@@ -16,11 +16,11 @@ const SingleService = ({ type, service }) => {
                      <div className="service-content">
                          
                          <div className="services-i">
-                                 <h2><Link to={`/corporate/${formatServiceId(service.id)}`} className="serviceTitle">{service.title}</Link></h2>
+                                 <h2><Link to={`/corporate/${formatServiceId(service?.id)}`} className="serviceTitle">{service.title}</Link></h2>
                              </div>
                          <p>{service.intro}</p>
                          <div className="service-button">
-                             <Link to={`/corporate/${formatServiceId(service.id)}`} className='link-hover'>Read More</Link>
+                             <Link to={`/corporate/${formatServiceId(service?.id)}`} className='link-hover'>Read More</Link>
                          </div>
                          
                      </div>
@@ -35,11 +35,11 @@ const SingleService = ({ type, service }) => {
                     <div className="service-content">
                         
                         <div className="services-i">
-                                <h2><Link to={`/licensing-services/${service.id}`} className="serviceTitle">{service.title}</Link></h2>
+                                <h2><Link to={`/licensing-services/${service?.id}`} className="serviceTitle">{service.title}</Link></h2>
                             </div>
                         <p>{service.text}</p>
                         <div className="service-button">
-                            <Link to={`/licensing-services/${service.id}`} className='link-hover'>Read More</Link>
+                            <Link to={`/licensing-services/${service?.id}`} className='link-hover'>Read More</Link>
                         </div>
                     </div>
                 </div>
@@ -53,17 +53,17 @@ const SingleService = ({ type, service }) => {
                     <div className="service-content">
                         
                         <div className="services-i">
-                                <h2>
-                                    <Link to={`/other-services/${id.replace(/_/g, '-')}`} className="serviceTitle">
+                                {/* <h2>
+                                    <Link to={`/other-services/${id?.replace(/_/g, '-')}`} className="serviceTitle">
                                         {serviceTitle}
                                     </Link>
-                                </h2>
+                                </h2> */}
                             </div>
                         <p>{serviceText}</p>
                         <div className="service-button">
-                            <Link to={`/other-services/${id.replace(/_/g, '-')}`} className='link-hover'>
+                            {/* <Link to={`/other-services/${id?.replace(/_/g, '-')}`} className='link-hover'>
                                 {serviceBtn}
-                            </Link>
+                            </Link> */}
                         </div>
                         
                     </div>
