@@ -47,7 +47,7 @@ const MainMenu = () => {
                                                 <li className="active"><Link to="/#">Home</Link></li>
                                                 <li><Link to="/about#">about Us</Link></li>
                                                 <li className="has-children-menu">
-                                                    <Link to="/services/Corporate">Corporate</Link>
+                                                    <Link to="/services/corporate">Corporate</Link>
                                                     <ul>
                                                     {CorporateData.map((service, index)=> (
                                                             <li key={index}>
@@ -60,7 +60,7 @@ const MainMenu = () => {
                                                 </li>
 
                                                 <li className="has-children-menu">
-                                                    <Link to="/services/Licensing">Licensing</Link>
+                                                    <Link to="/services/licensing">Licensing</Link>
                                                     <ul>
                                                     {LicensingDataKeys.map((service, index)=> (
                                                             <li key={index}>

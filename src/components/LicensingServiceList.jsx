@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useCallback } from 'react';
+import React, { useEffect, useState } from 'react';
 import servicesData from '../jsonData/MainServices';
 import { useLocation, useNavigate, useParams } from 'react-router-dom';
 import ContactForm from './ContactForm';
@@ -38,12 +38,14 @@ const LicensingServiceList = ({ handleSetName }) => {
   const [currentCategory, setCurrentCategory] = useState(null);
 
   // Ensure consistent formatting for serviceId
+  console.log('new id', id);
   const serviceId = id
     ?.replace(/-/g, '_')
     ?.replace(/\([^)]*\)/g, '')
     ?.replace(/\s+/g, '_')
     ?.replace(/_+/g, '_')
     ?.toLocaleLowerCase();
+    console.log('serviceId', serviceId);
 
   // Normalize services
   const normalizedServices = Object.keys(services).reduce((acc, key) => {
@@ -52,7 +54,7 @@ const LicensingServiceList = ({ handleSetName }) => {
   }, {});
 
   // Helper to find a service and its category by id
-  const findServiceAndCategoryById = useCallback((servicesOrArray, serviceId, id) => {
+  function findServiceAndCategoryById(servicesOrArray, serviceId, id) {
     if (Array.isArray(servicesOrArray)) {
       const found = servicesOrArray.find(service => service.id === id);
       if (found) {
@@ -70,61 +72,68 @@ const LicensingServiceList = ({ handleSetName }) => {
       }
       return { service: null, category: null };
     }
-  }, []);
+  }
 
   // Helper to normalize category keys
-  const normalizeKey = useCallback((key) => {
+  function normalizeKey(key) {
     return key.replace(/-/g, '_').toLowerCase();
-  }, []);
-
-  // Update service state
-  const updateServiceState = useCallback((services, index, category) => {
-    setCurrentServices(services);
-    setCurrentService(services[index]);
-    setActiveService(index);
-    setCurrentCategory(category);
-  }, []);
+  }
 
   useEffect(() => {
     const normalizedCategoryKey = normalizeKey(id);
+
     if(serviceId){
       handleSetName(serviceId);
     }
 
     if (normalizedServices[serviceId]) {
       const { service, category } = findServiceAndCategoryById(normalizedServices[serviceId], serviceId, id);
-      if (service) {
-        updateServiceState(normalizedServices[serviceId], 0, 5);
-      }
+      setCurrentService(service);
+      setCurrentCategory(5);
+      setCurrentServices(service ? normalizedServices[serviceId] : []);
     } else {
-      const targetId = serviceId;
-      let foundEntry = null;
-      let foundArr = null;
-      let foundIndex = 0;
 
+      const targetId = serviceId;
+      console.log('targetId', targetId);
+      let foundEntry = null;
+      let foundKey = null;
+      let foundArr = null;
+      
+      console.log('Type of normalizedServices:', normalizedServices);
+      
       for (const [key, arr] of Object.entries(normalizedServices)) {
         if (Array.isArray(arr)) {
-          const index = arr.findIndex(item => item.id === targetId);
+          const index = arr.findIndex(item => item.id === targetId || item.id === id);
           if (index !== -1) {
-            foundEntry = arr[index];
-            foundArr = arr;
-            foundIndex = index;
+            foundEntry = arr[index]; // The matching item
+            foundKey = key;          // The key in the original object (e.g., "international_business_company_ibc_formation")
+            foundArr = arr;          // The full array where it was found
+      
+            console.log('index-----', index);
+            setActiveService(index); // Set active service index (assuming this is a React setter)
             break;
           }
         }
       }
+      
+      // Optional: Use foundEntry, foundKey, or foundArr as needed
+      console.log('Found Entry:', foundEntry);
+      console.log('Found Key:', foundKey);
+      console.log('Found Array:', foundArr);
 
       if (foundEntry) {
-        updateServiceState(foundArr, foundIndex, normalizedCategoryKey);
+        setCurrentCategory(normalizedCategoryKey);
+        setCurrentServices(foundArr);
+        setCurrentService(foundArr[activeService]);
       }
     }
-  }, [id, serviceId, normalizedServices, findServiceAndCategoryById, normalizeKey, updateServiceState]);
+  }, [id, serviceId, normalizedServices, activeService]);
 
-  const handleClick = useCallback((index, service) => {
+  const handleClick = (index, service) => {
     setActiveService(index);
     const newUrl = `/licensing-services/${service.id}`;
     navigate(newUrl);
-  }, [navigate]);
+  };
 
   const isMobile = window.innerWidth <= 768;
   const shareUrl = `${window.location.origin}/licensing-services/${id}`;
