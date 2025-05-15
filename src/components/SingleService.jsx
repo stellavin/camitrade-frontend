@@ -46,30 +46,25 @@ const SingleService = ({ type, service }) => {
             </div>
         </Fade>
 
-        ) :(
+        ) : type === 'Other-services' ?(
             <Fade right delay={delay}>
             <div className="col-lg-4 col-md-6 d-lg-flex d-md-flex">
                 <div className="service-item">
                     <div className="service-content">
-                        
-                        <div className="services-i">
-                                {/* <h2>
-                                    <Link to={`/other-services/${id?.replace(/_/g, '-')}`} className="serviceTitle">
-                                        {serviceTitle}
-                                    </Link>
-                                </h2> */}
+                    <div className="services-i">
+                                <h2><Link to={`/other-services/${service?.id}`} className="serviceTitle">{service.title}</Link></h2>
                             </div>
-                        <p>{serviceText}</p>
+                        <p>{service.text}</p>
                         <div className="service-button">
-                            {/* <Link to={`/other-services/${id?.replace(/_/g, '-')}`} className='link-hover'>
-                                {serviceBtn}
-                            </Link> */}
+                            <Link to={`/other-services/${service?.id}`} className='link-hover'>Read More</Link>
                         </div>
                         
                     </div>
                 </div>
             </div>
         </Fade>
+        ): (
+            <></>
         )
         }
         </>

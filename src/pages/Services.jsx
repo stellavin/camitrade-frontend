@@ -10,7 +10,7 @@ const Services = () => {
     const [Newname, setName]=useState('Service');
 
     useEffect(()=> {
-        if (name == 'Other_services') {
+        if (name == 'Other-services') {
             setName('Other Services');
         }
         if (name == 'Corporate') {

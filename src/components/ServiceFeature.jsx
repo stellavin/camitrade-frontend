@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import FeatureData from '../jsonData/ServiceMainData.json'
 import SingleService from './SingleService';
 import AllCorporateData from '../jsonData/CorporateMainData.json';
 import { useLocation, useParams } from 'react-router-dom';
 import LicenseData from '../jsonData/licensingData.json'
+import OtherServicesData from '../jsonData/OtherServicesData.json'
 
 const ServiceFeature = ({setServiceName}) => {
     console.log('here ==========');
@@ -52,10 +52,10 @@ const ServiceFeature = ({setServiceName}) => {
                     )
                    }
                    {
-                    (serviceId === 'Other-services' || serviceId === 'Other_services') && (
+                    (serviceId === 'Other-services') && (
                         <div className="row">
-                            {FeatureData.map(service =>
-                                <SingleService type="Other_services" service={service} key={service.id} />
+                            {OtherServicesData.map(service =>
+                                <SingleService type="Other-services" service={service} key={service.id} />
                             )}
                         </div>
                     )

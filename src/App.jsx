@@ -61,33 +61,19 @@ function App() {
           <Suspense fallback={<PreLoader />}>
             <Routes>
               <Route path="/" element={<Home />} />
-              <Route path="/payments" element={<Payments />} />
-              <Route path="/jurisdictions" element={<Jurisdictions />} />
               <Route path="/about" element={<About />} />
               <Route path="/services" element={<Services />} />
               <Route path="/services/Corporate" element={<Services />} />
               <Route path="/services/:id" element={<Services />} />
               <Route path="/corporate-services" element={<Corporate />} />
               <Route path="/corporate-services/:id" element={<Corporate />} />
-              <Route path="/other-services" element={<OtherServicesPage />} />
-              <Route path="/other-services/:id" element={<OtherServicesPage />} />
               <Route path="/licensing-services" element={<LicensingServices />} />
               <Route path="/licensing-services/:id" element={<LicensingServices />} />
-              <Route path="/offers" element={<Offers />} />
-
-              <Route path="/services-2" element={<Services2 />} />
-              <Route path="/service-details" element={<ServiceDetails />} />
-              <Route path="/project-details" element={<ProjectDetails />} />
-              <Route path="/page" element={<About />} />
-              <Route path="/team" element={<Teams />} />
-              <Route path="/team-details" element={<TeamDetails />} />
-              <Route path="/blog" element={<Blog />} />
-              <Route path="/blog-grid" element={<BlogGrid />} />
-              <Route path="/blog-details" element={<BlogDetails />} />
-              <Route path="/contact" element={<Contact />} />
-              <Route path="/preloader" element={<PreLoader />} />
-              <Route path="/licensing-services/:id" element={<LicensingServices />} />
+              <Route path="/other-services" element={<OtherServicesPage />} />
               <Route path="/other-services/:id" element={<OtherServicesPage />} />
+              <Route path="/offers" element={<Offers />} />
+              <Route path="/jurisdictions" element={<Jurisdictions />} />
+              <Route path="/payments" element={<Payments />} />
               <Route path="*" element={<ErrorPage />} />
             </Routes>
           </Suspense>
