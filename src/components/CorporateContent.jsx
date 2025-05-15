@@ -80,6 +80,10 @@ const CorporateContent = ({ handleSetName }) => {
   useEffect(() => {
     const normalizedCategoryKey = normalizeKey(id);
 
+    if(serviceId){
+      handleSetName(serviceId);
+    }
+
     if (normalizedServices[serviceId]) {
       const { service, category } = findServiceAndCategoryById(normalizedServices[serviceId], serviceId, id);
       setCurrentService(service);
