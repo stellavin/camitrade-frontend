@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useCallback } from 'react';
 import servicesData from '../jsonData/MainServices';
 import { useLocation, useNavigate, useParams } from 'react-router-dom';
 import ContactForm from './ContactForm';
@@ -28,57 +28,103 @@ const ServiceCard = ({ service, onClick, showDetails }) => {
 };
 
 const LicensingServiceList = ({ handleSetName }) => {
-  const { id } = useParams(); // Get the ID from the URL path
+  const { id } = useParams();
   const services = servicesData.LicensingServices;
   const location = useLocation();
   const navigate = useNavigate();
-  console.log('new id', id);
-  
-// Ensure consistent formatting for serviceId
-const serviceId = id
-    ?.replace(/-/g, '_') // Replace hyphens with underscores
-    ?.replace(/\([^)]*\)/g, '') // Remove parentheses and their contents
-    ?.replace(/\s+/g, '_') // Replace spaces with underscores
-    ?.replace(/_+/g, '_') // Remove duplicate underscores
-    ?.toLocaleLowerCase(); // Convert to lowercase
-
   const [activeService, setActiveService] = useState(0);
+  const [currentServices, setCurrentServices] = useState([]);
+  const [currentService, setCurrentService] = useState(null);
+  const [currentCategory, setCurrentCategory] = useState(null);
 
-  console.log('Raw Service ID:', id);
-  console.log('Processed Service ID:', serviceId);
-  console.log('Available Services:', Object.keys(services));
-  console.log('Current Service Data:', services[serviceId]);
+  // Ensure consistent formatting for serviceId
+  const serviceId = id
+    ?.replace(/-/g, '_')
+    ?.replace(/\([^)]*\)/g, '')
+    ?.replace(/\s+/g, '_')
+    ?.replace(/_+/g, '_')
+    ?.toLocaleLowerCase();
 
- // Ensure the serviceId matches the keys in the services object
-const normalizedServices = Object.keys(services).reduce((acc, key) => {
-  acc[key.toLowerCase()] = services[key];
-  return acc;
-}, {});
+  // Normalize services
+  const normalizedServices = Object.keys(services).reduce((acc, key) => {
+    acc[key.toLowerCase()] = services[key];
+    return acc;
+  }, {});
 
-console.log('Normalized Services:', normalizedServices);
-console.log('Current Service Data:', normalizedServices[serviceId]);
+  // Helper to find a service and its category by id
+  const findServiceAndCategoryById = useCallback((servicesOrArray, serviceId, id) => {
+    if (Array.isArray(servicesOrArray)) {
+      const found = servicesOrArray.find(service => service.id === id);
+      if (found) {
+        return { service: found, category: id };
+      } else {
+        const found = servicesOrArray.find(service => service.id === serviceId);
+        return { service: found, category: id };
+      }
+    } else {
+      for (const [category, serviceList] of Object.entries(servicesOrArray)) {
+        const found = serviceList.find(service => service.id === id);
+        if (found) {
+          return { service: found, category };
+        }
+      }
+      return { service: null, category: null };
+    }
+  }, []);
 
-useEffect(() => {
-  if (serviceId && normalizedServices[serviceId]) {
-      handleSetName(serviceId);
-      const serviceIndex = parseInt(location.search.split('serviceIndex=')[1]) || 0;
-      setActiveService(serviceIndex);
-  }
-}, [serviceId, location.search]);
+  // Helper to normalize category keys
+  const normalizeKey = useCallback((key) => {
+    return key.replace(/-/g, '_').toLowerCase();
+  }, []);
 
-const handleClick = (index) => {
-  setActiveService(index);
-  const newUrl = `/licensing-services/${id}?serviceIndex=${index}`;
-  navigate(newUrl);
-};
+  // Update service state
+  const updateServiceState = useCallback((services, index, category) => {
+    setCurrentServices(services);
+    setCurrentService(services[index]);
+    setActiveService(index);
+    setCurrentCategory(category);
+  }, []);
 
-// Get the current service array
-const currentServices = normalizedServices[serviceId] || [];
+  useEffect(() => {
+    const normalizedCategoryKey = normalizeKey(id);
+
+    if (normalizedServices[serviceId]) {
+      const { service, category } = findServiceAndCategoryById(normalizedServices[serviceId], serviceId, id);
+      if (service) {
+        updateServiceState(normalizedServices[serviceId], 0, 5);
+      }
+    } else {
+      const targetId = serviceId;
+      let foundEntry = null;
+      let foundArr = null;
+      let foundIndex = 0;
+
+      for (const [key, arr] of Object.entries(normalizedServices)) {
+        if (Array.isArray(arr)) {
+          const index = arr.findIndex(item => item.id === targetId);
+          if (index !== -1) {
+            foundEntry = arr[index];
+            foundArr = arr;
+            foundIndex = index;
+            break;
+          }
+        }
+      }
+
+      if (foundEntry) {
+        updateServiceState(foundArr, foundIndex, normalizedCategoryKey);
+      }
+    }
+  }, [id, serviceId, normalizedServices, findServiceAndCategoryById, normalizeKey, updateServiceState]);
+
+  const handleClick = useCallback((index, service) => {
+    setActiveService(index);
+    const newUrl = `/licensing-services/${service.id}`;
+    navigate(newUrl);
+  }, [navigate]);
 
   const isMobile = window.innerWidth <= 768;
   const shareUrl = `${window.location.origin}/licensing-services/${id}`;
-
-  console.log('licensing services:');
 
   return (
     <section className="why-choose-us-sec te-pt-70 te-pb-50 te-md-pt-60 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
@@ -88,7 +134,7 @@ const currentServices = normalizedServices[serviceId] || [];
             <div className="mobile-service-select">
               <select
                 value={activeService}
-                onChange={(e) => handleClick(Number(e.target.value))}
+                onChange={(e) => handleClick(Number(e.target.value), currentServices[Number(e.target.value)])}
               >
                 <option value="">Select a service</option>
                 {currentServices.map((service, index) => (
@@ -106,7 +152,7 @@ const currentServices = normalizedServices[serviceId] || [];
                   <ServiceCard
                     key={index}
                     service={service.Service}
-                    onClick={() => handleClick(index)}
+                    onClick={() => handleClick(index, service)}
                     showDetails={activeService === index}
                   />
                 ))}
