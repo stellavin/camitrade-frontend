@@ -51,7 +51,7 @@ const MainMenu = () => {
                                                     <ul>
                                                     {CorporateData.map((service, index)=> (
                                                             <li key={index}>
-                                                                <Link to={`/corporate/${formatServiceId(service)}`}>
+                                                                <Link to={`/corporate-services/${formatServiceId(service)}`}>
                                                                     {service.replace(/_/g, ' ')}
                                                                 </Link>
                                                             </li>
@@ -64,11 +64,18 @@ const MainMenu = () => {
                                                     <ul>
                                                     {LicensingDataKeys.map((service, index)=> (
                                                             <li key={index}>
+                                                                <Link to={`/licensing-services/${formatServiceId(service)}`}>
+                                                                    {service.replace(/_/g, ' ')}
+                                                                </Link>
+                                                            </li>
+                                                        ))}
+                                                    {/* {LicensingDataKeys.map((service, index)=> (
+                                                            <li key={index}>
                                                                 <Link to={`/licensing-services/${service}`}>
                                                                     {service === 'Brokerage_Forex' ? 'Brokerage/Forex' : service.replace(/_/g, ' ')}
                                                                 </Link>
                                                             </li>
-                                                        ))}
+                                                        ))} */}
                                                     </ul>
                                                 </li>
                                                 <li className="has-children-menu">

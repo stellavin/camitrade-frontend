@@ -16,11 +16,11 @@ const SingleService = ({ type, service }) => {
                      <div className="service-content">
                          
                          <div className="services-i">
-                                 <h2><Link to={`/corporate/${formatServiceId(service?.id)}`} className="serviceTitle">{service.title}</Link></h2>
+                                 <h2><Link to={`/corporate-services/${formatServiceId(service?.id)}`} className="serviceTitle">{service.title}</Link></h2>
                              </div>
                          <p>{service.intro}</p>
                          <div className="service-button">
-                             <Link to={`/corporate/${formatServiceId(service?.id)}`} className='link-hover'>Read More</Link>
+                             <Link to={`/corporate-services/${formatServiceId(service?.id)}`} className='link-hover'>Read More</Link>
                          </div>
                          
                      </div>

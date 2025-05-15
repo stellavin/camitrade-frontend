@@ -68,7 +68,7 @@ useEffect(() => {
 
 const handleClick = (index) => {
   setActiveService(index);
-  const newUrl = `/corporate/${id}?serviceIndex=${index}`;
+  const newUrl = `/corporate-services/${id}?serviceIndex=${index}`;
   navigate(newUrl);
 };
 
@@ -76,7 +76,7 @@ const handleClick = (index) => {
 const currentServices = normalizedServices[serviceId] || [];
 
   const isMobile = window.innerWidth <= 768;
-  const shareUrl = `${window.location.origin}/corporate/${id}`;
+  const shareUrl = `${window.location.origin}/corporate-services/${id}`;
 
   console.log('corporate services:');
 

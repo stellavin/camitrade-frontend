@@ -67,10 +67,12 @@ function App() {
               <Route path="/services" element={<Services />} />
               <Route path="/services/Corporate" element={<Services />} />
               <Route path="/services/:id" element={<Services />} />
-              <Route path="/corporate" element={<Corporate />} />
-              <Route path="/corporate/:id" element={<Corporate />} />
+              <Route path="/corporate-services" element={<Corporate />} />
+              <Route path="/corporate-services/:id" element={<Corporate />} />
               <Route path="/other-services" element={<OtherServicesPage />} />
+              <Route path="/other-services/:id" element={<OtherServicesPage />} />
               <Route path="/licensing-services" element={<LicensingServices />} />
+              <Route path="/licensing-services/:id" element={<LicensingServices />} />
               <Route path="/offers" element={<Offers />} />
 
               <Route path="/services-2" element={<Services2 />} />

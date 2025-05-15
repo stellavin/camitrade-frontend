@@ -23843,7 +23843,7 @@ const mutualFund40 = (
 
 
 const LicensingServices = {
-  Brokerage_Forex: [{
+  Forex_Brokerage_licences: [{
     Service: "Czech Republic Bureaux De Change",
     Content: CzechRepublicBureauxDeChangeHTML,
   },
@@ -24052,7 +24052,7 @@ const LicensingServices = {
     Content: Brokarage28,
   },
 ],
-  Gaming_and_gambling: [
+  Gaming_and_gambling_licences: [
     {
       Service: "Malta Gaming License",
       Content: MaltaGamingLicenseHTML,
@@ -24184,7 +24184,7 @@ const LicensingServices = {
       Content: Payment_services_provider_licenses_23,
     },
   ],
-  Investment_Funds: [
+  Investment_Funds_licenses: [
     {
       Service: "Anguilla Professional Fund license",
       Content: mutualFund1,
@@ -24346,7 +24346,7 @@ const LicensingServices = {
       Content: mutualFund40,
     },
   ],
-  Insurance: [
+  Insurance_licenses: [
     {
       Service: "Insurance Companies and Intermediaries in the Czech Republic",
       Content: CzechRepublicInsurance_HTML,
@@ -24428,7 +24428,7 @@ const LicensingServices = {
       Content: UKGeneralInsurers_HTML,
     }
   ],
-  Banking: [
+  Banking_licenses: [
     {
       Service: "United Kingdom Banking License",
       Content: UKBankingLicenseHTML,
@@ -24498,7 +24498,7 @@ const LicensingServices = {
     }
   ],
   
-  Cryptocurrency_and_digital_assets: [
+  Cryptocurrency_and_digital_assets_licenses: [
     {
       Service: "Latvia Innovation and Fintech",
       Content: LatviaInnovationAndFintech_HTML,
@@ -24521,10 +24521,10 @@ const LicensingServices = {
       Content: SwitzerlandFintech_HTML,
     }
   ],
-  Outsourcing_Compliance_Officers: [],
-  Nominee_Dealers_Authorized_Representatives: [],
+  Outsourcing_Compliance_Officers_licenses: [],
+  Nominee_Dealers_Authorized_Representatives_licenses: [],
   Post_Licensing_Support: [],
-  Assistance_On_Professional_Indemnity: [],
+  Assistance_On_Professional_Indemnity_licences: [],
 }
 const OtherServices = {
       
