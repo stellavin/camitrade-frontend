@@ -79,7 +79,7 @@ const MainMenu = () => {
                                                     </ul>
                                                 </li>
                                                 <li className="has-children-menu">
-                                                    <Link to="/services/Other-services">Other services</Link>
+                                                    <Link to="/services/other-services">Other services</Link>
                                                     <ul>
                                                         {OtherServicesKeys?.map((service, index)=> (
                                                             <li key={index}>

@@ -28,44 +28,44 @@ const ServiceFeature = ({setServiceName}) => {
                         <div className="col-lg-6 offset-lg-3 text-center">
                             <div className="sec-title">
                             {
-                            serviceId === 'Other-services' && (
+                            serviceId === 'other-services' && (
                                 <h1>Our Other Services</h1>
                             )}
                              {
-                            serviceId === 'Licensing' && (
+                            serviceId === 'licensing' && (
                                 <h1>Our Licensing Services</h1>
                             )}
                              {
-                            serviceId === 'Corporate' && (
+                            serviceId === 'corporate' && (
                                 <h1>Our Corporate Services</h1>
                             )}   
                             </div>
                         </div>
                     </div>
                     {
-                    serviceId === 'Licensing' && (
+                    serviceId === 'licensing' && (
                         <div className="row">
                             {LicenseData.map(service =>
-                                <SingleService  type="Licensing" service={service} key={service.id} />
+                                <SingleService  type="licensing" service={service} key={service.id} />
                             )}
                         </div>
                     )
                    }
                    {
-                    (serviceId === 'Other-services') && (
+                    (serviceId === 'other-services') && (
                         <div className="row">
                             {OtherServicesData.map(service =>
-                                <SingleService type="Other-services" service={service} key={service.id} />
+                                <SingleService type="other-services" service={service} key={service.id} />
                             )}
                         </div>
                     )
                    }
 
                    {
-                    serviceId === 'Corporate' && (
+                    serviceId === 'corporate' && (
                         <div className="row">
                             {AllCorporateData.map(service =>
-                                <SingleService type="Corporate" service={service} key={service.id} />
+                                <SingleService type="corporate" service={service} key={service.id} />
                             )}
                         </div>
                     )

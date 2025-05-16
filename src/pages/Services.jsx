@@ -10,14 +10,14 @@ const Services = () => {
     const [Newname, setName]=useState('Service');
 
     useEffect(()=> {
-        if (name == 'Other-services') {
+        if (name == 'other-services') {
             setName('Other Services');
         }
-        if (name == 'Corporate') {
+        if (name == 'corporate') {
             setName('Corporate Services');
         }
 
-        if (name == 'Licensing') {
+        if (name == 'licensing') {
             setName('Licensing Services');
         }
     },[name])

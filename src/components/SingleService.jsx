@@ -9,7 +9,7 @@ const SingleService = ({ type, service }) => {
 
     return (
         <>
-        { type === 'Corporate' ? (
+        { type === 'corporate' ? (
              <Fade right delay={delay}>
              <div className="col-lg-4 col-md-6 d-lg-flex d-md-flex">
                  <div className="service-item">
@@ -28,7 +28,7 @@ const SingleService = ({ type, service }) => {
              </div>
          </Fade>
 
-        ) : type === 'Licensing' ? (
+        ) : type === 'licensing' ? (
             <Fade right delay={delay}>
             <div className="col-lg-4 col-md-6 d-lg-flex d-md-flex">
                 <div className="service-item">
@@ -46,7 +46,7 @@ const SingleService = ({ type, service }) => {
             </div>
         </Fade>
 
-        ) : type === 'Other-services' ?(
+        ) : type === 'other-services' ?(
             <Fade right delay={delay}>
             <div className="col-lg-4 col-md-6 d-lg-flex d-md-flex">
                 <div className="service-item">
