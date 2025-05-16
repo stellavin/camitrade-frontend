@@ -1,0 +1,1 @@
+import{u as e,j as o,H as c}from"./index-df2686c0.js";const l=({title:t,description:a})=>{const n=e(),s=`${`${window.location.protocol}//${window.location.host}`}${n.pathname}${n.search}`;return o.jsxs(c,{children:[o.jsx("title",{children:t}),o.jsx("meta",{name:"description",content:a}),o.jsx("link",{rel:"canonical",href:s})]})};export{l as C};
