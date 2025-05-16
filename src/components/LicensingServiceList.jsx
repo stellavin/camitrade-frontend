@@ -127,7 +127,7 @@ const LicensingServiceList = ({ handleSetName }) => {
         setCurrentService(foundArr[activeService]);
       }
     }
-  }, [id, serviceId, normalizedServices, activeService]);
+  }, [id, serviceId]);
 
   const handleClick = (index, service) => {
     setActiveService(index);
