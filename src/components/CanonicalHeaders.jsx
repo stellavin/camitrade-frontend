@@ -5,10 +5,10 @@ import { useLocation } from 'react-router-dom';
 const CanonicalHeaders = ({title, description}) => {
 
     const location = useLocation();
-    let canonicalUrl = `https://www.camitrade.com${location.pathname}`;
+    let canonicalUrl = `https://camitrade.com${location.pathname}`;
 
     if(location.search) {
-        canonicalUrl = `https://www.camitrade.com${location.pathname}${location.search}`;
+        canonicalUrl = `https://camitrade.com${location.pathname}${location.search}`;
     } 
 
     return (
