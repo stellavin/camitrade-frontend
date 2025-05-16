@@ -29,9 +29,6 @@ const Blog = React.lazy(() => import('./pages/Blog'));
 const Contact = React.lazy(() => import('./pages/Contact'));
 const Services2 = React.lazy(() => import('./pages/Services2'));
 const ServiceDetails = React.lazy(() => import('./pages/ServiceDetails'));
-const ProjectDetails = React.lazy(() => import('./pages/ProjectDetails'));
-const Teams = React.lazy(() => import('./pages/Teams'));
-const TeamDetails = React.lazy(() => import('./pages/TeamDetails'));
 const BlogDetails = React.lazy(() => import('./pages/BlogDetails'));
 const BlogGrid = React.lazy(() => import('./pages/BlogGrid'));
 const ErrorPage = React.lazy(() => import('./pages/ErrorPage'));
@@ -61,26 +58,20 @@ function App() {
           <Suspense fallback={<PreLoader />}>
             <Routes>
               <Route path="/" element={<Home />} />
-              <Route path="/payments" element={<Payments />} />
-              <Route path="/jurisdictions" element={<Jurisdictions />} />
               <Route path="/about" element={<About />} />
               <Route path="/services" element={<Services />} />
-              <Route path="/corporate" element={<Corporate />} />
-              <Route path="/other-services" element={<OtherServicesPage />} />
+              <Route path="/services/Corporate" element={<Services />} />
+              <Route path="/services/:id" element={<Services />} />
+              <Route path="/corporate-services" element={<Corporate />} />
+              <Route path="/corporate-services/:id" element={<Corporate />} />
               <Route path="/licensing-services" element={<LicensingServices />} />
+              <Route path="/licensing-services/:id" element={<LicensingServices />} />
+              <Route path="/other-services" element={<OtherServicesPage />} />
+              <Route path="/other-services/:id" element={<OtherServicesPage />} />
               <Route path="/offers" element={<Offers />} />
-
-              <Route path="/services-2" element={<Services2 />} />
-              <Route path="/service-details" element={<ServiceDetails />} />
-              <Route path="/project-details" element={<ProjectDetails />} />
-              <Route path="/page" element={<About />} />
-              <Route path="/team" element={<Teams />} />
-              <Route path="/team-details" element={<TeamDetails />} />
-              <Route path="/blog" element={<Blog />} />
-              <Route path="/blog-grid" element={<BlogGrid />} />
-              <Route path="/blog-details" element={<BlogDetails />} />
+              <Route path="/jurisdictions" element={<Jurisdictions />} />
+              <Route path="/payments" element={<Payments />} />
               <Route path="/contact" element={<Contact />} />
-              <Route path="/preloader" element={<PreLoader />} />
               <Route path="*" element={<ErrorPage />} />
             </Routes>
           </Suspense>

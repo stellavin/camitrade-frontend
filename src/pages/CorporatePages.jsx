@@ -7,7 +7,7 @@ import CorporateContent from '../components/CorporateContent';
 import CanonicalHeaders from '../components/CanonicalHeaders';
 
 const CorporateServices = () => {
-    const [serviceName, setServiceName]=useState('Licensing Services');
+    const [serviceName, setServiceName]=useState('Corporate Services');
     return (
         <>
             <CanonicalHeaders

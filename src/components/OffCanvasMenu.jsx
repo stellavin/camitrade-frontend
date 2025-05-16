@@ -4,6 +4,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 import logo from '/img/logo/logo.png'
 import CorporateData from '../jsonData/corporateData.json'
 import LicensingData from '../jsonData/licensingData.json'
+import OtherServiceData from '../jsonData/OtherServicesData.json'
 import OffersData from '../jsonData/offersData.json'
 import OtherServices from '../jsonData/MainServices';
 import { formatServiceId } from '../utils/urlTransform';
@@ -50,7 +51,7 @@ const OffCanvasMenu = () => {
                                             <li>
                                             <Link 
                                                 className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} 
-                                                to={`/corporate?id=${formatServiceId(service?.id)}`}
+                                                to={`/corporate-services/${formatServiceId(service?.id)}`}
                                             >
                                                 {service.name}
                                             </Link>
@@ -60,16 +61,25 @@ const OffCanvasMenu = () => {
                                         </ul>
                                     </li>
                                     <li className="nav-item dropdown">
-                                        <Link className="nav-link dropdown-toggle" to="/services#" role="button" data-bs-toggle="dropdown" aria-expanded="false" onClick={() => setIconToggle2(!iconToggle2)}>
+                                        <Link className="nav-link dropdown-toggle" to="/services/Licensing" role="button" data-bs-toggle="dropdown" aria-expanded="false" onClick={() => setIconToggle2(!iconToggle2)}>
                                         Licensing
                                             {iconToggle2 ? <i className="icofont-plus"></i> : <i className="icofont-minus"></i>}
                                         </Link>
                                         <ul className="dropdown-menu">
-                                        {LicensingDataKeys.map((service)=> (
-                                            <li>
-                                            <Link className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} to={`/licensing-services?id=${service}`}>{service === 'Brokerage_Forex' ? 'Brokerage/Forex':service.replace(/_/g, ' ')}</Link>
-                                        </li>
-                                        ))}
+                                        {LicensingData.map((service) => {
+                                            console.log('==============',service); // Log the service key
+
+                                            return (
+                                                <li key={service}>
+                                                    <Link 
+                                                        className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} 
+                                                        to={`/licensing-services/${formatServiceId(service?.id)}`}
+                                                    >
+                                                        {service.name}
+                                                    </Link>
+                                                </li>
+                                            );
+                                        })}
                                         </ul>
                                     </li>
                                     <li className="nav-item dropdown">
@@ -78,9 +88,9 @@ const OffCanvasMenu = () => {
                                             {iconToggle2 ? <i className="icofont-plus"></i> : <i className="icofont-minus"></i>}
                                         </Link>
                                         <ul className="dropdown-menu">
-                                        {OtherServicesKeys.map((service)=> (
+                                        {OtherServiceData.map((service)=> (
                                             <li>
-                                            <Link className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} to={`/other-services?id=${service}`}>{service.replace(/_/g, ' ')}</Link>
+                                            <Link className={location.pathname === '/services' ? 'dropdown-item active' : 'dropdown-item'} to={`/other-services/${formatServiceId(service?.id)}`}>{service.name}</Link>
                                         </li>
                                         ))}
                                         </ul>

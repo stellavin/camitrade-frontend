@@ -47,25 +47,46 @@ const MainMenu = () => {
                                                 <li className="active"><Link to="/#">Home</Link></li>
                                                 <li><Link to="/about#">about Us</Link></li>
                                                 <li className="has-children-menu">
-                                                    <Link to="/services?id=Corporate#">Corporate</Link>
+                                                    <Link to="/services/corporate">Corporate</Link>
                                                     <ul>
                                                     {CorporateData.map((service, index)=> (
-                                                            <li key={index}><Link to={`/corporate?id=${formatServiceId(service)}`}>{service.replace(/_/g, ' ')}</Link></li>
+                                                            <li key={index}>
+                                                                <Link to={`/corporate-services/${formatServiceId(service)}`}>
+                                                                    {service.replace(/_/g, ' ')}
+                                                                </Link>
+                                                            </li>
                                                         ))}
                                                     </ul>
                                                 </li>
 
-                                                <li className="has-children-menu"><Link to="/services?id=Licensing#">Licensing</Link>
+                                                <li className="has-children-menu">
+                                                    <Link to="/services/licensing">Licensing</Link>
                                                     <ul>
                                                     {LicensingDataKeys.map((service, index)=> (
-                                                            <li key={index}><Link to={`/licensing-services?id=${service}`}>{service === 'Brokerage_Forex' ? 'Brokerage/Forex':service.replace(/_/g, ' ')}</Link></li>
+                                                            <li key={index}>
+                                                                <Link to={`/licensing-services/${formatServiceId(service)}`}>
+                                                                    {service.replace(/_/g, ' ')}
+                                                                </Link>
+                                                            </li>
                                                         ))}
+                                                    {/* {LicensingDataKeys.map((service, index)=> (
+                                                            <li key={index}>
+                                                                <Link to={`/licensing-services/${service}`}>
+                                                                    {service === 'Brokerage_Forex' ? 'Brokerage/Forex' : service.replace(/_/g, ' ')}
+                                                                </Link>
+                                                            </li>
+                                                        ))} */}
                                                     </ul>
                                                 </li>
-                                                <li className="has-children-menu"><Link to="/services?id=Other_services#">Other services</Link>
+                                                <li className="has-children-menu">
+                                                    <Link to="/services/other-services">Other services</Link>
                                                     <ul>
                                                         {OtherServicesKeys?.map((service, index)=> (
-                                                            <li key={index}><Link to={`/other-services?id=${service}`}>{service.replace(/_/g, ' ')}</Link></li>
+                                                            <li key={index}>
+                                                                <Link to={`/other-services/${service.replace(/_/g, '-')}`}>
+                                                                    {service.replace(/_/g, ' ')}
+                                                                </Link>
+                                                            </li>
                                                         ))}
                                                     </ul>
                                                 </li>

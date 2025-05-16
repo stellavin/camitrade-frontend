@@ -23843,802 +23843,1063 @@ const mutualFund40 = (
 
 
 const LicensingServices = {
-  Brokerage_Forex: [{
-    Service: "Czech Republic Bureaux De Change",
-    Content: CzechRepublicBureauxDeChangeHTML,
-  },
-  {
-    Service: "Czech Republic Investment Firms/Investment Intermediaries",
-    Content: CzechRepublicInvestmentFirmsHTML,
-  },
-  {
-    Service: "Czech Republic OTC Derivatives and Securitization",
-    Content: CzechRepublicOTCDerivativesSecuritizationHTML,
-  },
-  {
-    Service: "Estonia Investment Firms",
-    Content: EstoniaInvestmentFirmsHTML,
-  },
-  {
-    Service: "Estonia Forex Broker License",
-    Content: EstoniaForexBrokerLicenseHTML,
-  },
-  {
-    Service: "Bahamas Securities Dealer License",
-    Content: BahamasSecuritiesDealerLicense_HTML,
-  },
-  {
-    Service: "Georgia Forex License",
-    Content: GeorgiaForexLicenseHTML,
-  },
-  {
-    Service: "Gibraltar Investment Firm",
-    Content: GibraltarInvestmentFirmHTML,
-  },
-  {
-    Service: "Gibraltar Bureaux De Change",
-    Content: GibraltarBureauxDeChangeHTML,
-  },
-  {
-    Service: "Guernsey Non-Regulated Financial Services Business",
-    Content: GuernseyNonRegulatedFinancialServicesBusinessHTML,
-  },
-  {
-    Service: "Isle Of Man Crowdfunding Platforms",
-    Content: IsleOfManCrowdfundingPlatformsHTML,
-  },
-  {
-    Service: "Isle Of Man Special Purpose Vehicles / Insurance Linked Securities",
-    Content: IsleOfManSpecialPurposeVehiclesHTML,
-  },
-  {
-    Service: "Isle of Man Investment Business",
-    Content: IsleOfManInvestmentBusinessHTML,
-  },
-  {
-    Service: "Jersey Investment Business",
-    Content: JerseyInvestmentBusinessHTML,
-  },
-  {
-    Service: "Latvia Financial Instruments Market",
-    Content: LatviaFinancialInstrumentsMarketHTML,
-  },
-  {
-    Service: "Liechtenstein Bank and Investment Firms",
-    Content: LiechtensteinBankAndInvestmentFirmsHTML,
-  },
-  {
-    Service: "Latvia Investment Service Providers",
-    Content: LatviaInvestmentServiceProvidersHTML,
-  },
-  {
-    Service: "Luxembourg Investment Firms",
-    Content: LuxembourgInvestmentFirmsHTML,
-  },
-  {
-    Service: "Malta Financial Institutions",
-    Content: MaltaFinancialInstitutionsHTML,
-  },
-  {
-    Service: "Malta Securities and Markets",
-    Content: MaltaSecuritiesAndMarketsHTML,
-  },
-  {
-    Service: "Netherlands Financial Service Providers",
-    Content: NetherlandsFinancialServiceProvidersHTML,
-  },
-  {
-    Service: "Netherlands Investment Firms",
-    Content: NetherlandsInvestmentFirmsHTML,
-  },
-  {
-    Service: "Switzerland Securities Dealer License",
-    Content: SwitzerlandSecuritiesDealerLicenseHTML,
-  },
-  {
-    Service: "Malta Securitization Vehicle",
-    Content: MaltaSecuritizationVehicleHTML,
-  },
-  {
-    Service: "Australia Financial Services License",
-    Content: Brokarage1,
-  },
-  {
-    Service: "Bahamas Broker Dealer License",
-    Content: Brokarage2,
-  },
-  {
-    Service: "Barbados Investment Dealer License",
-    Content: Brokarage3,
-  },
-  {
-    Service: "Belize Trading in Securities License",
-    Content: Brokarage4,
-  },
-  {
-    Service: "Bermuda Investment Business License",
-    Content: Brokarage5,
-  },
-  {
-    Service: "British Virgin Islands Securities and Investment Business License",
-    Content: Brokarage6,
-  },
-  {
-    Service: "Cayman Islands Securities Investment Business License",
-    Content: Brokarage7,
-  },
-  {
-    Service: "Cyprus Investment Firm License",
-    Content: Brokarage8,
-  },
-  {
-    Service: "Dubai DIFC Category 3A License",
-    Content: Brokarage9,
-  },
-  {
-    Service: "Fiji Foreign Exchange Dealer Licence",
-    Content: Brokarage10,
-  },
-  {
-    Service: "Ghana Broker Dealer License",
-    Content: Brokarage11,
-  },
-  {
-    Service: "Hong Kong Securities and Future License",
-    Content: Brokarage12,
-  },
-  {
-    Service: "Kenya Capital Markets Securities Licenses (Non-Dealing Online Foreign Exchange Broker License)",
-    Content: Brokarage13,
-  },
-  {
-    Service: "Labuan Money Broking License",
-    Content: Brokarage14,
-  },
-  {
-    Service: "Mauritius investment dealer license",
-    Content: Brokarage15,
-  },
-  {
-    Service: "Montserrat Securities Exchange License",
-    Content: Brokarage16,
-  },
-  {
-    Service: "New Zealand Financial Service Providers License",
-    Content: Brokarage17,
-  },
-  {
-    Service: "Panama Broker Dealer House License",
-    Content: Brokarage18,
-  },
-  {
-    Service: "Rwanda Online Forex Exchange Broker",
-    Content: Brokarage19,
-  },
-  {
-    Service: "Samoa Forex Dealer Licence",
-    Content: Brokarage20,
-  },
-  {
-    Service: "Seychelles Securities Dealer Licence",
-    Content: Brokarage21,
-  },
-  {
-    Service: "Singapore Capital Markets Services (CMS) License",
-    Content: Brokarage22,
-  },
-  {
-    Service: "South Africa Financial Service Provider License",
-    Content: Brokarage23,
-  },
-  {
-    Service: "South Africa OTC Derivative License",
-    Content: Brokarage24,
-  },
-  {
-    Service: "St Kitts and Nevis Securities Dealer License",
-    Content: Brokarage25,
-  },
-  {
-    Service: "Tanzania Capital Markets and Securities Authority (CMSA) Dealer License",
-    Content: Brokarage26,
-  },
-  {
-    Service: "Turks and Caicos Investment Dealer License",
-    Content: Brokarage27,
-  },
-  {
-    Service: "Vanuatu Securities Dealer License",
-    Content: Brokarage28,
-  },
-],
-  Gaming_and_gambling: [
+  Forex_Brokerage_licences: [
+    {
+      Service: "Forex Brokerage Licences",
+      Content: CzechRepublicBureauxDeChangeHTML,
+      id: "forex-brokerage-licences"
+    },
+    {
+      Service: "Czech Republic Bureaux De Change",
+      Content: CzechRepublicBureauxDeChangeHTML,
+      id: "czech-republic-bureaux-de-change"
+    },
+    {
+      Service: "Czech Republic Investment Firms/Investment Intermediaries",
+      Content: CzechRepublicInvestmentFirmsHTML,
+      id: "czech-republic-investment-firms-investment-intermediaries"
+    },
+    {
+      Service: "Czech Republic OTC Derivatives and Securitization",
+      Content: CzechRepublicOTCDerivativesSecuritizationHTML,
+      id: "czech-republic-otc-derivatives-and-securitization"
+    },
+    {
+      Service: "Estonia Investment Firms",
+      Content: EstoniaInvestmentFirmsHTML,
+      id: "estonia-investment-firms"
+    },
+    {
+      Service: "Estonia Forex Broker License",
+      Content: EstoniaForexBrokerLicenseHTML,
+      id: "estonia-forex-broker-license"
+    },
+    {
+      Service: "Bahamas Securities Dealer License",
+      Content: BahamasSecuritiesDealerLicense_HTML,
+      id: "bahamas-securities-dealer-license"
+    },
+    {
+      Service: "Georgia Forex License",
+      Content: GeorgiaForexLicenseHTML,
+      id: "georgia-forex-license"
+    },
+    {
+      Service: "Gibraltar Investment Firm",
+      Content: GibraltarInvestmentFirmHTML,
+      id: "gibraltar-investment-firm"
+    },
+    {
+      Service: "Gibraltar Bureaux De Change",
+      Content: GibraltarBureauxDeChangeHTML,
+      id: "gibraltar-bureaux-de-change"
+    },
+    {
+      Service: "Guernsey Non-Regulated Financial Services Business",
+      Content: GuernseyNonRegulatedFinancialServicesBusinessHTML,
+      id: "guernsey-non-regulated-financial-services-business"
+    },
+    {
+      Service: "Isle Of Man Crowdfunding Platforms",
+      Content: IsleOfManCrowdfundingPlatformsHTML,
+      id: "isle-of-man-crowdfunding-platforms"
+    },
+    {
+      Service: "Isle Of Man Special Purpose Vehicles / Insurance Linked Securities",
+      Content: IsleOfManSpecialPurposeVehiclesHTML,
+      id: "isle-of-man-special-purpose-vehicles-insurance-linked-securities"
+    },
+    {
+      Service: "Isle of Man Investment Business",
+      Content: IsleOfManInvestmentBusinessHTML,
+      id: "isle-of-man-investment-business"
+    },
+    {
+      Service: "Jersey Investment Business",
+      Content: JerseyInvestmentBusinessHTML,
+      id: "jersey-investment-business"
+    },
+    {
+      Service: "Latvia Financial Instruments Market",
+      Content: LatviaFinancialInstrumentsMarketHTML,
+      id: "latvia-financial-instruments-market"
+    },
+    {
+      Service: "Liechtenstein Bank and Investment Firms",
+      Content: LiechtensteinBankAndInvestmentFirmsHTML,
+      id: "liechtenstein-bank-and-investment-firms"
+    },
+    {
+      Service: "Latvia Investment Service Providers",
+      Content: LatviaInvestmentServiceProvidersHTML,
+      id: "latvia-investment-service-providers"
+    },
+    {
+      Service: "Luxembourg Investment Firms",
+      Content: LuxembourgInvestmentFirmsHTML,
+      id: "luxembourg-investment-firms"
+    },
+    {
+      Service: "Malta Financial Institutions",
+      Content: MaltaFinancialInstitutionsHTML,
+      id: "malta-financial-institutions"
+    },
+    {
+      Service: "Malta Securities and Markets",
+      Content: MaltaSecuritiesAndMarketsHTML,
+      id: "malta-securities-and-markets"
+    },
+    {
+      Service: "Netherlands Financial Service Providers",
+      Content: NetherlandsFinancialServiceProvidersHTML,
+      id: "netherlands-financial-service-providers"
+    },
+    {
+      Service: "Netherlands Investment Firms",
+      Content: NetherlandsInvestmentFirmsHTML,
+      id: "netherlands-investment-firms"
+    },
+    {
+      Service: "Switzerland Securities Dealer License",
+      Content: SwitzerlandSecuritiesDealerLicenseHTML,
+      id: "switzerland-securities-dealer-license"
+    },
+    {
+      Service: "Malta Securitization Vehicle",
+      Content: MaltaSecuritizationVehicleHTML,
+      id: "malta-securitization-vehicle"
+    },
+    {
+      Service: "Australia Financial Services License",
+      Content: Brokarage1,
+      id: "australia-financial-services-license"
+    },
+    {
+      Service: "Bahamas Broker Dealer License",
+      Content: Brokarage2,
+      id: "bahamas-broker-dealer-license"
+    },
+    {
+      Service: "Barbados Investment Dealer License",
+      Content: Brokarage3,
+      id: "barbados-investment-dealer-license"
+    },
+    {
+      Service: "Belize Trading in Securities License",
+      Content: Brokarage4,
+      id: "belize-trading-in-securities-license"
+    },
+    {
+      Service: "Bermuda Investment Business License",
+      Content: Brokarage5,
+      id: "bermuda-investment-business-license"
+    },
+    {
+      Service: "British Virgin Islands Securities and Investment Business License",
+      Content: Brokarage6,
+      id: "british-virgin-islands-securities-and-investment-business-license"
+    },
+    {
+      Service: "Cayman Islands Securities Investment Business License",
+      Content: Brokarage7,
+      id: "cayman-islands-securities-investment-business-license"
+    },
+    {
+      Service: "Cyprus Investment Firm License",
+      Content: Brokarage8,
+      id: "cyprus-investment-firm-license"
+    },
+    {
+      Service: "Dubai DIFC Category 3A License",
+      Content: Brokarage9,
+      id: "dubai-difc-category-3a-license"
+    },
+    {
+      Service: "Fiji Foreign Exchange Dealer Licence",
+      Content: Brokarage10,
+      id: "fiji-foreign-exchange-dealer-licence"
+    },
+    {
+      Service: "Ghana Broker Dealer License",
+      Content: Brokarage11,
+      id: "ghana-broker-dealer-license"
+    },
+    {
+      Service: "Hong Kong Securities and Future License",
+      Content: Brokarage12,
+      id: "hong-kong-securities-and-future-license"
+    },
+    {
+      Service: "Kenya Capital Markets Securities Licenses (Non-Dealing Online Foreign Exchange Broker License)",
+      Content: Brokarage13,
+      id: "kenya-capital-markets-securities-licenses-non-dealing-online-foreign-exchange-broker-license"
+    },
+    {
+      Service: "Labuan Money Broking License",
+      Content: Brokarage14,
+      id: "labuan-money-broking-license"
+    },
+    {
+      Service: "Mauritius investment dealer license",
+      Content: Brokarage15,
+      id: "mauritius-investment-dealer-license"
+    },
+    {
+      Service: "Montserrat Securities Exchange License",
+      Content: Brokarage16,
+      id: "montserrat-securities-exchange-license"
+    },
+    {
+      Service: "New Zealand Financial Service Providers License",
+      Content: Brokarage17,
+      id: "new-zealand-financial-service-providers-license"
+    },
+    {
+      Service: "Panama Broker Dealer House License",
+      Content: Brokarage18,
+      id: "panama-broker-dealer-house-license"
+    },
+    {
+      Service: "Rwanda Online Forex Exchange Broker",
+      Content: Brokarage19,
+      id: "rwanda-online-forex-exchange-broker"
+    },
+    {
+      Service: "Samoa Forex Dealer Licence",
+      Content: Brokarage20,
+      id: "samoa-forex-dealer-licence"
+    },
+    {
+      Service: "Seychelles Securities Dealer Licence",
+      Content: Brokarage21,
+      id: "seychelles-securities-dealer-licence"
+    },
+    {
+      Service: "Singapore Capital Markets Services (CMS) License",
+      Content: Brokarage22,
+      id: "singapore-capital-markets-services-cms-license"
+    },
+    {
+      Service: "South Africa Financial Service Provider License",
+      Content: Brokarage23,
+      id: "south-africa-financial-service-provider-license"
+    },
+    {
+      Service: "South Africa OTC Derivative License",
+      Content: Brokarage24,
+      id: "south-africa-otc-derivative-license"
+    },
+    {
+      Service: "St Kitts and Nevis Securities Dealer License",
+      Content: Brokarage25,
+      id: "st-kitts-and-nevis-securities-dealer-license"
+    },
+    {
+      Service: "Tanzania Capital Markets and Securities Authority (CMSA) Dealer License",
+      Content: Brokarage26,
+      id: "tanzania-cmsa-dealer-license"
+    },
+    {
+      Service: "Turks and Caicos Investment Dealer License",
+      Content: Brokarage27,
+      id: "turks-and-caicos-investment-dealer-license"
+    },
+    {
+      Service: "Vanuatu Securities Dealer License",
+      Content: Brokarage28,
+      id: "vanuatu-securities-dealer-license"
+    }
+  ],  
+  Gaming_and_gambling_licences: [
+    {
+      Service: "Gaming And Gambling Licences",
+      Content: MaltaGamingLicenseHTML,
+      id: "gaming-and-gambling-licences"
+    },
     {
       Service: "Malta Gaming License",
       Content: MaltaGamingLicenseHTML,
+      id: "malta-gaming-license"
     },
     {
       Service: "Isle of Man Gaming License",
       Content: IsleOfManGamingLicenseHTML,
+      id: "isle-of-man-gaming-license"
     },
     {
       Service: "Anjouan Gaming Licence",
       Content: Anjouan_Gaming_Licence,
+      id: "anjouan-gaming-licence"
     },
     {
       Service: "Isle of Man Gaming Licence",
       Content: Isle_of_Man_Gaming_Licence,
+      id: "isle-of-man-gaming-licence"
     },
     {
       Service: "Kahnawake Gaming Licence",
       Content: Kahnawake_Gaming_Licence,
-    },  {
+      id: "kahnawake-gaming-licence"
+    },
+    {
       Service: "Kenya Gaming Licence",
       Content: Kenya_Gaming_Licence,
+      id: "kenya-gaming-licence"
     },
     {
       Service: "Malta Gaming Licence",
       Content: Malta_Gaming_Licence,
-    },  {
+      id: "malta-gaming-licence"
+    },
+    {
       Service: "Mwali (Comoros) Gaming Licence",
       Content: Mwal_Comoros_Gaming_Licence,
-    },  {
+      id: "mwali-comoros-gaming-licence"
+    },
+    {
       Service: "Nigeria Sports betting and Gaming Licence",
       Content: Nigeria_Sports_betting_and_Gaming_Licence,
-    },  {
+      id: "nigeria-sports-betting-and-gaming-licence"
+    },
+    {
       Service: "Tobique Gaming Licence",
       Content: Tobique_Gaming_Licence,
+      id: "tobique-gaming-licence"
     }
   ],
+  
   Payment_services_provider_licenses: [
+    {
+      Service: "Payment Services Provider Licenses",
+      Content: Payment_services_provider_licenses_1,
+      id: "payment-services-provider-licenses"
+    },
     {
       Service: "Barbados Money or Value Transmission Service (MVT) Providers License",
       Content: Payment_services_provider_licenses_1,
+      id: "barbados-money-or-value-transmission-service-mvt-providers-license"
     },
     {
       Service: "Belize payment service provider license",
       Content: Payment_services_provider_licenses_2,
+      id: "belize-payment-service-provider-license"
     },
     {
       Service: "Bermuda Money Service Business License",
       Content: Payment_services_provider_licenses_3,
+      id: "bermuda-money-service-business-license"
     },
     {
       Service: "BVI Money Service Business License",
       Content: Payment_services_provider_licenses_4,
+      id: "bvi-money-service-business-license"
     },
     {
       Service: "Canada Money Service Business License",
       Content: Payment_services_provider_licenses_5,
+      id: "canada-money-service-business-license"
     },
     {
       Service: "Cayman Islands Money Service Business License",
       Content: Payment_services_provider_licenses_6,
+      id: "cayman-islands-money-service-business-license"
     },
     {
       Service: "Cyprus Payment Institution License",
       Content: Payment_services_provider_licenses_7,
+      id: "cyprus-payment-institution-license"
     },
     {
       Service: "Dubai Payment Service Provider License",
       Content: Payment_services_provider_licenses_8,
+      id: "dubai-payment-service-provider-license"
     },
     {
       Service: "Ghana Payment Service Provider License",
       Content: Payment_services_provider_licenses_9,
+      id: "ghana-payment-service-provider-license"
     },
     {
       Service: "Hong Kong Payment System License",
       Content: Payment_services_provider_licenses_10,
+      id: "hong-kong-payment-system-license"
     },
     {
       Service: "Kenya Payment Service Provider License",
       Content: Payment_services_provider_licenses_11,
+      id: "kenya-payment-service-provider-license"
     },
     {
       Service: "Labuan Money Broking License",
       Content: Payment_services_provider_licenses_12,
+      id: "labuan-money-broking-license"
     },
     {
       Service: "Labuan Payment System Operator License",
       Content: Payment_services_provider_licenses_13,
+      id: "labuan-payment-system-operator-license"
     },
     {
       Service: "Mauritius Payment Intermediary Service License",
       Content: Payment_services_provider_licenses_14,
+      id: "mauritius-payment-intermediary-service-license"
     },
     {
       Service: "Panama EMI License",
       Content: Payment_services_provider_licenses_15,
+      id: "panama-emi-license"
     },
     {
       Service: "Rwanda Payment Service Provider License",
       Content: Payment_services_provider_licenses_16,
+      id: "rwanda-payment-service-provider-license"
     },
     {
       Service: "Seychelles Payment Service Provider License",
       Content: Payment_services_provider_licenses_17,
+      id: "seychelles-payment-service-provider-license"
     },
     {
       Service: "Singapore Payment Service Providers License",
       Content: Payment_services_provider_licenses_18,
+      id: "singapore-payment-service-providers-license"
     },
     {
       Service: "St. Kitts and Nevis Money Service Business License",
       Content: Payment_services_provider_licenses_19,
+      id: "st-kitts-and-nevis-money-service-business-license"
     },
     {
       Service: "Tanzania Payment System Provider License",
       Content: Payment_services_provider_licenses_20,
+      id: "tanzania-payment-system-provider-license"
     },
     {
       Service: "The Bahamas payment service provider license",
       Content: Payment_services_provider_licenses_21,
+      id: "the-bahamas-payment-service-provider-license"
     },
     {
       Service: "Turks and Caicos Money Transmitters License",
       Content: Payment_services_provider_licenses_22,
+      id: "turks-and-caicos-money-transmitters-license"
     },
     {
       Service: "Uganda Payment System License",
       Content: Payment_services_provider_licenses_23,
+      id: "uganda-payment-system-license"
     },
   ],
-  Investment_Funds: [
+  
+  Investment_Funds_licenses: [
+    {
+      Service: "Investment Funds Licenses",
+      Content: mutualFund1,
+      id: "investment-funds-licenses"
+    },
     {
       Service: "Anguilla Professional Fund license",
       Content: mutualFund1,
+      id: "anguilla-professional-fund-license-1"
     },
     {
       Service: "Anguilla Professional Fund license",
       Content: mutualFund2,
+      id: "anguilla-professional-fund-license-2"
     },
     {
       Service: "Anguilla Public Fund license",
       Content: mutualFund3,
+      id: "anguilla-public-fund-license"
     },
     {
       Service: "Belize Private Fund license",
       Content: mutualFund4,
+      id: "belize-private-fund-license"
     },
     {
       Service: "Belize Professional Fund license",
       Content: mutualFund5,
+      id: "belize-professional-fund-license"
     },
     {
       Service: "Belize Public Fund license",
       Content: mutualFund6,
+      id: "belize-public-fund-license"
     },
     {
       Service: "Bermuda Administered Fund License",
       Content: mutualFund7,
+      id: "bermuda-administered-fund-license"
     },
     {
       Service: "Bermuda Institutional Fund License",
       Content: mutualFund8,
+      id: "bermuda-institutional-fund-license"
     },
     {
       Service: "Bermuda Private Fund License",
       Content: mutualFund9,
+      id: "bermuda-private-fund-license"
     },
     {
       Service: "Bermuda Professional Closed Fund License",
       Content: mutualFund10,
+      id: "bermuda-professional-closed-fund-license"
     },
     {
       Service: "Bermuda Standard Fund License",
       Content: mutualFund11,
+      id: "bermuda-standard-fund-license"
     },
     {
       Service: "BVI Approved Funds",
       Content: mutualFund12,
+      id: "bvi-approved-funds"
     },
     {
       Service: "BVI Incubator Fund",
       Content: mutualFund13,
+      id: "bvi-incubator-fund"
     },
     {
       Service: "BVI Private Funds",
       Content: mutualFund14,
+      id: "bvi-private-funds"
     },
     {
       Service: "BVI Professional Fund",
       Content: mutualFund15,
+      id: "bvi-professional-fund"
     },
     {
       Service: "Cayman Islands Administered Fund",
       Content: mutualFund16,
+      id: "cayman-islands-administered-fund"
     },
     {
       Service: "Cayman Islands Licensed Fund",
       Content: mutualFund17,
+      id: "cayman-islands-licensed-fund"
     },
     {
       Service: "Cayman Islands Registered Fund",
       Content: mutualFund18,
+      id: "cayman-islands-registered-fund"
     },
     {
       Service: "Costa Rica Investment Fund license",
       Content: mutualFund19,
+      id: "costa-rica-investment-fund-license"
     },
     {
       Service: "Dubai Qualified Investor Fund (QIF) license",
       Content: mutualFund20,
+      id: "dubai-qualified-investor-fund-qif-license"
     },
     {
       Service: "Labuan Private Fund license",
       Content: mutualFund21,
+      id: "labuan-private-fund-license"
     },
     {
       Service: "Labuan Public Fund license",
       Content: mutualFund22,
+      id: "labuan-public-fund-license"
     },
     {
       Service: "Mauritius Closed End Fund (CEF) License",
       Content: mutualFund23,
+      id: "mauritius-closed-end-fund-cef-license"
     },
     {
       Service: "Mauritius Collective Investment Scheme (CIS) License",
       Content: mutualFund24,
+      id: "mauritius-collective-investment-scheme-cis-license"
     },
     {
       Service: "Mauritius Expert Funds License",
       Content: mutualFund25,
+      id: "mauritius-expert-funds-license"
     },
     {
       Service: "Panama Private Investment Fund (PIF-20 up to 20 investors) or (20-FP)",
       Content: mutualFund26,
+      id: "panama-private-investment-fund-pif-20-or-20-fp"
     },
     {
       Service: "Saint Lucia International Public Fund",
       Content: mutualFund27,
+      id: "saint-lucia-international-public-fund"
     },
     {
       Service: "Saint Lucia International Private Fund",
       Content: mutualFund28,
+      id: "saint-lucia-international-private-fund"
     },
     {
       Service: "Samoa Private Fund license",
       Content: mutualFund29,
+      id: "samoa-private-fund-license"
     },
     {
       Service: "Samoa Professional Fund license",
       Content: mutualFund30,
+      id: "samoa-professional-fund-license"
     },
     {
       Service: "Samoa Public Fund license",
       Content: mutualFund31,
+      id: "samoa-public-fund-license"
     },
     {
       Service: "Seychelles Private Mutual Funds",
       Content: mutualFund32,
+      id: "seychelles-private-mutual-funds"
     },
     {
       Service: "Seychelles Professional Mutual Funds",
       Content: mutualFund33,
+      id: "seychelles-professional-mutual-funds"
     },
     {
       Service: "Seychelles Public Mutual Funds",
       Content: mutualFund34,
+      id: "seychelles-public-mutual-funds"
     },
     {
       Service: "St. Kitts and Nevis Private Fund license",
       Content: mutualFund35,
+      id: "st-kitts-and-nevis-private-fund-license"
     },
     {
       Service: "St. Kitts and Nevis Professional Fund license",
       Content: mutualFund36,
+      id: "st-kitts-and-nevis-professional-fund-license"
     },
     {
       Service: "St. Kitts and Nevis Public Fund license",
       Content: mutualFund37,
+      id: "st-kitts-and-nevis-public-fund-license"
     },
     {
       Service: "St. Vincent Private Fund license",
       Content: mutualFund38,
+      id: "st-vincent-private-fund-license"
     },
     {
       Service: "St. Vincent Public Fund license",
       Content: mutualFund39,
+      id: "st-vincent-public-fund-license"
     },
     {
       Service: "Vanuatu Mutual Funds",
       Content: mutualFund40,
+      id: "vanuatu-mutual-funds"
     },
   ],
-  Insurance: [
+  
+  Insurance_licenses: [
     {
+      id: "insurance-licenses",
+      Service: "Insurance Licenses",
+      Content: CzechRepublicInsurance_HTML,
+    },
+    {
+      id: "insurance-companies-and-intermediaries-czech-republic",
       Service: "Insurance Companies and Intermediaries in the Czech Republic",
       Content: CzechRepublicInsurance_HTML,
     },
-     {
+    {
+      id: "credit-intermediaries-estonia",
       Service: "Credit Intermediaries in Estonia",
       Content: EstoniaCreditIntermediaries_HTML,
     },
     {
+      id: "estonia-insurance-companies",
       Service: "Estonia Insurance Companies",
       Content: EstoniaInsuranceCompanies_HTML,
     },
     {
+      id: "estonia-insurance-intermediaries",
       Service: "Estonia Insurance Intermediaries",
       Content: EstoniaInsuranceIntermediaries_HTML,
     },
     {
+      id: "insurance-reinsurance-intermediary-gibraltar",
       Service: "Insurance and Reinsurance Intermediary in Gibraltar",
       Content: GibraltarInsuranceReinsuranceIntermediary_HTML,
     },
     {
+      id: "guernsey-offshore-insurance-license",
       Service: "Guernsey Offshore Insurance License",
       Content: GuernseyOffshoreInsuranceLicense_HTML,
     },
     {
+      id: "isle-of-man-insurance-protected-cell-companies-incorporated-cell-companies",
       Service: "Isle of Man Insurance Protected Cell Companies/Incorporated Cell Companies",
       Content: IsleOfManInsuranceProtectedCellCompanies_HTML,
     },
     {
+      id: "isle-of-man-general-insurance-intermediaries",
       Service: "Isle of Man General Insurance Intermediaries",
       Content: IsleOfManGeneralInsuranceIntermediaries_HTML,
     },
     {
+      id: "isle-of-man-life-insurance",
       Service: "Isle of Man Life Insurance",
       Content: IsleOfManLifeInsurance_HTML,
     },
     {
+      id: "isle-of-man-non-life-insurance-including-captive-insurance",
       Service: "Isle of Man Non-Life Insurance (Including Captive Insurance)",
       Content: IsleOfManNonLifeInsurance_HTML,
     },
     {
+      id: "latvia-insurance-companies",
       Service: "Latvia Insurance Companies",
       Content: LatviaInsuranceCompanies_HTML,
     },
     {
+      id: "jersey-insurance-business",
       Service: "Jersey Insurance Business",
       Content: JerseyInsuranceBusiness_HTML,
     },
     {
+      id: "latvia-insurance-intermediaries",
       Service: "Latvia Insurance Intermediaries",
       Content: LatviaInsuranceIntermediaries_HTML,
     },
     {
+      id: "liechtenstein-insurance-intermediaries",
       Service: "Liechtenstein Insurance Intermediaries",
       Content: LiechtensteinInsuranceIntermediaries_HTML,
     },
     {
+      id: "malta-insurance-intermediaries",
       Service: "Malta Insurance Intermediaries",
       Content: MaltaInsuranceIntermediaries_HTML,
     },
     {
+      id: "liechtenstein-insurance-undertaking",
       Service: "Liechtenstein Insurance Undertaking",
       Content: LiechtensteinInsuranceUndertaking_HTML,
     },
     {
+      id: "netherlands-insurance-and-reinsurance",
       Service: "Netherlands Insurance and Reinsurance",
       Content: NetherlandsInsuranceAndReinsurance_HTML,
     },
     {
+      id: "switzerland-insurance-license",
       Service: "Switzerland Insurance License",
       Content: SwitzerlandInsuranceLicense_HTML,
     },
     {
+      id: "united-kingdom-insurance-intermediaries",
       Service: "United Kingdom Insurance Intermediaries",
       Content: UKInsuranceIntermediaries_HTML,
     },
     {
+      id: "united-kingdom-general-insurers",
       Service: "United Kingdom General Insurers",
       Content: UKGeneralInsurers_HTML,
     }
   ],
-  Banking: [
+  
+  
+  Banking_licenses: [
     {
+      id: "banking-licenses",
+      Service: "Banking Licenses",
+      Content: UKBankingLicenseHTML,
+    },
+    {
+      id: "united-kingdom-banking-license",
       Service: "United Kingdom Banking License",
       Content: UKBankingLicenseHTML,
     },
     {
+      id: "luxembourg-central-securities-depositories-csds",
       Service: "Luxembourg Central Securities Depositories (CSDs)",
       Content: LuxembourgCSDsHTML,
     },
     {
+      id: "isle-of-man-deposit-taking",
       Service: "Isle of Man Deposit Taking",
       Content: IsleOfManDepositTakingHTML,
     },
     {
+      id: "guernsey-banking-license",
       Service: "Guernsey Banking License",
       Content: GuernseyBankingLicenseHTML,
     },
     {
+      id: "gibraltar-banking-license",
       Service: "Gibraltar Banking License",
       Content: GibraltarBankingLicenseHTML,
     },
     {
+      id: "switzerland-banking-license",
       Service: "Switzerland Banking License",
       Content: SwitzerlandBankingLicenseHTML,
     },
     {
+      id: "banking-license-in-jersey",
       Service: "Banking License in Jersey",
       Content: JerseyBankingLicenseHTML,
     },
     {
+      id: "bahamas-banking-licence",
       Service: "Bahamas Banking Licence",
       Content: Bahamas_Banking_Licence,
     },
     {
+      id: "comoros-banking-licence",
       Service: "Comoros Banking Licence",
       Content: Comoros_Banking_Licence,
     },
     {
+      id: "dominica-banking-licence",
       Service: "Dominica Banking Licence",
       Content: Dominica_Banking_Licence,
     },
     {
+      id: "gibraltar-banking-licence",
       Service: "Gibraltar Banking Licence",
       Content: Gibraltar_Banking_Licence,
     },
     {
+      id: "mauritius-banking-licence",
       Service: "Mauritius Banking Licence",
       Content: Mauritius_Banking_Licence,
     },
     {
+      id: "montserrat-international-banking-licence",
       Service: "Montserrat International Banking Licence",
       Content: Montserrat_International_Banking_Licence,
     },
     {
+      id: "puerto-rico-international-financial-entity-ife",
       Service: "Puerto Rico International Financial Entity (IFE)",
       Content: Puerto_Rico_International_Financial_Entity_IFE,
     },
     {
+      id: "seychelles-banking-licence",
       Service: "Seychelles Banking Licence",
       Content: Seychelles_Banking_Licence,
     },
     {
+      id: "st-kitts-and-nevis-international-banking-licence",
       Service: "St. Kitts and Nevis International Banking Licence",
       Content: St_Kitts_and_Nevis_International_Banking_Licence,
-    }, {
+    },
+    {
+      id: "vanuatu-banking-licence",
       Service: "Vanuatu Banking Licence",
       Content: Vanuatu_Banking_Licence,
     }
   ],
   
-  Cryptocurrency_and_digital_assets: [
+  
+  Cryptocurrency_and_digital_assets_licenses: [
     {
-      Service: "Latvia Innovation and Fintech",
+      id: "cryptocurrency-and-digital-assets-licenses",
+      Service: "Cryptocurrency And Digital Assets Licenses",
       Content: LatviaInnovationAndFintech_HTML,
     },
-    
     {
-      Service: "Liechtenstein Fintech and TVTG",
+      id: "latvia-innovation-and-fintech-license",
+      Service: "Latvia Innovation and Fintech License",
+      Content: LatviaInnovationAndFintech_HTML,
+    },
+    {
+      id: "liechtenstein-fintech-and-tvtg-license",
+      Service: "Liechtenstein Fintech and TVTG License",
       Content: LiechtensteinFintechAndTVTG_HTML,
     },
     {
-      Service: "Luxembourg Virtual Asset Service Providers (VASPS)",
+      id: "luxembourg-virtual-asset-service-providers-vasps-license",
+      Service: "Luxembourg Virtual Asset Service Providers (VASPS) License",
       Content: LuxembourgVASPS_HTML,
     },
     {
-      Service: "Malta Virtual Financial Assets (VFA) Framework/ Fintech",
+      id: "malta-virtual-financial-assets-vfa-framework-fintech-license",
+      Service: "Malta Virtual Financial Assets (VFA) Framework/ Fintech License",
       Content: MaltaVFAFramework_HTML,
     },
     {
-      Service: "Switzerland Fintech",
+      id: "switzerland-fintech-license",
+      Service: "Switzerland Fintech License",
       Content: SwitzerlandFintech_HTML,
     }
   ],
-  Outsourcing_Compliance_Officers: [],
-  Nominee_Dealers_Authorized_Representatives: [],
+  
+  Outsourcing_Compliance_Officers_licenses: [],
+  Nominee_Dealers_Authorized_Representatives_licenses: [],
   Post_Licensing_Support: [],
-  Assistance_On_Professional_Indemnity: [],
+  Assistance_On_Professional_Indemnity_licences: [],
 }
 const OtherServices = {
       
-  Aircraft_And_Ship_Registration: [
+  aircraft_and_ship_registration: [
+    {
+      Service: "Aircraft And Ship Registration",
+      id: "aircraft_and_ship_registration",
+      Content: EstoniaAircraftregistration
+    },
     {
       Service: "Estonia Aircraft Registration",
+      id: "estonia-aircraft-registration",
       Content: EstoniaAircraftregistration
-    },{
-      Service:"Estonia Ship Registration",
+    },
+    {
+      Service: "Estonia Ship Registration",
+      id: "estonia-ship-registration",
       Content: EstoniaShipRegistration
     },
     {
-      Service:"Estonia Trademark Registration",
+      Service: "Estonia Trademark Registration",
+      id: "estonia-trademark-registration",
       Content: EstoniaTrademarkRegistration
     },
     {
-      Service:"Gibraltar Ship Registration",
+      Service: "Gibraltar Ship Registration",
+      id: "gibraltar-ship-registration",
       Content: GibraltarShipRegistration
     },
   ],
-  Assets_And_Investment_Advisory: [{
-    Service: "Estonia Fund Management Companies",
-    Content: EstoniaFundManagementCompanies
-  },{
-    Service:"Gibraltar CIS Administrator",
-    Content: CISAdministrator
-  },
-  {
-    Service:"Gibraltar Company Managers",
-    Content: CompanyManagersinGibraltar
-  },
-  {
-    Service:"Gibraltar Experienced Investor Fund Director",
-    Content: GibraltarExperiencedInvestorFundDirector
-  },
-  {
-    Service:"Gibraltar Professional Trustee and Foundation Councillor",
-    Content: GibraltarProfessionalTrusteeandFoundationCouncillor
-  },
-  {
-    Service:"Gibraltar Small Scheme Manager",
-    Content: GibraltarSmallSchemeManager
-  },{
-    Service:"Guernsey Fiduciary License",
-    Content: GuernseyFiduciaryLicense
-  },
-  ,{
-    Service:"Guernsey Standard Track Licensing",
-    Content: GuernseyStandardTrackLicensing
-  },
-  {
-    Service:"Ireland investment manager license",
-    Content: Irelandinvestmentmanagerlicense
-  },
-  {
-    Service:"Isle of Man Designated Business",
-    Content: IsleofManDesignatedBusiness
-  },
-  {
-    Service: "Isle of Man Management or Administration",
-    Content: IsleOfManManagementOrAdministration,
-  },{
-    Service: "Isle of Man Professional Officers",
-    Content: IsleOfManProfessionalOfficers,
-  },
-  {
-    Service: "Latvia Alternative Investment Fund Managers",
-    Content: LatviaAlternativeInvestmentFundManagers,
-  },{
-    Service: "Latvia Investment Management Companies",
-    Content: LatviaInvestmentManagementCompanies,
-  },
-  {
-    Service: "Liechtenstein Asset Management License",
-    Content: LiechtensteinAssetManagementLicense,
-  },
-  {
-    Service: "Liechtenstein Management Companies and Funds Under IUA",
-    Content: LiechtensteinManagementCompaniesAndFundsUnderIUA,
-  },
-  {
-    Service: "Luxembourg Specialized PFS",
-    Content: LuxembourgSpecializedPFS,
-  },
-  {
-    Service: "Luxembourg Support PFS",
-    Content: LuxembourgSupportPFS,
-  },
-  {
-    Service: "Malta Company Service Providers",
-    Content: MaltaCompanyServiceProviders,
-  },
-  {
-    Service: "Malta Investment Service Providers",
-    Content: MaltaInvestmentServiceProviders,
-  },
-  {
-    Service: "Portfolio Managers and Trustees",
-    Content: PortfolioManagersAndTrustees,
-  }, {
-    Service: "Switzerland Asset Management",
-    Content: SwitzerlandAssetManagement,
-  },
-  {
-    Service: "United Kingdom Financial Advisors",
-    Content: UKFinancialAdvisors,
-},{
-  Service: "United Kingdom Investment Managers",
-  Content: UKInvestmentManagers,
-},
-{
-  Service: "United Kingdom Wealth Managers",
-  Content: UKWealthManagers,
-},
+  assets_and_investment_advisory: [
+    {
+      Service: "Assets And Investment Advisory",
+      id: "assets_and_investment_advisory",
+      Content: EstoniaFundManagementCompanies
+    },
+    {
+      Service: "Estonia Fund Management Companies",
+      id: "estonia-fund-management-companies",
+      Content: EstoniaFundManagementCompanies
+    },
+    {
+      Service: "Gibraltar CIS Administrator",
+      id: "gibraltar-cis-administrator",
+      Content: CISAdministrator
+    },
+    {
+      Service: "Gibraltar Company Managers",
+      id: "gibraltar-company-managers",
+      Content: CompanyManagersinGibraltar
+    },
+    {
+      Service: "Gibraltar Experienced Investor Fund Director",
+      id: "gibraltar-experienced-investor-fund-director",
+      Content: GibraltarExperiencedInvestorFundDirector
+    },
+    {
+      Service: "Gibraltar Professional Trustee and Foundation Councillor",
+      id: "gibraltar-professional-trustee-and-foundation-councillor",
+      Content: GibraltarProfessionalTrusteeandFoundationCouncillor
+    },
+    {
+      Service: "Gibraltar Small Scheme Manager",
+      id: "gibraltar-small-scheme-manager",
+      Content: GibraltarSmallSchemeManager
+    },
+    {
+      Service: "Guernsey Fiduciary License",
+      id: "guernsey-fiduciary-license",
+      Content: GuernseyFiduciaryLicense
+    },
+    {
+      Service: "Guernsey Standard Track Licensing",
+      id: "guernsey-standard-track-licensing",
+      Content: GuernseyStandardTrackLicensing
+    },
+    {
+      Service: "Ireland investment manager license",
+      id: "ireland-investment-manager-license",
+      Content: Irelandinvestmentmanagerlicense
+    },
+    {
+      Service: "Isle of Man Designated Business",
+      id: "isle-of-man-designated-business",
+      Content: IsleofManDesignatedBusiness
+    },
+    {
+      Service: "Isle of Man Management or Administration",
+      id: "isle-of-man-management-or-administration",
+      Content: IsleOfManManagementOrAdministration
+    },
+    {
+      Service: "Isle of Man Professional Officers",
+      id: "isle-of-man-professional-officers",
+      Content: IsleOfManProfessionalOfficers
+    },
+    {
+      Service: "Latvia Alternative Investment Fund Managers",
+      id: "latvia-alternative-investment-fund-managers",
+      Content: LatviaAlternativeInvestmentFundManagers
+    },
+    {
+      Service: "Latvia Investment Management Companies",
+      id: "latvia-investment-management-companies",
+      Content: LatviaInvestmentManagementCompanies
+    },
+    {
+      Service: "Liechtenstein Asset Management License",
+      id: "liechtenstein-asset-management-license",
+      Content: LiechtensteinAssetManagementLicense
+    },
+    {
+      Service: "Liechtenstein Management Companies and Funds Under IUA",
+      id: "liechtenstein-management-companies-and-funds-under-iua",
+      Content: LiechtensteinManagementCompaniesAndFundsUnderIUA
+    },
+    {
+      Service: "Luxembourg Specialized PFS",
+      id: "luxembourg-specialized-pfs",
+      Content: LuxembourgSpecializedPFS
+    },
+    {
+      Service: "Luxembourg Support PFS",
+      id: "luxembourg-support-pfs",
+      Content: LuxembourgSupportPFS
+    },
+    {
+      Service: "Malta Company Service Providers",
+      id: "malta-company-service-providers",
+      Content: MaltaCompanyServiceProviders
+    },
+    {
+      Service: "Malta Investment Service Providers",
+      id: "malta-investment-service-providers",
+      Content: MaltaInvestmentServiceProviders
+    },
+    {
+      Service: "Portfolio Managers and Trustees",
+      id: "portfolio-managers-and-trustees",
+      Content: PortfolioManagersAndTrustees
+    },
+    {
+      Service: "Switzerland Asset Management",
+      id: "switzerland-asset-management",
+      Content: SwitzerlandAssetManagement
+    },
+    {
+      Service: "United Kingdom Financial Advisors",
+      id: "united-kingdom-financial-advisors",
+      Content: UKFinancialAdvisors
+    },
+    {
+      Service: "United Kingdom Investment Managers",
+      id: "united-kingdom-investment-managers",
+      Content: UKInvestmentManagers
+    },
+    {
+      Service: "United Kingdom Wealth Managers",
+      id: "united-kingdom-wealth-managers",
+      Content: UKWealthManagers
+    }
 // {
 //   Service: "Free Zone Company Solutions",
 //   Content: [{
@@ -24653,157 +24914,210 @@ const OtherServices = {
 //   }],
 // }
   ],
-Credit_And_Bond_Institutions: [
+credit_and_bond_institutions: [
+  {
+    Service: "Credit And Bond Institutions",
+    id: "credit_and_bond_institutions",
+    Content: CzechRepublicBankAndCreditUnions
+  },
   {
     Service: "Czech Republic Bank and Credit Unions",
-    Content: CzechRepublicBankAndCreditUnions,
+    id: "czech-republic-bank-and-credit-unions",
+    Content: CzechRepublicBankAndCreditUnions
   },
   {
     Service: "Estonia Credit Institutions",
-    Content: EstoniaCreditInstitutions,
+    id: "estonia-credit-institutions",
+    Content: EstoniaCreditInstitutions
   },
   {
     Service: "Estonia Creditors",
-    Content: EstoniaCreditors,
+    id: "estonia-creditors",
+    Content: EstoniaCreditors
   },
   {
     Service: "Gibraltar Consumer Credit",
-    Content: GibraltarConsumerCredit,
+    id: "gibraltar-consumer-credit",
+    Content: GibraltarConsumerCredit
   },
   {
     Service: "Gibraltar Credit Institutions License",
-    Content: GibraltarCreditInstitutionsLicense,
+    id: "gibraltar-credit-institutions-license",
+    Content: GibraltarCreditInstitutionsLicense
   },
-   {
+  {
     Service: "Gibraltar Mortgage Credit Intermediary",
-    Content: GibraltarMortgageCreditIntermediary,
+    id: "gibraltar-mortgage-credit-intermediary",
+    Content: GibraltarMortgageCreditIntermediary
   },
   {
     Service: "Gibraltar Non-Credit Institutions",
-    Content: GibraltarNonCreditInstitutions,
+    id: "gibraltar-non-credit-institutions",
+    Content: GibraltarNonCreditInstitutions
   },
   {
     Service: "Isle Of Man Credit Unions",
-    Content: IsleOfManCreditUnions,
+    id: "isle-of-man-credit-unions",
+    Content: IsleOfManCreditUnions
   },
   {
     Service: "Latvia Co-Operative Credit Unions",
-    Content: LatviaCooperativeCreditUnions,
+    id: "latvia-co-operative-credit-unions",
+    Content: LatviaCooperativeCreditUnions
   },
   {
     Service: "Latvia Credit Institution",
-    Content: LatviaCreditInstitution,
+    id: "latvia-credit-institution",
+    Content: LatviaCreditInstitution
   },
   {
     Service: "Luxembourg Credit Institutions",
-    Content: LuxembourgCreditInstitutions,
+    id: "luxembourg-credit-institutions",
+    Content: LuxembourgCreditInstitutions
   },
   {
     Service: "Luxembourg Mortgage Credit Intermediaries",
-    Content: LuxembourgMortgageCreditIntermediaries,
+    id: "luxembourg-mortgage-credit-intermediaries",
+    Content: LuxembourgMortgageCreditIntermediaries
   },
   {
     Service: "Malta Credit Institutions",
-    Content: MaltaCreditInstitutions,
+    id: "malta-credit-institutions",
+    Content: MaltaCreditInstitutions
   },
   {
     Service: "Switzerland Central Mortgage Bond Institute",
-    Content: SwitzerlandCentralMortgageBondInstitute,
+    id: "switzerland-central-mortgage-bond-institute",
+    Content: SwitzerlandCentralMortgageBondInstitute
   },
   {
     Service: "United Kingdom Building Societies",
-    Content: UKBuildingSocieties,
+    id: "united-kingdom-building-societies",
+    Content: UKBuildingSocieties
   },
   {
     Service: "United Kingdom Consumer Credit Firms",
-    Content: UKConsumerCreditFirms,
+    id: "united-kingdom-consumer-credit-firms",
+    Content: UKConsumerCreditFirms
   },
   {
     Service: "United Kingdom Credit Unions",
-    Content: UKCreditUnions,
+    id: "united-kingdom-credit-unions",
+    Content: UKCreditUnions
   }
 ],
-Data_Reporting: [{
-  Service: "Data Reporting Service Providers",
-  Content: DataReportingServiceProviders,
-},{
-  Service: "Data Reporting Service Providers in Netherlands",
-  Content: DataReportingServiceProvidersNetherlands,
-}],
-Electronic_And_Money_Services_Businesses: [
+data_reporting: [
+  {
+    Service: "Data Reporting",
+    id: "data_reporting",
+    Content: DataReportingServiceProviders
+  },
+  {
+    Service: "Data Reporting Service Providers",
+    id: "data-reporting-service-providers",
+    Content: DataReportingServiceProviders
+  },
+  {
+    Service: "Data Reporting Service Providers in Netherlands",
+    id: "data-reporting-service-providers-in-netherlands",
+    Content: DataReportingServiceProvidersNetherlands
+  }
+],
+electronic_and_money_services_businesses: [
+  {
+    Service: "Electronic And Money Services Businesses",
+    id: "electronic_and_money_services_businesses",
+    Content: DataEstoniaPaymentInstitutions
+  },
   {
     Service: "Estonia Payment Institutions and E-Money Institutions",
-    Content: DataEstoniaPaymentInstitutions,
+    id: "estonia-payment-institutions-and-e-money-institutions",
+    Content: DataEstoniaPaymentInstitutions
   },
- {
+  {
     Service: "Czech Republic Payment Institutions/ EMIs/ Small Scale Payment Service Providers and Small Scale Electronic Issuers",
-    Content: CzechRepublicPaymentInstitutions,
+    id: "czech-republic-payment-institutions-emis-small-scale-payment-service-providers-and-small-scale-electronic-issuers",
+    Content: CzechRepublicPaymentInstitutions
   },
   {
     Service: "Georgia Payment Service Provider License",
-    Content: GeorgiaPaymentServiceProviderLicense,
+    id: "georgia-payment-service-provider-license",
+    Content: GeorgiaPaymentServiceProviderLicense
   },
   {
     Service: "Gibraltar Electronic Money Issuer",
-    Content: GibraltarElectronicMoneyIssuer,
+    id: "gibraltar-electronic-money-issuer",
+    Content: GibraltarElectronicMoneyIssuer
   },
   {
     Service: "Gibraltar Payment Service Provider",
-    Content: GibraltarPaymentServiceProvider,
+    id: "gibraltar-payment-service-provider",
+    Content: GibraltarPaymentServiceProvider
   },
   {
     Service: "Ireland Electronic Money Institution/PSP",
-    Content: IrelandElectronicMoneyInstitutionPSP,
+    id: "ireland-electronic-money-institution-psp",
+    Content: IrelandElectronicMoneyInstitutionPSP
   },
   {
     Service: "Isle of Man Money Transmission Services",
-    Content: IsleOfManMoneyTransmissionServices,
+    id: "isle-of-man-money-transmission-services",
+    Content: IsleOfManMoneyTransmissionServices
   },
   {
     Service: "Jersey Money Service Business",
-    Content: JerseyMoneyServiceBusiness,
+    id: "jersey-money-service-business",
+    Content: JerseyMoneyServiceBusiness
   },
   {
     Service: "Latvia Electronic Money Institution",
-    Content: LatviaElectronicMoneyInstitution,
+    id: "latvia-electronic-money-institution",
+    Content: LatviaElectronicMoneyInstitution
   },
   {
     Service: "Latvia Payment Service Providers",
-    Content: LatviaPaymentServiceProviders,
+    id: "latvia-payment-service-providers",
+    Content: LatviaPaymentServiceProviders
   },
   {
     Service: "Liechtenstein Electronic Money License",
-    Content: LiechtensteinElectronicMoneyLicense,
+    id: "liechtenstein-electronic-money-license",
+    Content: LiechtensteinElectronicMoneyLicense
   },
   {
     Service: "Liechtenstein Payment Institution",
-    Content: LiechtensteinPaymentInstitution,
+    id: "liechtenstein-payment-institution",
+    Content: LiechtensteinPaymentInstitution
   },
   {
     Service: "Luxembourg Payment Institutions/ Electronic Money Institutions/ AISP",
-    Content: LuxembourgPaymentInstitutions,
+    id: "luxembourg-payment-institutions-electronic-money-institutions-aisp",
+    Content: LuxembourgPaymentInstitutions
   },
   {
     Service: "Malta Electronic Money Institution License",
-    Content: MaltaElectronicMoneyInstitution,
+    id: "malta-electronic-money-institution-license",
+    Content: MaltaElectronicMoneyInstitution
   },
   {
     Service: "Netherlands Electronic Money Institutions",
-    Content: NetherlandsElectronicMoneyInstitutions,
+    id: "netherlands-electronic-money-institutions",
+    Content: NetherlandsElectronicMoneyInstitutions
   },
   {
     Service: "Netherlands Exchange Institutions",
-    Content: NetherlandsExchangeInstitutions,
-  },{
-    Service: "United Kingdom Electronic Money and Payment Institution",
-    Content: UKElectronicMoneyAndPaymentInstitution
+    id: "netherlands-exchange-institutions",
+    Content: NetherlandsExchangeInstitutions
   },
   {
     Service: "United Kingdom Electronic Money and Payment Institution",
+    id: "united-kingdom-electronic-money-and-payment-institution",
     Content: UKElectronicMoneyAndPaymentInstitution
-  },{
+  },
+  {
     Service: "Netherlands Payment Institutions",
-    Content: NetherlandsPaymentInstitutions 
+    id: "netherlands-payment-institutions",
+    Content: NetherlandsPaymentInstitutions
   }
 ],
 // Foundations_And_Non_profits: [
@@ -24820,264 +25134,357 @@ Electronic_And_Money_Services_Businesses: [
 //     Content: SwitzerlandFoundationHTML,
 //   }
 // ],
-Investments_And_Funds: [
+investments_and_funds: [
+  {
+    Service: "Investments And Funds",
+    id: "investments_and_funds",
+    Content: CzechRepublicManagementCompaniesAndInvestmentFundsHTML,
+  },
   {
     Service: "Czech Republic Management Companies and Investment Funds",
+    id: "czech-republic-management-companies-and-investment-funds",
     Content: CzechRepublicManagementCompaniesAndInvestmentFundsHTML,
   },
   {
     Service: "Estonia Investment and Pension Funds",
+    id: "estonia-investment-and-pension-funds",
     Content: EstoniaInvestmentAndPensionFundsHTML,
   },
   {
     Service: "Exempt Non-Guernsey Schemes",
+    id: "exempt-non-guernsey-schemes",
     Content: ExemptNonGuernseySchemesHTML,
   },
   {
     Service: "Gibraltar Alternative Investment Fund (AIF) Manager License",
+    id: "gibraltar-alternative-investment-fund-aif-manager-license",
     Content: GibraltarAlternativeInvestmentFundManagerLicenseHTML,
   },
   {
     Service: "Gibraltar Experienced Investor Funds",
+    id: "gibraltar-experienced-investor-funds",
     Content: GibraltarExperiencedInvestorFundsHTML,
   },
   {
     Service: "Guernsey Authorised Fund",
+    id: "guernsey-authorised-fund",
     Content: GuernseyAuthorisedFundHTML,
   },
   {
     Service: "Guernsey Authorized Closed-Ended Investment Schemes",
+    id: "guernsey-authorized-closed-ended-investment-schemes",
     Content: GuernseyAuthorizedClosedEndedInvestmentSchemesHTML,
   },
   {
     Service: "Guernsey Closed Ended Scheme",
+    id: "guernsey-closed-ended-scheme",
     Content: GuernseyClosedEndedSchemeHTML,
   },
   {
     Service: "Guernsey Green Funds",
+    id: "guernsey-green-funds",
     Content: GuernseyGreenFundsHTML,
   },
   {
     Service: "Guernsey Open-Ended Scheme",
+    id: "guernsey-open-ended-scheme",
     Content: GuernseyOpenEndedSchemeHTML,
   },
   {
     Service: "Guernsey Registered Fund",
+    id: "guernsey-registered-fund",
     Content: GuernseyRegisteredFundHTML,
   },
   {
     Service: "Ireland Alternative Investment Fund (Non UCITS Fund)",
+    id: "ireland-alternative-investment-fund-non-ucits-fund",
     Content: AlternativeInvestmentFundHTML,
   },
   {
     Service: "Ireland Undertaking for Collective Investment in Transferable Securities (UCITS )",
+    id: "ireland-undertaking-for-collective-investment-in-transferable-securities-ucits",
     Content: IrelandUCITSFundHTML,
   },
   {
     Service: "Isle of Man Collective Investment Schemes",
+    id: "isle-of-man-collective-investment-schemes",
     Content: IsleOfManCollectiveInvestmentSchemesHTML,
   },
   {
     Service: "Isle of Man Funds",
+    id: "isle-of-man-funds",
     Content: IsleOfManFundsHTML,
-  },{
+  },
+  {
     Service: "Fund Licenses in Jersey",
+    id: "fund-licenses-in-jersey",
     Content: JerseyFundLicensesHTML,
   },
   {
     Service: "Malta Collective Investment Schemes",
+    id: "malta-collective-investment-schemes",
     Content: MaltaCollectiveInvestmentSchemesHTML,
   },
   {
     Service: "Malta Notified Alternative Investment Fund (NAIF)",
+    id: "malta-notified-alternative-investment-fund-naif",
     Content: MaltaNotifiedAlternativeInvestmentFundHTML,
   },
   {
     Service: "Malta Undertaking in Collective Investment Scheme (UCITS) Fund",
+    id: "malta-undertaking-in-collective-investment-scheme-ucits-fund",
     Content: MaltaUndertakingInCollectiveInvestmentSchemeHTML,
   },
   {
     Service: "Collective Investment Schemes in Netherlands",
+    id: "collective-investment-schemes-in-netherlands",
     Content: NetherlandsCollectiveInvestmentSchemesHTML,
   },
   {
     Service: "Non-Guernsey Schemes (NGS)",
+    id: "non-guernsey-schemes-ngs",
     Content: NonGuernseySchemesHTML,
   }
   
 ],
-Limited_Liability_Companies: [
+limited_liability_companies: [
+  {
+    Service: "Limited Liability Companies",
+    id: "limited_liability_companies",
+    Content: CzechJointStockCompanyHTML,
+  },
   {
     Service: "Czech Republic Joint Stock Company",
+    id: "czech-republic-joint-stock-company",
     Content: CzechJointStockCompanyHTML,
   },
   {
     Service: "Czech Republic Limited Liability Company (LLC)",
+    id: "czech-republic-limited-liability-company-llc",
     Content: CzechLimitedLiabilityCompanyHTML,
   },
   {
     Service: "Estonia Limited Partnership",
+    id: "estonia-limited-partnership",
     Content: EstoniaLimitedPartnershipHTML,
   },
   {
     Service: "Estonia Private Limited Company (LLC)",
+    id: "estonia-private-limited-company-llc",
     Content: EstoniaPrivateLimitedCompanyHTML,
   },
   {
     Service: "Estonia Public Limited Company",
+    id: "estonia-public-limited-company",
     Content: EstoniaPublicLimitedCompanyHTML,
   },
   {
     Service: "Gibraltar Limited Liability Company (LLC)",
+    id: "gibraltar-limited-liability-company-llc",
     Content: GibraltarLLCHTML,
   },
   {
     Service: "Guernsey Limited Partnership",
+    id: "guernsey-limited-partnership",
     Content: GuernseyLimitedPartnershipHTML,
   },
   {
     Service: "Irish Limited Liability Partnership (LLP)",
+    id: "irish-limited-liability-partnership-llp",
     Content: IrishLimitedLiabilityPartnershipHTML,
   },
   {
     Service: "Irish Public Limited Company (PLC)",
+    id: "irish-public-limited-company-plc",
     Content: IrishPublicLimitedCompanyHTML,
   },
   {
     Service: "Malta Private Limited Liability Company",
+    id: "malta-private-limited-liability-company",
     Content: MaltaPrivateLimitedLiabilityCompanyHTML,
   },
   {
     Service: "Netherlands Holding Company",
+    id: "netherlands-holding-company",
     Content: NetherlandsHoldingCompanyHTML,
   },
   {
     Service: "Switzerland Joint Stock Company",
+    id: "switzerland-joint-stock-company",
     Content: SwitzerlandJointStockCompanyHTML,
   },
   {
     Service: "Switzerland Limited Liability Company (SARL/LLC)",
+    id: "switzerland-limited-liability-company-sarl-llc",
     Content: SwitzerlandLLC_HTML,
   }
 ],
 
-Pension_Services: [
+pension_services: [
+  {
+    Service: "Pension Services",
+    id: "pension_services",
+    Content: UKLifeInsurersAndPensionProviders_HTML,
+  },
   {
     Service: "United Kingdom Life Insurers and Pension Providers",
+    id: "united-kingdom-life-insurers-and-pension-providers",
     Content: UKLifeInsurersAndPensionProviders_HTML,
   },
   {
     Service: "United Kingdom Claims Management Companies",
+    id: "united-kingdom-claims-management-companies",
     Content: UKClaimsManagementCompanies_HTML,
   },
   {
     Service: "Malta Pensions",
+    id: "malta-pensions",
     Content: MaltaPensions_HTML,
   },
   {
     Service: "Liechtenstein Pension Schemes",
+    id: "liechtenstein-pension-schemes",
     Content: LiechtensteinPensionSchemes_HTML,
   },
   {
     Service: "Liechtenstein Pension Funds",
+    id: "liechtenstein-pension-funds",
     Content: LiechtensteinPensionFunds_HTML,
   },
   {
     Service: "Latvian Pension Funds",
+    id: "latvian-pension-funds",
     Content: LatvianPensionFunds_HTML,
   },
   {
     Service: "Isle of Man Pensions",
+    id: "isle-of-man-pensions",
     Content: IsleOfManPensions_HTML,
   },
   {
     Service: "Gibraltar Personal Pension Scheme Adviser",
+    id: "gibraltar-personal-pension-scheme-adviser",
     Content: GibraltarPersonalPensionSchemeAdviser_HTML,
   },
   {
     Service: "Czech Republic Pension Management Companies and Funds/ Pension Intermediaries",
+    id: "czech-republic-pension-management-companies-and-funds-pension-intermediaries",
     Content: CzechRepublicPensionManagement_HTML,
   }
 ],
 Trademark_Registration: [
+  {
+    Service: "Trademark Registration",
+    id: "trademark_registration",
+    Content: CzechRepublicTrademarkRegistration_HTML,
+  },
+  {
+    Service: "Czech Republic Trademark Registration",
+    id: "czech-republic-trademark-registration",
+    Content: CzechRepublicTrademarkRegistration_HTML,
+  },
+  {
+    Service: "Gibraltar Trademark Registration",
+    id: "gibraltar-trademark-registration",
+    Content: GibraltarTrademarkRegistration_HTML,
+  }
+  ],
+  trust_services: [
     {
-      Service: "Czech Republic Trademark Registration",
-      Content: CzechRepublicTrademarkRegistration_HTML,
+      Service: "Trust Services",
+      id: "trust_services",
+      Content: GuernseyTrust_HTML,
     },
     {
-      Service: "Gibraltar Trademark Registration",
-      Content: GibraltarTrademarkRegistration_HTML,
-    }
-  ],
-  Trust_Services: [
-    {
       Service: "Guernsey Trust",
+      id: "guernsey-trust",
       Content: GuernseyTrust_HTML,
     },
     {
       Service: "Gibraltar Trust Company Management",
+      id: "gibraltar-trust-company-management",
       Content: GibraltarTrustCompanyManagement_HTML,
     },
     {
       Service: "Liechtenstein International Trust",
+      id: "liechtenstein-international-trust",
       Content: LiechtensteinInternationalTrust_HTML,
     },
     {
       Service: "Isle of Man Trust and Corporate Service Providers (TCPS)",
+      id: "isle-of-man-tcps",
       Content: IsleOfManTCPS_HTML,
     },
     {
       Service: "Malta Trustees and Fiduciaries",
+      id: "malta-trustees-and-fiduciaries",
       Content: MaltaTrusteesAndFiduciaries_HTML,
     },
     {
       Service: "Malta Trustees and Fiduciaries",
+      id: "malta-trustees-and-fiduciaries-2",
       Content: MaltaTrusteesAndFiduciaries_HTML,
     },
     {
       Service: "Private Trust Company Jersey",
+      id: "private-trust-company-jersey",
       Content: PrivateTrustCompanyJersey_HTML,
     }
   ],
-  virtual_office_Services: [
+  virtual_office_services: [
+    {
+      Service: "virtual_office_services",
+      id: "virtual_office_services",
+      Content: CzechRepublicRepresentativeOffice_HTML,
+    },
     {
       Service: "Czech Republic Representative Office",
+      id: "czech-republic-representative-office",
       Content: CzechRepublicRepresentativeOffice_HTML,
     },
     {
       Service: "Czech Republic Virtual Office Services",
+      id: "czech-republic-virtual-office-services",
       Content: CzechRepublicVirtualOfficeServices_HTML,
     },
     {
       Service: "Estonia Virtual Office Services",
+      id: "estonia-virtual-office-services",
       Content: EstoniaVirtualOfficeServices_HTML,
     },
     {
       Service: "Gibraltar Virtual Office Services",
+      id: "gibraltar-virtual-office-services",
       Content: GibraltarVirtualOfficeServices_HTML,
     },
     {
       Service: "Guernsey Virtual Office Services",
+      id: "guernsey-virtual-office-services",
       Content: GuernseyVirtualOfficeServices_HTML,
     },
     {
       Service: "Virtual Office Services in Ireland",
+      id: "virtual-office-services-ireland",
       Content: IrelandVirtualOfficeServices_HTML,
     },
     {
       Service: "Isle of Man Virtual Office Services",
+      id: "isle-of-man-virtual-office-services",
       Content: IsleOfManVirtualOfficeServices_HTML,
     },
     {
       Service: "Malta Virtual Office Services",
+      id: "malta-virtual-office-services",
       Content: MaltaVirtualOfficeServices_HTML,
     },
     {
       Service: "Virtual Office Services in Netherlands",
+      id: "virtual-office-services-netherlands",
       Content: NetherlandsVirtualOfficeServices_HTML,
     },
     {
       Service: "Representative Offices of Financial Institutions",
+      id: "representative-offices-financial-institutions",
       Content: RepresentativeOfficesofFinancialInstitutions,
     }
   ],
@@ -25119,191 +25526,191 @@ const CorporateServices = {
     {
       Service: "International Business Company (IBC) Formation",
       Content: IBCFormationContent,
-      id: "International-Business-Company-IBC-Formation",
+      id: "international-business-company-ibc-formation",
     },
     {
       Service: "Anguilla International Business Company",
       Content: AnguillaInternationalBusinessCompany_HTML,
-      id: "Anguilla-International-Business-Company",
+      id: "anguilla_international_business_company",
     },
     {
       Service: "Antigua and Barbuda International Business Company (IBC)",
       Content: AntiguaAndBarbudaInternationalBusinessCompany_HTML,
-      id: "Antigua-and-Barbuda-International-Business-Company-IBC",
+      id: "antigua_and_barbuda_international_business_company_ibc",
     },
     {
       Service: "Aruba Exempt Company (AVV)",
       Content: ArubaExemptCompanyAVV_HTML,
-      id: "Aruba-Exempt-Company-AVV",
+      id: "aruba_exempt_company_avv",
     },
     {
       Service: "Bahamas International Business Company (IBC)",
       Content: BahamasInternationalBusinessCompany_HTML,
-      id: "Bahamas-International-Business-Company-IBC",
+      id: "bahamas_international_business_company_ibc",
     },
     {
       Service: "Barbados International Business Company (IBC)",
       Content: BarbadosInternationalBusinessCompany_HTML,
-      id: "Barbados-International-Business-Company-IBC",
+      id: "barbados_international_business_company_ibc",
     },
     {
       Service: "Bermuda Exempted Company",
       Content: BermudaExemptedCompany_HTML,
-      id: "Bermuda-Exempted-Company",
+      id: "bermuda_exempted_company",
     },
     {
       Service: "British Virgin Islands International Business Company (IBC)",
       Content: BVIInternationalBusinessCompany_HTML,
-      id: "British-Virgin-Islands-International-Business-Company-IBC",
+      id: "british_virgin_islands_international_business_company_ibc",
     },
     {
       Service: "Cayman Islands Exempt Company",
       Content: CaymanIslandsExemptCompany_HTML,
-      id: "Cayman-Islands-Exempt-Company",
+      id: "cayman_islands_exempt_company",
     },
     {
       Service: "Cook Islands International Business Company (IBC)",
       Content: CookIslandsInternationalBusinessCompany_HTML,
-      id: "Cook-Islands-International-Business-Company-IBC",
+      id: "cook_islands_international_business_company_ibc",
     },
     {
       Service: "Dubai RAK International Business Company",
       Content: DubaiRAKInternationalBusinessCompany_HTML,
-      id: "Dubai-RAK-International-Business-Company",
+      id: "dubai_rak_international_business_company",
     },
     {
       Service: "Gibraltar Non-Resident Company",
       Content: GibraltarNonResidentCompany_HTML,
-      id: "Gibraltar-Non-Resident-Company",
+      id: "gibraltar_non_resident_company",
     },
     {
       Service: "Hong Kong Offshore Company",
       Content: HongKongOffshoreCompany_HTML,
-      id: "Hong-Kong-Offshore-Company",
+      id: "hong_kong_offshore_company",
     },
     {
       Service: "Isle of Man Offshore Company",
       Content: IsleOfManOffshoreCompany_HTML,
-      id: "Isle-of-Man-Offshore-Company",
+      id: "isle_of_man_offshore_company",
     },
     {
       Service: "Labuan Offshore Company",
       Content: LabuanOffshoreCompany_HTML,
-      id: "Labuan-Offshore-Company",
+      id: "labuan_offshore_company",
     },
     {
       Service: "Marshall Islands International Business Company (IBC)",
       Content: MarshallIslandsIBC_HTML,
-      id: "Marshall-Islands-International-Business-Company-IBC",
+      id: "marshall_islands_international_business_company_ibc",
     },
     {
       Service: "Mauritius Authorised Company",
       Content: MauritiusAuthorisedCompany_HTML,
-      id: "Mauritius-Authorised-Company",
+      id: "mauritius_authorised_company",
     },
     {
       Service: "Montserrat International Business Company",
       Content: MontserratInternationalBusinessCompany_HTML,
-      id: "Montserrat-International-Business-Company",
+      id: "montserrat_international_business_company",
     },
     {
       Service: "New Zealand Limited Liability Company (LLC)",
       Content: NewZealandLimitedLiabilityCompany_HTML,
-      id: "New-Zealand-Limited-Liability-Company-LLC",
+      id: "new_zealand_limited_liability_company_llc",
     },
     {
       Service: "Panama International Business Company (IBC)",
       Content: PanamaInternationalBusinessCompany_HTML,
-      id: "Panama-International-Business-Company-IBC",
+      id: "panama_international_business_company_ibc",
     },
     {
       Service: "Samoa International Company",
       Content: SamoaInternationalCompany_HTML,
-      id: "Samoa-International-Company",
+      id: "samoa_international_company",
     },
     {
       Service: "Seychelles International Business Company (IBC)",
       Content: SeychellesInternationalBusinessCompany_HTML,
-      id: "Seychelles-International-Business-Company-IBC",
+      id: "seychelles_international_business_company_ibc",
     },
     {
       Service: "St Kitts and Nevis International Business Company",
       Content: StKittsAndNevisInternationalBusinessCompany_HTML,
-      id: "St-Kitts-and-Nevis-International-Business-Company",
+      id: "st_kitts_and_nevis_international_business_company",
     },
     {
       Service: "St Lucia International Business Company",
       Content: StLuciaInternationalBusinessCompany_HTML,
-      id: "St-Lucia-International-Business-Company",
+      id: "st_lucia_international_business_company",
     },
     {
       Service: "St Vincent & The Grenadines Business Company",
       Content: StVincentGrenadinesBusinessCompany_HTML,
-      id: "St-Vincent-The-Grenadines-Business-Company",
+      id: "st_vincent_the_grenadines_business_company",
     },
     {
       Service: "Seychelles Company and Legal Entity Formations",
       Content: SeychellesCompanyandLegalEntityFormations,
-      id: "Seychelles-Company-and-Legal-Entity-Formations",
+      id: "seychelles_company_and_legal_entity_formations",
     },
     {
       Service: "Malta Protected Cell Companies",
       Content: MaltaProtectedCellCompaniesHTML,
-      id: "Malta-Protected-Cell-Companies",
+      id: "malta_protected_cell_companies",
     },
     {
       Service: "Gibraltar Protected Cell Companies",
       Content: GibraltarProtectedCellCompaniesHTML,
-      id: "Gibraltar-Protected-Cell-Companies",
+      id: "gibraltar_protected_cell_companies",
     },
   ],
   Registered_Agent_Services: [
     {
       Service: "Registered Agent Services",
       Content: RegisteredAgentServicesContent,
-      id: "Registered-Agent-Services",
+      id: "registered_agent_services",
     },
   ],
   Trust_and_Foundation_Registration: [
     {
       Service: "Trust and Foundation Registration",
       Content: TrustAndFoundationServicesContent,
-      id: "Trust-and-Foundation-Registration",
+      id: "trust-and-foundation-registration",
     },
   ],
   Nominee_Director_and_Shareholder_Access: [
     {
       Service: "Nominee Director and Shareholder Access",
       Content: NomineeDirectorAndShareholderServicesContent,
-      id: "Nominee-Director-and-Shareholder-Access",
+      id: "nominee-director-and-shareholder-access",
     },
   ],
   Bank_Account_Opening: [
     {
       Service: "Bank Account Opening",
       Content: BankAccountOpeningContent,
-      id: "Bank-Account-Opening",
+      id: "bank-account-opening",
     },
   ],
   Accounting_and_Auditing_Services: [
     {
       Service: "Accounting and Auditing Services",
       Content: AccountingAndAuditingServicesContent,
-      id: "Accounting-and-Auditing-Services",
+      id: "ccounting-and-auditing-services",
     },
   ],
   Legal_Opinions_of_Distinction: [
     {
       Service: "Legal Opinions of Distinction",
       Content: LegalOpinionsOfDistinctionContent,
-      id: "Legal-Opinions-of-Distinction",
+      id: "/legal-opinions-of-distinction",
     },
   ],
-  Virtual_Physical_Office_Services: [
+  Virtual_Physical_Office: [
     {
       Service: "Virtual/Physical Office Services",
       Content: VirtualPhysicalOfficeServicesContent,
-      id: "Virtual-Physical-Office-Services",
+      id: "virtual-physical-office",
     },
   ],
 };

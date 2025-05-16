@@ -1,56 +1,56 @@
 [
     {
         "name": "Brokerage/Forex",
-        "id":"Brokerage_Forex",
+        "id":"forex-brokerage-licences",
         "title":"Brokerage/Forex",
         "text":"Camitrade Investment provides legal support for licensing of brokerage activities which remains one of our priorities. Different jurisdictions have different naming for the brokerage activities as discussed further in this section. An applicant must satisfy conditions indicated by Our respective regulators."
     },
     {
         "name": "Gaming and Gambling",
-        "id":"Gaming_and_gambling",
+        "id":"gaming-and-gambling-licences",
         "title":"Gaming and Gambling",
         "text":"Camitrade Investment provides legal support for licensing of gambling and gaming activities which remains one of our priorities."
     },
    
     {
         "name": "Insurance",
-        "id":"Insurance",
+        "id":"insurance_licenses",
         "title":"Insurance",
         "text":"Camitrade Investment has specialized in both offshore and onshore insurance advisory services. Our services cuts across licensing of the different classes of Insurance services such as: captive, reinsurance, portfolio insurance companies, International, and brokers. The need for Insurance security and tax planning has nowadays made offshore insurance services to be lucrative."
     },
     {
         "name": "Banking",
-        "id":"Banking",
+        "id":"banking-licenses",
         "title":"Banking",
         "text":"Camitrade Investment legal expertise understands the relevant prudential requirements and licensing pre-conditions before being granted the respective banking licenses. Jurisdictions may offer different types of banking licenses, such as full banking activities and offshore banking services."
     },
     {
         "name": "Cryptocurrency and Digital Assets",
-        "id":"Cryptocurrency_and_digital_assets",
+        "id":"cryptocurrency-and-digital-assets-licenses",
         "title":"Cryptocurrency and Digital Assets",
         "text":"Camitrade Investment Fiduciaries dedicated Digital, Blockchain and Fintech team has been established specifically to assist clients operating or investing in businesses in the Fintech sector."
     },
     {
         "name": "Outsourcing Compliance Officers",
-        "id":"Outsourcing_Compliance_Officers",
+        "id":"outsourcing-compliance-officers-licenses",
         "title":"Outsourcing Compliance Officers",
         "text":"Offshore companies involved in active trading may utilize a virtual office facility to have more presence in the country where it is registered. A virtual office will enable the company to create and maintain a presence in the jurisdiction without the need to pay rent for an actual space."
     },
     {
         "name": "Nominee Dealers/Authorized Representatives",
-        "id":"Nominee_Dealers_Authorized_Representatives",
+        "id":"nominee-dealers-authorized-representatives-licences",
         "title":"Nominee Dealers/Authorized Representatives",
         "text":""
     },
     {
         "name": "Post Licensing Support",
-        "id":"Post_Licensing_Support",
+        "id":"post-licensing-support",
         "title":"Post Licensing Support",
         "text":""
     },
     {
         "name": "Assistance on Professional Indemnity",
-        "id":"Assistance_On_Professional_Indemnity",
+        "id":"assistance-on-professional-indemnity-licences",
         "title":"Assistance on Professional Indemnity",
         "text":""
     }

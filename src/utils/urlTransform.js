@@ -1,9 +1,11 @@
 export const formatServiceId = (id) => {
-  if (!id) return '';
-  return id.toLowerCase().replace(/_/g, '-');
+  return id
+    .replace(/_/g, '-')
+    .toLowerCase();
 };
 
 export const parseServiceId = (id) => {
-  if (!id) return '';
-  return id.toUpperCase().replace(/-/g, '_');
+  return id
+    .replace(/-/g, '_')
+    .toUpperCase();
 }; 

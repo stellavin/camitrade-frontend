@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Aircraft & Ship Registration",
+        "id": "aircraft-and-ship-registration",
+        "title": "Aircraft & Ship Registration",
+        "text": "We have the expertise and experience needed to ensure you get your aircraft or ship registration, and skills needed to ensure ongoing compliance with various maritime and air transport regulators globally."
+    },
+    {
+        "name": "Assets & Investment Advisory",
+        "id": "assets-and-investment-advisory",
+        "title": "Assets & Investment Advisory",
+        "text": "The need for asset management and investment advisory is becoming an integral part in the technological world today. Brokerage services such as buying or selling stock or bonds, or some combination of all these services need licensed asset/ investment advisers. Financial planning is an important criterion to investors globally."
+    },
+    {
+        "name": "Credit & Bond Institutions",
+        "id": "credit-and-bond-institutions",
+        "title": "Credit & Bond Institutions",
+        "text": "Credit and Bond institutions are cooperative financial institutions specializing in the basic financial needs of certain groups of corporates. Institutions will need to be licensed to assist other corporates in criteria which depend on the target market."
+    },
+    {
+        "name": "Data Reporting",
+        "id": "data-reporting",
+        "title": "Data Reporting",
+        "text": "Investment firms and brokerage institutions are nowadays obliged to fulfill publication and reporting requirements that are offered by Data Reporting Service Providers."
+    },
+    {
+        "name": "Electronic & Money Services Businesses",
+        "id": "electronic-and-money-services-businesses",
+        "title": "Electronic & Money Services Businesses",
+        "text": "Money services businesses (MSBs) – a catch-all term used by financial regulators to describe the wide spectrum of businesses involved in converting or transmitting money."
+    },
+    {
+        "name": "Investments & Funds",
+        "id": "investments-and-funds",
+        "title": "Investments & Funds",
+        "text": "Investment Vehicles and Funds provide a secure, regulated framework for collective investment, offering flexible structures tailored to various investor needs and regulatory environments."
+    },
+    {
+        "name": "Limited Liability Companies",
+        "id": "limited-liability-companies",
+        "title": "Limited Liability Companies",
+        "text": "We assist in the formation and structuring of limited liability companies (LLCs), offering expert guidance to ensure compliance with local and international regulations and efficient corporate governance."
+    },
+    {
+        "name": "Pension Services",
+        "id": "pension-services",
+        "title": "Pension Services",
+        "text": "Our pension services include advisory on retirement planning, pension scheme setup and management, and compliance with pension-related regulations tailored to organizational and individual needs."
+    },
+    {
+        "name": "Trademark Registration",
+        "id": "trademark-registration",
+        "title": "Trademark Registration",
+        "text": "We provide full-spectrum trademark registration services, from initial searches and applications to global protection strategies, ensuring your brand identity is legally safeguarded."
+    },
+    {
+        "name": "Virtual Office Services",
+        "id": "virtual-office-services",
+        "title": "Virtual Office Services",
+        "text": "Our virtual office services offer prestigious business addresses, mail handling, call forwarding, and administrative support, allowing companies to establish a professional presence without physical infrastructure."
+    }
+]

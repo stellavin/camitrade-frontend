@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import servicesData from '../jsonData/MainServices';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate, useParams } from 'react-router-dom';
 import ContactForm from './ContactForm';
 import {
   FacebookShareButton,
@@ -28,45 +28,102 @@ const ServiceCard = ({ service, onClick, showDetails }) => {
 };
 
 const CorporateContent = ({ handleSetName }) => {
+  const { id } = useParams();
   const services = servicesData.CorporateServices;
   const location = useLocation();
   const navigate = useNavigate();
-  const searchParams = new URLSearchParams(location.search);
-  const rawServiceId = searchParams.get('id');
-  
-  // Convert the URL parameter to match the services object key format
-  const serviceId = rawServiceId
-    ?.replace(/-/g, '_')
-    ?.replace(/\([^)]*\)/g, '')  // Remove parentheses and their contents
-    ?.replace(/\s+/g, '_')       // Replace spaces with underscores
-    ?.toUpperCase();
-
   const [activeService, setActiveService] = useState(0);
+  const [currentServices, setCurrentServices] = useState([]);
+  const [currentService, setCurrentService] = useState(null);
+  const [currentCategory, setCurrentCategory] = useState(null);
 
-  console.log('Raw Service ID:', rawServiceId);
-  console.log('Processed Service ID:', serviceId);
-  console.log('Available Services:', Object.keys(services));
-  console.log('Current Service Data:', services[serviceId]);
+  // Ensure consistent formatting for serviceId
+  const serviceId = id
+    ?.replace(/-/g, '_')
+    ?.replace(/\([^)]*\)/g, '')
+    ?.replace(/\s+/g, '_')
+    ?.replace(/_+/g, '_')
+    ?.toLocaleLowerCase();
+
+  // Normalize services
+  const normalizedServices = Object.keys(services).reduce((acc, key) => {
+    acc[key.toLowerCase()] = services[key];
+    return acc;
+  }, {});
+
+  // Helper to find a service and its category by id
+  function findServiceAndCategoryById(servicesOrArray, serviceId, id) {
+    if (Array.isArray(servicesOrArray)) {
+      const found = servicesOrArray.find(service => service.id === id);
+      if (found) {
+        return { service: found, category: id };
+      } else {
+        const found = servicesOrArray.find(service => service.id === serviceId);
+        return { service: found, category: id };
+      }
+    } else {
+      for (const [category, serviceList] of Object.entries(servicesOrArray)) {
+        const found = serviceList.find(service => service.id === id);
+        if (found) {
+          return { service: found, category };
+        }
+      }
+      return { service: null, category: null };
+    }
+  }
+
+  // Helper to normalize category keys
+  function normalizeKey(key) {
+    return key.replace(/-/g, '_').toLowerCase();
+  }
 
   useEffect(() => {
-    if (serviceId && services[serviceId]) {
-      handleSetName(serviceId);
-      const serviceIndex = parseInt(searchParams.get('serviceIndex'), 10) || 0;
-      setActiveService(serviceIndex);
-    }
-  }, [serviceId, searchParams]);
+    const normalizedCategoryKey = normalizeKey(id);
 
-  const handleClick = (index) => {
+    if(serviceId){
+      handleSetName(serviceId);
+    }
+
+    if (normalizedServices[serviceId]) {
+      const { service, category } = findServiceAndCategoryById(normalizedServices[serviceId], serviceId, id);
+      setCurrentService(service);
+      setCurrentCategory(5);
+      setCurrentServices(service ? normalizedServices[serviceId] : []);
+    } else {
+      const targetId = serviceId;
+      let foundEntry = null;
+      let foundKey = null;
+      let foundArr = null;
+
+      for (const [key, arr] of Object.entries(normalizedServices)) {
+        if (Array.isArray(arr)) {
+          const index = arr.findIndex(item => item.id === targetId);
+          if (index !== -1) {
+            foundEntry = arr[index];
+            foundKey = key;
+            foundArr = arr;
+            setActiveService(index);
+            break;
+          }
+        }
+      }
+
+      if (foundEntry) {
+        setCurrentCategory(normalizedCategoryKey);
+        setCurrentServices(foundArr);
+        setCurrentService(foundArr[activeService]);
+      }
+    }
+  }, [id, serviceId, normalizedServices, activeService]);
+
+  const handleClick = (index, service) => {
     setActiveService(index);
-    const newUrl = `/corporate?id=${rawServiceId}&serviceIndex=${index}`;
+    const newUrl = `/corporate-services/${service.id}`;
     navigate(newUrl);
   };
 
-  // Get the current service array
-  const currentServices = services[serviceId] || [];
-
   const isMobile = window.innerWidth <= 768;
-  const shareUrl = `${window.location.origin}/corporate?id=${rawServiceId}`;
+  const shareUrl = `${window.location.origin}/corporate-services/${id}`;
 
   return (
     <section className="why-choose-us-sec te-pt-70 te-pb-50 te-md-pt-60 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
@@ -76,7 +133,7 @@ const CorporateContent = ({ handleSetName }) => {
             <div className="mobile-service-select">
               <select
                 value={activeService}
-                onChange={(e) => handleClick(Number(e.target.value))}
+                onChange={(e) => handleClick(Number(e.target.value), currentServices[Number(e.target.value)])}
               >
                 <option value="">Select a service</option>
                 {currentServices.map((service, index) => (
@@ -94,7 +151,7 @@ const CorporateContent = ({ handleSetName }) => {
                   <ServiceCard
                     key={index}
                     service={service.Service}
-                    onClick={() => handleClick(index)}
+                    onClick={() => handleClick(index, service)}
                     showDetails={activeService === index}
                   />
                 ))}
@@ -130,7 +187,7 @@ const CorporateContent = ({ handleSetName }) => {
             </div>
             <div>
               <ContactForm 
-                heading={'Get in touch'} 
+                heading={'Get in touch with us'} 
                 description={`We're here to help you navigate the process seamlessly. Fill out the form below to get started on your path to success`} 
               />
               <div className="service-content">

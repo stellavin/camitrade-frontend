@@ -1,15 +1,17 @@
 import React, { useState } from 'react';
-import FeatureData from '../jsonData/ServiceMainData.json'
 import SingleService from './SingleService';
 import AllCorporateData from '../jsonData/CorporateMainData.json';
-import { useLocation } from 'react-router-dom';
+import { useLocation, useParams } from 'react-router-dom';
 import LicenseData from '../jsonData/licensingData.json'
+import OtherServicesData from '../jsonData/OtherServicesData.json'
 
 const ServiceFeature = ({setServiceName}) => {
     console.log('here ==========');
     const location = useLocation();
-    const searchParams = new URLSearchParams(location.search);
-    const serviceId = searchParams.get('id');
+    const { id } = useParams(); // Get ID from path parameter
+    
+    // Handle the service ID without any transformation for direct matches
+    const serviceId = id || location.pathname.split('/').pop();
     console.log('get data ==========', serviceId);
     setServiceName(serviceId);
 
@@ -26,44 +28,44 @@ const ServiceFeature = ({setServiceName}) => {
                         <div className="col-lg-6 offset-lg-3 text-center">
                             <div className="sec-title">
                             {
-                            serviceId === 'Other_services' && (
+                            serviceId === 'other-services' && (
                                 <h1>Our Other Services</h1>
                             )}
                              {
-                            serviceId === 'Licensing' && (
+                            serviceId === 'licensing' && (
                                 <h1>Our Licensing Services</h1>
                             )}
                              {
-                            serviceId === 'Corporate' && (
+                            serviceId === 'corporate' && (
                                 <h1>Our Corporate Services</h1>
                             )}   
                             </div>
                         </div>
                     </div>
                     {
-                    serviceId === 'Licensing' && (
+                    serviceId === 'licensing' && (
                         <div className="row">
                             {LicenseData.map(service =>
-                                <SingleService  type="Licensing" service={service} key={service.id} />
+                                <SingleService  type="licensing" service={service} key={service.id} />
                             )}
                         </div>
                     )
                    }
                    {
-                    serviceId === 'Other_services' && (
+                    (serviceId === 'other-services') && (
                         <div className="row">
-                            {FeatureData.map(service =>
-                                <SingleService service={service} key={service.id} />
+                            {OtherServicesData.map(service =>
+                                <SingleService type="other-services" service={service} key={service.id} />
                             )}
                         </div>
                     )
                    }
 
-{
-                    serviceId === 'Corporate' && (
+                   {
+                    serviceId === 'corporate' && (
                         <div className="row">
                             {AllCorporateData.map(service =>
-                                <SingleService type="Corporate" service={service} key={service.id} />
+                                <SingleService type="corporate" service={service} key={service.id} />
                             )}
                         </div>
                     )
