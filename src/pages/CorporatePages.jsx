@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import Header from '../components/Header';
 import Breadcrumbs from '../components/Breadcrumbs';
@@ -19,11 +18,11 @@ const CorporateServices = () => {
     return (
         <>
            <CanonicalHeaders
-               title ={`${toSentenceCase(serviceName)} 2025`}
-               description ={`${toSentenceCase(serviceName)} 2025: Explore how to obtain ${toSentenceCase(serviceName)}: learn about the advantages, requirements and process. Contact us to find out more`}
+               title ={`${toSentenceCase(serviceName)} | Global Business Solutions`}
+               description ={`Get expert guidance on ${toSentenceCase(serviceName)}. Fast, reliable service with 100% compliance. Start your application today and get professional support.`}
             />
             <Header />
-            <Breadcrumbs pageTitle={serviceName.replace(/_/g, ' ')}/>
+            <Breadcrumbs pageTitle={toSentenceCase(serviceName)}/>
             <CorporateContent handleSetName={setServiceName}/>
             <Footer />
         </>
