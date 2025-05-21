@@ -9,8 +9,8 @@ const Jurisdictions = () => {
     return (
         <>
             <CanonicalHeaders
-                title ="Jurisdictions | Global Incorporation and administration services"
-                description ="Camitrade Investment Fiduciaries offer Global Solutions For Businesses And Individuals Looking to go Global"
+                title ="Global Jurisdictions | International Business Incorporation Services"
+                description ="Explore our comprehensive global jurisdiction services. We provide expert guidance for international business incorporation, administration, and compliance across multiple jurisdictions worldwide."
             />
             <Header />
             <Breadcrumbs pageTitle="Jurisdictions" />

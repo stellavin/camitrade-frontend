@@ -8,8 +8,8 @@ import CanonicalHeaders from '../components/CanonicalHeaders';
 const PaymentsPage = () => {
     return (
         <> <CanonicalHeaders
-        title ="About Us | We ensure legal compliance and sustainable growth."
-        description ="Camitrade Fiduciaries provides global company incorporation and administration services, Licensing services and Payment solutions"
+        title ="Global Payment Solutions | Secure Business Transactions"
+        description ="Access our comprehensive payment solutions for international business. We offer secure, efficient, and compliant payment processing services tailored to your global business needs."
         />
             <Header />
             <Breadcrumbs pageTitle="Payments" />

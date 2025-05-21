@@ -10,10 +10,9 @@ import CanonicalHeaders from '../components/CanonicalHeaders';
 const About = () => {
     return (
         <>
-           
             <CanonicalHeaders
-            title ="About Us | We ensure legal compliance and sustainable growth."
-            description ="Camitrade Fiduciaries provides global company incorporation and administration services, Licensing services and Payment solutions"
+            title ="About Camitrade Fiduciaries | Your Trusted Global Business Partner"
+            description ="Discover how Camitrade Fiduciaries delivers excellence in global business solutions. We specialize in company incorporation, licensing services, and comprehensive payment solutions with a focus on compliance and growth."
             />
             <Header />
             <Breadcrumbs pageTitle="About Us" />
