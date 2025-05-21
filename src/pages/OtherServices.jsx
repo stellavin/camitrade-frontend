@@ -7,15 +7,21 @@ import CanonicalHeaders from '../components/CanonicalHeaders';
 
 const OtherServices = () => {
     const [serviceName, setServiceName]=useState('Other Services');
-
+    const toSentenceCase = (str) => {
+        return str.replace(/_/g, " ")
+            .toLowerCase()
+            .split(' ')
+            .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+            .join(' ');
+    };
     return (
         <>
         <CanonicalHeaders
-                title ={`We Offer ${serviceName.replace(/_/g, " ")} Services`}
-                description ={`Camitrade Fiduciaries Offers ${serviceName.replace(/_/g, " ")} Services Globally | Mauritius | Seychelles | South Africa | Dubai| UAE | Cook Islands | Curacao`}
+               title ={`${toSentenceCase(serviceName)} | Professional Business Solutions`}
+               description ={`Get expert guidance on ${toSentenceCase(serviceName)}. Fast, reliable service with 100% compliance. Start your application today and get professional support.`}
             />
             <Header />
-            <Breadcrumbs pageTitle={serviceName.replace(/_/g, ' ')}/>
+            <Breadcrumbs pageTitle={toSentenceCase(serviceName)}/>
             <ServiceList handleSetName={setServiceName}/>
             <Footer />
         </>

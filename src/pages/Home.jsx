@@ -14,8 +14,8 @@ const   Home = () => {
     return (
         <>
             <CanonicalHeaders
-            title ="Fiduciary & Licenses Services - Camitrade Services Registrars"
-            description ="Camitrade Fiduciaries Limited is licensed globally by Financial Services Authority for Trust & Corporate Services"
+            title ="Global Fiduciary & Licensing Services | Camitrade Fiduciaries"
+            description ="Trusted global fiduciary services provider offering comprehensive licensing, corporate services, and business solutions. Licensed by Financial Services Authority for Trust & Corporate Services."
             />
             <Header />
             <BannerSlider/>

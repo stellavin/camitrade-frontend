@@ -11,8 +11,8 @@ const   Offers = () => {
     return (
         <>
         <CanonicalHeaders
-                title ="Offers |Licences |kenya |Labuan |Seychelles |SA |Mauritius |Belize"
-                description ="Camitrade Fiduciaries offers global licensing services covering brokers/forex, bank opening, mutual funds, cryptocurrencies, and digital assets."
+                title ="Licensing Solutions | Global Financial Services & Trading Licenses"
+                description ="Explore our comprehensive licensing solutions across multiple jurisdictions including Kenya, Labuan, Seychelles, South Africa, Mauritius, and Belize. Specializing in brokers/forex, banking, mutual funds, and digital asset licenses."
             />
             <Header />
             <Breadcrumbs pageTitle='CamiTrade Offers'/>
