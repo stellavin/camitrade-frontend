@@ -12,7 +12,7 @@ const About = () => {
         <>
             <CanonicalHeaders
             title ="About Camitrade Fiduciaries | Your Trusted Global Business Partner"
-            description ="Discover how Camitrade Fiduciaries delivers excellence in global business solutions. We specialize in company incorporation, licensing services, and comprehensive payment solutions with a focus on compliance and growth."
+            description ="Discover how we deliver excellence in global business solutions. We specialize in company incorporation, licensing services, and comprehensive payment solutions with a focus on compliance and growth."
             />
             <Header />
             <Breadcrumbs pageTitle="About Us" />
