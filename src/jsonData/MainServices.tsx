@@ -8474,101 +8474,180 @@ const Brokarage14 =(
 const Brokarage15 =(
   <>
   <div>
-  <h2>MAURITIUS INVESTMENT DEALER LICENSE</h2>
-  <p>
-    The Republic of Mauritius is an island nation in the Indian Ocean about 2,000 kilometres
-    (1,200 mi) off the southeast coast of the African continent. Financial services are one of the
-    growing sectors of the economy. Mauritius has an outsize offshore sector which it built on a
-    low tax regime and extensive treaty network. Mauritius accounted for 42 percent of India's
-    foreign direct investment between 2000 and 2011.
-  </p>
-  <p>
-    An Investment Dealer license provides permission to its holder to establish a trading
-    platform in Mauritius and trade securities and similar products on behalf of clients.
-  </p>
-  <h3>About License</h3>
-  <p>
-    The Securities Act 2005 coupled with the Securities (licensing) Rules 2007 are the main legal
-    framework governing the provisions and setting the parameters within which a GBC 1 with
-    an Investment Dealer license can operate. Application for Investment Dealer license must be
-    made under a Category 1 Global Business Company and license is granted subject to the
-    approval of the Financial Services Commission.
-  </p>
-  <h3>Mauritius Investment Dealer License categories:</h3>
-  <ol>
-    <li>
-      Full-Service Dealer (Including Underwriting):
-      <p>
-        Such license allows the licensee to trade in securities as principal with the intention of
-        reselling these securities to the public, to underwrite or distribute securities on behalf of an
-        issuer or a holder, to give investment advice which is ancillary to the normal course of its
-        business activities and to manage portfolio of clients.
-      </p>
-      <p>
-        Minimum unimpaired stated capital of MUR 10 million or an equivalent amount in a major
-        currency and shall have a Professional Indemnity cover that varies with the volume of
-        activities and risk of its business.
-      </p>
-    </li>
-    <li>
-      Full-Service Dealer (Excluding Underwriting):
-      <p>
-        As opposed to the Full-Service Dealer Including underwriting, this category of licence does
-        not allow the licensee to underwrite or distribute securities on behalf of an issuer or a
-        holder.
-      </p>
-      <p>
-        Minimum unimpaired stated capital of MUR 1 million always or equivalent amount in a
-        major currency. The licensee is also requested to have a Professional Indemnity cover that
-        varies with the volume of activities and risk of its business.
-      </p>
-    </li>
-    <li>
-      Investment Dealer - Broker:
-      <p>
-        An Investment Dealer - Broker licence allows the licensee to execute orders for its clients, to
-        manage portfolio of clients and to give advice on securities transactions to its clients.
-      </p>
-      <p>
-        Minimum unimpaired stated capital of MUR 700,000 or equivalent in any major transaction
-        and it should also comply with the minimum competency standard requirements for its
-        representatives and officers.
-      </p>
-    </li>
-    <li>
-      Investment Dealer – Discount Broker:
-      <p>
-        An investment Dealer – Discount Broker is authorized to execute orders for clients without
-        giving advice.
-      </p>
-      <p>
-        Minimum unimpaired stated capital of MUR 600,000 at all times or equivalent amount in a
-        major currency.
-      </p>
-    </li>
-    <li>
-      Investment Dealer (Commodity Derivatives Segment):
-      <p>
-        An Investment Dealer (Commodity Derivatives Segment) is authorised to act as broker in
-        Commodity Derivatives only.
-      </p>
-      <p>
-        Minimum unimpaired stated capital of MUR 1 million always or equivalent amount in a
-        major currency.
-      </p>
-    </li>
-    <li>
-      Investment Dealer (Currency Derivatives Segment):
-      <p>
-        An Investment Dealer (Currency Derivatives Segment) is authorized to act as broker in
-        Currency Derivatives only.
-      </p>
-      <p>
-        Minimum unimpaired stated capital of MUR 1 million at all times or equivalent amount in a
-        major currency.
-      </p>
-    </li>
-  </ol>
+  <h1>Mauritius Investment Dealer License - Get Licensed in 30-45 Days | #1 Choice for Global Investors</h1>
+  <div className="hero-section">
+    <p className="hero-subtitle">
+      <strong>✅ Fastest Processing | ✅ Lowest Capital Requirements | ✅ Global Market Access</strong>
+    </p>
+    <p>
+      <strong>Mauritius Investment Dealer License</strong> is your gateway to one of the world's most prestigious financial jurisdictions. 
+      The Republic of Mauritius, strategically located in the Indian Ocean, has become the #1 choice for international investors 
+      seeking a <strong>low-tax, high-compliance</strong> financial services hub. With 42% of India's foreign direct investment 
+      flowing through Mauritius between 2000-2011, this jurisdiction offers unparalleled opportunities.
+    </p>
+    <p>
+      <strong>Why Choose Mauritius Investment Dealer License?</strong> Our clients get licensed in just 30-45 days with 
+      capital requirements starting from just $15,000 USD. Access global markets, enjoy tax benefits, and build your 
+      investment empire with the most trusted offshore financial license available.
+    </p>
+    <div className="hero-cta">
+      <button className="cta-button primary large">Start Your License Application Now</button>
+      <button className="cta-button outline">Download Free License Guide</button>
+    </div>
+  </div>
+  <h2>📋 Mauritius Investment Dealer License Requirements & Legal Framework</h2>
+  <div className="legal-framework">
+    <p>
+      <strong>Regulatory Excellence:</strong> The Mauritius Investment Dealer License operates under the robust 
+      <strong>Securities Act 2005</strong> and <strong>Securities (Licensing) Rules 2007</strong>, ensuring 
+      international compliance and credibility. This legal framework provides the perfect balance of 
+      <strong>flexibility and oversight</strong> that global investors demand.
+    </p>
+    <p>
+      <strong>Application Process:</strong> All applications must be submitted through a 
+      <strong>Category 1 Global Business Company (GBC1)</strong> structure, with final approval granted by 
+      the <strong>Financial Services Commission (FSC)</strong> - one of the most respected financial regulators globally.
+    </p>
+    <div className="compliance-highlights">
+      <h4>🏛️ Why FSC Approval Matters:</h4>
+      <ul>
+        <li>✅ Internationally recognized regulatory standards</li>
+        <li>✅ FATF compliant jurisdiction</li>
+        <li>✅ OECD white-listed status</li>
+        <li>✅ Access to 40+ double taxation treaties</li>
+        <li>✅ EU passporting rights for financial services</li>
+      </ul>
+    </div>
+  </div>
+  <h2>🏆 6 Types of Mauritius Investment Dealer License - Choose Your Perfect Match</h2>
+  <p><strong>Get your Mauritius Investment Dealer License in 30-45 days with our expert guidance!</strong> Each license type offers unique advantages for different business models. Discover which one fits your investment strategy and start your application today.</p>
+  
+  <div className="license-comparison">
+    <div className="license-card premium">
+      <h3>🥇 Full-Service Dealer License (Including Underwriting) - Premium Choice</h3>
+      <div className="license-badge">MOST POPULAR</div>
+      <p><strong>Perfect for:</strong> Established investment firms seeking maximum market access and revenue opportunities.</p>
+      <p><strong>What you can do:</strong></p>
+      <ul>
+        <li>✅ Trade securities as principal with resale to public</li>
+        <li>✅ Underwrite and distribute securities for issuers</li>
+        <li>✅ Provide comprehensive investment advice</li>
+        <li>✅ Manage client portfolios professionally</li>
+        <li>✅ Access to all major financial markets</li>
+      </ul>
+      <div className="capital-requirement">
+        <strong>💰 Capital Required:</strong> MUR 10 million (≈$250,000 USD) + Professional Indemnity Insurance
+      </div>
+      <div className="cta-section">
+        <button className="cta-button primary">Get This License - Start Application</button>
+        <p className="urgency-text">⚡ Fast-track processing available</p>
+      </div>
+    </div>
+
+    <div className="license-card standard">
+      <h3>🥈 Full-Service Dealer License (Excluding Underwriting) - Standard Choice</h3>
+      <p><strong>Perfect for:</strong> Investment firms wanting full trading capabilities without underwriting responsibilities.</p>
+      <p><strong>What you can do:</strong></p>
+      <ul>
+        <li>✅ Trade securities as principal</li>
+        <li>✅ Provide investment advice</li>
+        <li>✅ Manage client portfolios</li>
+        <li>❌ Cannot underwrite or distribute securities</li>
+      </ul>
+      <div className="capital-requirement">
+        <strong>💰 Capital Required:</strong> MUR 1 million (≈$25,000 USD) + Professional Indemnity Insurance
+      </div>
+      <div className="cta-section">
+        <button className="cta-button secondary">Choose This License</button>
+        <p className="benefit-text">💡 Lower capital requirement, same trading power</p>
+      </div>
+    </div>
+
+    <div className="license-card broker">
+      <h3>🥉 Investment Dealer - Broker License - Service Focused</h3>
+      <p><strong>Perfect for:</strong> Client-focused investment advisory and portfolio management services.</p>
+      <p><strong>What you can do:</strong></p>
+      <ul>
+        <li>✅ Execute client orders efficiently</li>
+        <li>✅ Manage client portfolios professionally</li>
+        <li>✅ Provide expert securities transaction advice</li>
+        <li>✅ Build long-term client relationships</li>
+      </ul>
+      <div className="capital-requirement">
+        <strong>💰 Capital Required:</strong> MUR 700,000 (≈$17,500 USD) + Competency Standards
+      </div>
+      <div className="cta-section">
+        <button className="cta-button secondary">Select Broker License</button>
+        <p className="benefit-text">🎯 Ideal for advisory-focused businesses</p>
+      </div>
+    </div>
+
+    <div className="license-card discount">
+      <h3>💼 Investment Dealer - Discount Broker License - Cost Effective</h3>
+      <p><strong>Perfect for:</strong> Online trading platforms and cost-conscious investment services.</p>
+      <p><strong>What you can do:</strong></p>
+      <ul>
+        <li>✅ Execute client orders without advice</li>
+        <li>✅ Focus on transaction execution</li>
+        <li>✅ Lower operational costs</li>
+        <li>❌ Cannot provide investment advice</li>
+      </ul>
+      <div className="capital-requirement">
+        <strong>💰 Capital Required:</strong> MUR 600,000 (≈$15,000 USD)
+      </div>
+      <div className="cta-section">
+        <button className="cta-button secondary">Get Discount License</button>
+        <p className="benefit-text">💸 Most affordable entry point</p>
+      </div>
+    </div>
+
+    <div className="license-card commodity">
+      <h3>🌾 Investment Dealer (Commodity Derivatives) - Specialized Trading</h3>
+      <p><strong>Perfect for:</strong> Firms specializing in commodity trading and derivatives.</p>
+      <p><strong>What you can do:</strong></p>
+      <ul>
+        <li>✅ Trade commodity derivatives exclusively</li>
+        <li>✅ Access global commodity markets</li>
+        <li>✅ Specialize in agricultural, energy, metals trading</li>
+        <li>❌ Limited to commodity derivatives only</li>
+      </ul>
+      <div className="capital-requirement">
+        <strong>💰 Capital Required:</strong> MUR 1 million (≈$25,000 USD)
+      </div>
+      <div className="cta-section">
+        <button className="cta-button secondary">Choose Commodity License</button>
+        <p className="benefit-text">🌍 Access to global commodity markets</p>
+      </div>
+    </div>
+
+    <div className="license-card currency">
+      <h3>💱 Investment Dealer (Currency Derivatives) - Forex Specialized</h3>
+      <p><strong>Perfect for:</strong> Forex trading firms and currency market specialists.</p>
+      <p><strong>What you can do:</strong></p>
+      <ul>
+        <li>✅ Trade currency derivatives exclusively</li>
+        <li>✅ Access global forex markets</li>
+        <li>✅ Specialize in currency trading strategies</li>
+        <li>❌ Limited to currency derivatives only</li>
+      </ul>
+      <div className="capital-requirement">
+        <strong>💰 Capital Required:</strong> MUR 1 million (≈$25,000 USD)
+      </div>
+      <div className="cta-section">
+        <button className="cta-button secondary">Get Currency License</button>
+        <p className="benefit-text">💹 Perfect for forex specialists</p>
+      </div>
+    </div>
+  </div>
+
+  <div className="license-summary">
+    <h3>🎯 Which License is Right for You?</h3>
+    <p><strong>Not sure which license fits your business model?</strong> Our experts will analyze your requirements and recommend the perfect license type. Get a <strong>free consultation</strong> and detailed comparison within 24 hours.</p>
+    <div className="summary-cta">
+      <button className="cta-button primary large">Get Free License Consultation</button>
+      <button className="cta-button outline">Compare All Licenses Side-by-Side</button>
+    </div>
+  </div>
   <h2>Mauritius Investment Dealer License Legal requirements</h2>
   <table>
     <thead>
@@ -23843,6 +23922,7 @@ const mutualFund40 = (
 
 
 const LicensingServices = {
+
   Forex_Brokerage_licences: [
     {
       Service: "Forex Brokerage Licences",
@@ -24038,11 +24118,6 @@ const LicensingServices = {
       Service: "Labuan Money Broking License",
       Content: Brokarage14,
       id: "labuan-money-broking-license"
-    },
-    {
-      Service: "Mauritius investment dealer license",
-      Content: Brokarage15,
-      id: "mauritius-investment-dealer-license"
     },
     {
       Service: "Montserrat Securities Exchange License",
@@ -24406,6 +24481,11 @@ const LicensingServices = {
       Service: "Labuan Public Fund license",
       Content: mutualFund22,
       id: "labuan-public-fund-license"
+    },
+    {
+      Service: "Mauritius Investment Dealer License",
+      Content: Brokarage15,
+      id: "mauritius-investment-dealer-license"
     },
     {
       Service: "Mauritius Closed End Fund (CEF) License",
