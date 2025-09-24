@@ -68,6 +68,10 @@ const LicensingServices = () => {
             if (serviceData.Service === "Seychelles Virtual Asset Service Provider License") {
                 return "Seychelles VASP License 2025 | Crypto Exchange License | FSA Regulated";
             }
+            // Special optimization for Kenya Non Dealing Online Foreign Exchange License
+            if (serviceData.Service === "Kenya Capital Markets Securities Licenses (Non-Dealing Online Foreign Exchange Broker License)") {
+                return "Kenya Forex Broker License 2025 | Non Dealing Online FX License | CMA Regulated";
+            }
             return `${serviceData.Service} | Expert Licensing Solutions - Camitrade`;
         }
         return `${toSentenceCase(serviceName)} | Expert Licensing Solutions`;
@@ -90,6 +94,10 @@ const LicensingServices = () => {
             // Special optimization for Seychelles Virtual Asset Service Provider License
             if (serviceData.Service === "Seychelles Virtual Asset Service Provider License") {
                 return "Seychelles VASP License for crypto exchanges and digital asset services. FSA regulated, progressive framework for virtual assets. Operate crypto, DeFi, NFT services globally.";
+            }
+            // Special optimization for Kenya Non Dealing Online Foreign Exchange License
+            if (serviceData.Service === "Kenya Capital Markets Securities Licenses (Non-Dealing Online Foreign Exchange Broker License)") {
+                return "Kenya Forex Broker License for online foreign exchange trading. CMA regulated, 1:400 leverage, KES 30M capital requirement. Operate forex trading platforms in East Africa.";
             }
             // Create a more specific description for other services (optimized for 150-160 chars)
             return `Expert ${serviceData.Service} guidance. 100% compliant, 30-45 day processing. Get licensed with Camitrade's professional support.`;
