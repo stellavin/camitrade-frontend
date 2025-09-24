@@ -16,6 +16,8 @@ import { Helmet } from 'react-helmet';
 import { ToastContainer } from 'react-toastify';
 import ScrollUpBtn from './components/ScrollUpBtn';
 import PreLoader from './components/PreLoader';
+import WhatsAppFloat from './components/WhatsAppFloat';
+import WhatsAppTopLeft from './components/WhatsAppTopLeft';
 
 // Lazy-loaded components
 const Home = React.lazy(() => import('./pages/Home'));
@@ -77,6 +79,8 @@ function App() {
           </Suspense>
 
           <ScrollUpBtn />
+          <WhatsAppFloat />
+          <WhatsAppTopLeft />
           <ToastContainer />
         </div>
       )}
