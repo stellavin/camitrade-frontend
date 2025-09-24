@@ -80,6 +80,14 @@ const LicensingServices = () => {
             if (serviceData.Service === "Vanuatu Securities Dealer License") {
                 return "Vanuatu Securities Dealer License 2025 | Securities Trading License | VFSC Regulated";
             }
+            // Special optimization for Seychelles International Business Company
+            if (serviceData.Service === "Seychelles International Business Company (IBC)") {
+                return "Seychelles IBC Registration 2025 | International Business Company | Zero Tax";
+            }
+            // Special optimization for BVI International Business Company
+            if (serviceData.Service === "British Virgin Islands International Business Company (IBC)") {
+                return "BVI IBC Registration 2025 | International Business Company | Premier Offshore";
+            }
             return `${serviceData.Service} | Expert Licensing Solutions - Camitrade`;
         }
         return `${toSentenceCase(serviceName)} | Expert Licensing Solutions`;
@@ -114,6 +122,14 @@ const LicensingServices = () => {
             // Special optimization for Vanuatu Securities Dealer License
             if (serviceData.Service === "Vanuatu Securities Dealer License") {
                 return "Vanuatu Securities Dealer License for securities trading and forex operations. VFSC regulated, $50K capital requirement, 20-year tax exemption. Operate securities dealing in Pacific region.";
+            }
+            // Special optimization for Seychelles International Business Company
+            if (serviceData.Service === "Seychelles International Business Company (IBC)") {
+                return "Seychelles IBC registration for international business operations. Zero corporate tax, unparalleled privacy, 1-day incorporation. Register international business company in Seychelles.";
+            }
+            // Special optimization for BVI International Business Company
+            if (serviceData.Service === "British Virgin Islands International Business Company (IBC)") {
+                return "BVI IBC registration for international business operations. Premier offshore jurisdiction, zero corporate tax, 2-day incorporation. Register international business company in BVI.";
             }
             // Create a more specific description for other services (optimized for 150-160 chars)
             return `Expert ${serviceData.Service} guidance. 100% compliant, 30-45 day processing. Get licensed with Camitrade's professional support.`;
