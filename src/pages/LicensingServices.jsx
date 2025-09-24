@@ -54,7 +54,7 @@ const LicensingServices = () => {
         if (serviceData) {
             // Special optimization for Seychelles Securities Dealer License
             if (serviceData.Service === "Seychelles Securities Dealer Licence") {
-                return "Seychelles Securities Dealer License 2025 | #1 Fast Approval | Camitrade";
+                return "Seychelles Securities Dealer License - Trading License with $50K Capital";
             }
             // Special optimization for Mauritius Payment Intermediary Service License
             if (serviceData.Service === "Mauritius Payment Intermediary Service License") {
@@ -69,7 +69,7 @@ const LicensingServices = () => {
         if (serviceData) {
             // Special optimization for Seychelles Securities Dealer License
             if (serviceData.Service === "Seychelles Securities Dealer Licence") {
-                return "Get Seychelles Securities Dealer License in 30 days. Low capital $50K. Trade stocks, bonds, forex. #1 fastest approval service.";
+                return "Seychelles Securities Dealer License for trading operations. $50K capital requirement, 30-day processing. Trade stocks, bonds, forex, and cryptocurrencies globally.";
             }
             // Special optimization for Mauritius Payment Intermediary Service License
             if (serviceData.Service === "Mauritius Payment Intermediary Service License") {
