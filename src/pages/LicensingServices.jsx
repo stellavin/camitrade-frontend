@@ -52,6 +52,10 @@ const LicensingServices = () => {
     // Generate SEO title and description
     const getSEOTitle = () => {
         if (serviceData) {
+            // Special optimization for Seychelles Securities Dealer License
+            if (serviceData.Service === "Seychelles Securities Dealer Licence") {
+                return "Seychelles Securities Dealer License 2025 | #1 Fast Approval | Camitrade";
+            }
             return `${serviceData.Service} | Expert Licensing Solutions - Camitrade`;
         }
         return `${toSentenceCase(serviceName)} | Expert Licensing Solutions`;
@@ -59,7 +63,11 @@ const LicensingServices = () => {
 
     const getSEODescription = () => {
         if (serviceData) {
-            // Create a more specific description for the service (optimized for 150-160 chars)
+            // Special optimization for Seychelles Securities Dealer License
+            if (serviceData.Service === "Seychelles Securities Dealer Licence") {
+                return "Get Seychelles Securities Dealer License in 30 days. Low capital $50K. Trade stocks, bonds, forex. #1 fastest approval service.";
+            }
+            // Create a more specific description for other services (optimized for 150-160 chars)
             return `Expert ${serviceData.Service} guidance. 100% compliant, 30-45 day processing. Get licensed with Camitrade's professional support.`;
         }
         return `Expert ${toSentenceCase(serviceName)} guidance. Fast, reliable service with 100% compliance. Professional support available.`;
