@@ -52,6 +52,22 @@ const LicensingServices = () => {
     // Generate SEO title and description
     const getSEOTitle = () => {
         if (serviceData) {
+            // Special optimization for Seychelles Securities Dealer License
+            if (serviceData.Service === "Seychelles Securities Dealer Licence") {
+                return "Seychelles Securities Dealer License - Trading License with $50K Capital";
+            }
+            // Special optimization for Mauritius Payment Intermediary Service License
+            if (serviceData.Service === "Mauritius Payment Intermediary Service License") {
+                return "Mauritius Payment Intermediary Service License - PSP License with 3% Tax Rate";
+            }
+            // Special optimization for Mauritius Virtual Asset Service Provider License
+            if (serviceData.Service === "Mauritius Virtual Asset Service Provider License") {
+                return "Mauritius VASP License 2025 | Crypto Exchange License | FSC Regulated";
+            }
+            // Special optimization for Seychelles Virtual Asset Service Provider License
+            if (serviceData.Service === "Seychelles Virtual Asset Service Provider License") {
+                return "Seychelles VASP License 2025 | Crypto Exchange License | FSA Regulated";
+            }
             return `${serviceData.Service} | Expert Licensing Solutions - Camitrade`;
         }
         return `${toSentenceCase(serviceName)} | Expert Licensing Solutions`;
@@ -59,7 +75,23 @@ const LicensingServices = () => {
 
     const getSEODescription = () => {
         if (serviceData) {
-            // Create a more specific description for the service (optimized for 150-160 chars)
+            // Special optimization for Seychelles Securities Dealer License
+            if (serviceData.Service === "Seychelles Securities Dealer Licence") {
+                return "Seychelles Securities Dealer License for trading operations. $50K capital requirement, 30-day processing. Trade stocks, bonds, forex, and cryptocurrencies globally.";
+            }
+            // Special optimization for Mauritius Payment Intermediary Service License
+            if (serviceData.Service === "Mauritius Payment Intermediary Service License") {
+                return "Mauritius Payment Intermediary Service License for PSP operations. 3% tax rate, MUR 500K capital requirement. Process payments, cards, and remittance services globally.";
+            }
+            // Special optimization for Mauritius Virtual Asset Service Provider License
+            if (serviceData.Service === "Mauritius Virtual Asset Service Provider License") {
+                return "Mauritius VASP License for crypto exchanges and digital asset services. FSC regulated, clear framework for virtual assets. Operate crypto, DeFi, NFT services globally.";
+            }
+            // Special optimization for Seychelles Virtual Asset Service Provider License
+            if (serviceData.Service === "Seychelles Virtual Asset Service Provider License") {
+                return "Seychelles VASP License for crypto exchanges and digital asset services. FSA regulated, progressive framework for virtual assets. Operate crypto, DeFi, NFT services globally.";
+            }
+            // Create a more specific description for other services (optimized for 150-160 chars)
             return `Expert ${serviceData.Service} guidance. 100% compliant, 30-45 day processing. Get licensed with Camitrade's professional support.`;
         }
         return `Expert ${toSentenceCase(serviceName)} guidance. Fast, reliable service with 100% compliance. Professional support available.`;

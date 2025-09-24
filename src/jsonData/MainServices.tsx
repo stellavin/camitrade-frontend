@@ -8474,181 +8474,185 @@ const Brokarage14 =(
 const Brokarage15 =(
   <>
   <div>
-  <h1>Mauritius Investment Dealer License - Get Licensed in 30-45 Days | #1 Choice for Global Investors</h1>
+  <h1>Mauritius Investment Dealer License - Investment Licensing in Mauritius</h1>
   <div className="hero-section">
-    <p className="hero-subtitle">
-      <strong>✅ Fastest Processing | ✅ Lowest Capital Requirements | ✅ Global Market Access</strong>
+    <p>
+      The <strong>Mauritius Investment Dealer License</strong> enables companies to operate as licensed investment dealers 
+      in one of Africa's most established financial centers. Mauritius, located in the Indian Ocean, has developed a 
+      reputation as a well-regulated jurisdiction with <strong>competitive capital requirements starting at $15,000 USD</strong> 
+      and processing times typically ranging from <strong>30-45 days</strong>.
     </p>
     <p>
-      <strong>Mauritius Investment Dealer License</strong> is your gateway to one of the world's most prestigious financial jurisdictions. 
-      The Republic of Mauritius, strategically located in the Indian Ocean, has become the #1 choice for international investors 
-      seeking a <strong>low-tax, high-compliance</strong> financial services hub. With 42% of India's foreign direct investment 
-      flowing through Mauritius between 2000-2011, this jurisdiction offers unparalleled opportunities.
+      This license is particularly attractive for investment firms, asset managers, and financial services companies looking 
+      for legitimate licensing with international recognition. The jurisdiction has historically served as a gateway for 
+      international investment, with significant foreign direct investment flows through Mauritius, particularly from India 
+      and other emerging markets.
     </p>
     <p>
-      <strong>Why Choose Mauritius Investment Dealer License?</strong> Our clients get licensed in just 30-45 days with 
-      capital requirements starting from just $15,000 USD. Access global markets, enjoy tax benefits, and build your 
-      investment empire with the most trusted offshore financial license available.
+      What makes the Mauritius Investment Dealer License appealing is the combination of reasonable capital requirements, 
+      established regulatory framework under the Financial Services Commission (FSC), and access to global markets with 
+      favorable tax treatment for qualifying activities.
     </p>
     <div className="hero-cta">
-      <button className="cta-button primary large">Start Your License Application Now</button>
-      <button className="cta-button outline">Download Free License Guide</button>
+      <button className="cta-button primary large">Apply for Investment Dealer License</button>
+      <button className="cta-button outline">Download License Information</button>
     </div>
   </div>
-  <h2>📋 Mauritius Investment Dealer License Requirements & Legal Framework</h2>
+  <h2>Mauritius Investment Dealer License Requirements and Legal Framework</h2>
   <div className="legal-framework">
     <p>
-      <strong>Regulatory Excellence:</strong> The Mauritius Investment Dealer License operates under the robust 
-      <strong>Securities Act 2005</strong> and <strong>Securities (Licensing) Rules 2007</strong>, ensuring 
-      international compliance and credibility. This legal framework provides the perfect balance of 
-      <strong>flexibility and oversight</strong> that global investors demand.
+      The Mauritius Investment Dealer License is governed by the <strong>Securities Act 2005</strong> and 
+      <strong>Securities (Licensing) Rules 2007</strong>, which establish the legal framework for investment 
+      dealer activities in the jurisdiction. This regulatory structure provides clear guidelines for 
+      licensing requirements while maintaining oversight standards that meet international expectations.
     </p>
     <p>
-      <strong>Application Process:</strong> All applications must be submitted through a 
+      All applications for the Investment Dealer License must be submitted through a 
       <strong>Category 1 Global Business Company (GBC1)</strong> structure, with final approval granted by 
-      the <strong>Financial Services Commission (FSC)</strong> - one of the most respected financial regulators globally.
+      the <strong>Financial Services Commission (FSC)</strong>. The FSC serves as the primary financial regulator 
+      and maintains oversight of all licensed investment dealers operating in Mauritius.
     </p>
     <div className="compliance-highlights">
-      <h4>🏛️ Why FSC Approval Matters:</h4>
+      <h4>Regulatory Advantages of FSC Mauritius:</h4>
       <ul>
-        <li>✅ Internationally recognized regulatory standards</li>
-        <li>✅ FATF compliant jurisdiction</li>
-        <li>✅ OECD white-listed status</li>
-        <li>✅ Access to 40+ double taxation treaties</li>
-        <li>✅ EU passporting rights for financial services</li>
+        <li>Internationally recognized regulatory standards</li>
+        <li>FATF compliant jurisdiction</li>
+        <li>OECD white-listed status</li>
+        <li>Access to 40+ double taxation treaties</li>
+        <li>EU passporting rights for financial services</li>
       </ul>
     </div>
   </div>
-  <h2>🏆 6 Types of Mauritius Investment Dealer License - Choose Your Perfect Match</h2>
-  <p><strong>Get your Mauritius Investment Dealer License in 30-45 days with our expert guidance!</strong> Each license type offers unique advantages for different business models. Discover which one fits your investment strategy and start your application today.</p>
+  <h2>Types of Mauritius Investment Dealer Licenses</h2>
+  <p>The Mauritius Investment Dealer License is available in several different categories, each designed for specific types of investment activities. Understanding these different license types is important for selecting the one that best fits your business model and operational requirements.</p>
   
   <div className="license-comparison">
     <div className="license-card premium">
-      <h3>🥇 Full-Service Dealer License (Including Underwriting) - Premium Choice</h3>
-      <div className="license-badge">MOST POPULAR</div>
-      <p><strong>Perfect for:</strong> Established investment firms seeking maximum market access and revenue opportunities.</p>
-      <p><strong>What you can do:</strong></p>
+      <h3>Full-Service Dealer License (Including Underwriting)</h3>
+      <div className="license-badge">Most Comprehensive</div>
+      <p><strong>Suitable for:</strong> Established investment firms seeking maximum market access and revenue opportunities.</p>
+      <p><strong>Permitted Activities:</strong></p>
       <ul>
-        <li>✅ Trade securities as principal with resale to public</li>
-        <li>✅ Underwrite and distribute securities for issuers</li>
-        <li>✅ Provide comprehensive investment advice</li>
-        <li>✅ Manage client portfolios professionally</li>
-        <li>✅ Access to all major financial markets</li>
+        <li>Trade securities as principal with resale to public</li>
+        <li>Underwrite and distribute securities for issuers</li>
+        <li>Provide comprehensive investment advice</li>
+        <li>Manage client portfolios professionally</li>
+        <li>Access to all major financial markets</li>
       </ul>
       <div className="capital-requirement">
-        <strong>💰 Capital Required:</strong> MUR 10 million (≈$250,000 USD) + Professional Indemnity Insurance
+        <strong>Capital Required:</strong> MUR 10 million (approximately $250,000 USD) plus Professional Indemnity Insurance
       </div>
       <div className="cta-section">
-        <button className="cta-button primary">Get This License - Start Application</button>
-        <p className="urgency-text">⚡ Fast-track processing available</p>
+        <button className="cta-button primary">Apply for Full-Service License</button>
+        <p className="benefit-text">Most comprehensive trading capabilities</p>
       </div>
     </div>
 
     <div className="license-card standard">
-      <h3>🥈 Full-Service Dealer License (Excluding Underwriting) - Standard Choice</h3>
-      <p><strong>Perfect for:</strong> Investment firms wanting full trading capabilities without underwriting responsibilities.</p>
-      <p><strong>What you can do:</strong></p>
+      <h3>Full-Service Dealer License (Excluding Underwriting)</h3>
+      <p><strong>Suitable for:</strong> Investment firms wanting full trading capabilities without underwriting responsibilities.</p>
+      <p><strong>Permitted Activities:</strong></p>
       <ul>
-        <li>✅ Trade securities as principal</li>
-        <li>✅ Provide investment advice</li>
-        <li>✅ Manage client portfolios</li>
-        <li>❌ Cannot underwrite or distribute securities</li>
+        <li>Trade securities as principal</li>
+        <li>Provide investment advice</li>
+        <li>Manage client portfolios</li>
+        <li>Cannot underwrite or distribute securities</li>
       </ul>
       <div className="capital-requirement">
-        <strong>💰 Capital Required:</strong> MUR 1 million (≈$25,000 USD) + Professional Indemnity Insurance
+        <strong>Capital Required:</strong> MUR 1 million (approximately $25,000 USD) plus Professional Indemnity Insurance
       </div>
       <div className="cta-section">
-        <button className="cta-button secondary">Choose This License</button>
-        <p className="benefit-text">💡 Lower capital requirement, same trading power</p>
+        <button className="cta-button secondary">Apply for Standard License</button>
+        <p className="benefit-text">Lower capital requirement with comprehensive trading capabilities</p>
       </div>
     </div>
 
     <div className="license-card broker">
-      <h3>🥉 Investment Dealer - Broker License - Service Focused</h3>
-      <p><strong>Perfect for:</strong> Client-focused investment advisory and portfolio management services.</p>
-      <p><strong>What you can do:</strong></p>
+      <h3>Investment Dealer - Broker License</h3>
+      <p><strong>Suitable for:</strong> Client-focused investment advisory and portfolio management services.</p>
+      <p><strong>Permitted Activities:</strong></p>
       <ul>
-        <li>✅ Execute client orders efficiently</li>
-        <li>✅ Manage client portfolios professionally</li>
-        <li>✅ Provide expert securities transaction advice</li>
-        <li>✅ Build long-term client relationships</li>
+        <li>Execute client orders efficiently</li>
+        <li>Manage client portfolios professionally</li>
+        <li>Provide expert securities transaction advice</li>
+        <li>Build long-term client relationships</li>
       </ul>
       <div className="capital-requirement">
-        <strong>💰 Capital Required:</strong> MUR 700,000 (≈$17,500 USD) + Competency Standards
+        <strong>Capital Required:</strong> MUR 700,000 (approximately $17,500 USD) plus Competency Standards
       </div>
       <div className="cta-section">
-        <button className="cta-button secondary">Select Broker License</button>
-        <p className="benefit-text">🎯 Ideal for advisory-focused businesses</p>
+        <button className="cta-button secondary">Apply for Broker License</button>
+        <p className="benefit-text">Ideal for advisory-focused businesses</p>
       </div>
     </div>
 
     <div className="license-card discount">
-      <h3>💼 Investment Dealer - Discount Broker License - Cost Effective</h3>
-      <p><strong>Perfect for:</strong> Online trading platforms and cost-conscious investment services.</p>
-      <p><strong>What you can do:</strong></p>
+      <h3>Investment Dealer - Discount Broker License</h3>
+      <p><strong>Suitable for:</strong> Online trading platforms and cost-conscious investment services.</p>
+      <p><strong>Permitted Activities:</strong></p>
       <ul>
-        <li>✅ Execute client orders without advice</li>
-        <li>✅ Focus on transaction execution</li>
-        <li>✅ Lower operational costs</li>
-        <li>❌ Cannot provide investment advice</li>
+        <li>Execute client orders without advice</li>
+        <li>Focus on transaction execution</li>
+        <li>Lower operational costs</li>
+        <li>Cannot provide investment advice</li>
       </ul>
       <div className="capital-requirement">
-        <strong>💰 Capital Required:</strong> MUR 600,000 (≈$15,000 USD)
+        <strong>Capital Required:</strong> MUR 600,000 (approximately $15,000 USD)
       </div>
       <div className="cta-section">
-        <button className="cta-button secondary">Get Discount License</button>
-        <p className="benefit-text">💸 Most affordable entry point</p>
+        <button className="cta-button secondary">Apply for Discount License</button>
+        <p className="benefit-text">Most affordable entry point</p>
       </div>
     </div>
 
     <div className="license-card commodity">
-      <h3>🌾 Investment Dealer (Commodity Derivatives) - Specialized Trading</h3>
-      <p><strong>Perfect for:</strong> Firms specializing in commodity trading and derivatives.</p>
-      <p><strong>What you can do:</strong></p>
+      <h3>Investment Dealer (Commodity Derivatives)</h3>
+      <p><strong>Suitable for:</strong> Firms specializing in commodity trading and derivatives.</p>
+      <p><strong>Permitted Activities:</strong></p>
       <ul>
-        <li>✅ Trade commodity derivatives exclusively</li>
-        <li>✅ Access global commodity markets</li>
-        <li>✅ Specialize in agricultural, energy, metals trading</li>
-        <li>❌ Limited to commodity derivatives only</li>
+        <li>Trade commodity derivatives exclusively</li>
+        <li>Access global commodity markets</li>
+        <li>Specialize in agricultural, energy, metals trading</li>
+        <li>Limited to commodity derivatives only</li>
       </ul>
       <div className="capital-requirement">
-        <strong>💰 Capital Required:</strong> MUR 1 million (≈$25,000 USD)
+        <strong>Capital Required:</strong> MUR 1 million (approximately $25,000 USD)
       </div>
       <div className="cta-section">
-        <button className="cta-button secondary">Choose Commodity License</button>
-        <p className="benefit-text">🌍 Access to global commodity markets</p>
+        <button className="cta-button secondary">Apply for Commodity License</button>
+        <p className="benefit-text">Access to global commodity markets</p>
       </div>
     </div>
 
     <div className="license-card currency">
-      <h3>💱 Investment Dealer (Currency Derivatives) - Forex Specialized</h3>
-      <p><strong>Perfect for:</strong> Forex trading firms and currency market specialists.</p>
-      <p><strong>What you can do:</strong></p>
+      <h3>Investment Dealer (Currency Derivatives)</h3>
+      <p><strong>Suitable for:</strong> Forex trading firms and currency market specialists.</p>
+      <p><strong>Permitted Activities:</strong></p>
       <ul>
-        <li>✅ Trade currency derivatives exclusively</li>
-        <li>✅ Access global forex markets</li>
-        <li>✅ Specialize in currency trading strategies</li>
-        <li>❌ Limited to currency derivatives only</li>
+        <li>Trade currency derivatives exclusively</li>
+        <li>Access global forex markets</li>
+        <li>Specialize in currency trading strategies</li>
+        <li>Limited to currency derivatives only</li>
       </ul>
       <div className="capital-requirement">
-        <strong>💰 Capital Required:</strong> MUR 1 million (≈$25,000 USD)
+        <strong>Capital Required:</strong> MUR 1 million (approximately $25,000 USD)
       </div>
       <div className="cta-section">
-        <button className="cta-button secondary">Get Currency License</button>
-        <p className="benefit-text">💹 Perfect for forex specialists</p>
+        <button className="cta-button secondary">Apply for Currency License</button>
+        <p className="benefit-text">Specialized forex trading capabilities</p>
       </div>
     </div>
   </div>
 
   <div className="license-summary">
-    <h3>🎯 Which License is Right for You?</h3>
-    <p><strong>Not sure which license fits your business model?</strong> Our experts will analyze your requirements and recommend the perfect license type. Get a <strong>free consultation</strong> and detailed comparison within 24 hours.</p>
+    <h3>Selecting the Right License Type</h3>
+    <p>Choosing the appropriate license type depends on your specific business model, target market, and operational requirements. Each license category has different capital requirements, permitted activities, and regulatory obligations that should be carefully considered before application.</p>
     <div className="summary-cta">
-      <button className="cta-button primary large">Get Free License Consultation</button>
-      <button className="cta-button outline">Compare All Licenses Side-by-Side</button>
+      <button className="cta-button primary large">Request License Information</button>
+      <button className="cta-button outline">Compare License Types</button>
     </div>
   </div>
-  <h2>Mauritius Investment Dealer License Legal requirements</h2>
+  <h2>Mauritius Investment Dealer License Legal Requirements</h2>
   <table>
     <thead>
       <tr>
@@ -9395,27 +9399,103 @@ const Brokarage20 =(
 const Brokarage21 =(
   <>
   <div>
-  <h2>Seychelles Securities Dealer Licence</h2>
-  <p>The Securities Act 2007 provides the legal framework for the provision of Securities Dealer Services. A Seychelles Securities Dealer License is a license which allows a company to trade in securities either as a principal (on its own account) or as an agent (on behalf of its clients). The regulatory authority, which grants the authorization for such a firm, is the Financial Services Authority (Seychelles).</p>
+  <h1>Seychelles Securities Dealer License - Trading License for Global Markets</h1>
+  <div className="hero-section">
+    <p>
+      The <strong>Seychelles Securities Dealer License</strong> enables companies to operate as licensed securities 
+      dealers in one of the world's most business-friendly jurisdictions. Located in the Indian Ocean, Seychelles 
+      has established itself as a competitive financial center with <strong>capital requirements starting at $50,000 USD</strong> 
+      and relatively <strong>quick processing times of around 30 days</strong>.
+    </p>
+    <p>
+      This license is particularly attractive for forex brokers, securities dealers, and investment firms looking 
+      for a cost-effective way to obtain legitimate licensing with international recognition. The <strong>Financial 
+      Services Authority (FSA) Seychelles</strong> oversees all licensed entities under the Securities Act 2007, 
+      providing regulatory oversight that meets international standards.
+    </p>
+    <p>
+      What makes the Seychelles license appealing is the combination of reasonable capital requirements, straightforward 
+      regulatory framework, and the ability to trade a wide range of financial instruments including stocks, bonds, 
+      forex, and cryptocurrencies on a global scale.
+    </p>
+    <div className="hero-cta">
+      <button className="cta-button primary large">Apply for Securities License</button>
+      <button className="cta-button outline">Download License Information</button>
+    </div>
+  </div>
 
-  <h3>Permitted Activities</h3>
-  <ol>
-    <li>Securities Market Making</li>
-    <li>Securities Brokerage</li>
-    <li>Securities Dealing</li>
-    <li>Investment Advisory</li>
-    <li>Portfolio Management</li>
-  </ol>
+  <h2>Seychelles Securities Dealer License Requirements and Legal Framework</h2>
+  <div className="legal-framework">
+    <p>
+      The Seychelles Securities Dealer License is governed by the Securities Act 2007, which provides the legal 
+      framework for securities trading activities in the jurisdiction. The Financial Services Authority (FSA) Seychelles 
+      serves as the regulatory body, ensuring compliance with established standards while maintaining regulations 
+      that support business operations.
+    </p>
+    <div className="compliance-benefits">
+      <h4>Regulatory Advantages of FSA Seychelles:</h4>
+      <ul>
+        <li>Internationally recognized regulatory standards</li>
+        <li>FATF compliant jurisdiction</li>
+        <li>OECD compliant status</li>
+        <li>Low tax environment (1.5% on gross revenue)</li>
+        <li>No leverage restrictions</li>
+        <li>Foreign ownership permitted</li>
+      </ul>
+    </div>
+  </div>
 
-  <h3>Permitted Securities</h3>
-  <ol>
-    <li>Primary Equities</li>
-    <li>Primary Debt Instruments</li>
-    <li>Derivative Instruments (futures, options, forwards, contracts, CFDs and Swaps), on any of the following underlying assets; Equities, bonds, metals, commodities, currencies including cryptocurrency</li>
-  </ol>
+  <h2>Permitted Trading Activities and Financial Instruments</h2>
+  <p>The Seychelles Securities Dealer License provides authorization to engage in a comprehensive range of securities trading activities. This license covers traditional securities trading as well as modern financial instruments, allowing licensed companies to serve diverse client needs across global markets.</p>
 
-  <h2>Seychelles Securities Dealer License Legal Requirements</h2>
-  <table>
+  <h3>Securities Trading Activities</h3>
+  <p>Your licensed company can engage in various securities-related activities including:</p>
+  <ul>
+    <li>Securities market making</li>
+    <li>Securities brokerage services</li>
+    <li>Securities dealing operations</li>
+    <li>Investment advisory services</li>
+    <li>Portfolio management</li>
+  </ul>
+
+  <h3>Financial Instruments Covered</h3>
+  <p>The license permits trading in a wide range of financial instruments:</p>
+  <ul>
+    <li>Primary equities (stocks and shares)</li>
+    <li>Primary debt instruments (bonds and fixed income securities)</li>
+    <li>Forex trading across major currency pairs</li>
+    <li>Cryptocurrency trading and related services</li>
+    <li>Commodities including precious metals, oil, and agricultural products</li>
+  </ul>
+
+  <h3>Derivative Instruments</h3>
+  <p>Your license also covers derivative trading including:</p>
+  <ul>
+    <li>Futures trading and contracts</li>
+    <li>Options trading and strategies</li>
+    <li>Forward contracts</li>
+    <li>Contracts for Difference (CFDs)</li>
+    <li>Swap agreements</li>
+  </ul>
+
+  <p>This comprehensive scope of activities makes the Seychelles Securities Dealer License suitable for various business models, from traditional securities firms to modern online trading platforms and cryptocurrency exchanges.</p>
+
+  <h2>Seychelles Securities Dealer License Requirements</h2>
+  <p>To obtain a Seychelles Securities Dealer License, companies must meet specific regulatory requirements established by the Financial Services Authority (FSA). These requirements are designed to ensure operational capability, financial stability, and regulatory compliance.</p>
+
+  <h3>Key Requirements Overview</h3>
+  <p>The main requirements for obtaining the license include:</p>
+  <ul>
+    <li><strong>Capital Requirement:</strong> $50,000 USD minimum paid-up capital</li>
+    <li><strong>Processing Time:</strong> Typically around 30 days from complete application</li>
+    <li><strong>Office Requirements:</strong> Full furnished office in Seychelles</li>
+    <li><strong>Directors:</strong> Minimum 2 directors (foreign directors permitted)</li>
+    <li><strong>Tax Obligations:</strong> 1.5% tax on gross revenue</li>
+    <li><strong>Leverage:</strong> No restrictions on leverage ratios</li>
+  </ul>
+
+  <h3>Detailed Requirements Breakdown</h3>
+  <table className="requirements-table">
     <thead>
       <tr>
         <th>No.</th>
@@ -9504,6 +9584,39 @@ const Brokarage21 =(
       </tr>
     </tbody>
   </table>
+
+  <div className="license-summary">
+    <h3>Getting Started with Your Seychelles Securities Dealer License</h3>
+    <p>If you're considering the Seychelles Securities Dealer License for your trading business, it's important to understand both the opportunities and requirements involved. Many forex brokers, securities dealers, and trading platforms have successfully obtained this license to expand their global operations while maintaining regulatory compliance.</p>
+    
+    <div className="summary-benefits">
+      <h4>Why Consider the Seychelles Securities Dealer License:</h4>
+      <ul>
+        <li><strong>Reasonable Capital Requirements:</strong> $50,000 USD minimum capital requirement</li>
+        <li><strong>Competitive Processing Time:</strong> Typically 30 days from complete application</li>
+        <li><strong>Regulatory Credibility:</strong> FSA oversight provides international recognition</li>
+        <li><strong>Business Flexibility:</strong> No leverage restrictions and foreign ownership permitted</li>
+        <li><strong>Global Reach:</strong> Operate trading services internationally</li>
+        <li><strong>Established Framework:</strong> Well-defined regulatory process and requirements</li>
+      </ul>
+    </div>
+
+    <div className="cta-section">
+      <h4>Next Steps</h4>
+      <p>If you're interested in learning more about the Seychelles Securities Dealer License, we can provide detailed guidance on the application process, requirements, and timeline. Our team has experience helping companies navigate the FSA licensing process.</p>
+      <div className="cta-buttons">
+        <button className="cta-button primary large">Request License Information</button>
+        <button className="cta-button outline">Download Application Guide</button>
+        <button className="cta-button secondary">Schedule Consultation</button>
+      </div>
+    </div>
+
+    <div className="contact-info">
+      <p><strong>Need more information about the licensing process?</strong> Our team can help you understand the requirements and application process:</p>
+      <p>Email: <a href="mailto:info@camitrade.com">info@camitrade.com</a> | <a href="mailto:sales@camitrade.com">sales@camitrade.com</a></p>
+      <p>Phone: Available for licensing inquiries</p>
+    </div>
+  </div>
 </div>
   </>
 );
@@ -13031,43 +13144,109 @@ const Payment_services_provider_licenses_13 =(
 );
 const Payment_services_provider_licenses_14 =(
   <div>
-  <h2>Mauritius Payment Intermediary Service License</h2>
-  <p>For the eighth consecutive year, the World Bank’s 2016 Ease of Doing Business report ranks Mauritius 1st among African economies and 32nd worldwide out of 189 economies in terms of ease of doing business, making Mauritius the leader in economic freedom for the region of Sub-Saharan Africa.</p>
+  <h1>Mauritius Payment Intermediary Service License - Get Licensed as a PSP in 2025</h1>
+  <div className="hero-section">
+    <p>
+      The <strong>Mauritius Payment Intermediary Service License</strong> allows companies to operate as licensed 
+      Payment Service Providers (PSP) in one of Africa's most business-friendly jurisdictions. Mauritius has 
+      consistently ranked #1 in Africa for ease of doing business by the World Bank, making it an attractive 
+      destination for fintech companies looking to establish global payment operations.
+    </p>
+    <p>
+      What makes this license particularly appealing is the combination of <strong>low capital requirements 
+      (MUR 500,000, approximately $11,000 USD)</strong> and an <strong>effective tax rate of just 3%</strong>. 
+      This makes it one of the most cost-effective ways to obtain a legitimate payment processing license 
+      with international recognition.
+    </p>
+    <p>
+      The Financial Services Commission (FSC) Mauritius oversees all licensed payment service providers, 
+      ensuring compliance with international standards while maintaining regulations that support business growth. 
+      This regulatory framework has made Mauritius a preferred choice for payment companies, fintech startups, 
+      and e-commerce platforms looking to expand globally.
+    </p>
+    <div className="hero-cta">
+      <button className="cta-button primary large">Apply for PSP License</button>
+      <button className="cta-button outline">Download Application Guide</button>
+    </div>
+  </div>
+
+  <h2>Understanding the Mauritius Payment Intermediary License</h2>
+  <div className="license-overview">
+    <p>
+      The Mauritius Payment Intermediary Services License is designed for companies that want to operate as 
+      legitimate Payment Service Providers on a global scale. This license allows your GBC 1 company to offer 
+      comprehensive payment solutions including merchant processing, electronic money services, and cross-border 
+      payment facilitation.
+    </p>
+    <p>
+      This license is particularly valuable for fintech companies, e-commerce platforms, and payment processors 
+      that need regulatory compliance while maintaining operational flexibility. The FSC Mauritius provides 
+      oversight that meets international standards, giving your payment services credibility and trust in global markets.
+    </p>
+    <div className="psp-benefits">
+      <h4>Key Advantages of the Mauritius PSP License:</h4>
+      <ul>
+        <li><strong>Competitive Tax Structure:</strong> Effective tax rate of 3% on net profits</li>
+        <li><strong>Reasonable Capital Requirements:</strong> MUR 500,000 (approximately $11,000 USD)</li>
+        <li><strong>Global Reach:</strong> Process payments internationally without geographic restrictions</li>
+        <li><strong>Regulatory Credibility:</strong> FSC oversight provides international recognition</li>
+        <li><strong>Business-Friendly Environment:</strong> No exchange controls, free profit repatriation</li>
+        <li><strong>Foreign Ownership:</strong> 100% foreign ownership permitted</li>
+      </ul>
+    </div>
+  </div>
   
-  <h3>About the license</h3>
-  <p>The Payment Intermediary Services License is of interest to those who wish to operate as an online Payment Service Provider (PSP). The PSP business model is becoming more of a norm in the current business environment to address the ever-increasing need of both online shoppers and online sellers to do business via the internet. The Payment Intermediary Services License can only be applied for under a Category 1 Global Business Company and needs the approval of the Financial Services Commission for a GBC 1 to obtain such a special license.</p>
+  <h2>Permitted Payment Services and Activities</h2>
+  <p>The Mauritius Payment Intermediary Service License provides comprehensive authorization to operate as a payment service provider. This license covers a wide range of payment-related activities that allow you to serve merchants, consumers, and businesses globally.</p>
+
+  <h3>Core Payment Services</h3>
+  <p>Your licensed company can offer essential payment services including:</p>
+  <ul>
+    <li>Payment account operations (deposits and withdrawals)</li>
+    <li>Payment transaction execution and processing</li>
+    <li>Direct debit services (both one-time and recurring)</li>
+    <li>Credit transfers and standing orders</li>
+    <li>Payment card processing and acquiring</li>
+  </ul>
+
+  <h3>Advanced Payment Solutions</h3>
+  <p>The license also permits more sophisticated payment services:</p>
+  <ul>
+    <li>Payment instrument issuance and management</li>
+    <li>Payment transaction acquiring services</li>
+    <li>International money remittance</li>
+    <li>Payment initiation services</li>
+    <li>Account information services</li>
+  </ul>
+
+  <h3>Electronic Money Services</h3>
+  <p>You can also operate in the electronic money space:</p>
+  <ul>
+    <li>Electronic money issuance and management</li>
+    <li>Electronic money instruments</li>
+    <li>Payment system operations</li>
+    <li>Cross-border payment facilitation</li>
+    <li>Merchant payment processing</li>
+  </ul>
+
+  <p>This comprehensive scope of activities makes the Mauritius PSP license suitable for various business models, from traditional payment processors to modern fintech companies offering innovative payment solutions.</p>
   
-  <p>With a Payment Intermediary Services License, the GBC 1 can offer merchant online services for accepting electronic payments by a variety of payment methods including credit card, bank-based payments such as direct debit, bank transfer, and real-time transfer based on online banking.</p>
-  
-  <h3>Permitted activities</h3>
-  <ol>
-    <li>Services enabling cash to be placed on a payment account, including all operations required for operating a payment account.</li>
-    <li>Services enabling cash withdrawal from a payment account, including all operations required for operating a payment account.</li>
-    <li>Execution of payment transactions, including transfers of funds on a payment account with the payment service provider of the user or with another payment service provider, including:
-      <ol>
-        <li>Direct debits and one-off direct debits.</li>
-        <li>Execution of payment transactions through a payment card or a similar device.</li>
-        <li>Credit transfers, including standing orders.</li>
-      </ol>
-    </li>
-    <li>Execution of payment transactions where the funds are covered by a credit line for a payment service user, including:
-      <ol>
-        <li>Direct debits and one-off direct debits.</li>
-        <li>Payment transactions through a payment card or a similar device.</li>
-        <li>Credit transfers and standing orders.</li>
-      </ol>
-    </li>
-    <li>Issue of payment instruments and/or acquiring of payment transactions.</li>
-    <li>Money remittance.</li>
-    <li>Payment initiation services.</li>
-    <li>Account information services.</li>
-    <li>The operation of payment systems.</li>
-    <li>Without prejudice to the provisions of article 5(6) of the Financial Act, business activities other than the provision of payment services; when payment institutions engage in the provision of payment services, they may only hold payment accounts used exclusively for transactions; any funds received by payment institutions from payment service users with a view to the provision of payment services shall not constitute a deposit or other repayable funds within the meaning of article 2 of the Banking Act, or electronic money within the meaning of article 2 of the Banking Act;</li>
-    <li>Any other services functional to the transfer of money, including the issuance of electronic money and electronic money instruments, but excluding the provision of solely online or telecommunication services or network access.</li>
-  </ol>
-  
-  <h3>Legal requirements</h3>
-  <table>
+  <h2>License Requirements and Application Process</h2>
+  <p>To obtain a Mauritius Payment Intermediary Service License, your company must meet specific regulatory requirements established by the Financial Services Commission (FSC). These requirements are designed to ensure operational capability, financial stability, and regulatory compliance.</p>
+
+  <h3>Key Requirements Overview</h3>
+  <p>The main requirements include:</p>
+  <ul>
+    <li><strong>Capital Requirement:</strong> MUR 500,000 (approximately $11,000 USD) minimum paid-up capital</li>
+    <li><strong>Entity Structure:</strong> Must be established as a Mauritius GBC 1 Company</li>
+    <li><strong>Directors:</strong> Two local non-executive directors plus one executive director</li>
+    <li><strong>Tax Obligations:</strong> 3% effective tax rate on net profits</li>
+    <li><strong>Ownership:</strong> 100% foreign ownership permitted</li>
+    <li><strong>Regulatory Oversight:</strong> Subject to FSC Mauritius supervision</li>
+  </ul>
+
+  <h3>Detailed Requirements Breakdown</h3>
+  <table className="requirements-table">
   <thead>
     <tr>
       <th>No</th>
@@ -13184,7 +13363,38 @@ const Payment_services_provider_licenses_14 =(
   </tbody>
 </table>
 
+  <div className="license-summary">
+    <h3>Getting Started with Your Mauritius PSP License</h3>
+    <p>If you're considering the Mauritius Payment Intermediary Service License for your payment business, it's important to understand both the opportunities and requirements involved. Many payment companies and fintech startups have successfully obtained this license to expand their global operations while maintaining regulatory compliance.</p>
+    
+    <div className="summary-benefits">
+      <h4>Why Consider the Mauritius PSP License:</h4>
+      <ul>
+        <li><strong>Cost-Effective Solution:</strong> Lower capital requirements compared to many other jurisdictions</li>
+        <li><strong>Competitive Tax Structure:</strong> 3% effective tax rate on net profits</li>
+        <li><strong>Regulatory Credibility:</strong> FSC oversight provides international recognition</li>
+        <li><strong>Business Flexibility:</strong> 100% foreign ownership and no exchange controls</li>
+        <li><strong>Global Reach:</strong> Operate payment services internationally</li>
+        <li><strong>Established Framework:</strong> Well-defined regulatory process and requirements</li>
+      </ul>
+    </div>
 
+    <div className="cta-section">
+      <h4>Next Steps</h4>
+      <p>If you're interested in learning more about the Mauritius Payment Intermediary Service License, we can provide detailed guidance on the application process, requirements, and timeline. Our team has experience helping companies navigate the FSC licensing process.</p>
+      <div className="cta-buttons">
+        <button className="cta-button primary large">Request License Information</button>
+        <button className="cta-button outline">Download Application Guide</button>
+        <button className="cta-button secondary">Schedule Consultation</button>
+      </div>
+    </div>
+
+    <div className="contact-info">
+      <p><strong>Need more information about the licensing process?</strong> Our team can help you understand the requirements and application process:</p>
+      <p>Email: <a href="mailto:info@camitrade.com">info@camitrade.com</a> | <a href="mailto:sales@camitrade.com">sales@camitrade.com</a></p>
+      <p>Phone: Available for licensing inquiries</p>
+    </div>
+  </div>
 </div>
 
 );
@@ -16621,6 +16831,458 @@ const LiechtensteinFintechAndTVTG_HTML = (
     </p>
   </div>
 );
+const SeychellesVASP_HTML = (
+  <div>
+    <h1>Seychelles Virtual Asset Service Provider License - VASP License for Crypto Operations</h1>
+    <div className="hero-section">
+      <p>
+        The <strong>Seychelles Virtual Asset Service Provider (VASP) License</strong> enables companies to operate 
+        as licensed virtual asset service providers in one of the most business-friendly jurisdictions for cryptocurrency 
+        operations. Seychelles has established a progressive regulatory framework for virtual assets, making it an attractive 
+        destination for cryptocurrency exchanges, digital wallet providers, and blockchain-based financial services.
+      </p>
+      <p>
+        This license is particularly valuable for fintech companies, cryptocurrency exchanges, and digital asset 
+        service providers looking for legitimate licensing with international recognition. The Financial Services Authority 
+        (FSA) Seychelles provides oversight that meets international standards while maintaining a business-friendly approach 
+        to virtual asset innovation.
+      </p>
+      <p>
+        What makes the Seychelles VASP License appealing is the combination of clear regulatory framework, 
+        competitive capital requirements, and access to global markets with favorable business environment 
+        for virtual asset operations.
+      </p>
+      <div className="hero-cta">
+        <button className="cta-button primary large">Apply for VASP License</button>
+        <button className="cta-button outline">Download VASP Guide</button>
+      </div>
+    </div>
+
+    <h2>Understanding the Seychelles Virtual Asset Service Provider License</h2>
+    <div className="license-overview">
+      <p>
+        The Seychelles VASP License is designed for companies that want to operate as legitimate Virtual Asset 
+        Service Providers in the cryptocurrency and digital assets space. This license allows your company to 
+        offer comprehensive virtual asset services including exchange operations, wallet services, and digital 
+        asset custody solutions.
+      </p>
+      <p>
+        This license is particularly valuable for cryptocurrency exchanges, digital wallet providers, and blockchain 
+        companies that need regulatory compliance while maintaining operational flexibility. The FSA Seychelles provides 
+        oversight that meets international standards, giving your virtual asset services credibility and trust in global markets.
+      </p>
+      <div className="vasp-benefits">
+        <h4>Key Advantages of the Seychelles VASP License:</h4>
+        <ul>
+          <li><strong>Progressive Regulatory Framework:</strong> Forward-thinking approach to virtual asset regulation</li>
+          <li><strong>International Recognition:</strong> FSA oversight provides global credibility</li>
+          <li><strong>Business-Friendly Environment:</strong> Supportive regulatory approach to crypto innovation</li>
+          <li><strong>Global Reach:</strong> Operate virtual asset services internationally</li>
+          <li><strong>Competitive Costs:</strong> Reasonable licensing and operational costs</li>
+          <li><strong>Established Infrastructure:</strong> Robust financial and legal framework</li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>Permitted Virtual Asset Services and Activities</h2>
+    <p>The Seychelles VASP License provides authorization to engage in a comprehensive range of virtual asset service activities. This license covers traditional virtual asset services as well as innovative blockchain-based solutions, allowing licensed companies to serve diverse client needs across global markets.</p>
+
+    <h3>Core Virtual Asset Services</h3>
+    <p>Your licensed company can offer essential virtual asset services including:</p>
+    <ul>
+      <li>Virtual asset exchange services</li>
+      <li>Digital wallet and custody services</li>
+      <li>Virtual asset transfer services</li>
+      <li>Virtual asset administration services</li>
+      <li>Virtual asset advisory services</li>
+    </ul>
+
+    <h3>Advanced Virtual Asset Solutions</h3>
+    <p>The license also permits more sophisticated virtual asset services:</p>
+    <ul>
+      <li>Virtual asset trading platform operations</li>
+      <li>Digital asset custody and safekeeping</li>
+      <li>Virtual asset payment processing</li>
+      <li>Blockchain-based financial services</li>
+      <li>Virtual asset portfolio management</li>
+    </ul>
+
+    <h3>Innovative Services</h3>
+    <p>You can also operate in emerging virtual asset areas:</p>
+    <ul>
+      <li>Non-fungible token (NFT) services</li>
+      <li>Decentralized finance (DeFi) platform operations</li>
+      <li>Virtual asset staking services</li>
+      <li>Cross-border virtual asset transfers</li>
+      <li>Virtual asset lending and borrowing</li>
+    </ul>
+
+    <p>This comprehensive scope of activities makes the Seychelles VASP License suitable for various business models, from traditional cryptocurrency exchanges to modern DeFi platforms and NFT marketplaces.</p>
+
+    <h2>Seychelles VASP License Requirements and Legal Framework</h2>
+    <div className="legal-framework">
+      <p>
+        The Seychelles VASP License is governed by the Virtual Asset (Overseas Service Providers) Act 2020 and 
+        related regulations, which establish the legal framework for virtual asset service provider activities in 
+        the jurisdiction. This regulatory structure provides clear guidelines for licensing requirements while 
+        maintaining oversight standards that meet international expectations for virtual asset operations.
+      </p>
+      <p>
+        All applications for the VASP License must be submitted through a proper corporate structure, with final 
+        approval granted by the <strong>Financial Services Authority (FSA)</strong>. The FSA serves as the primary 
+        financial regulator and maintains oversight of all licensed virtual asset service providers operating in Seychelles.
+      </p>
+      <div className="compliance-highlights">
+        <h4>Regulatory Advantages of FSA Seychelles for VASPs:</h4>
+        <ul>
+          <li>Internationally recognized regulatory standards</li>
+          <li>FATF compliant jurisdiction for virtual assets</li>
+          <li>OECD compliant status</li>
+          <li>Access to global virtual asset markets</li>
+          <li>Business-friendly virtual asset regulations</li>
+          <li>Support for innovation in blockchain technology</li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>Seychelles VASP License Requirements</h2>
+    <p>To obtain a Seychelles Virtual Asset Service Provider License, companies must meet specific regulatory requirements established by the Financial Services Authority (FSA). These requirements are designed to ensure operational capability, financial stability, and regulatory compliance in the virtual asset space.</p>
+
+    <h3>Key Requirements Overview</h3>
+    <p>The main requirements for obtaining the VASP License include:</p>
+    <ul>
+      <li><strong>Capital Requirement:</strong> Adequate capital based on business model and risk assessment</li>
+      <li><strong>Corporate Structure:</strong> Proper corporate governance and management structure</li>
+      <li><strong>Compliance Officer:</strong> Qualified compliance officer with virtual asset experience</li>
+      <li><strong>AML/CFT Framework:</strong> Robust anti-money laundering and counter-terrorism financing procedures</li>
+      <li><strong>Operational Capability:</strong> Demonstrated ability to operate virtual asset services</li>
+      <li><strong>Regulatory Oversight:</strong> Subject to FSA Seychelles supervision</li>
+    </ul>
+
+    <h3>Detailed Requirements Breakdown</h3>
+    <table className="requirements-table">
+      <thead>
+        <tr>
+          <th>No.</th>
+          <th>Obligatory Requirement</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1.</td>
+          <td>Corporate Structure</td>
+          <td>Seychelles company with proper corporate governance structure</td>
+        </tr>
+        <tr>
+          <td>2.</td>
+          <td>Directors</td>
+          <td>Minimum 2 directors with relevant experience in virtual assets or financial services</td>
+        </tr>
+        <tr>
+          <td>3.</td>
+          <td>Shareholders</td>
+          <td>Fit and proper shareholders with adequate financial standing</td>
+        </tr>
+        <tr>
+          <td>4.</td>
+          <td>Compliance Officer</td>
+          <td>Qualified compliance officer with virtual asset and AML/CFT experience</td>
+        </tr>
+        <tr>
+          <td>5.</td>
+          <td>Local Office</td>
+          <td>Physical office in Seychelles with adequate infrastructure</td>
+        </tr>
+        <tr>
+          <td>6.</td>
+          <td>Auditor</td>
+          <td>Approved auditor with experience in virtual asset operations</td>
+        </tr>
+        <tr>
+          <td>7.</td>
+          <td>Capital Requirements</td>
+          <td>Adequate capital based on business model, risk assessment, and operational needs</td>
+        </tr>
+        <tr>
+          <td>8.</td>
+          <td>AML/CFT Framework</td>
+          <td>Comprehensive anti-money laundering and counter-terrorism financing procedures</td>
+        </tr>
+        <tr>
+          <td>9.</td>
+          <td>Operational Policies</td>
+          <td>Detailed operational policies and procedures for virtual asset services</td>
+        </tr>
+        <tr>
+          <td>10.</td>
+          <td>Risk Management</td>
+          <td>Robust risk management framework for virtual asset operations</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div className="license-summary">
+      <h3>Getting Started with Your Seychelles VASP License</h3>
+      <p>If you're considering the Seychelles Virtual Asset Service Provider License for your virtual asset business, it's important to understand both the opportunities and requirements involved. Many cryptocurrency exchanges, digital wallet providers, and blockchain companies have successfully obtained this license to expand their global operations while maintaining regulatory compliance.</p>
+      
+      <div className="summary-benefits">
+        <h4>Why Consider the Seychelles VASP License:</h4>
+        <ul>
+          <li><strong>Progressive Regulatory Framework:</strong> Forward-thinking approach to virtual asset regulation</li>
+          <li><strong>International Recognition:</strong> FSA oversight provides global credibility</li>
+          <li><strong>Business-Friendly Environment:</strong> Supportive approach to virtual asset innovation</li>
+          <li><strong>Global Reach:</strong> Operate virtual asset services internationally</li>
+          <li><strong>Established Infrastructure:</strong> Robust financial and legal framework</li>
+          <li><strong>Competitive Advantages:</strong> Reasonable costs and efficient processing</li>
+        </ul>
+      </div>
+
+      <div className="cta-section">
+        <h4>Next Steps</h4>
+        <p>If you're interested in learning more about the Seychelles Virtual Asset Service Provider License, we can provide detailed guidance on the application process, requirements, and timeline. Our team has experience helping companies navigate the FSA licensing process for virtual asset services.</p>
+        <div className="cta-buttons">
+          <button className="cta-button primary large">Request VASP License Information</button>
+          <button className="cta-button outline">Download Application Guide</button>
+          <button className="cta-button secondary">Schedule Consultation</button>
+        </div>
+      </div>
+
+      <div className="contact-info">
+        <p><strong>Need more information about the VASP licensing process?</strong> Our team can help you understand the requirements and application process:</p>
+        <p>Email: <a href="mailto:info@camitrade.com">info@camitrade.com</a> | <a href="mailto:sales@camitrade.com">sales@camitrade.com</a></p>
+        <p>Phone: Available for VASP licensing inquiries</p>
+      </div>
+    </div>
+  </div>
+);
+
+const MauritiusVASP_HTML = (
+  <div>
+    <h1>Mauritius Virtual Asset Service Provider License - VASP License for Crypto Operations</h1>
+    <div className="hero-section">
+      <p>
+        The <strong>Mauritius Virtual Asset Service Provider (VASP) License</strong> enables companies to operate 
+        as licensed virtual asset service providers in one of Africa's most established financial centers. 
+        Mauritius has developed a comprehensive regulatory framework for virtual assets, making it an attractive 
+        destination for cryptocurrency exchanges, digital wallet providers, and blockchain-based financial services.
+      </p>
+      <p>
+        This license is particularly valuable for fintech companies, cryptocurrency exchanges, and digital asset 
+        service providers looking for legitimate licensing with international recognition. The Financial Services 
+        Commission (FSC) Mauritius provides oversight that meets international standards, giving your virtual asset 
+        services credibility and trust in global markets.
+      </p>
+      <p>
+        What makes the Mauritius VASP License appealing is the combination of clear regulatory framework, 
+        established financial infrastructure, and access to global markets with favorable business environment 
+        for virtual asset operations.
+      </p>
+      <div className="hero-cta">
+        <button className="cta-button primary large">Apply for VASP License</button>
+        <button className="cta-button outline">Download VASP Guide</button>
+      </div>
+    </div>
+
+    <h2>Understanding the Mauritius Virtual Asset Service Provider License</h2>
+    <div className="license-overview">
+      <p>
+        The Mauritius VASP License is designed for companies that want to operate as legitimate Virtual Asset 
+        Service Providers in the cryptocurrency and digital assets space. This license allows your company to 
+        offer comprehensive virtual asset services including exchange operations, wallet services, and digital 
+        asset custody solutions.
+      </p>
+      <p>
+        This license is particularly valuable for cryptocurrency exchanges, digital wallet providers, and blockchain 
+        companies that need regulatory compliance while maintaining operational flexibility. The FSC Mauritius provides 
+        oversight that meets international standards, giving your virtual asset services credibility and trust in global markets.
+      </p>
+      <div className="vasp-benefits">
+        <h4>Key Advantages of the Mauritius VASP License:</h4>
+        <ul>
+          <li><strong>Clear Regulatory Framework:</strong> Well-defined regulations for virtual asset operations</li>
+          <li><strong>International Recognition:</strong> FSC oversight provides global credibility</li>
+          <li><strong>Business-Friendly Environment:</strong> Supportive regulatory approach to innovation</li>
+          <li><strong>Global Reach:</strong> Operate virtual asset services internationally</li>
+          <li><strong>Established Infrastructure:</strong> Robust financial and legal framework</li>
+          <li><strong>Competitive Costs:</strong> Reasonable licensing and operational costs</li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>Permitted Virtual Asset Services and Activities</h2>
+    <p>The Mauritius VASP License provides authorization to engage in a comprehensive range of virtual asset service activities. This license covers traditional virtual asset services as well as innovative blockchain-based solutions, allowing licensed companies to serve diverse client needs across global markets.</p>
+
+    <h3>Core Virtual Asset Services</h3>
+    <p>Your licensed company can offer essential virtual asset services including:</p>
+    <ul>
+      <li>Virtual asset exchange services</li>
+      <li>Digital wallet and custody services</li>
+      <li>Virtual asset transfer services</li>
+      <li>Virtual asset administration services</li>
+      <li>Virtual asset advisory services</li>
+    </ul>
+
+    <h3>Advanced Virtual Asset Solutions</h3>
+    <p>The license also permits more sophisticated virtual asset services:</p>
+    <ul>
+      <li>Virtual asset trading platform operations</li>
+      <li>Digital asset custody and safekeeping</li>
+      <li>Virtual asset payment processing</li>
+      <li>Blockchain-based financial services</li>
+      <li>Virtual asset portfolio management</li>
+    </ul>
+
+    <h3>Innovative Services</h3>
+    <p>You can also operate in emerging virtual asset areas:</p>
+    <ul>
+      <li>Non-fungible token (NFT) services</li>
+      <li>Decentralized finance (DeFi) platform operations</li>
+      <li>Virtual asset staking services</li>
+      <li>Cross-border virtual asset transfers</li>
+      <li>Virtual asset lending and borrowing</li>
+    </ul>
+
+    <p>This comprehensive scope of activities makes the Mauritius VASP License suitable for various business models, from traditional cryptocurrency exchanges to modern DeFi platforms and NFT marketplaces.</p>
+
+    <h2>Mauritius VASP License Requirements and Legal Framework</h2>
+    <div className="legal-framework">
+      <p>
+        The Mauritius VASP License is governed by the Virtual Asset and Initial Token Offering Services Act 2021, 
+        which establishes the legal framework for virtual asset service provider activities in the jurisdiction. 
+        This regulatory structure provides clear guidelines for licensing requirements while maintaining oversight 
+        standards that meet international expectations for virtual asset operations.
+      </p>
+      <p>
+        All applications for the VASP License must be submitted through a proper corporate structure, with final 
+        approval granted by the <strong>Financial Services Commission (FSC)</strong>. The FSC serves as the primary 
+        financial regulator and maintains oversight of all licensed virtual asset service providers operating in Mauritius.
+      </p>
+      <div className="compliance-highlights">
+        <h4>Regulatory Advantages of FSC Mauritius for VASPs:</h4>
+        <ul>
+          <li>Internationally recognized regulatory standards</li>
+          <li>FATF compliant jurisdiction for virtual assets</li>
+          <li>OECD compliant status</li>
+          <li>Access to global virtual asset markets</li>
+          <li>Business-friendly virtual asset regulations</li>
+          <li>Support for innovation in blockchain technology</li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>Mauritius VASP License Requirements</h2>
+    <p>To obtain a Mauritius Virtual Asset Service Provider License, companies must meet specific regulatory requirements established by the Financial Services Commission (FSC). These requirements are designed to ensure operational capability, financial stability, and regulatory compliance in the virtual asset space.</p>
+
+    <h3>Key Requirements Overview</h3>
+    <p>The main requirements for obtaining the VASP License include:</p>
+    <ul>
+      <li><strong>Capital Requirement:</strong> Adequate capital based on business model and risk assessment</li>
+      <li><strong>Corporate Structure:</strong> Proper corporate governance and management structure</li>
+      <li><strong>Compliance Officer:</strong> Qualified compliance officer with virtual asset experience</li>
+      <li><strong>AML/CFT Framework:</strong> Robust anti-money laundering and counter-terrorism financing procedures</li>
+      <li><strong>Operational Capability:</strong> Demonstrated ability to operate virtual asset services</li>
+      <li><strong>Regulatory Oversight:</strong> Subject to FSC Mauritius supervision</li>
+    </ul>
+
+    <h3>Detailed Requirements Breakdown</h3>
+    <table className="requirements-table">
+      <thead>
+        <tr>
+          <th>No.</th>
+          <th>Obligatory Requirement</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1.</td>
+          <td>Corporate Structure</td>
+          <td>Mauritius company with proper corporate governance structure</td>
+        </tr>
+        <tr>
+          <td>2.</td>
+          <td>Directors</td>
+          <td>Minimum 2 directors with relevant experience in virtual assets or financial services</td>
+        </tr>
+        <tr>
+          <td>3.</td>
+          <td>Shareholders</td>
+          <td>Fit and proper shareholders with adequate financial standing</td>
+        </tr>
+        <tr>
+          <td>4.</td>
+          <td>Compliance Officer</td>
+          <td>Qualified compliance officer with virtual asset and AML/CFT experience</td>
+        </tr>
+        <tr>
+          <td>5.</td>
+          <td>Local Office</td>
+          <td>Physical office in Mauritius with adequate infrastructure</td>
+        </tr>
+        <tr>
+          <td>6.</td>
+          <td>Auditor</td>
+          <td>Approved auditor with experience in virtual asset operations</td>
+        </tr>
+        <tr>
+          <td>7.</td>
+          <td>Capital Requirements</td>
+          <td>Adequate capital based on business model, risk assessment, and operational needs</td>
+        </tr>
+        <tr>
+          <td>8.</td>
+          <td>AML/CFT Framework</td>
+          <td>Comprehensive anti-money laundering and counter-terrorism financing procedures</td>
+        </tr>
+        <tr>
+          <td>9.</td>
+          <td>Operational Policies</td>
+          <td>Detailed operational policies and procedures for virtual asset services</td>
+        </tr>
+        <tr>
+          <td>10.</td>
+          <td>Risk Management</td>
+          <td>Robust risk management framework for virtual asset operations</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div className="license-summary">
+      <h3>Getting Started with Your Mauritius VASP License</h3>
+      <p>If you're considering the Mauritius Virtual Asset Service Provider License for your virtual asset business, it's important to understand both the opportunities and requirements involved. Many cryptocurrency exchanges, digital wallet providers, and blockchain companies have successfully obtained this license to expand their global operations while maintaining regulatory compliance.</p>
+      
+      <div className="summary-benefits">
+        <h4>Why Consider the Mauritius VASP License:</h4>
+        <ul>
+          <li><strong>Clear Regulatory Framework:</strong> Well-defined regulations for virtual asset operations</li>
+          <li><strong>International Recognition:</strong> FSC oversight provides global credibility</li>
+          <li><strong>Business-Friendly Environment:</strong> Supportive approach to virtual asset innovation</li>
+          <li><strong>Global Reach:</strong> Operate virtual asset services internationally</li>
+          <li><strong>Established Infrastructure:</strong> Robust financial and legal framework</li>
+          <li><strong>Competitive Advantages:</strong> Reasonable costs and efficient processing</li>
+        </ul>
+      </div>
+
+      <div className="cta-section">
+        <h4>Next Steps</h4>
+        <p>If you're interested in learning more about the Mauritius Virtual Asset Service Provider License, we can provide detailed guidance on the application process, requirements, and timeline. Our team has experience helping companies navigate the FSC licensing process for virtual asset services.</p>
+        <div className="cta-buttons">
+          <button className="cta-button primary large">Request VASP License Information</button>
+          <button className="cta-button outline">Download Application Guide</button>
+          <button className="cta-button secondary">Schedule Consultation</button>
+        </div>
+      </div>
+
+      <div className="contact-info">
+        <p><strong>Need more information about the VASP licensing process?</strong> Our team can help you understand the requirements and application process:</p>
+        <p>Email: <a href="mailto:info@camitrade.com">info@camitrade.com</a> | <a href="mailto:sales@camitrade.com">sales@camitrade.com</a></p>
+        <p>Phone: Available for VASP licensing inquiries</p>
+      </div>
+    </div>
+  </div>
+);
+
 const LuxembourgVASPS_HTML = (
   <div>
     <h1>Luxembourg Virtual Asset Service Providers (VASPS)</h1>
@@ -24787,6 +25449,16 @@ const LicensingServices = {
       id: "cryptocurrency-and-digital-assets-licenses",
       Service: "Cryptocurrency And Digital Assets Licenses",
       Content: LatviaInnovationAndFintech_HTML,
+    },
+    {
+      id: "mauritius-virtual-asset-service-provider-license",
+      Service: "Mauritius Virtual Asset Service Provider License",
+      Content: MauritiusVASP_HTML,
+    },
+    {
+      id: "seychelles-virtual-asset-service-provider-license",
+      Service: "Seychelles Virtual Asset Service Provider License",
+      Content: SeychellesVASP_HTML,
     },
     {
       id: "latvia-innovation-and-fintech-license",
