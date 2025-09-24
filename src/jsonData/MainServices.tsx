@@ -8435,65 +8435,148 @@ const Brokarage13 =(
 );
 const Brokarage14 =(
   <><div>
-  <h2>Labuan Money Broking License</h2>
-  <p>
-    The money broking business is defined as the business of arranging transactions between
-    buyers and sellers in the money or foreign exchange markets with brokers acting as an
-    intermediary earning brokerage fees / commission. Labuan Forex Money Broking license,
-    however, does not include the buying or selling of Malaysian Ringgit and foreign currencies
-    by the broker as principal in such markets.
-  </p>
-  <p>
-    Guidelines for money broking business that is carried on in the Labuan IBFC was issued by
-    the Labuan Financial Services Authority (“FSA”) with effect from 1 January 2018.
-  </p>
-  <h3>Regulator</h3>
-  <p>
-    Labuan FSA is the statutory body responsible for the development and administration of the
-    Labuan International Business and Financial Centre (Labuan IBFC). Labuan FSA’s key role
-    is to license and regulate licensed entities operating within Labuan IBFC and to ensure all
-    such entities remain in compliance with the internal and international best standards
-    adopted by the jurisdiction.
-  </p>
-  <h3>Eligible Applicants</h3>
-  <ol>
-    <li>
-      Individual or institution with money broking expertise with a good track record and
-      sufficient years of experience in the industry.
-    </li>
-    <li>
-      Regulated money broker or provider of such services from other jurisdictions with
-      approval from home authority with the letter of consent.
-    </li>
-    <li>
-      Any licensed institutions including approved money broker under the Financial
-      Services Act 2013 with approval from the Central Bank of Malaysia.
-    </li>
-  </ol>
-  <h3>Permissible Money Broking Activities</h3>
-  <p>
-    Labuan money broking business is intended to serve institutional investors and high-net-
-    worth individuals. The licensee is expected to;
-  </p>
-  <ol>
-    <li>
-      Bring together the counterparties on mutually acceptable terms for the same financial
-      products in money or foreign exchange market to facilitate the conclusion of a
-      transaction;
-    </li>
-    <li>
-      Receive payment for its service in the form of brokerage or commission fees; and
-    </li>
-    <li>
-      Act as a mediator and is strictly not permitted to act as a principal(1).
-    </li>
-  </ol>
-  <h2>Legal Requirements</h2>
-  <table>
+  <h1>Labuan Money Broking License - Forex Broker License in Labuan IBFC</h1>
+  <div className="hero-section">
+    <p>
+      The <strong>Labuan Money Broking License</strong> enables companies to operate as licensed 
+      forex brokers in one of Asia's most established offshore financial centers. Labuan IBFC has 
+      developed a comprehensive regulatory framework for money broking and foreign exchange trading, 
+      making it an attractive destination for forex brokers, trading platforms, and financial services companies.
+    </p>
+    <p>
+      This license is particularly valuable for forex brokers, trading platforms, and financial services companies 
+      looking for legitimate licensing with international recognition. The Labuan Financial Services Authority (FSA) 
+      provides oversight that meets international standards while maintaining a business-friendly approach to forex 
+      innovation in the Asia-Pacific region.
+    </p>
+    <p>
+      What makes the Labuan Money Broking License appealing is the combination of clear regulatory framework, 
+      competitive tax rates (3% with substance requirements), and access to Asian markets with favorable business 
+      environment for forex operations.
+    </p>
+    <div className="hero-cta">
+      <button className="cta-button primary large">Apply for Money Broking License</button>
+      <button className="cta-button outline">Download License Information</button>
+    </div>
+  </div>
+
+  <h2>Understanding the Labuan Money Broking License</h2>
+  <div className="license-overview">
+    <p>
+      The Labuan Money Broking License is designed for companies that want to operate as legitimate 
+      forex brokers by arranging transactions between buyers and sellers in money or foreign exchange markets. 
+      This license allows your company to act as an intermediary earning brokerage fees and commissions 
+      without taking principal positions in Malaysian Ringgit or foreign currencies.
+    </p>
+    <p>
+      This license is particularly valuable for forex brokers, trading platforms, and financial services companies 
+      that need regulatory compliance while maintaining operational flexibility. The Labuan FSA provides 
+      oversight that meets international standards, giving your forex services credibility and trust in 
+      regional and global markets.
+    </p>
+    <div className="forex-benefits">
+      <h4>Key Advantages of the Labuan Money Broking License:</h4>
+      <ul>
+        <li><strong>Clear Regulatory Framework:</strong> Well-defined regulations under Labuan FSA oversight</li>
+        <li><strong>Asian Market Access:</strong> Access to Southeast Asian and broader Asian markets</li>
+        <li><strong>Tax Advantages:</strong> 3% tax rate with substance requirements, zero withholding tax</li>
+        <li><strong>International Recognition:</strong> Labuan FSA oversight provides global credibility</li>
+        <li><strong>Competitive Leverage:</strong> Up to 1:100 leverage ratio permitted</li>
+        <li><strong>Established Infrastructure:</strong> Robust financial and legal framework</li>
+      </ul>
+    </div>
+  </div>
+  <h2>Labuan Money Broking License Legal Framework and Regulations</h2>
+  <div className="legal-framework">
+    <p>
+      The Labuan Money Broking License is governed by the Guidelines for Money Broking Business issued by 
+      the Labuan Financial Services Authority (FSA), effective from 1 January 2018. This regulatory structure 
+      provides clear guidelines for licensing requirements while maintaining oversight standards that meet 
+      international expectations for money broking operations.
+    </p>
+    <p>
+      All applications for the Money Broking License must be submitted through a proper corporate structure, 
+      with final approval granted by the <strong>Labuan Financial Services Authority (FSA)</strong>. The FSA serves as the 
+      statutory body responsible for the development and administration of the Labuan International Business 
+      and Financial Centre (Labuan IBFC).
+    </p>
+    <div className="compliance-highlights">
+      <h4>Regulatory Advantages of Labuan FSA for Money Brokers:</h4>
+      <ul>
+        <li>Internationally recognized regulatory standards</li>
+        <li>Asia-Pacific regulatory alignment</li>
+        <li>Access to regional and international forex markets</li>
+        <li>Business-friendly money broking regulations</li>
+        <li>Support for innovation in forex trading technology</li>
+        <li>Clear regulatory framework for intermediary services</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>Eligible Applicants for Labuan Money Broking License</h2>
+  <p>The Labuan FSA welcomes applications from qualified entities with appropriate experience and credentials in money broking and foreign exchange operations:</p>
+  
+  <h3>Qualified Applicants</h3>
+  <ul>
+    <li><strong>Experienced Professionals:</strong> Individuals or institutions with proven money broking expertise, good track record, and sufficient industry experience</li>
+    <li><strong>International Brokers:</strong> Regulated money brokers or service providers from other jurisdictions with approval from their home authority and letter of consent</li>
+    <li><strong>Licensed Institutions:</strong> Any licensed institutions including approved money brokers under the Financial Services Act 2013 with Central Bank of Malaysia approval</li>
+  </ul>
+  <h2>Permitted Activities for Labuan Money Broking License</h2>
+  <p>The Labuan Money Broking License provides authorization to engage in a comprehensive range of money broking activities. This license is designed to serve institutional investors and high-net-worth individuals, allowing your company to act as an intermediary in money and foreign exchange markets while earning brokerage fees and commissions.</p>
+
+  <h3>Core Money Broking Services</h3>
+  <p>Your licensed company can offer essential money broking services including:</p>
+  <ul>
+    <li>Arranging transactions between buyers and sellers in money markets</li>
+    <li>Facilitating foreign exchange transactions for institutional clients</li>
+    <li>Bringing together counterparties on mutually acceptable terms</li>
+    <li>Providing intermediary services for financial products in forex markets</li>
+    <li>Earning brokerage fees and commission for transaction facilitation</li>
+    <li>Acting as mediator between institutional counterparties</li>
+  </ul>
+
+  <h3>Advanced Money Broking Solutions</h3>
+  <p>The license also permits more sophisticated money broking services:</p>
+  <ul>
+    <li>Institutional forex trading platform services</li>
+    <li>High-net-worth individual portfolio management</li>
+    <li>Cross-border money market transactions</li>
+    <li>Interbank trading facilitation</li>
+    <li>Currency hedging arrangements</li>
+    <li>Liquidity provision services</li>
+  </ul>
+
+  <h3>Service Restrictions</h3>
+  <p>Please note that Labuan money brokers are strictly not permitted to:</p>
+  <ul>
+    <li>Act as principal in transactions (must remain as intermediary only)</li>
+    <li>Buy or sell Malaysian Ringgit as principal</li>
+    <li>Take proprietary positions in foreign currencies</li>
+  </ul>
+
+  <p>This comprehensive scope of activities makes the Labuan Money Broking License suitable for various business models, from traditional money brokers to modern forex trading platforms serving institutional clients.</p>
+  
+  <h2>Labuan Money Broking License Requirements</h2>
+  <p>To obtain a Labuan Money Broking License, companies must meet specific regulatory requirements established by the Labuan Financial Services Authority (FSA). These requirements are designed to ensure operational capability, financial stability, and regulatory compliance in the money broking sector.</p>
+
+  <h3>Key Requirements Overview</h3>
+  <p>The main requirements for obtaining the Labuan Money Broking License include:</p>
+  <ul>
+    <li><strong>Corporate Structure:</strong> Labuan trading company with proper governance</li>
+    <li><strong>Capital Requirements:</strong> Minimum RM 500,000 paid-up capital</li>
+    <li><strong>Directors:</strong> Minimum 2 directors (100% foreign allowed)</li>
+    <li><strong>Physical Presence:</strong> Operational office in Labuan</li>
+    <li><strong>Substance Requirements:</strong> 2 full-time employees, RM 100,000 annual expenditure</li>
+    <li><strong>Leverage Ratio:</strong> Up to 1:100 leverage permitted</li>
+  </ul>
+
+  <h3>Detailed Requirements Breakdown</h3>
+  <table className="requirements-table">
     <thead>
       <tr>
         <th>No.</th>
-        <th>Obligatory requirement</th>
+        <th>Obligatory Requirement</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -8610,6 +8693,39 @@ const Brokarage14 =(
       </tr>
     </tbody>
   </table>
+
+  <div className="license-summary">
+    <h3>Getting Started with Your Labuan Money Broking License</h3>
+    <p>If you're considering the Labuan Money Broking License for your forex business, it's important to understand both the opportunities and requirements involved. Many money brokers, trading platforms, and financial services companies have successfully obtained this license to expand their operations in Asia while maintaining regulatory compliance.</p>
+    
+    <div className="summary-benefits">
+      <h4>Why Consider the Labuan Money Broking License:</h4>
+      <ul>
+        <li><strong>Clear Regulatory Framework:</strong> Well-defined regulations under Labuan FSA oversight</li>
+        <li><strong>Asian Market Access:</strong> Access to Southeast Asian and broader Asian markets</li>
+        <li><strong>Tax Advantages:</strong> 3% tax rate with substance requirements, zero withholding tax</li>
+        <li><strong>International Recognition:</strong> Labuan FSA oversight provides global credibility</li>
+        <li><strong>Competitive Leverage:</strong> Up to 1:100 leverage ratio permitted</li>
+        <li><strong>Established Infrastructure:</strong> Robust financial and legal framework</li>
+      </ul>
+    </div>
+
+    <div className="cta-section">
+      <h4>Next Steps</h4>
+      <p>If you're interested in learning more about the Labuan Money Broking License, we can provide detailed guidance on the application process, requirements, and timeline. Our team has experience helping companies navigate the Labuan FSA licensing process for money broking operations.</p>
+      <div className="cta-buttons">
+        <button className="cta-button primary large">Request Money Broking License Information</button>
+        <button className="cta-button outline">Download Application Guide</button>
+        <button className="cta-button secondary">Schedule Consultation</button>
+      </div>
+    </div>
+
+    <div className="contact-info">
+      <p><strong>Need more information about the money broking licensing process?</strong> Our team can help you understand the requirements and application process:</p>
+      <p>Email: <a href="mailto:info@camitrade.com">info@camitrade.com</a> | <a href="mailto:sales@camitrade.com">sales@camitrade.com</a></p>
+      <p>Phone: Available for money broking licensing inquiries</p>
+    </div>
+  </div>
 </div></>
 );
 const Brokarage15 =(
@@ -10520,46 +10636,147 @@ const Brokarage27 =(
 const Brokarage28 =(
   <>
   <div>
-  <h2>Vanuatu Securities Dealer License</h2>
-  <p>
-    Vanuatu, officially the Republic of Vanuatu, is an archipelago in the South Pacific Ocean, east of Australia west of Fiji and North of New Zealand, consisting of a chain of 13 principals and many smaller islands. Financial services in Vanuatu are regulated by Vanuatu Financial Services Commission (VFSC). Vanuatu is a great location for forex brokers with limited amount of resources because capital (or bond) requirements are relatively small. The forex brokerage license can be obtained based on Dealer’s in Securities (Licensing) Act [CAP 70]. An application can be made for a Dealers in Securities License under this act by a Vanuatu international company or by an individual, who is a Director / Officer of the company. Moreover, the clients can benefit from this license because it permits the holder to manage the portfolio of investments and to operate with securities (sell and buy) for the client or even on his behalf.
-  </p>
-  <h3>Types of Forex licenses</h3>
-  <p>
-    As of 8 January 2019, Amendments of Financial Dealers Licensing Act came in force, dividing Principal’s license into Class A, Class B or Class C Principal’s License.
-  </p>
-  <dl>
-    <dt>Class A Principal’s License:</dt>
-    <dd>means to carry on or purport to carry on the business of dealing in any of the following securities:
-      <ol>
-        <li>Debenture stocks; or</li>
-        <li>Loan stock, bonds; or</li>
-        <li>Certificate of deposit; or</li>
-        <li>Proceeds of Foreign Exchange</li>
-      </ol>
-    </dd>
-    <dt>Class B Principal’s License:</dt>
-    <dd>means to carry on or purport to carry on the business of dealing in future contracts and derivative products but not limited to futures and options.</dd>
-    <dt>Class C Principal’s License:</dt>
-    <dd>means to carry on or purport to carry on the business of dealing in any of the following securities:
-      <ol>
-        <li>Shares in share capital of a corporation;</li>
-        <li>Proceeds of precious metals; or</li>
-        <li>Proceeds of commodities; or</li>
-        <li>A right despite whether or not conferred by warrant, subscribe for shares or debt securities; or</li>
-        <li>A right under depository receipt;</li>
-        <li>An option to acquire or dispose of any security falling within any other provision of the Act; or</li>
-        <li>A right under a contract for the acquisition of securities.</li>
-      </ol>
-    </dd>
-  </dl>
+  <h1>Vanuatu Securities Dealer License - Securities Trading License in Vanuatu</h1>
+  <div className="hero-section">
+    <p>
+      The <strong>Vanuatu Securities Dealer License</strong> enables companies to operate as licensed 
+      securities dealers in one of the Pacific's most business-friendly jurisdictions. Vanuatu, an 
+      archipelago in the South Pacific Ocean, has developed a comprehensive regulatory framework for 
+      securities dealing and forex trading, making it an attractive destination for securities dealers, 
+      forex brokers, and financial services companies.
+    </p>
+    <p>
+      This license is particularly valuable for securities dealers, forex brokers, and financial services companies 
+      looking for legitimate licensing with international recognition. The Vanuatu Financial Services Commission (VFSC) 
+      provides oversight that meets international standards while maintaining a business-friendly approach to 
+      securities trading with competitive capital requirements.
+    </p>
+    <p>
+      What makes the Vanuatu Securities Dealer License appealing is the combination of clear regulatory framework, 
+      competitive capital requirements ($50,000 deposit), and the ability to operate securities trading services 
+      with proper regulatory oversight from the VFSC.
+    </p>
+    <div className="hero-cta">
+      <button className="cta-button primary large">Apply for Securities Dealer License</button>
+      <button className="cta-button outline">Download License Information</button>
+    </div>
+  </div>
 
-  <h2>Legal requirements</h2>
-  <table>
+  <h2>Understanding the Vanuatu Securities Dealer License</h2>
+  <div className="license-overview">
+    <p>
+      The Vanuatu Securities Dealer License is designed for companies that want to operate as legitimate 
+      securities dealers under the Dealers in Securities (Licensing) Act [CAP 70]. This license allows your company 
+      to manage investment portfolios and operate with securities (buy and sell) for clients or on their behalf, 
+      providing comprehensive securities dealing services.
+    </p>
+    <p>
+      This license is particularly valuable for securities dealers, forex brokers, and financial services companies 
+      that need regulatory compliance while maintaining operational flexibility. The VFSC provides oversight that 
+      meets international standards, giving your securities dealing services credibility and trust in regional and global markets.
+    </p>
+    <div className="securities-benefits">
+      <h4>Key Advantages of the Vanuatu Securities Dealer License:</h4>
+      <ul>
+        <li><strong>Clear Regulatory Framework:</strong> Well-defined regulations under VFSC oversight</li>
+        <li><strong>Pacific Market Access:</strong> Access to Pacific and broader regional markets</li>
+        <li><strong>Competitive Capital Requirements:</strong> Only $50,000 deposit required</li>
+        <li><strong>International Recognition:</strong> VFSC oversight provides global credibility</li>
+        <li><strong>Tax Advantages:</strong> 20-year tax exemption on foreign income</li>
+        <li><strong>Established Infrastructure:</strong> Robust financial and legal framework</li>
+      </ul>
+    </div>
+  </div>
+  <h2>Vanuatu Securities Dealer License Types and Legal Framework</h2>
+  <div className="legal-framework">
+    <p>
+      The Vanuatu Securities Dealer License is governed by the Dealers in Securities (Licensing) Act [CAP 70] and 
+      the Financial Dealers Licensing Act amendments effective from 8 January 2019. This regulatory structure 
+      provides clear guidelines for licensing requirements while maintaining oversight standards that meet 
+      international expectations for securities dealing operations.
+    </p>
+    <p>
+      All applications for the Securities Dealer License must be submitted through a proper corporate structure, 
+      with final approval granted by the <strong>Vanuatu Financial Services Commission (VFSC)</strong>. The VFSC serves as the 
+      primary financial regulator and maintains oversight of all licensed securities dealers operating in Vanuatu.
+    </p>
+    <div className="compliance-highlights">
+      <h4>Regulatory Advantages of VFSC Vanuatu for Securities Dealers:</h4>
+      <ul>
+        <li>Internationally recognized regulatory standards</li>
+        <li>Pacific Islands regulatory alignment</li>
+        <li>Access to regional and international securities markets</li>
+        <li>Business-friendly securities dealing regulations</li>
+        <li>Support for innovation in securities trading technology</li>
+        <li>Clear regulatory framework for principal dealing activities</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>Securities Dealer License Types</h2>
+  <p>The Financial Dealers Licensing Act amendments effective from 8 January 2019 divide the Principal's License into three distinct categories, each covering specific types of securities dealing activities:</p>
+  
+  <h3>Class A Principal's License</h3>
+  <p>
+    A <strong>Class A Principal's License</strong> authorizes the holder to carry on business dealing in traditional 
+    debt securities and foreign exchange products. This license covers:
+  </p>
+  <ul>
+    <li>Debenture stocks</li>
+    <li>Loan stock and bonds</li>
+    <li>Certificates of deposit</li>
+    <li>Foreign exchange proceeds</li>
+  </ul>
+
+  <h3>Class B Principal's License</h3>
+  <p>
+    A <strong>Class B Principal's License</strong> authorizes the holder to carry on business dealing in derivative 
+    products and futures contracts. This license covers:
+  </p>
+  <ul>
+    <li>Future contracts</li>
+    <li>Derivative products</li>
+    <li>Options trading</li>
+    <li>Advanced financial instruments</li>
+  </ul>
+
+  <h3>Class C Principal's License</h3>
+  <p>
+    A <strong>Class C Principal's License</strong> authorizes the holder to carry on business dealing in equity 
+    securities and commodity-based products. This license covers:
+  </p>
+  <ul>
+    <li>Shares in corporate share capital</li>
+    <li>Precious metals proceeds</li>
+    <li>Commodities proceeds</li>
+    <li>Warrant subscription rights</li>
+    <li>Depository receipt rights</li>
+    <li>Securities acquisition options</li>
+    <li>Contract-based securities rights</li>
+  </ul>
+
+  <p>This comprehensive classification system allows securities dealers to obtain licenses tailored to their specific business activities and market focus.</p>
+
+  <h2>Vanuatu Securities Dealer License Requirements</h2>
+  <p>To obtain a Vanuatu Securities Dealer License, companies must meet specific regulatory requirements established by the Vanuatu Financial Services Commission (VFSC). These requirements are designed to ensure operational capability, financial stability, and regulatory compliance in the securities dealing sector.</p>
+
+  <h3>Key Requirements Overview</h3>
+  <p>The main requirements for obtaining the Vanuatu Securities Dealer License include:</p>
+  <ul>
+    <li><strong>Corporate Structure:</strong> Vanuatu private company limited by shares</li>
+    <li><strong>Capital Requirements:</strong> $50,000 deposit required</li>
+    <li><strong>Directors:</strong> Minimum 1 director with 5+ years securities experience</li>
+    <li><strong>Physical Presence:</strong> Operational office in Vanuatu with required systems</li>
+    <li><strong>License Manager:</strong> Alternative to full physical presence</li>
+    <li><strong>Tax Advantages:</strong> 20-year tax exemption on foreign income</li>
+  </ul>
+
+  <h3>Detailed Requirements Breakdown</h3>
+  <table className="requirements-table">
     <thead>
       <tr>
         <th>No.</th>
-        <th>Obligatory requirement</th>
+        <th>Obligatory Requirement</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -10643,6 +10860,39 @@ const Brokarage28 =(
       </tr>
     </tbody>
   </table>
+
+  <div className="license-summary">
+    <h3>Getting Started with Your Vanuatu Securities Dealer License</h3>
+    <p>If you're considering the Vanuatu Securities Dealer License for your securities dealing business, it's important to understand both the opportunities and requirements involved. Many securities dealers, forex brokers, and financial services companies have successfully obtained this license to expand their operations in the Pacific region while maintaining regulatory compliance.</p>
+    
+    <div className="summary-benefits">
+      <h4>Why Consider the Vanuatu Securities Dealer License:</h4>
+      <ul>
+        <li><strong>Clear Regulatory Framework:</strong> Well-defined regulations under VFSC oversight</li>
+        <li><strong>Pacific Market Access:</strong> Access to Pacific and broader regional markets</li>
+        <li><strong>Competitive Capital Requirements:</strong> Only $50,000 deposit required</li>
+        <li><strong>International Recognition:</strong> VFSC oversight provides global credibility</li>
+        <li><strong>Tax Advantages:</strong> 20-year tax exemption on foreign income</li>
+        <li><strong>Established Infrastructure:</strong> Robust financial and legal framework</li>
+      </ul>
+    </div>
+
+    <div className="cta-section">
+      <h4>Next Steps</h4>
+      <p>If you're interested in learning more about the Vanuatu Securities Dealer License, we can provide detailed guidance on the application process, requirements, and timeline. Our team has experience helping companies navigate the VFSC licensing process for securities dealing operations.</p>
+      <div className="cta-buttons">
+        <button className="cta-button primary large">Request Securities Dealer License Information</button>
+        <button className="cta-button outline">Download Application Guide</button>
+        <button className="cta-button secondary">Schedule Consultation</button>
+      </div>
+    </div>
+
+    <div className="contact-info">
+      <p><strong>Need more information about the securities dealer licensing process?</strong> Our team can help you understand the requirements and application process:</p>
+      <p>Email: <a href="mailto:info@camitrade.com">info@camitrade.com</a> | <a href="mailto:sales@camitrade.com">sales@camitrade.com</a></p>
+      <p>Phone: Available for securities dealer licensing inquiries</p>
+    </div>
+  </div>
 </div>
   </>
 );

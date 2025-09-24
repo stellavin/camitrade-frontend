@@ -72,6 +72,14 @@ const LicensingServices = () => {
             if (serviceData.Service === "Kenya Capital Markets Securities Licenses (Non-Dealing Online Foreign Exchange Broker License)") {
                 return "Kenya Forex Broker License 2025 | Non Dealing Online FX License | CMA Regulated";
             }
+            // Special optimization for Labuan Money Broking License
+            if (serviceData.Service === "Labuan Money Broking License") {
+                return "Labuan Money Broking License 2025 | Forex Broker License | Labuan FSA Regulated";
+            }
+            // Special optimization for Vanuatu Securities Dealer License
+            if (serviceData.Service === "Vanuatu Securities Dealer License") {
+                return "Vanuatu Securities Dealer License 2025 | Securities Trading License | VFSC Regulated";
+            }
             return `${serviceData.Service} | Expert Licensing Solutions - Camitrade`;
         }
         return `${toSentenceCase(serviceName)} | Expert Licensing Solutions`;
@@ -98,6 +106,14 @@ const LicensingServices = () => {
             // Special optimization for Kenya Non Dealing Online Foreign Exchange License
             if (serviceData.Service === "Kenya Capital Markets Securities Licenses (Non-Dealing Online Foreign Exchange Broker License)") {
                 return "Kenya Forex Broker License for online foreign exchange trading. CMA regulated, 1:400 leverage, KES 30M capital requirement. Operate forex trading platforms in East Africa.";
+            }
+            // Special optimization for Labuan Money Broking License
+            if (serviceData.Service === "Labuan Money Broking License") {
+                return "Labuan Money Broking License for forex and money market operations. Labuan FSA regulated, 3% tax rate, RM 500K capital requirement. Operate money broking services in Asia.";
+            }
+            // Special optimization for Vanuatu Securities Dealer License
+            if (serviceData.Service === "Vanuatu Securities Dealer License") {
+                return "Vanuatu Securities Dealer License for securities trading and forex operations. VFSC regulated, $50K capital requirement, 20-year tax exemption. Operate securities dealing in Pacific region.";
             }
             // Create a more specific description for other services (optimized for 150-160 chars)
             return `Expert ${serviceData.Service} guidance. 100% compliant, 30-45 day processing. Get licensed with Camitrade's professional support.`;
