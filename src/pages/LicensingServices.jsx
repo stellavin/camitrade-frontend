@@ -64,6 +64,10 @@ const LicensingServices = () => {
             if (serviceData.Service === "Mauritius Virtual Asset Service Provider License") {
                 return "Mauritius VASP License 2025 | Crypto Exchange License | FSC Regulated";
             }
+            // Special optimization for Seychelles Virtual Asset Service Provider License
+            if (serviceData.Service === "Seychelles Virtual Asset Service Provider License") {
+                return "Seychelles VASP License 2025 | Crypto Exchange License | FSA Regulated";
+            }
             return `${serviceData.Service} | Expert Licensing Solutions - Camitrade`;
         }
         return `${toSentenceCase(serviceName)} | Expert Licensing Solutions`;
@@ -82,6 +86,10 @@ const LicensingServices = () => {
             // Special optimization for Mauritius Virtual Asset Service Provider License
             if (serviceData.Service === "Mauritius Virtual Asset Service Provider License") {
                 return "Mauritius VASP License for crypto exchanges and digital asset services. FSC regulated, clear framework for virtual assets. Operate crypto, DeFi, NFT services globally.";
+            }
+            // Special optimization for Seychelles Virtual Asset Service Provider License
+            if (serviceData.Service === "Seychelles Virtual Asset Service Provider License") {
+                return "Seychelles VASP License for crypto exchanges and digital asset services. FSA regulated, progressive framework for virtual assets. Operate crypto, DeFi, NFT services globally.";
             }
             // Create a more specific description for other services (optimized for 150-160 chars)
             return `Expert ${serviceData.Service} guidance. 100% compliant, 30-45 day processing. Get licensed with Camitrade's professional support.`;
