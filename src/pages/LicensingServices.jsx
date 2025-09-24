@@ -1,12 +1,16 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { useParams } from 'react-router-dom';
 import Header from '../components/Header';
 import Breadcrumbs from '../components/Breadcrumbs';
 import Footer from '../components/Footer';
 import LicensingServiceList from '../components/LicensingServiceList';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import servicesData from '../jsonData/MainServices';
 
 const LicensingServices = () => {
-    const [serviceName, setServiceName]=useState('Licensing Services');
+    const { id } = useParams();
+    const [serviceName, setServiceName] = useState('Licensing Services');
+    const [serviceData, setServiceData] = useState(null);
     
     const toSentenceCase = (str) => {
         return str.replace(/_/g, " ")
@@ -16,11 +20,56 @@ const LicensingServices = () => {
             .join(' ');
     };
 
+    // Find specific service data based on URL parameter
+    useEffect(() => {
+        if (id) {
+            const services = servicesData.LicensingServices;
+            
+            // Normalize the service ID to match the data structure
+            const serviceId = id
+                ?.replace(/-/g, '_')
+                ?.replace(/\([^)]*\)/g, '')
+                ?.replace(/\s+/g, '_')
+                ?.replace(/_+/g, '_')
+                ?.toLowerCase();
+            
+            // Search through all service categories
+            for (const [categoryKey, serviceList] of Object.entries(services)) {
+                if (Array.isArray(serviceList)) {
+                    const foundService = serviceList.find(service => 
+                        service.id === id || service.id === serviceId
+                    );
+                    if (foundService) {
+                        setServiceData(foundService);
+                        setServiceName(foundService.Service);
+                        break;
+                    }
+                }
+            }
+        }
+    }, [id]);
+
+    // Generate SEO title and description
+    const getSEOTitle = () => {
+        if (serviceData) {
+            return `${serviceData.Service} | Expert Licensing Solutions - Camitrade`;
+        }
+        return `${toSentenceCase(serviceName)} | Expert Licensing Solutions`;
+    };
+
+    const getSEODescription = () => {
+        if (serviceData) {
+            // Create a more specific description for the service (optimized for 150-160 chars)
+            return `Expert ${serviceData.Service} guidance. 100% compliant, 30-45 day processing. Get licensed with Camitrade's professional support.`;
+        }
+        return `Expert ${toSentenceCase(serviceName)} guidance. Fast, reliable service with 100% compliance. Professional support available.`;
+    };
+
     return (
         <>
          <CanonicalHeaders
-               title ={`${toSentenceCase(serviceName)} | Expert Licensing Solutions`}
-               description ={`Get expert guidance on ${toSentenceCase(serviceName)}. Fast, reliable service with 100% compliance. Start your application today and get professional support.`}
+               title={getSEOTitle()}
+               description={getSEODescription()}
             />
             <Header />
             <Breadcrumbs pageTitle={toSentenceCase(serviceName)}/>
