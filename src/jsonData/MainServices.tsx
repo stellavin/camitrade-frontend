@@ -13165,43 +13165,109 @@ const Payment_services_provider_licenses_13 =(
 );
 const Payment_services_provider_licenses_14 =(
   <div>
-  <h2>Mauritius Payment Intermediary Service License</h2>
-  <p>For the eighth consecutive year, the World Bank’s 2016 Ease of Doing Business report ranks Mauritius 1st among African economies and 32nd worldwide out of 189 economies in terms of ease of doing business, making Mauritius the leader in economic freedom for the region of Sub-Saharan Africa.</p>
+  <h1>Mauritius Payment Intermediary Service License - Get Licensed as a PSP in 2025</h1>
+  <div className="hero-section">
+    <p>
+      The <strong>Mauritius Payment Intermediary Service License</strong> allows companies to operate as licensed 
+      Payment Service Providers (PSP) in one of Africa's most business-friendly jurisdictions. Mauritius has 
+      consistently ranked #1 in Africa for ease of doing business by the World Bank, making it an attractive 
+      destination for fintech companies looking to establish global payment operations.
+    </p>
+    <p>
+      What makes this license particularly appealing is the combination of <strong>low capital requirements 
+      (MUR 500,000, approximately $11,000 USD)</strong> and an <strong>effective tax rate of just 3%</strong>. 
+      This makes it one of the most cost-effective ways to obtain a legitimate payment processing license 
+      with international recognition.
+    </p>
+    <p>
+      The Financial Services Commission (FSC) Mauritius oversees all licensed payment service providers, 
+      ensuring compliance with international standards while maintaining regulations that support business growth. 
+      This regulatory framework has made Mauritius a preferred choice for payment companies, fintech startups, 
+      and e-commerce platforms looking to expand globally.
+    </p>
+    <div className="hero-cta">
+      <button className="cta-button primary large">Apply for PSP License</button>
+      <button className="cta-button outline">Download Application Guide</button>
+    </div>
+  </div>
+
+  <h2>Understanding the Mauritius Payment Intermediary License</h2>
+  <div className="license-overview">
+    <p>
+      The Mauritius Payment Intermediary Services License is designed for companies that want to operate as 
+      legitimate Payment Service Providers on a global scale. This license allows your GBC 1 company to offer 
+      comprehensive payment solutions including merchant processing, electronic money services, and cross-border 
+      payment facilitation.
+    </p>
+    <p>
+      This license is particularly valuable for fintech companies, e-commerce platforms, and payment processors 
+      that need regulatory compliance while maintaining operational flexibility. The FSC Mauritius provides 
+      oversight that meets international standards, giving your payment services credibility and trust in global markets.
+    </p>
+    <div className="psp-benefits">
+      <h4>Key Advantages of the Mauritius PSP License:</h4>
+      <ul>
+        <li><strong>Competitive Tax Structure:</strong> Effective tax rate of 3% on net profits</li>
+        <li><strong>Reasonable Capital Requirements:</strong> MUR 500,000 (approximately $11,000 USD)</li>
+        <li><strong>Global Reach:</strong> Process payments internationally without geographic restrictions</li>
+        <li><strong>Regulatory Credibility:</strong> FSC oversight provides international recognition</li>
+        <li><strong>Business-Friendly Environment:</strong> No exchange controls, free profit repatriation</li>
+        <li><strong>Foreign Ownership:</strong> 100% foreign ownership permitted</li>
+      </ul>
+    </div>
+  </div>
   
-  <h3>About the license</h3>
-  <p>The Payment Intermediary Services License is of interest to those who wish to operate as an online Payment Service Provider (PSP). The PSP business model is becoming more of a norm in the current business environment to address the ever-increasing need of both online shoppers and online sellers to do business via the internet. The Payment Intermediary Services License can only be applied for under a Category 1 Global Business Company and needs the approval of the Financial Services Commission for a GBC 1 to obtain such a special license.</p>
+  <h2>Permitted Payment Services and Activities</h2>
+  <p>The Mauritius Payment Intermediary Service License provides comprehensive authorization to operate as a payment service provider. This license covers a wide range of payment-related activities that allow you to serve merchants, consumers, and businesses globally.</p>
+
+  <h3>Core Payment Services</h3>
+  <p>Your licensed company can offer essential payment services including:</p>
+  <ul>
+    <li>Payment account operations (deposits and withdrawals)</li>
+    <li>Payment transaction execution and processing</li>
+    <li>Direct debit services (both one-time and recurring)</li>
+    <li>Credit transfers and standing orders</li>
+    <li>Payment card processing and acquiring</li>
+  </ul>
+
+  <h3>Advanced Payment Solutions</h3>
+  <p>The license also permits more sophisticated payment services:</p>
+  <ul>
+    <li>Payment instrument issuance and management</li>
+    <li>Payment transaction acquiring services</li>
+    <li>International money remittance</li>
+    <li>Payment initiation services</li>
+    <li>Account information services</li>
+  </ul>
+
+  <h3>Electronic Money Services</h3>
+  <p>You can also operate in the electronic money space:</p>
+  <ul>
+    <li>Electronic money issuance and management</li>
+    <li>Electronic money instruments</li>
+    <li>Payment system operations</li>
+    <li>Cross-border payment facilitation</li>
+    <li>Merchant payment processing</li>
+  </ul>
+
+  <p>This comprehensive scope of activities makes the Mauritius PSP license suitable for various business models, from traditional payment processors to modern fintech companies offering innovative payment solutions.</p>
   
-  <p>With a Payment Intermediary Services License, the GBC 1 can offer merchant online services for accepting electronic payments by a variety of payment methods including credit card, bank-based payments such as direct debit, bank transfer, and real-time transfer based on online banking.</p>
-  
-  <h3>Permitted activities</h3>
-  <ol>
-    <li>Services enabling cash to be placed on a payment account, including all operations required for operating a payment account.</li>
-    <li>Services enabling cash withdrawal from a payment account, including all operations required for operating a payment account.</li>
-    <li>Execution of payment transactions, including transfers of funds on a payment account with the payment service provider of the user or with another payment service provider, including:
-      <ol>
-        <li>Direct debits and one-off direct debits.</li>
-        <li>Execution of payment transactions through a payment card or a similar device.</li>
-        <li>Credit transfers, including standing orders.</li>
-      </ol>
-    </li>
-    <li>Execution of payment transactions where the funds are covered by a credit line for a payment service user, including:
-      <ol>
-        <li>Direct debits and one-off direct debits.</li>
-        <li>Payment transactions through a payment card or a similar device.</li>
-        <li>Credit transfers and standing orders.</li>
-      </ol>
-    </li>
-    <li>Issue of payment instruments and/or acquiring of payment transactions.</li>
-    <li>Money remittance.</li>
-    <li>Payment initiation services.</li>
-    <li>Account information services.</li>
-    <li>The operation of payment systems.</li>
-    <li>Without prejudice to the provisions of article 5(6) of the Financial Act, business activities other than the provision of payment services; when payment institutions engage in the provision of payment services, they may only hold payment accounts used exclusively for transactions; any funds received by payment institutions from payment service users with a view to the provision of payment services shall not constitute a deposit or other repayable funds within the meaning of article 2 of the Banking Act, or electronic money within the meaning of article 2 of the Banking Act;</li>
-    <li>Any other services functional to the transfer of money, including the issuance of electronic money and electronic money instruments, but excluding the provision of solely online or telecommunication services or network access.</li>
-  </ol>
-  
-  <h3>Legal requirements</h3>
-  <table>
+  <h2>License Requirements and Application Process</h2>
+  <p>To obtain a Mauritius Payment Intermediary Service License, your company must meet specific regulatory requirements established by the Financial Services Commission (FSC). These requirements are designed to ensure operational capability, financial stability, and regulatory compliance.</p>
+
+  <h3>Key Requirements Overview</h3>
+  <p>The main requirements include:</p>
+  <ul>
+    <li><strong>Capital Requirement:</strong> MUR 500,000 (approximately $11,000 USD) minimum paid-up capital</li>
+    <li><strong>Entity Structure:</strong> Must be established as a Mauritius GBC 1 Company</li>
+    <li><strong>Directors:</strong> Two local non-executive directors plus one executive director</li>
+    <li><strong>Tax Obligations:</strong> 3% effective tax rate on net profits</li>
+    <li><strong>Ownership:</strong> 100% foreign ownership permitted</li>
+    <li><strong>Regulatory Oversight:</strong> Subject to FSC Mauritius supervision</li>
+  </ul>
+
+  <h3>Detailed Requirements Breakdown</h3>
+  <table className="requirements-table">
   <thead>
     <tr>
       <th>No</th>
@@ -13318,7 +13384,38 @@ const Payment_services_provider_licenses_14 =(
   </tbody>
 </table>
 
+  <div className="license-summary">
+    <h3>Getting Started with Your Mauritius PSP License</h3>
+    <p>If you're considering the Mauritius Payment Intermediary Service License for your payment business, it's important to understand both the opportunities and requirements involved. Many payment companies and fintech startups have successfully obtained this license to expand their global operations while maintaining regulatory compliance.</p>
+    
+    <div className="summary-benefits">
+      <h4>Why Consider the Mauritius PSP License:</h4>
+      <ul>
+        <li><strong>Cost-Effective Solution:</strong> Lower capital requirements compared to many other jurisdictions</li>
+        <li><strong>Competitive Tax Structure:</strong> 3% effective tax rate on net profits</li>
+        <li><strong>Regulatory Credibility:</strong> FSC oversight provides international recognition</li>
+        <li><strong>Business Flexibility:</strong> 100% foreign ownership and no exchange controls</li>
+        <li><strong>Global Reach:</strong> Operate payment services internationally</li>
+        <li><strong>Established Framework:</strong> Well-defined regulatory process and requirements</li>
+      </ul>
+    </div>
 
+    <div className="cta-section">
+      <h4>Next Steps</h4>
+      <p>If you're interested in learning more about the Mauritius Payment Intermediary Service License, we can provide detailed guidance on the application process, requirements, and timeline. Our team has experience helping companies navigate the FSC licensing process.</p>
+      <div className="cta-buttons">
+        <button className="cta-button primary large">Request License Information</button>
+        <button className="cta-button outline">Download Application Guide</button>
+        <button className="cta-button secondary">Schedule Consultation</button>
+      </div>
+    </div>
+
+    <div className="contact-info">
+      <p><strong>Need more information about the licensing process?</strong> Our team can help you understand the requirements and application process:</p>
+      <p>Email: <a href="mailto:info@camitrade.com">info@camitrade.com</a> | <a href="mailto:sales@camitrade.com">sales@camitrade.com</a></p>
+      <p>Phone: Available for licensing inquiries</p>
+    </div>
+  </div>
 </div>
 
 );

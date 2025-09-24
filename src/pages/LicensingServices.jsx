@@ -56,6 +56,10 @@ const LicensingServices = () => {
             if (serviceData.Service === "Seychelles Securities Dealer Licence") {
                 return "Seychelles Securities Dealer License 2025 | #1 Fast Approval | Camitrade";
             }
+            // Special optimization for Mauritius Payment Intermediary Service License
+            if (serviceData.Service === "Mauritius Payment Intermediary Service License") {
+                return "Mauritius Payment Intermediary Service License - PSP License with 3% Tax Rate";
+            }
             return `${serviceData.Service} | Expert Licensing Solutions - Camitrade`;
         }
         return `${toSentenceCase(serviceName)} | Expert Licensing Solutions`;
@@ -66,6 +70,10 @@ const LicensingServices = () => {
             // Special optimization for Seychelles Securities Dealer License
             if (serviceData.Service === "Seychelles Securities Dealer Licence") {
                 return "Get Seychelles Securities Dealer License in 30 days. Low capital $50K. Trade stocks, bonds, forex. #1 fastest approval service.";
+            }
+            // Special optimization for Mauritius Payment Intermediary Service License
+            if (serviceData.Service === "Mauritius Payment Intermediary Service License") {
+                return "Mauritius Payment Intermediary Service License for PSP operations. 3% tax rate, MUR 500K capital requirement. Process payments, cards, and remittance services globally.";
             }
             // Create a more specific description for other services (optimized for 150-160 chars)
             return `Expert ${serviceData.Service} guidance. 100% compliant, 30-45 day processing. Get licensed with Camitrade's professional support.`;
