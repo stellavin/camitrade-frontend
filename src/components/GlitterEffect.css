@@ -1,0 +1,65 @@
+.glitter-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.glitter-particle {
+    position: absolute;
+    border-radius: 50%;
+    pointer-events: none;
+    animation: glitter-fall linear infinite, glitter-sparkle ease-in-out infinite;
+    opacity: 0.4;
+}
+
+@keyframes glitter-fall {
+    0% {
+        transform: translateY(-100vh) rotate(0deg);
+        opacity: 0.3;
+    }
+    100% {
+        transform: translateY(100vh) rotate(360deg);
+        opacity: 0;
+    }
+}
+
+@keyframes glitter-sparkle {
+    0%, 100% {
+        opacity: 0.2;
+        transform: scale(0.8);
+    }
+    50% {
+        opacity: 0.5;
+        transform: scale(1.1);
+    }
+}
+
+/* Additional sparkle effect */
+.glitter-particle::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.3) 0%, transparent 70%);
+    transform: translate(-50%, -50%);
+    animation: sparkle-pulse 1s ease-in-out infinite;
+}
+
+@keyframes sparkle-pulse {
+    0%, 100% {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(0.5);
+    }
+    50% {
+        opacity: 0.4;
+        transform: translate(-50%, -50%) scale(1);
+    }
+}
+

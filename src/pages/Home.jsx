@@ -9,6 +9,8 @@ import Consultation from '../components/Consultation';
 import Testimonial from '../components/Testimonial';
 import Footer from '../components/Footer';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import SnowEffect from '../components/SnowEffect';
+import GlitterEffect from '../components/GlitterEffect';
 
 const   Home = () => {
     return (
@@ -17,6 +19,8 @@ const   Home = () => {
             title ="Global Fiduciary & Licensing Services | Camitrade Fiduciaries"
             description ="Trusted global fiduciary services provider offering comprehensive licensing, corporate services, and business solutions. Licensed by Financial Services Authority for Trust & Corporate Services."
             />
+            <SnowEffect />
+            <GlitterEffect />
             <Header />
             <BannerSlider/>
             <Feature />

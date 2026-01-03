@@ -2,6 +2,7 @@ import React from 'react';
 import getBannerData from '../jsonData/BannerSliderData.json'
 import getOfferData from '../jsonData/OfferData.json'
 import Carousel from 'react-multi-carousel';
+import 'react-multi-carousel/lib/styles.css';
 import SingleBanner from './SingleBanner';
 
 const BannerSlider = ({hasOffer}) => {
@@ -27,10 +28,12 @@ const BannerSlider = ({hasOffer}) => {
                     slidesToSlide={1}
                     showDots={false}
                     swipeable={true}
-                    autoPlay={false}
+                    autoPlay={true}
+                    autoPlaySpeed={3000}
+                    transitionDuration={500}
+                    keyBoardControl={true}
                     customRightArrow={<CustomRightArrow />}
                     customLeftArrow={<CustomLeftArrow />}
-                    autoPlaySpeed={3000}
                     responsive={{
                         desktop: {
                             breakpoint: {
@@ -55,10 +58,12 @@ const BannerSlider = ({hasOffer}) => {
                 slidesToSlide={1}
                 showDots={false}
                 swipeable={true}
-                autoPlay={false}
+                autoPlay={true}
+                autoPlaySpeed={3000}
+                transitionDuration={500}
+                keyBoardControl={true}
                 customRightArrow={<CustomRightArrow />}
                 customLeftArrow={<CustomLeftArrow />}
-                autoPlaySpeed={3000}
                 responsive={{
                     desktop: {
                         breakpoint: {
