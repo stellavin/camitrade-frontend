@@ -142,6 +142,9 @@ const LicensingServices = () => {
          <CanonicalHeaders
                title={getSEOTitle()}
                description={getSEODescription()}
+               schemaType="Service"
+               serviceName={serviceData ? serviceData.Service : toSentenceCase(serviceName)}
+               serviceDescription={getSEODescription()}
             />
             <Header />
             <Breadcrumbs pageTitle={toSentenceCase(serviceName)}/>

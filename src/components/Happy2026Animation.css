@@ -1,0 +1,285 @@
+.happy-2026-animation {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+    text-align: center;
+    width: 90%;
+    max-width: 1000px;
+    height: 100px;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+/* HAPPY text - smaller uppercase */
+.happy-text {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #d89d40;
+    margin-bottom: 5px;
+    animation: fade-in-down 1s ease-out;
+    text-shadow: 1px 1px 2px rgba(216, 157, 64, 0.3);
+    text-align: center;
+    width: 100%;
+    line-height: 1;
+}
+
+/* Main container for New Year text */
+.new-year-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.new-year-text-wrapper {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+/* New Year script text - large retro style with dark blue and orange outline */
+.new-year-text {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.new-year-script-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.new-year-script {
+    font-size: 42px;
+    font-weight: 900;
+    font-family: 'Nunito', sans-serif;
+    color: #FFD700;
+    display: inline-block;
+    animation: script-bounce 2s ease-in-out infinite;
+    letter-spacing: 1px;
+    position: relative;
+    line-height: 1;
+}
+
+/* 2026 number wrapper */
+.year-number-wrapper {
+    position: relative;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+/* 2026 number - smaller bold, positioned below and slightly to the right */
+.year-number {
+    font-size: 24px;
+    font-weight: 900;
+    color: #d89d40;
+    display: inline-block;
+    margin-top: 2px;
+    text-shadow: 1px 1px 2px rgba(216, 157, 64, 0.3);
+    animation: number-pulse 1.5s ease-in-out infinite;
+    position: relative;
+}
+
+/* Fireworks - positioned after New Year */
+.fireworks-after-newyear {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+    margin-left: 10px;
+    width: 60px;
+    height: 60px;
+    pointer-events: none;
+    overflow: visible;
+}
+
+/* Fireworks - positioned near 2026 */
+.year-number-wrapper .fireworks {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+    margin-left: 10px;
+    width: 60px;
+    height: 60px;
+    pointer-events: none;
+    overflow: visible;
+}
+
+.firework {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.firework-1 {
+    top: 0;
+    left: 0;
+    animation: firework-burst 2.5s ease-out infinite;
+}
+
+.firework-2 {
+    top: 10px;
+    left: 15px;
+    width: 30px;
+    height: 30px;
+    animation: firework-burst 2.5s ease-out infinite 0.8s;
+}
+
+.firework-3 {
+    top: 0;
+    left: 0;
+    animation: firework-burst 2.5s ease-out infinite 0.3s;
+}
+
+.firework-4 {
+    top: 10px;
+    left: 15px;
+    width: 30px;
+    height: 30px;
+    animation: firework-burst 2.5s ease-out infinite 1.1s;
+}
+
+.firework-particle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 4px;
+    height: 4px;
+    background: radial-gradient(circle, #FFD700, #FF8C00);
+    border-radius: 50%;
+    transform-origin: center center;
+    transform: translate(-50%, -50%) rotate(var(--rotation, 0deg)) translateY(-25px);
+    animation: firework-explode 2s ease-out infinite;
+    box-shadow: 0 0 6px rgba(255, 215, 0, 0.8), 0 0 12px rgba(255, 140, 0, 0.6);
+}
+
+.firework-2 .firework-particle {
+    background: radial-gradient(circle, #FF69B4, #FF1493);
+    box-shadow: 0 0 6px rgba(255, 105, 180, 0.8), 0 0 12px rgba(255, 20, 147, 0.6);
+}
+
+/* Animations */
+@keyframes fade-in-down {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes script-bounce {
+    0%, 100% {
+        transform: translateY(0) scale(1);
+    }
+    50% {
+        transform: translateY(-3px) scale(1.01);
+    }
+}
+
+
+@keyframes number-pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+@keyframes firework-burst {
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(1.2);
+    }
+}
+
+@keyframes firework-explode {
+    0% {
+        opacity: 0;
+        transform: translate(-50%, -50%) rotate(var(--rotation, 0deg)) translateY(0) scale(0);
+    }
+    10% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        transform: translate(-50%, -50%) rotate(var(--rotation, 0deg)) translateY(-35px) scale(1.5);
+    }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .happy-2026-animation {
+        height: 100px;
+    }
+    
+    .happy-text {
+        font-size: 12px;
+        letter-spacing: 1.5px;
+    }
+    
+    .new-year-script {
+        font-size: 36px;
+    }
+    
+    .year-number-wrapper {
+        margin-left: 12px;
+    }
+    
+    .year-number {
+        font-size: 20px;
+    }
+    
+    .year-number-wrapper .fireworks {
+        width: 50px;
+        height: 50px;
+        margin-left: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .happy-2026-animation {
+        height: 100px;
+    }
+    
+    .happy-text {
+        font-size: 10px;
+        letter-spacing: 1px;
+    }
+    
+    .new-year-script {
+        font-size: 28px;
+    }
+    
+    .year-number-wrapper {
+        margin-left: 10px;
+    }
+    
+    .year-number {
+        font-size: 16px;
+    }
+    
+    .year-number-wrapper .fireworks {
+        width: 40px;
+        height: 40px;
+        margin-left: 6px;
+    }
+}

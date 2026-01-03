@@ -19,6 +19,9 @@ const OtherServices = () => {
         <CanonicalHeaders
                title ={`${toSentenceCase(serviceName)} | Professional Business Solutions`}
                description ={`Get expert guidance on ${toSentenceCase(serviceName)}. Fast, reliable service with 100% compliance. Start your application today and get professional support.`}
+               schemaType="Service"
+               serviceName={toSentenceCase(serviceName)}
+               serviceDescription={`Expert ${toSentenceCase(serviceName)} guidance. Fast, reliable service with 100% compliance.`}
             />
             <Header />
             <Breadcrumbs pageTitle={toSentenceCase(serviceName)}/>

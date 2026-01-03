@@ -10,6 +10,9 @@ const PaymentsPage = () => {
         <> <CanonicalHeaders
         title ="Global Payment Solutions | Secure Business Transactions"
         description ="Access our comprehensive payment solutions for international business. We offer secure, efficient, and compliant payment processing services tailored to your global business needs."
+        schemaType="Service"
+        serviceName="Payment Solutions"
+        serviceDescription="Secure and efficient payment processing services for international business transactions"
         />
             <Header />
             <Breadcrumbs pageTitle="Payments" />

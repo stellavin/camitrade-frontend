@@ -27,6 +27,9 @@ const Services = () => {
         <CanonicalHeaders
                 title ={`${name}| We ensure legal compliance and sustainable growth.`}
                 description ="Camitrade Fiduciaries provides global company incorporation and administration services, Licensing services and Payment solutions"
+                schemaType="Service"
+                serviceName={Newname}
+                serviceDescription="Global company incorporation and administration services with legal compliance and sustainable growth"
             />
             <Header />
             <Breadcrumbs pageTitle={Newname} />

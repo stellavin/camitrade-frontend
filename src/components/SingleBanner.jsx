@@ -1,6 +1,7 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
 import { HashLink as Link } from 'react-router-hash-link';
+import Happy2026Animation from './Happy2026Animation';
 
 const SingleBanner = ({ banner, hasOffer }) => {
     let { image, title, btnTextOne, btnTextTwo, btnLinkOne, btnLinkTwo } = banner;
@@ -16,6 +17,7 @@ const SingleBanner = ({ banner, hasOffer }) => {
                                     <div className="slider-overlay"></div>
                                 )
                             }
+                        <Happy2026Animation />
                         <div className="slider-wrapper container">
                             <div className="slider-text">
                                 <div className="slider-caption">
