@@ -34,7 +34,7 @@ const TrustSignals = () => {
                     <div className="row">
                         {signals.map((signal, index) => (
                             <Fade bottom delay={200 + (index * 100)} key={index}>
-                                <div className="col-lg-3 col-md-6 col-sm-6 mb-4">
+                                <div className="col-lg-3 col-md-6 col-6 mb-4">
                                     <div className={`trust-signal-card ${index % 2 === 0 ? 'trust-card-green' : 'trust-card-teal'}`}>
                                         <div className="trust-icon">
                                             <i className={signal.icon}></i>

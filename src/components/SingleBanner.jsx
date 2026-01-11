@@ -1,7 +1,7 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
-import { HashLink as Link } from 'react-router-hash-link';
 import Happy2026Animation from './Happy2026Animation';
+import { getWhatsAppUrl } from '../utils/urlTransform';
 
 const SingleBanner = ({ banner, hasOffer }) => {
     let { image, title, subtitle, btnTextOne, btnTextTwo, btnLinkOne, btnLinkTwo } = banner;
@@ -29,15 +29,15 @@ const SingleBanner = ({ banner, hasOffer }) => {
                                         
                                             { hasOffer ? (
                                                 <ul>
-                                                 <li><Link to="/services#" className='theme-btn theme-btn-1 offer-btn'>{btnTextOne}</Link></li>
+                                                 <li><a href={getWhatsAppUrl('Hello! I would like to learn more about your services.')} target="_blank" rel="noopener noreferrer" className='theme-btn theme-btn-1 offer-btn'>{btnTextOne}</a></li>
                                                  </ul>
                                             ):(
                                                 <ul>
                                                 {btnTextOne && btnLinkOne && (
-                                                    <li><Link to={btnLinkOne} className='theme-btn theme-btn-1'>{btnTextOne}</Link></li>
+                                                    <li><a href={getWhatsAppUrl('Hello! I would like to book a free consultation.')} target="_blank" rel="noopener noreferrer" className='theme-btn theme-btn-1'>{btnTextOne}</a></li>
                                                 )}
                                                 {btnTextTwo && btnLinkTwo && (
-                                                    <li><Link to={btnLinkTwo} className='theme-btn theme-btn-1-outline'>{btnTextTwo}</Link></li>
+                                                    <li><a href={getWhatsAppUrl('Hello! I would like to learn more about how it works.')} target="_blank" rel="noopener noreferrer" className='theme-btn theme-btn-1-outline'>{btnTextTwo}</a></li>
                                                 )}
                                                 </ul>
 

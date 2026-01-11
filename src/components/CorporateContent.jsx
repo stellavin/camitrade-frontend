@@ -126,7 +126,7 @@ const CorporateContent = ({ handleSetName }) => {
   const shareUrl = `${window.location.origin}/corporate-services/${id}`;
 
   return (
-    <section className="why-choose-us-sec te-pt-70 te-pb-50 te-md-pt-60 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
+    <section className="corporate-services-sec te-pt-100 te-pb-100 te-md-pt-70 te-md-pb-70 te-sm-pt-50 te-sm-pb-50">
       <div className="container">
         <div className="service-container">
           {isMobile && (

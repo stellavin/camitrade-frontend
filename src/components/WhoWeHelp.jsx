@@ -1,6 +1,7 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
 import { Link } from 'react-router-dom';
+import { getWhatsAppUrl } from '../utils/urlTransform';
 
 const WhoWeHelp = () => {
     const clients = [
@@ -9,42 +10,48 @@ const WhoWeHelp = () => {
             title: 'Fintech & Crypto Founders',
             description: 'Crypto-friendly jurisdictions, VASP licensing, and regulatory compliance for blockchain businesses.',
             link: '/licensing-services',
-            cta: 'Speak to a Crypto Advisor'
+            cta: 'Speak to a Crypto Advisor',
+            message: 'Hello! I am a fintech/crypto founder and would like to speak to a crypto advisor about VASP licensing and crypto-friendly jurisdictions.'
         },
         {
             icon: 'icofont-chart-growth',
             title: 'Investment & Fund Managers',
             description: 'Fund structuring, regulatory licensing, and compliance across multiple jurisdictions.',
             link: '/services',
-            cta: 'Discuss Fund Setup'
+            cta: 'Discuss Fund Setup',
+            message: 'Hello! I am an investment/fund manager and would like to discuss fund setup and regulatory licensing.'
         },
         {
             icon: 'icofont-globe',
             title: 'International Entrepreneurs',
             description: 'Company formation, banking solutions, and global expansion support.',
             link: '/corporate-services',
-            cta: 'Start Company Formation'
+            cta: 'Start Company Formation',
+            message: 'Hello! I am an international entrepreneur and would like to start company formation and explore banking solutions.'
         },
         {
             icon: 'icofont-bank-alt',
             title: 'Financial Institutions',
             description: 'Payment services licensing, banking solutions, and regulatory advisory.',
             link: '/licensing-services',
-            cta: 'Talk to a Banking Specialist'
+            cta: 'Talk to a Banking Specialist',
+            message: 'Hello! I represent a financial institution and would like to talk to a banking specialist about payment services licensing.'
         },
         {
             icon: 'icofont-users-alt-5',
             title: 'High-Net-Worth Individuals',
             description: 'Trust & foundation services, asset protection, and wealth structuring.',
             link: '/corporate-services',
-            cta: 'Get Expert Advice'
+            cta: 'Get Expert Advice',
+            message: 'Hello! I am a high-net-worth individual and would like expert advice on trust & foundation services and asset protection.'
         },
         {
             icon: 'icofont-briefcase',
             title: 'Startups & Growing Businesses',
             description: 'Scalable company structures, compliance frameworks, and growth-oriented solutions for emerging companies.',
             link: '/corporate-services',
-            cta: 'Explore Solutions'
+            cta: 'Explore Solutions',
+            message: 'Hello! I represent a startup/growing business and would like to explore scalable company structures and compliance solutions.'
         }
     ];
 
@@ -58,7 +65,7 @@ const WhoWeHelp = () => {
                                 <div className="sec-title">
                                     <h1>Who We Help</h1>
                                     <p className="section-subtitle">
-                                        We serve businesses and individuals across industries, providing tailored solutions for global expansion and compliance.
+                                        We serve businesses and individuals across industries, providing tailored solutions for <Link to="/jurisdictions">global expansion</Link> and <Link to="/licensing-services">compliance</Link>. Explore our <Link to="/corporate-services">corporate services</Link> and <Link to="/about">learn more about our approach</Link>.
                                     </p>
                                 </div>
                             </Fade>
@@ -74,12 +81,12 @@ const WhoWeHelp = () => {
                                         </div>
                                         <h3>{client.title}</h3>
                                         <p>{client.description}</p>
-                                        <Link to={client.link} className="who-we-help-cta-btn">
+                                        <a href={getWhatsAppUrl(client.message)} target="_blank" rel="noopener noreferrer" className="who-we-help-cta-btn">
                                             {client.cta}
                                             <span className="cta-arrow-circle">
                                                 <i className="icofont-arrow-right"></i>
                                             </span>
-                                        </Link>
+                                        </a>
                                     </div>
                                 </div>
                             </Fade>

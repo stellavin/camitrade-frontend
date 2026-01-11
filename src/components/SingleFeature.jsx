@@ -1,11 +1,10 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
-import { HashLink as Link } from 'react-router-hash-link';
+import { Link } from 'react-router-dom';
 
 const SingleFeature = ({ feature, inCarousel }) => {
-    let { featureThumb, feature2Thumb, featureIcon, href, title, titleMeta, text, delay } = feature;
+    let { featureThumb, feature2Thumb, featureIcon, title, titleMeta, text, delay } = feature;
     const imageSrc = featureThumb || feature2Thumb;
-    const defaultHref = href || '/services';
 
     const featureContent = (
         <div className="feature-card-modern">
@@ -28,8 +27,8 @@ const SingleFeature = ({ feature, inCarousel }) => {
                     )}
                 </div>
                 <p className="feature-text-modern">{text}</p>
-                <Link to={defaultHref} className="feature-cta-modern">
-                    Learn More
+                <Link to="/services/corporate" className="feature-cta-modern">
+                    Explore Services
                     <span className="feature-cta-arrow">
                         <i className="icofont-arrow-right"></i>
                     </span>

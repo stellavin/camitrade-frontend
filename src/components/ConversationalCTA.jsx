@@ -8,7 +8,7 @@ const ConversationalCTA = ({
     primaryButtonText = "Let's Talk",
     primaryButtonLink = "/contact",
     secondaryButtonText = "Explore Our Services",
-    secondaryButtonLink = "/services",
+    secondaryButtonLink = "/services/corporate",
     variant = "default" // "default" or "about"
 }) => {
     return (

@@ -43,12 +43,13 @@ const WhyChooseUs = () => {
 
     return (
         <>
-            <section className="why-choose-us-modern te-pt-100 te-pb-80 te-md-pt-70 te-md-pb-60 te-sm-pt-50 te-sm-pb-40">
+            <section className="why-choose-us-modern te-pt-100 te-pb-100 te-md-pt-70 te-md-pb-70 te-sm-pt-50 te-sm-pb-50">
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-8 offset-lg-2 text-center">
+                        <div className="col-lg-10 offset-lg-1 text-center">
                             <Fade bottom delay={200}>
-                                <div className="sec-title">
+                                <div className="sec-title corporate-title">
+                                    <span className="section-label">Our Advantages</span>
                                     <h1>Why Choose Camitrade</h1>
                                     <p className="section-subtitle">
                                         We don't just say we're experts — we prove it with specific capabilities and concrete results.
@@ -57,17 +58,22 @@ const WhyChooseUs = () => {
                             </Fade>
                         </div>
                     </div>
-                    <div className="row">
+                    <div className="row g-4">
                         {differentiators.map((item, index) => (
                             <Fade bottom delay={300 + (index * 100)} key={index}>
-                                <div className="col-lg-4 col-md-6 col-sm-12 mb-4">
-                                    <div className="differentiator-card">
-                                        <div className="diff-icon-wrapper">
-                                            <i className={item.icon}></i>
+                                <div className="col-lg-4 col-md-6 col-sm-12">
+                                    <div className="differentiator-card-corporate">
+                                        <div className="differentiator-card-header">
+                                            <div className="diff-icon-wrapper">
+                                                <i className={item.icon}></i>
+                                            </div>
+                                            <div className="differentiator-number">0{index + 1}</div>
                                         </div>
-                                        <div className="diff-highlight">{item.highlight}</div>
-                                        <h3>{item.title}</h3>
-                                        <p>{item.description}</p>
+                                        <div className="differentiator-card-body">
+                                            <div className="diff-highlight">{item.highlight}</div>
+                                            <h3>{item.title}</h3>
+                                            <p>{item.description}</p>
+                                        </div>
                                     </div>
                                 </div>
                             </Fade>

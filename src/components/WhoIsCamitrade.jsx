@@ -1,6 +1,7 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
 import { Link } from 'react-router-dom';
+import { getWhatsAppUrl } from '../utils/urlTransform';
 
 const WhoIsCamitrade = () => {
     return (
@@ -17,13 +18,13 @@ const WhoIsCamitrade = () => {
                                     </div>
                                     <div className="who-is-camitrade-text">
                                         <p className="who-is-text-primary">
-                                            Camitrade Investment Fiduciaries is a leading global fiduciary and licensing services provider, specializing in helping businesses incorporate, license, and operate across multiple jurisdictions worldwide.
+                                            <Link to="/about">Camitrade Investment Fiduciaries</Link> is a leading global fiduciary and <Link to="/licensing-services">licensing services</Link> provider, specializing in helping businesses incorporate, license, and operate across multiple <Link to="/jurisdictions">jurisdictions worldwide</Link>.
                                         </p>
                                         <p className="who-is-text-secondary">
-                                            With expertise spanning over 10+ jurisdictions across Africa, Europe, the Middle East, and offshore locations, we provide comprehensive solutions for fintech founders, fund managers, and international entrepreneurs seeking compliant and efficient global expansion.
+                                            With expertise spanning over 10+ jurisdictions across Africa, Europe, the Middle East, and offshore locations, we provide comprehensive <Link to="/corporate-services">company formation services</Link>, <Link to="/licensing-services">financial services licensing</Link>, and <Link to="/payments">banking and payment solutions</Link> for fintech founders, fund managers, and international entrepreneurs seeking compliant and efficient global expansion.
                                         </p>
                                         <p className="who-is-text-secondary">
-                                            Our team combines deep regulatory knowledge with practical business acumen, ensuring that every client receives tailored guidance for company formation, licensing, banking solutions, and ongoing compliance support.
+                                            Our team combines deep regulatory knowledge with practical business acumen, ensuring that every client receives tailored guidance for <Link to="/corporate-services">company formation</Link>, <Link to="/licensing-services">licensing services</Link>, <Link to="/payments">banking solutions</Link>, and ongoing compliance support.
                                         </p>
                                     </div>
                                     <Fade bottom delay={600}>
@@ -35,10 +36,10 @@ const WhoIsCamitrade = () => {
                                                 Let's discuss how we can help you navigate the complexities of international business formation and compliance.
                                             </p>
                                             <div className="who-is-cta-buttons">
-                                                <Link to="/contact" className="who-is-cta-btn-primary">
+                                                <a href={getWhatsAppUrl('Hello! I would like to book a free consultation to discuss global business expansion.')} target="_blank" rel="noopener noreferrer" className="who-is-cta-btn-primary">
                                                     Book a Free Consultation
-                                                </Link>
-                                                <Link to="/services" className="who-is-cta-btn-secondary">
+                                                </a>
+                                                <Link to="/services/corporate" className="who-is-cta-btn-secondary">
                                                     Explore Our Services
                                                 </Link>
                                             </div>

@@ -427,6 +427,7 @@
 	.slider-wrapper,
 	.slider-text {
 		width: 100%;
+		padding: 0 15px;
 	}
 
 	.sec-title {
@@ -442,7 +443,34 @@
 	}
 
 	.slider-text h1 {
-		font-size: 42px;
+		font-size: 26px;
+		line-height: 1.2;
+		margin-bottom: 6px;
+	}
+
+	.hero-subtitle {
+		font-size: 13px;
+		margin-top: 8px;
+		margin-bottom: 0;
+	}
+
+	.slider-text .theme-btn {
+		padding: 8px 16px;
+		font-size: 12px;
+		margin-right: 8px;
+		margin-bottom: 8px;
+	}
+
+	.slider-text ul {
+		margin-top: 18px;
+		flex-wrap: wrap;
+		display: flex;
+		justify-content: center;
+		gap: 8px;
+	}
+
+	.slider-text li {
+		display: inline-block;
 	}
 
 	.feature-sec-modern .sec-title h1 {
@@ -559,6 +587,15 @@
 
 	.header-right-div {
 		text-align: center;
+	}
+
+	.soical-profile {
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+
+	.office-number {
+		margin-top: 0;
 	}
 
 	.header-top {
@@ -823,12 +860,34 @@
 		height: 300px;
 	}
 
-	.slider-text ul {
-		margin-top: 25px;
+	.slider-text h1 {
+		font-size: 22px;
+		line-height: 1.2;
+		margin-bottom: 6px;
 	}
 
-	.slider-text li a {
-		margin-bottom: 15px;
+	.hero-subtitle {
+		font-size: 12px;
+		margin-top: 6px;
+		margin-bottom: 0;
+	}
+
+	.slider-text ul {
+		margin-top: 15px;
+		flex-wrap: wrap;
+		display: flex;
+		justify-content: center;
+		gap: 8px;
+	}
+
+	.slider-text li {
+		display: inline-block;
+	}
+
+	.slider-text .theme-btn {
+		padding: 7px 14px;
+		font-size: 11px;
+		margin-right: 0;
 	}
 
 	.sec-title h1 {
@@ -926,12 +985,34 @@
 	}
 
 	.slider-text h1 {
-		font-size: 28px;
-		line-height: 40px;
+		font-size: 20px;
+		line-height: 1.2;
+		margin-bottom: 5px;
+	}
+
+	.hero-subtitle {
+		font-size: 12px;
+		margin-top: 6px;
+		margin-bottom: 0;
+	}
+
+	.slider-text .theme-btn {
+		padding: 6px 12px;
+		font-size: 11px;
+		margin-right: 0;
+		margin-bottom: 6px;
 	}
 
 	.slider-text ul {
-		margin-top: 45px;
+		margin-top: 12px;
+		flex-wrap: wrap;
+		display: flex;
+		justify-content: center;
+		gap: 6px;
+	}
+
+	.slider-text li {
+		display: inline-block;
 	}
 
 	.services-i-right h2 {

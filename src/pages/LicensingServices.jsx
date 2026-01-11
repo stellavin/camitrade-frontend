@@ -5,6 +5,7 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import Footer from '../components/Footer';
 import LicensingServiceList from '../components/LicensingServiceList';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import Consultation from '../components/Consultation';
 import servicesData from '../jsonData/MainServices';
 
 const LicensingServices = () => {
@@ -149,6 +150,7 @@ const LicensingServices = () => {
             <Header />
             <Breadcrumbs pageTitle={toSentenceCase(serviceName)}/>
             <LicensingServiceList handleSetName={setServiceName}/>
+            <Consultation />
             <Footer />
         </>
     );

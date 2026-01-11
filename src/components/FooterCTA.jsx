@@ -16,7 +16,7 @@ const FooterCTA = () => {
                                         Let's Build Your Global Business — The Right Way
                                     </h1>
                                     <p className="footer-cta-message">
-                                        From company formation to licensing and banking, we handle it all.
+                                        From <Link to="/corporate-services" style={{color: '#9AC000', textDecoration: 'underline'}}>company formation</Link> to <Link to="/licensing-services" style={{color: '#9AC000', textDecoration: 'underline'}}>licensing</Link> and <Link to="/payments" style={{color: '#9AC000', textDecoration: 'underline'}}>banking</Link>, we handle it all.
                                     </p>
                                 </div>
                             </Fade>

@@ -22,40 +22,49 @@ const ServiceFeature = ({setServiceName}) => {
 
     return (
         <>
-            <section className="why-choose-us-sec te-pt-100 te-pb-80 te-md-pt-70 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
+            <section className="why-choose-us-modern te-pt-100 te-pb-100 te-md-pt-70 te-md-pb-70 te-sm-pt-50 te-sm-pb-50">
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-6 offset-lg-3 text-center">
-                            <div className="sec-title">
+                        <div className="col-lg-10 offset-lg-1 text-center">
+                            <div className="sec-title corporate-title">
                             {
                             serviceId === 'other-services' && (
-                                <h1>Our Other Services</h1>
+                                <>
+                                    <span className="section-label">Our Services</span>
+                                    <h1>Our Other Services</h1>
+                                </>
                             )}
                              {
                             serviceId === 'licensing' && (
-                                <h1>Our Licensing Services</h1>
+                                <>
+                                    <span className="section-label">Our Services</span>
+                                    <h1>Our Licensing Services</h1>
+                                </>
                             )}
                              {
                             serviceId === 'corporate' && (
-                                <h1>Our Corporate Services</h1>
+                                <>
+                                    <span className="section-label">Our Services</span>
+                                    <h1>Our Corporate Services</h1>
+                                </>
                             )}   
                             </div>
                         </div>
                     </div>
                     {
                     serviceId === 'licensing' && (
-                        <div className="row">
-                            {LicenseData.map(service =>
-                                <SingleService  type="licensing" service={service} key={service.id} />
+                        <div className="row g-4">
+                            {LicenseData.map((service, index) =>
+                                <SingleService  type="licensing" service={service} index={index} key={service.id} />
                             )}
                         </div>
                     )
                    }
                    {
                     (serviceId === 'other-services') && (
-                        <div className="row">
-                            {OtherServicesData.map(service =>
-                                <SingleService type="other-services" service={service} key={service.id} />
+                        <div className="row g-4">
+                            {OtherServicesData.map((service, index) =>
+                                <SingleService type="other-services" service={service} index={index} key={service.id} />
                             )}
                         </div>
                     )
@@ -63,9 +72,9 @@ const ServiceFeature = ({setServiceName}) => {
 
                    {
                     serviceId === 'corporate' && (
-                        <div className="row">
-                            {AllCorporateData.map(service =>
-                                <SingleService type="corporate" service={service} key={service.id} />
+                        <div className="row g-4">
+                            {AllCorporateData.map((service, index) =>
+                                <SingleService type="corporate" service={service} index={index} key={service.id} />
                             )}
                         </div>
                     )

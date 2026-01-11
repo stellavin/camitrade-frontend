@@ -34854,4 +34854,395 @@ const CorporateServices = {
   ],
 };
 
-export default {OtherServices,LicensingServices,OffersServices, CorporateServices }
+// PSP Services Content Components
+const ZambiaPaymentsSystemsBusinessLicenseHTML = (
+  <div>
+    <h1>Zambia Payments Systems Business License</h1>
+
+    <p>
+      The <strong>Zambia Payments Systems Business License</strong>, also referred to as the designation for a
+      <strong> Payment System Business</strong>, is regulated by the <strong>Bank of Zambia (BoZ)</strong> under the
+      National Payment System Act 2007 (NPSA). It authorises entities to provide money transfer or transmission services
+      and other payment systems businesses as prescribed by the BoZ.
+    </p>
+
+    <h2>Overview</h2>
+    <p>
+      This designation allows licensed entities to participate in both large-value and retail payment systems in Zambia,
+      including the Zambia Interbank Payment and Settlement System (ZIPSS) and other approved payment mechanisms.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Payment System Type</th>
+          <th>Examples</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Large-Value Payment Systems</td>
+          <td>Zambia Interbank Payment and Settlement System (ZIPSS)</td>
+        </tr>
+        <tr>
+          <td>Retail Payment Systems</td>
+          <td>
+            Electronic Funds Transfers (EFTs), Cheques, ATMs, PoS Terminals,
+            Domestic & International Remittances, Mobile Payments
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Permitted Activities</h2>
+    <p>The designation permits the following regulated activities:</p>
+    <ul>
+      <li>Provision of money transfer or transmission services</li>
+      <li>Operation of retail and electronic payment systems approved by the Bank of Zambia</li>
+      <li>Domestic and international remittance services</li>
+      <li>Mobile and electronic payment services</li>
+    </ul>
+
+    <h2>Eligibility & Authorization Criteria</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Requirement Area</th>
+          <th>Key Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Zambian Limited Liability Company registered with PACRA</td>
+        </tr>
+        <tr>
+          <td>Board of Directors</td>
+          <td>
+            Minimum of 3 directors; majority non-executive; at least half resident in Zambia.
+            Directors must be fit and proper and approved by the BoZ.
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>
+            Minimum of 2 shareholders; disclosure of ultimate beneficial owners;
+            significant shareholders must be fit and proper.
+          </td>
+        </tr>
+        <tr>
+          <td>Senior Management</td>
+          <td>
+            CEO, CFO, Chief Compliance Officer, and CIO or COO (no dual roles permitted).
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance & AML</td>
+          <td>
+            Appointment of MLRO and alternate MLRO; AML controls aligned with
+            the Financial Intelligence Centre Act and AML Directives.
+          </td>
+        </tr>
+        <tr>
+          <td>Physical Office</td>
+          <td>
+            Functional office in Zambia, subject to BoZ inspection before and after designation.
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            External auditor registered with the Zambia Institute of Chartered Accountants (ZICA),
+            subject to BoZ approval.
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>Professional Indemnity insurance proportional to operational risk.</td>
+        </tr>
+        <tr>
+          <td>Capital</td>
+          <td>
+            No fixed minimum capital prescribed; initial capital must be traceable and verified.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Process</h2>
+    <p>
+      Applications are submitted to the <strong>Deputy Governor – Operations, Bank of Zambia</strong>.
+      The process includes pre-engagement meetings, name clearance, and formal submission with full documentation.
+    </p>
+
+    <p>
+      The Bank of Zambia typically determines applications within
+      <strong> 90 days</strong> of receiving a complete submission. Approved entities must commence operations
+      within <strong>12 months</strong>, failing which the designation may be revoked.
+    </p>
+
+    <h2>Post-Designation Requirements</h2>
+    <ul>
+      <li>Commence operations within 12 months of designation</li>
+      <li>Undergo BoZ inspections of premises and systems</li>
+      <li>Maintain Professional Indemnity insurance</li>
+      <li>Open operational bank accounts and evidence capital funding</li>
+      <li>Register and manage agents in accordance with approved risk frameworks</li>
+      <li>Comply with ongoing AML/CFT, cybersecurity, and reporting obligations</li>
+    </ul>
+
+    <h2>Government Fees (Indicative)</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Fee Category</th>
+          <th>Indicative Cost</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>PACRA Company Registration</td>
+          <td>ZMW 14,916 (approx. USD 600)</td>
+        </tr>
+        <tr>
+          <td>Security Screenings</td>
+          <td>Applicant-borne (amount varies)</td>
+        </tr>
+        <tr>
+          <td>Annual Designation Fee</td>
+          <td>ZMW 1,000 (approx. USD 40)</td>
+        </tr>
+        <tr>
+          <td>PACRA Annual Renewal</td>
+          <td>Approx. USD 100–200</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>How Camitrade Supports You</h2>
+    <p>
+      Camitrade Investment Fiduciaries provides end-to-end advisory support for obtaining and maintaining a
+      Zambia Payments Systems Business designation, including:
+    </p>
+    <ul>
+      <li>Pre-licensing structuring and regulatory advisory</li>
+      <li>Company incorporation and governance setup</li>
+      <li>Preparation and filing of the BoZ application</li>
+      <li>Regulatory liaison with the Bank of Zambia</li>
+      <li>Post-designation compliance and renewal support</li>
+    </ul>
+
+    <p>
+      For further information or to discuss your licensing requirements, contact
+      Camitrade Investment Fiduciaries at
+      <a href="mailto:info@camitrade.com"> info@camitrade.com</a> or
+      <a href="mailto:sales@camitrade.com"> sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+
+const NigeriaPaymentSolutionServiceProviderLicenseHTML = (
+  <div>
+    <h1>Nigeria Payment Solution Service Provider (PSSP) License</h1>
+
+    <p>
+      The <strong>Nigeria Payment Solution Service Provider (PSSP) License</strong> is a regulatory authorization issued by the
+      <strong> Central Bank of Nigeria (CBN)</strong> under the Payment Solution Services (PSSs) framework. It permits licensed entities
+      to operate within Nigeria’s regulated payments ecosystem in accordance with the CBN Act 2007 and the Banking and Other Financial
+      Institutions Act (BOFIA) 1991 (as amended).
+    </p>
+
+    <h2>Overview</h2>
+    <p>
+      The PSSP License is one of three categories of Payment Solution Service (PSS) licenses issued by the Central Bank of Nigeria:
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>License Category</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Payment Solution Service Provider (PSSP)</td>
+          <td>Providers of payment gateways, processing platforms, and payment applications</td>
+        </tr>
+        <tr>
+          <td>Super-Agent License</td>
+          <td>Entities managing agent networks for financial services delivery</td>
+        </tr>
+        <tr>
+          <td>Payment Terminal Service Provider (PTSP)</td>
+          <td>Providers of POS terminals and related payment infrastructure</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Permitted Activities</h2>
+    <p>The PSSP License permits licensed entities to undertake the following activities:</p>
+    <ul>
+      <li>Operation of payment processing gateways and portals</li>
+      <li>Development and deployment of payment solutions and applications</li>
+      <li>Merchant aggregation, collections, and settlement services</li>
+    </ul>
+
+    <h2>Regulatory Framework</h2>
+    <p>The PSSP License is governed by the following regulatory instruments:</p>
+    <ul>
+      <li>Central Bank of Nigeria Act 2007</li>
+      <li>Banking and Other Financial Institutions Act (BOFIA) 1991 (as amended)</li>
+      <li>Payment Solution Services (PSSs) Framework</li>
+      <li>CBN Guidelines, Circulars, and Supervisory Directives</li>
+    </ul>
+
+    <h2>Eligibility & Authorization Criteria</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Requirement Area</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Nigerian Limited Liability Company</td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of two directors including Chairman, CEO/MD, and at least one Independent Non-Executive Director
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>At least one shareholder; corporate shareholding permitted</td>
+        </tr>
+        <tr>
+          <td>Compliance Function</td>
+          <td>Appointment of MLRO and alternate MLRO approved by the CBN</td>
+        </tr>
+        <tr>
+          <td>Physical Office</td>
+          <td>Functional and equipped office located in Nigeria</td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>CBN-approved external auditor for annual audits</td>
+        </tr>
+        <tr>
+          <td>Minimum Capital</td>
+          <td>₦100,000,000 (Shareholders’ funds unimpaired by losses)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Documentation</h2>
+    <p>
+      The application requires submission of comprehensive corporate, technical, and regulatory documentation, including but not
+      limited to:
+    </p>
+    <ul>
+      <li>Certificate of Incorporation and constitutional documents</li>
+      <li>Board and management profiles (CVs, BVN, IDs, references)</li>
+      <li>Business plan with five-year financial projections</li>
+      <li>IT, risk management, AML/CFT, and data protection policies</li>
+      <li>Executed or draft agreements with banks, partners, and service providers</li>
+      <li>Relevant certifications (PCI-DSS, PA-DSS, PTSA, or CBN IT compliance)</li>
+    </ul>
+
+    <p>
+      The Central Bank of Nigeria typically concludes the application process within
+      <strong> 9–11 months</strong> from receipt of a complete submission and payment of applicable fees.
+    </p>
+
+    <h2>Post-Licensing Obligations</h2>
+    <ul>
+      <li>Office setup and operational readiness in Nigeria</li>
+      <li>Opening of operational bank accounts and capital deposit</li>
+      <li>Registration with SCUML and the Nigerian Data Protection Agency (NDPA)</li>
+      <li>Procurement of required insurance policies</li>
+      <li>Ongoing regulatory reporting and annual audits</li>
+    </ul>
+
+    <h2>Government Fees (Indicative)</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Fee Category</th>
+          <th>Amount (USD)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation & Stamp Duties</td>
+          <td>5,500</td>
+        </tr>
+        <tr>
+          <td>CBN Application & Licensing Fees</td>
+          <td>2,300</td>
+        </tr>
+        <tr>
+          <td>FIRS Registration</td>
+          <td>1,500</td>
+        </tr>
+        <tr>
+          <td>SCUML Registration</td>
+          <td>1,300</td>
+        </tr>
+        <tr>
+          <td>NDPA Registration</td>
+          <td>1,300</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>How Camitrade Supports You</h2>
+    <p>
+      Camitrade Investment Fiduciaries provides end-to-end advisory support for obtaining and maintaining a PSSP License, including:
+    </p>
+    <ul>
+      <li>Pre-licensing structuring and advisory</li>
+      <li>Company incorporation and capital setup</li>
+      <li>Preparation and filing of the license application</li>
+      <li>Regulatory liaison with the Central Bank of Nigeria</li>
+      <li>Post-license compliance and renewal support</li>
+    </ul>
+
+    <p>
+      For further information or to discuss your licensing requirements, contact Camitrade Investment Fiduciaries at
+      <a href="mailto:info@camitrade.com"> info@camitrade.com</a> or
+      <a href="mailto:sales@camitrade.com"> sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+
+const PSPServices = {
+  Payment_Service_Provider_Licenses: [
+    {
+      Service: "Payment Service Provider (PSP) Licenses",
+      Content: <div><h1>Payment Service Provider (PSP) Licenses</h1><p>Comprehensive payment service provider licensing solutions across multiple jurisdictions. We assist businesses in obtaining PSP licenses to operate payment systems, money transfer services, and payment solutions globally.</p></div>,
+      id: "payment-service-provider-psp-licenses"
+    },
+    {
+      Service: "Zambia Payments Systems Business License",
+      Content: ZambiaPaymentsSystemsBusinessLicenseHTML,
+      id: "zambia-payments-systems-business-license"
+    },
+    {
+      Service: "Nigeria Payment Solution Service Provider (PSSP) License",
+      Content: NigeriaPaymentSolutionServiceProviderLicenseHTML,
+      id: "nigeria-payment-solution-service-provider-pssp-license"
+    },
+  ],
+};
+
+export default {OtherServices,LicensingServices,OffersServices, CorporateServices, PSPServices }

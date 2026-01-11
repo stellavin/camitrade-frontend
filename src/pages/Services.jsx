@@ -5,6 +5,7 @@ import ServiceFeature from '../components/ServiceFeature';
 import Footer from '../components/Footer';
 import FooterCTA from '../components/FooterCTA';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import Consultation from '../components/Consultation';
 
 const Services = () => {
     const [name, setServiceName]=useState('Service');
@@ -36,6 +37,7 @@ const Services = () => {
             <Breadcrumbs pageTitle={Newname} />
             <ServiceFeature setServiceName={setServiceName} />
             <FooterCTA />
+            <Consultation />
             <Footer />
         </>
     );

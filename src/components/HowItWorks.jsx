@@ -1,6 +1,7 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
 import { Link } from 'react-router-dom';
+import { getWhatsAppUrl } from '../utils/urlTransform';
 
 const HowItWorks = () => {
     const steps = [
@@ -34,7 +35,7 @@ const HowItWorks = () => {
                                 <div className="sec-title">
                                     <h1>How We Work</h1>
                                     <p className="section-subtitle">
-                                        A simple, transparent process from consultation to ongoing support. No surprises, no hidden fees.
+                                        A simple, transparent process from <Link to="/contact">consultation</Link> to ongoing support. No surprises, no hidden fees. Learn about our <Link to="/about">approach</Link> and <Link to="/services">services</Link>.
                                     </p>
                                 </div>
                             </Fade>
@@ -59,9 +60,9 @@ const HowItWorks = () => {
                     <div className="row mt-5">
                         <div className="col-lg-12 text-center">
                             <Fade bottom delay={600}>
-                                <Link to="/contact" className="theme-btn theme-btn-1">
+                                <a href={getWhatsAppUrl('Hello! I would like to start my free consultation.')} target="_blank" rel="noopener noreferrer" className="theme-btn theme-btn-1">
                                     Start Your Free Consultation
-                                </Link>
+                                </a>
                             </Fade>
                         </div>
                     </div>

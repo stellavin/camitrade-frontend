@@ -4,10 +4,10 @@ import SocialShare from './SocialShare';
 const HeaderTopbar = () => {
     return (
         <>
-            <div className="header-top d-none d-md-block">
+            <div className="header-top">
                 <div className="container">
                     <div className="row align-items-center">
-                        <div className="col-md-7 col-sm-8">
+                        <div className="col-md-7 col-sm-8 d-none d-md-block">
                             <div className="header-left titl_font-style">
                                 <ul>
                                     <li>
@@ -21,11 +21,11 @@ const HeaderTopbar = () => {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-md-5 col-sm-4">
+                        <div className="col-md-5 col-sm-4 col-12">
                             <div className="header-right-div">
                                 <div className="soical-profile">
                                     <SocialShare />
-                                    <span className="happy-new-year-inline" style={{
+                                    <span className="happy-new-year-inline d-none d-md-inline-block" style={{
                                         color: '#FFD700',
                                         fontSize: '14px',
                                         fontWeight: '700',
@@ -37,7 +37,7 @@ const HeaderTopbar = () => {
                                     }}>
                                         🎉 Happy 2026 🎉
                                     </span>
-                                    <div id="google_translate_element"></div>
+                                    <div id="google_translate_element" className="d-none d-md-block"></div>
                                 </div>
                                 <div className="office-number titl_font-style">
                                     <ul>

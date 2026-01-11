@@ -4,6 +4,7 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import Header from '../components/Header';
 import Jurisdiction from '../components/Jurisdiction';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import Consultation from '../components/Consultation';
 
 const Jurisdictions = () => {
     return (
@@ -18,6 +19,7 @@ const Jurisdictions = () => {
             <Header />
             <Breadcrumbs pageTitle="Jurisdictions" />
             <Jurisdiction/>
+            <Consultation />
             <Footer />
         </>
     );

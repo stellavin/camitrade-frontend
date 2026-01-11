@@ -27,9 +27,9 @@ const ServiceCard = ({ service, onClick, showDetails }) => {
   );
 };
 
-const ServiceList = ({ handleSetName }) => {
+const PSPServiceList = ({ handleSetName }) => {
   const { id } = useParams();
-  const services = servicesData.OtherServices;
+  const services = servicesData.PSPServices;
   const location = useLocation();
   const navigate = useNavigate();
   const [activeService, setActiveService] = useState(0);
@@ -80,6 +80,20 @@ const ServiceList = ({ handleSetName }) => {
   }
 
   useEffect(() => {
+    // If no id, set first category's services
+    if (!id) {
+      const firstCategory = Object.values(normalizedServices)[0];
+      if (firstCategory && Array.isArray(firstCategory)) {
+        setCurrentServices(firstCategory);
+        setActiveService(0);
+        setCurrentService(firstCategory[0]);
+        if (firstCategory[0]) {
+          handleSetName(firstCategory[0].Service);
+        }
+      }
+      return;
+    }
+
     const normalizedCategoryKey = normalizeKey(id);
 
     if(serviceId){
@@ -92,42 +106,61 @@ const ServiceList = ({ handleSetName }) => {
       setCurrentCategory(5);
       setCurrentServices(service ? normalizedServices[serviceId] : []);
     } else {
+
       const targetId = serviceId;
+      console.log('targetId', targetId);
       let foundEntry = null;
       let foundKey = null;
       let foundArr = null;
       let foundIndex = 0;
       
+      console.log('Type of normalizedServices:', normalizedServices);
+      
       for (const [key, arr] of Object.entries(normalizedServices)) {
         if (Array.isArray(arr)) {
           const index = arr.findIndex(item => item.id === targetId || item.id === id);
           if (index !== -1) {
-            foundEntry = arr[index];
-            foundKey = key;
-            foundArr = arr;
+            foundEntry = arr[index]; // The matching item
+            foundKey = key;          // The key in the original object
+            foundArr = arr;          // The full array where it was found
             foundIndex = index;
+      
+            console.log('index-----', index);
+            setActiveService(index); // Set active service index
             break;
           }
         }
       }
+      
+      // Optional: Use foundEntry, foundKey, or foundArr as needed
+      console.log('Found Entry:', foundEntry);
+      console.log('Found Key:', foundKey);
+      console.log('Found Array:', foundArr);
 
       if (foundEntry) {
         setCurrentCategory(normalizedCategoryKey);
         setCurrentServices(foundArr);
         setCurrentService(foundArr[foundIndex]);
-        setActiveService(foundIndex);
+      } else {
+        // Fallback: use first category
+        const firstCategory = Object.values(normalizedServices)[0];
+        if (firstCategory && Array.isArray(firstCategory)) {
+          setCurrentServices(firstCategory);
+          setActiveService(0);
+          setCurrentService(firstCategory[0]);
+        }
       }
     }
   }, [id, serviceId]);
 
   const handleClick = (index, service) => {
     setActiveService(index);
-    const newUrl = `/other-services/${service.id}`;
+    const newUrl = `/psp-services/${service.id}`;
     navigate(newUrl);
   };
 
   const isMobile = window.innerWidth <= 768;
-  const shareUrl = `${window.location.origin}/other-services/${id}`;
+  const shareUrl = id ? `${window.location.origin}/psp-services/${id}` : `${window.location.origin}/psp-services`;
 
   return (
     <section className="corporate-services-sec te-pt-100 te-pb-100 te-md-pt-70 te-md-pb-70 te-sm-pt-50 te-sm-pb-50">
@@ -183,7 +216,7 @@ const ServiceList = ({ handleSetName }) => {
               </div>
             </div>
             <div className="service-text">
-              {currentServices[activeService]?.Content && (
+              {currentServices.length > 0 && currentServices[activeService]?.Content && (
                 <div className="content-wrapper">
                   {currentServices[activeService].Content}
                 </div>
@@ -221,4 +254,5 @@ const ServiceList = ({ handleSetName }) => {
   );
 };
 
-export default ServiceList;
+export default PSPServiceList;
+

@@ -5,6 +5,7 @@ import ContactPageContent from '../components/ContactPageContent';
 import Footer from '../components/Footer';
 import FooterCTA from '../components/FooterCTA';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import Consultation from '../components/Consultation';
 
 const Contact = () => {
     return (
@@ -18,6 +19,7 @@ const Contact = () => {
             <Breadcrumbs pageTitle={"Contact Us"} />
             <ContactPageContent />
             <FooterCTA />
+            <Consultation />
             <Footer />
         </>
     );
