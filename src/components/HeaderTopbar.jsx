@@ -4,10 +4,10 @@ import SocialShare from './SocialShare';
 const HeaderTopbar = () => {
     return (
         <>
-            <div className="header-top d-none d-md-block">
+            <div className="header-top">
                 <div className="container">
-                    <div className="row">
-                        <div className="col-md-7 col-sm-8">
+                    <div className="row align-items-center">
+                        <div className="col-md-7 col-sm-8 d-none d-md-block">
                             <div className="header-left titl_font-style">
                                 <ul>
                                     <li>
@@ -21,11 +21,23 @@ const HeaderTopbar = () => {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-md-5 col-sm-4">
+                        <div className="col-md-5 col-sm-4 col-12">
                             <div className="header-right-div">
                                 <div className="soical-profile">
                                     <SocialShare />
-                                    <div id="google_translate_element"></div>
+                                    <span className="happy-new-year-inline d-none d-md-inline-block" style={{
+                                        color: '#FFD700',
+                                        fontSize: '14px',
+                                        fontWeight: '700',
+                                        textShadow: '0 0 8px rgba(255, 215, 0, 0.5), 0 0 15px rgba(255, 215, 0, 0.3)',
+                                        letterSpacing: '1px',
+                                        marginLeft: '15px',
+                                        display: 'inline-block',
+                                        verticalAlign: 'middle'
+                                    }}>
+                                        🎉 Happy 2026 🎉
+                                    </span>
+                                    <div id="google_translate_element" className="d-none d-md-block"></div>
                                 </div>
                                 <div className="office-number titl_font-style">
                                     <ul>

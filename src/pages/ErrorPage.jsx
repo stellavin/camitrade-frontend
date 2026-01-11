@@ -8,8 +8,9 @@ const ErrorPage = () => {
     return (
         <> 
         <CanonicalHeaders
-        title ="Error Page | We ensure legal compliance and sustainable growth."
-        description ="Camitrade Fiduciaries provides global company incorporation and administration services, Licensing services and Payment solutions"
+        title ="Error Page | Page Not Found - Camitrade Fiduciaries"
+        description ="The page you are looking for could not be found. Return to Camitrade Fiduciaries homepage for global company incorporation and administration services."
+        schemaType="WebPage"
     />
             <Header/>
             <NotFound/>

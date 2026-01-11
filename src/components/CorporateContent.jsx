@@ -126,7 +126,7 @@ const CorporateContent = ({ handleSetName }) => {
   const shareUrl = `${window.location.origin}/corporate-services/${id}`;
 
   return (
-    <section className="why-choose-us-sec te-pt-70 te-pb-50 te-md-pt-60 te-md-pb-50 te-sm-pt-40 te-sm-pb-20">
+    <section className="corporate-services-sec te-pt-100 te-pb-100 te-md-pt-70 te-md-pb-70 te-sm-pt-50 te-sm-pb-50">
       <div className="container">
         <div className="service-container">
           {isMobile && (
@@ -187,8 +187,8 @@ const CorporateContent = ({ handleSetName }) => {
             </div>
             <div>
               <ContactForm 
-                heading={'Get in touch with us'} 
-                description={`We're here to help you navigate the process seamlessly. Fill out the form below to get started on your path to success`} 
+                heading={'Request a Free Consultation'} 
+                description={'No obligation • Confidential • 30-minute expert call • We respond within 24 hours'} 
               />
               <div className="service-content">
                 <div className="share-buttons">

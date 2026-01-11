@@ -13,6 +13,9 @@ const   Offers = () => {
         <CanonicalHeaders
                 title ="Licensing Solutions | Global Financial Services & Trading Licenses"
                 description ="Explore our comprehensive licensing solutions across multiple jurisdictions including Kenya, Labuan, Seychelles, South Africa, Mauritius, and Belize. Specializing in brokers/forex, banking, mutual funds, and digital asset licenses."
+                schemaType="Offer"
+                serviceName="Licensing Solutions"
+                serviceDescription="Comprehensive licensing solutions across multiple jurisdictions including Kenya, Labuan, Seychelles, South Africa, Mauritius, and Belize"
             />
             <Header />
             <Breadcrumbs pageTitle='CamiTrade Offers'/>

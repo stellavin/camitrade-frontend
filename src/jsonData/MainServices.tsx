@@ -17406,6 +17406,7629 @@ const LatviaInnovationAndFintech_HTML = (
     </p>
   </div>
 );
+const UAEVirtualAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>UAE Virtual Asset Service Provider (VASP) Licence</h1>
+
+    <p>
+      The UAE Virtual Asset Service Provider (VASP) Licence is a regulatory
+      authorization issued by the Virtual Assets Regulatory Authority (VARA)
+      under Law No. 4 of 2022 Regulating Virtual Assets in the Emirate of Dubai.
+      It enables licensed entities to conduct virtual asset activities in or
+      from Dubai (excluding DIFC). VARA oversees the sector with a strong focus
+      on innovation, consumer protection, and market integrity.    </p>
+
+    <p>
+      The licence is mandatory for any entity offering virtual asset services in
+      Dubai. For other parts of the UAE, the Securities and Commodities Authority
+      (SCA) may apply; however, VARA is the primary regulator for Dubai-based
+      crypto operations. The regime offers access to the UAE market and supports
+      regional expansion.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Advisory Services</td>
+          <td>Providing recommendations on virtual asset transactions</td>
+        </tr>
+        <tr>
+          <td>Broker-Dealer Services</td>
+          <td>
+            Arranging orders, facilitating matching, dealing on own account,
+            market making
+          </td>
+        </tr>
+        <tr>
+          <td>Custody Services</td>
+          <td>Safekeeping virtual assets on behalf of others</td>
+        </tr>
+        <tr>
+          <td>Exchange Services</td>
+          <td>
+            Exchange between virtual assets and fiat or between virtual assets,
+            maintaining order books
+          </td>
+        </tr>
+        <tr>
+          <td>Lending & Borrowing</td>
+          <td>
+            Transferring or lending virtual assets with return commitments
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Investment</td>
+          <td>
+            Managing virtual assets as an agent or fiduciary
+          </td>
+        </tr>
+        <tr>
+          <td>Transfer & Settlement</td>
+          <td>
+            Transmitting, transferring, or settling virtual assets
+          </td>
+        </tr>
+        <tr>
+          <td>VA Issuance</td>
+          <td>Services related to issuing virtual assets</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            Dubai-registered entity (mainland via DET or free zone excluding
+            DIFC) aligned with VARA standards
+          </td>
+        </tr>
+        <tr>
+          <td>Directors & Management</td>
+          <td>
+            Senior management subject to fit and proper assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; assessed for fitness and propriety
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment with robust AML/CFT systems
+          </td>
+        </tr>
+        <tr>
+          <td>UAE Office</td>
+          <td>
+            Secure office space in Dubai and onboard operational staff
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of a VARA-approved auditor
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Minimum Capital</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Advisory</td>
+          <td>AED 100,000 (approx. USD 27,000)</td>
+        </tr>
+        <tr>
+          <td>Broker-Dealer</td>
+          <td>AED 400,000 – 600,000 (approx. USD 109,000 – 163,000)</td>
+        </tr>
+        <tr>
+          <td>Custody</td>
+          <td>AED 600,000 (approx. USD 163,000)</td>
+        </tr>
+        <tr>
+          <td>Exchange</td>
+          <td>
+            AED 800,000 – 1,500,000 (approx. USD 218,000 – 408,000)
+          </td>
+        </tr>
+        <tr>
+          <td>Additional Buffer</td>
+          <td>
+            15–25% of fixed annual overheads (activity dependent)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Stage</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Stage 1 – ATI</td>
+          <td>
+            Approval to Incorporate (ATI): submit Initial Disclosure
+            Questionnaire (IDQ), business plan, UBO and management details; pay
+            50% of application fee; no VA activities allowed
+          </td>
+          <td>1–2 months</td>
+        </tr>
+        <tr>
+          <td>Stage 2 – VASP Licence</td>
+          <td>
+            Submit full documentation to VARA, attend meetings/interviews, pay
+            remaining fees and first-year supervision fee
+          </td>
+          <td>2–4 months</td>
+        </tr>
+        <tr>
+          <td>Legacy Operating Permit (LOP)</td>
+          <td>
+            Transitional relief for pre-Feb 2023 firms (12 months, reduced
+            fees/capital)
+          </td>
+          <td>As applicable</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            IDQ, certificate of incorporation, governance structure
+          </td>
+        </tr>
+        <tr>
+          <td>Business</td>
+          <td>
+            Business plan, financial projections, operational model
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, proof of address, criminal record certificates
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT program, risk assessment, internal controls
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee (per activity)</td>
+          <td>AED 40,000 – 100,000 (approx. USD 11,000 – 27,000)</td>
+        </tr>
+        <tr>
+          <td>Extension Fee</td>
+          <td>50% of the lower activity fee</td>
+        </tr>
+        <tr>
+          <td>Annual Supervision Fee</td>
+          <td>
+            AED 80,000 – 200,000 (approx. USD 22,000 – 54,000)
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Activity-specific rulebooks, annual audits, AML/CFT reporting,
+            VARA notifications, capital maintenance
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Licence application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with VARA via DET or free zone</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement and operational setup</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-licence compliance and ongoing support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const ThailandDigitalAssetBusinessOperatorLicense_HTML = (
+  <div>
+    <h1>Thailand Digital Asset Business Operator License</h1>
+
+    <p>
+      The Thailand Digital Asset Business Operator License is a regulatory
+      authorization issued by the Securities and Exchange Commission (SEC) under
+      the Emergency Decree on Digital Asset Businesses B.E. 2561 (2018). It permits
+      licensed entities to conduct digital asset business activities in Thailand,
+      including exchanges, brokerage, dealing, fund management, advisory, and
+      custodial services. This license is mandatory for any entity engaging in
+      crypto-related activities in Thailand.    </p>
+
+    <p>
+      The regulatory regime aims to promote innovation while ensuring robust
+      AML/CFT compliance, consumer protection, and market integrity. Foreign
+      applicants are required to establish a Thai-registered company before
+      applying.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Digital Asset Exchange</td>
+          <td>Operating a trading or exchange platform through a matching order system or equivalent</td>
+        </tr>
+        <tr>
+          <td>Digital Asset Broker</td>
+          <td>Providing brokerage services for trading or exchanging digital assets</td>
+        </tr>
+        <tr>
+          <td>Digital Asset Dealer</td>
+          <td>Trading digital assets on own account</td>
+        </tr>
+        <tr>
+          <td>Fund Manager</td>
+          <td>Managing digital asset investment funds</td>
+        </tr>
+        <tr>
+          <td>Advisory Services</td>
+          <td>Providing advice relating to digital assets</td>
+        </tr>
+        <tr>
+          <td>Custodial Wallet Provider</td>
+          <td>Providing secure custody and wallet services</td>
+        </tr>
+        <tr>
+          <td>ICO Portal / Issuer</td>
+          <td>Facilitating or issuing initial coin offerings subject to approval</td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>Auditing digital asset business operators</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>Thai-registered company; foreign applicants must incorporate locally</td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>Fit and proper directors assessed for competence, integrity, and financial standing</td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>Full disclosure required and subject to regulatory approval</td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>Mandatory implementation of AML/CFT policies and appointment of responsible officers</td>
+        </tr>
+        <tr>
+          <td>Thailand Office</td>
+          <td>Physical office in Thailand with furniture and local employees</td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>Engagement of an SEC-approved auditor</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital & Insurance Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Minimum Capital</td>
+          <td>
+            THB 50,000,000 (approximately USD 1,400,000) deposited in a Thai bank
+            account
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Not explicitly mandatory; professional indemnity insurance recommended
+            depending on risk profile
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Stage</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Stage 1</td>
+          <td>Company incorporation and bank account opening; capital deposit</td>
+          <td>~2 weeks</td>
+        </tr>
+        <tr>
+          <td>Stage 2</td>
+          <td>
+            Preparation of extensive documentation (100+ forms), business model,
+            compliance, IT infrastructure, and manuals (Thai language where
+            required)
+          </td>
+          <td>~6 months</td>
+        </tr>
+        <tr>
+          <td>Stage 3</td>
+          <td>
+            Submission to Ministry of Finance and SEC; regulatory review and
+            assessment
+          </td>
+          <td>~5 months (SEC review ~150 days)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Business</td>
+          <td>Business plan, cash flow projections, technical infrastructure details</td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>Documentation on founders, directors, shareholders, and employees</td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>AML/CFT policies, KYC procedures, due diligence systems</td>
+        </tr>
+        <tr>
+          <td>IT & Security</td>
+          <td>Cybersecurity framework and IT infrastructure documentation</td>
+        </tr>
+        <tr>
+          <td>Operational</td>
+          <td>Proof of local office, employees, and Thai bank account</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee – Exchange</td>
+          <td>THB 2,500,000 (approx. USD 70,000)</td>
+        </tr>
+        <tr>
+          <td>Application Fee – Broker</td>
+          <td>THB 1,500,000 (approx. USD 42,000)</td>
+        </tr>
+        <tr>
+          <td>Application Fee – Dealer</td>
+          <td>THB 1,000,000 (approx. USD 28,000)</td>
+        </tr>
+        <tr>
+          <td>Annual Renewal</td>
+          <td>Ongoing supervision fees apply (amount varies)</td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Asset segregation, cybersecurity controls, annual financial
+            disclosures, AML/CFT reporting, market integrity obligations
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Collection of information and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>License application preparation and documentation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with SEC and Ministry of Finance</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement and setup</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>License approval support</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>Post-license compliance and ongoing support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const SaintVincentAndGrenadinesVirtualAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>Saint Vincent &amp; the Grenadines Virtual Asset Service Provider (VASP) License</h1>
+
+    <p>
+      The Saint Vincent and the Grenadines (SVG) Virtual Asset Service Provider
+      (VASP) License is a regulatory authorization issued by the Financial
+      Services Authority (FSA) under the Virtual Asset Business Act (VABA) of
+      2022. It regulates entities operating virtual asset services in or from
+      SVG, including crypto-fiat and crypto-to-crypto exchanges. Virtual assets
+      are defined as digital representations of value used for payment or
+      investment purposes, excluding digital fiat currencies, securities, and
+      other regulated financial assets.    </p>
+
+    <p>
+      The regime is designed to ensure AML/CFT compliance, consumer protection,
+      and regulatory oversight while maintaining SVG’s position as a flexible
+      offshore jurisdiction for digital asset businesses.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>VA ↔ Fiat Exchange</td>
+          <td>Exchange between virtual assets and fiat currency</td>
+        </tr>
+        <tr>
+          <td>VA ↔ VA Exchange</td>
+          <td>Exchange between one or more forms of virtual assets</td>
+        </tr>
+        <tr>
+          <td>Virtual Asset Transfers</td>
+          <td>Transfer of virtual assets on behalf of another person</td>
+        </tr>
+        <tr>
+          <td>Custody &amp; Safekeeping</td>
+          <td>
+            Safekeeping or administration of virtual assets or instruments
+            enabling control over virtual assets
+          </td>
+        </tr>
+        <tr>
+          <td>Issuance &amp; Sale Services</td>
+          <td>
+            Participation in and provision of financial services related to the
+            issuance or sale of virtual assets
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            Company incorporated and registered in Saint Vincent &amp; the
+            Grenadines
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Full due diligence including CV, employment reference, two
+            professional references, bank reference, certified passport copy,
+            proof of address, police clearance, tax certificate, and academic /
+            professional certificates
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders &amp; UBOs</td>
+          <td>
+            Same due diligence requirements as directors for beneficial owners,
+            controllers, and significant shareholders
+          </td>
+        </tr>
+        <tr>
+          <td>Principal Representative</td>
+          <td>
+            Mandatory if the registered office is outside SVG; responsible for
+            local management, liaison with FSA, and compliance oversight
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of an auditor with certificate of membership and good
+            standing; consent required
+          </td>
+        </tr>
+        <tr>
+          <td>Custodian</td>
+          <td>Custodian consent required</td>
+        </tr>
+        <tr>
+          <td>Legal Advisor</td>
+          <td>Legal advisor consent required</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Statutory Deposit Requirement</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Statutory Deposit</td>
+          <td>
+            USD 100,000 or 25% of financial obligations to clients (whichever is
+            higher), held in cash, government securities, or other FSA-approved
+            forms
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure &amp; Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>Incorporate SVG company</td>
+          <td>1–2 weeks</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, AML/CFT policies, risk assessment, due diligence
+            documents
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>
+            Written submission of VASP application to the SVG FSA with fees
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>FSA Review</td>
+          <td>
+            Regulatory assessment, clarifications, and additional information
+            requests
+          </td>
+          <td>Variable (typically 2–4 months)</td>
+        </tr>
+        <tr>
+          <td>License Grant</td>
+          <td>Issuance of VASP License</td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Certificate of incorporation, registered office details, business
+            registration
+          </td>
+        </tr>
+        <tr>
+          <td>Business</td>
+          <td>
+            Business plan or feasibility study describing nature and scale of
+            activities
+          </td>
+        </tr>
+        <tr>
+          <td>Management &amp; Ownership</td>
+          <td>
+            Full due diligence documents for directors, shareholders, and
+            beneficial owners
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT policies, data protection, cybersecurity policies, risk
+            assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Operational</td>
+          <td>
+            Custodian consent, legal advisor consent, auditor documentation
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations &amp; Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>FSA Application Fee</td>
+          <td>USD 4,000</td>
+        </tr>
+        <tr>
+          <td>FSA Registration Fee</td>
+          <td>USD 12,000</td>
+        </tr>
+        <tr>
+          <td>Annual License Fee</td>
+          <td>USD 12,000 (from second year)</td>
+        </tr>
+        <tr>
+          <td>Company Annual Renewal</td>
+          <td>USD 650</td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            AML/CFT reporting, risk assessments, disclosures to FSA, maintenance
+            of statutory deposit and principal representative
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>I</td>
+          <td>Information collection and due diligence</td>
+        </tr>
+        <tr>
+          <td>II</td>
+          <td>
+            Application preparation, drafting documentation, and internal review
+          </td>
+        </tr>
+        <tr>
+          <td>III</td>
+          <td>Filing application with the SVG FSA</td>
+        </tr>
+        <tr>
+          <td>IV</td>
+          <td>
+            Follow-up, regulatory liaison, and handling FSA queries until approval
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const SouthKoreaVirtualAssetServiceProviderRegistration_HTML = (
+  <div>
+    <h1>South Korea Virtual Asset Service Provider (VASP) Registration</h1>
+
+    <p>
+      The South Korea Virtual Asset Service Provider (VASP) Registration is a
+      regulatory authorization issued by the Korea Financial Intelligence Unit
+      (KoFIU) under the Act on Reporting and Use of Specified Financial Transaction
+      Information (Special Act) and the Act on the Protection of Virtual Asset
+      Users, effective from 19 July 2024. It is mandatory for entities providing
+      virtual asset services such as exchanges, custodial wallets, and transfer
+      services to register as VASPs to comply with AML/CFT requirements and user
+      protection obligations.    </p>
+
+    <p>
+      In 2025, additional rules under the Digital Asset Basic Act (DABA) expanded
+      the regulatory framework to cover stablecoins and enhanced consumer
+      protection. South Korea operates one of the world’s most stringent crypto
+      regulatory regimes, including real-name bank account requirements and
+      mandatory information security certification.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Virtual Asset Exchanges</td>
+          <td>
+            Operating platforms for crypto-to-crypto and crypto-to-fiat trading
+          </td>
+        </tr>
+        <tr>
+          <td>Custodial Services</td>
+          <td>
+            Safekeeping and administration of virtual assets for clients
+          </td>
+        </tr>
+        <tr>
+          <td>Virtual Asset Transfers</td>
+          <td>
+            Transfer of virtual assets on behalf of clients
+          </td>
+        </tr>
+        <tr>
+          <td>Brokerage & Intermediation</td>
+          <td>
+            Acting as an intermediary for virtual asset transactions
+          </td>
+        </tr>
+        <tr>
+          <td>Portfolio Management</td>
+          <td>
+            Management of virtual asset portfolios (subject to restrictions)
+          </td>
+        </tr>
+        <tr>
+          <td>Stablecoin Issuance</td>
+          <td>
+            Issuance of stablecoins subject to approval under DABA
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            Korean-registered company with robust AML/CFT systems and a contractual
+            relationship with a local bank for real-name accounts
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Fit and proper directors with clean criminal records (no drug or tax
+            crimes), relevant experience, and financial soundness
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; assessed for fitness and propriety
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of AML/CFT framework,
+            including KYC and suspicious transaction reporting
+          </td>
+        </tr>
+        <tr>
+          <td>South Korea Office</td>
+          <td>
+            Physical place of business in South Korea required
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of an approved external auditor for annual audits
+          </td>
+        </tr>
+        <tr>
+          <td>ISMS Certification</td>
+          <td>
+            Mandatory Information Security Management System (ISMS) certification
+            issued by KISA
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital & Insurance Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Minimum Capital</td>
+          <td>
+            KRW 500 million (approx. USD 370,000) unimpaired by losses; higher
+            thresholds (up to KRW 2 billion) may apply to exchanges
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Coverage equal to at least 5% of customer hot wallet assets, with a
+            minimum of KRW 3 billion (approx. USD 2.2 million)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>Incorporate a Korean company</td>
+          <td>2–3 weeks</td>
+        </tr>
+        <tr>
+          <td>Banking Arrangements</td>
+          <td>
+            Secure real-name account agreement with a local bank
+          </td>
+          <td>Variable (often the longest step)</td>
+        </tr>
+        <tr>
+          <td>ISMS Certification</td>
+          <td>
+            Obtain ISMS certification from KISA
+          </td>
+          <td>2–3 months</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Prepare AML/CFT manuals, risk assessment, and compliance documents
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>
+            File VASP registration with KoFIU
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>KoFIU Review</td>
+          <td>
+            Regulatory review and clarifications
+          </td>
+          <td>3–6 months</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Company registration documents, business address details
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports/IDs, CVs, police clearance certificates, professional
+            references
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of capital and bank statements
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT program, KYC procedures, transaction monitoring framework
+          </td>
+        </tr>
+        <tr>
+          <td>IT & Security</td>
+          <td>
+            ISMS certificate and cybersecurity documentation
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>No government application fee</td>
+        </tr>
+        <tr>
+          <td>ISMS Certification Cost</td>
+          <td>
+            Approx. KRW 5–10 million (USD 3,700–7,400), depending on scope
+          </td>
+        </tr>
+        <tr>
+          <td>Annual Renewal</td>
+          <td>No renewal fee; ongoing compliance required</td>
+        </tr>
+        <tr>
+          <td>Taxation</td>
+          <td>
+            Corporate income tax at approx. 20–25%; crypto gains taxed as
+            miscellaneous income
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Large transaction reporting (KRW 10 million threshold), AML/CFT,
+            asset segregation, insurance maintenance, user protection obligations
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital setup</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>ISMS certification support</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>VASP registration preparation</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Filing with KoFIU</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Office setup and operational readiness</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>Post-registration compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const SouthAfricaCryptoAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>South Africa Crypto Asset Service Provider (CASP) License</h1>
+
+    <p>
+      The South Africa Crypto Asset Service Provider (CASP) License is a regulatory
+      authorisation issued by the Financial Sector Conduct Authority (FSCA) under
+      the Financial Advisory and Intermediary Services (FAIS) Act. Crypto assets
+      are classified as financial products, requiring providers to obtain a
+      Financial Services Provider (FSP) license—Category I (non-discretionary
+      intermediary services) or Category II (discretionary services). The regime,
+      effective since October 2022, ensures AML/CFT compliance, consumer
+      protection, and market integrity.    </p>
+
+    <p>
+      Existing providers were required to apply by 30 November 2023. Licensed
+      CASPs may operate in South Africa with potential for regional expansion,
+      subject to ongoing regulatory compliance.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>FSP Category</th>
+          <th>Permitted Activities</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Category I</td>
+          <td>
+            Operating crypto exchanges (crypto-to-crypto and crypto-to-fiat),
+            brokerage services, custodial wallet services, OTC trading and
+            transfers, advisory services on crypto investments
+          </td>
+        </tr>
+        <tr>
+          <td>Category II</td>
+          <td>
+            All Category I services plus discretionary management of crypto
+            portfolios
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            South African private limited company (Pty Ltd) registered with the
+            Companies and Intellectual Property Commission (CIPC)
+          </td>
+        </tr>
+        <tr>
+          <td>Directors & Key Individual</td>
+          <td>
+            Fit and proper directors; appointment of at least one Key Individual
+            approved by the FSCA with requisite FSP qualifications
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; assessed for fitness and propriety
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Independent Compliance Officer required; AML/CFT program compliant
+            with Financial Intelligence Centre (FIC) directives
+          </td>
+        </tr>
+        <tr>
+          <td>South Africa Office</td>
+          <td>
+            Local office or registered address required; operational substance
+            expected
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of a local auditor for annual financial statements
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Professional indemnity insurance recommended
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Capital & Solvency</td>
+          <td>
+            No prescribed minimum capital; applicant must demonstrate financial
+            stability with assets exceeding liabilities and adequate operational
+            funding
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>Incorporate Pty Ltd with CIPC</td>
+          <td>1–2 weeks</td>
+        </tr>
+        <tr>
+          <td>Preparation</td>
+          <td>
+            Appoint Key Individual and Compliance Officer; prepare business plan,
+            AML/KYC, risk management policies
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Online filing of FSP application with FSCA</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>FSCA Review</td>
+          <td>
+            Due diligence, background checks, queries, and possible meetings
+          </td>
+          <td>6–12 months (typically ~10 months)</td>
+        </tr>
+        <tr>
+          <td>License Grant</td>
+          <td>Issuance of CASP/FSP license</td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Certificate of incorporation, CIPC records, shareholder register
+          </td>
+        </tr>
+        <tr>
+          <td>Business</td>
+          <td>
+            Business plan outlining activities, risks, and financial projections
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports/IDs, CVs, proof of address, criminal record certificates,
+            professional references
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of financial stability and operational funds
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT and KYC policies, risk management framework, compliance manual
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee (Category I)</td>
+          <td>ZAR 1,350 (approx. USD 75)</td>
+        </tr>
+        <tr>
+          <td>Application Fee (Category II)</td>
+          <td>ZAR 8,200 (approx. USD 450)</td>
+        </tr>
+        <tr>
+          <td>Annual Levy</td>
+          <td>
+            Similar to application fee; adjusted periodically
+          </td>
+        </tr>
+        <tr>
+          <td>Taxation</td>
+          <td>
+            Corporate income tax at 27%; crypto transactions not subject to VAT
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Audited annual financial statements, AML/CFT reporting (including SARs
+            and CTRs), FATF Travel Rule compliance (effective April 2025), FSCA
+            notifications for material changes
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>FSP/CASP application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with FSCA</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office setup and operational readiness</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const SingaporeDigitalPaymentTokenServiceProviderLicense_HTML = (
+  <div>
+    <h1>Singapore Digital Payment Token (DPT) Service Provider License</h1>
+
+    <p>
+      The Singapore Digital Payment Token (DPT) Service Provider License is a
+      regulatory authorization issued by the Monetary Authority of Singapore
+      (MAS) under the Payment Services Act 2019 (PSA). It is mandatory for any
+      entity providing Digital Payment Token (DPT) services in Singapore,
+      including entities operating globally from Singapore or servicing overseas
+      clients. DPTs include cryptocurrencies used for payments or investments,
+      excluding e-money and limited-purpose digital tokens. As of 30 June 2025,
+      all DPT providers must be fully licensed under the PSA with enhanced AML/CFT
+      requirements aligned with FATF standards.    </p>
+
+    <p>
+      The regime supports financial innovation while ensuring strong consumer
+      protection, market integrity, and financial stability. Licenses are issued
+      either as a Standard Payment Institution (SPI) or a Major Payment
+      Institution (MPI), depending on transaction volume thresholds.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>DPT ↔ Fiat Exchange</td>
+          <td>Exchange of digital payment tokens for fiat currencies</td>
+        </tr>
+        <tr>
+          <td>DPT ↔ DPT Exchange</td>
+          <td>Exchange between different digital payment tokens</td>
+        </tr>
+        <tr>
+          <td>DPT Transfers</td>
+          <td>Transfer of digital payment tokens on behalf of clients</td>
+        </tr>
+        <tr>
+          <td>Custodial Wallet Services</td>
+          <td>Safekeeping and administration of digital payment tokens</td>
+        </tr>
+        <tr>
+          <td>DPT Lending & Borrowing</td>
+          <td>Facilitating lending and borrowing of digital payment tokens</td>
+        </tr>
+        <tr>
+          <td>Brokerage & Advisory</td>
+          <td>Brokerage and advisory services relating to DPTs</td>
+        </tr>
+        <tr>
+          <td>Trading Platforms</td>
+          <td>Operation of digital payment token trading platforms</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            Singapore-incorporated private limited company (Pte Ltd) with
+            operational substance
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            At least one Singapore-resident director; all directors must be fit
+            and proper with relevant experience and clean criminal records
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; subject to fitness and propriety assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of a robust AML/CFT program
+          </td>
+        </tr>
+        <tr>
+          <td>Singapore Office</td>
+          <td>
+            Physical office in Singapore with adequate infrastructure
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of a MAS-approved auditor for annual audits
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>License Type</th>
+          <th>Minimum Capital</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Standard Payment Institution (SPI)</td>
+          <td>SGD 100,000</td>
+        </tr>
+        <tr>
+          <td>Major Payment Institution (MPI)</td>
+          <td>SGD 250,000</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>Incorporate Singapore Pte Ltd with ACRA</td>
+          <td>1–2 weeks</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, financial projections, AML/CFT policies, fit & proper
+            declarations
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Submit DPT license application to MAS via online portal</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>MAS Review</td>
+          <td>
+            Regulatory assessment, interviews, clarifications, and site visits
+          </td>
+          <td>9–12 months</td>
+        </tr>
+        <tr>
+          <td>License Grant</td>
+          <td>
+            Issuance of SPI or MPI license (with conditions if applicable)
+          </td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Certificate of incorporation, Constitution, business profile
+          </td>
+        </tr>
+        <tr>
+          <td>Business</td>
+          <td>
+            Business plan, service description, 3-year financial projections
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports/IDs, CVs, police clearances, professional references
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of capital and bank statements
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT program, KYC procedures, risk management framework
+          </td>
+        </tr>
+        <tr>
+          <td>Operational</td>
+          <td>
+            Auditor appointment letter, proof of office lease
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>SGD 1,000</td>
+        </tr>
+        <tr>
+          <td>License Fee (SPI)</td>
+          <td>SGD 5,000</td>
+        </tr>
+        <tr>
+          <td>License Fee (MPI)</td>
+          <td>SGD 10,000</td>
+        </tr>
+        <tr>
+          <td>Annual Renewal Fee</td>
+          <td>SGD 2,000 – 5,000</td>
+        </tr>
+        <tr>
+          <td>Taxation</td>
+          <td>
+            Corporate income tax at 17%; GST may apply to certain crypto services
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Annual audits, AML/CFT reporting, transaction monitoring, MAS
+            notifications for material changes
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>DPT license application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with MAS</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement and operational setup</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const RwandaVirtualAssetBusinessLicense_HTML = (
+  <div>
+    <h1>Rwanda Virtual Asset Business License</h1>
+
+    <p>
+      The Rwanda Virtual Asset Business License is a regulatory authorization
+      issued by the Capital Markets Authority (CMA) under the Virtual Asset
+      Business Act, 2025. The Act regulates virtual asset business in Rwanda with
+      the objective of mitigating risks related to money laundering, terrorism
+      financing, fraud, and other illicit activities, while promoting innovation
+      and consumer protection.    </p>
+
+    <p>
+      Virtual assets are defined as digital representations of value that can be
+      digitally traded, transferred, and used for payment or investment
+      purposes, excluding digital fiat currencies, central bank digital
+      currencies, and certain regulated assets. The Act came into force in 2025,
+      and existing providers are required to comply within the prescribed
+      transition period.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Virtual Asset Platforms</td>
+          <td>
+            Operating platforms for issuing, listing, buying, selling, and
+            trading virtual assets
+          </td>
+        </tr>
+        <tr>
+          <td>Marketplaces</td>
+          <td>
+            Operating platforms for matching buyers and sellers of virtual
+            assets
+          </td>
+        </tr>
+        <tr>
+          <td>Custody & Safekeeping</td>
+          <td>
+            Safekeeping and custody of virtual assets on behalf of clients
+          </td>
+        </tr>
+        <tr>
+          <td>Wallet & Escrow Services</td>
+          <td>
+            Providing virtual asset wallets and escrow services
+          </td>
+        </tr>
+        <tr>
+          <td>Transfers & Settlement</td>
+          <td>
+            Facilitating transfers, clearing, and settlement of virtual asset
+            transactions
+          </td>
+        </tr>
+        <tr>
+          <td>Exchange Services</td>
+          <td>
+            Exchange between virtual assets and between virtual assets and fiat
+            currency (on-ramp/off-ramp)
+          </td>
+        </tr>
+        <tr>
+          <td>Token Issuance & Tokenization</td>
+          <td>
+            Facilitating virtual asset initial offerings and real-world asset
+            tokenization
+          </td>
+        </tr>
+        <tr>
+          <td>Cross-Border Transfers</td>
+          <td>
+            Facilitating cross-border funds transfers using distributed ledger
+            technology
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            Legal entity incorporated in Rwanda (company limited by shares);
+            natural persons are prohibited from conducting virtual asset
+            business
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of 2 natural person directors; fit and proper assessment
+            covering competence, experience, integrity, and financial standing
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; subject to fitness and propriety
+            assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of AML/CFT program
+          </td>
+        </tr>
+        <tr>
+          <td>Rwanda Office</td>
+          <td>
+            Registered office in Rwanda with suitable premises or data solutions
+            for record keeping
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of an approved auditor for annual audited financial
+            statements
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Professional indemnity insurance recommended; specific requirements
+            may be prescribed
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Paid-Up Capital</td>
+          <td>
+            Minimum capital to be determined by CMA based on service scope
+            (estimated USD 50,000 – 100,000 based on comparable jurisdictions)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>
+            Incorporate company in Rwanda under the Companies Act
+          </td>
+          <td>1–2 weeks</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, financial projections, AML/CFT policies, fit & proper
+            documentation
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>
+            Submit application to CMA with prescribed fees
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>CMA Review</td>
+          <td>
+            Assessment of structure, controls, AML/CFT compliance, and public
+            interest
+          </td>
+          <td>3–6 months</td>
+        </tr>
+        <tr>
+          <td>License Decision</td>
+          <td>
+            License granted with or without conditions
+          </td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Certificate of incorporation, Articles of Association
+          </td>
+        </tr>
+        <tr>
+          <td>Business</td>
+          <td>
+            Business plan, risk assessment, financial projections
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, proof of address, criminal record certificates,
+            professional references
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of capital and bank certificate
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT program, governance and organizational structure
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>Prescribed in regulations (estimated USD 2,000)</td>
+        </tr>
+        <tr>
+          <td>Annual Renewal Fee</td>
+          <td>Prescribed in regulations (estimated USD 1,000)</td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Quarterly reports, audited financial statements, AML/CFT reporting,
+            incident and cybersecurity notifications, liquidity maintenance
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>License application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with CMA</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement and setup</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const PolandCryptoAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>Poland Crypto-Asset Service Provider (CASP) License</h1>
+
+    <p>
+      The Poland Crypto-Asset Service Provider (CASP) License is a regulatory
+      authorisation issued by the Polish Financial Supervision Authority (KNF)
+      under the EU Markets in Crypto-Assets (MiCA) Regulation, effective in 2025.
+      It replaces the former Virtual Asset Service Provider (VASP) registration
+      regime and is required for nearly all cryptocurrency-related services in
+      Poland and across the European Union.    </p>
+
+    <p>
+      Once granted, the CASP License enables EU-wide passporting of crypto-asset
+      services. Poland is considered one of the most accessible MiCA jurisdictions,
+      with transitional provisions allowing existing VASPs to apply by mid-2026.
+      AML/CFT supervision is conducted by the General Inspector of Financial
+      Information (GIIF/UIF).
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Custody & Safekeeping</td>
+          <td>Safekeeping and administration of crypto-assets for clients</td>
+        </tr>
+        <tr>
+          <td>Trading Platforms</td>
+          <td>Operation of crypto-asset trading platforms</td>
+        </tr>
+        <tr>
+          <td>Exchange Services</td>
+          <td>
+            Exchange of crypto-assets for fiat currencies or other crypto-assets
+          </td>
+        </tr>
+        <tr>
+          <td>Order Execution & Placement</td>
+          <td>Execution and placement of crypto-asset orders</td>
+        </tr>
+        <tr>
+          <td>Advisory Services</td>
+          <td>Advice on crypto-investments</td>
+        </tr>
+        <tr>
+          <td>Portfolio Management</td>
+          <td>Management of crypto-asset portfolios</td>
+        </tr>
+        <tr>
+          <td>Transfer Services</td>
+          <td>Transfer of crypto-assets on behalf of clients</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            Polish legal entity (typically sp. z o.o. or S.A.) registered with the
+            National Court Register (KRS)
+          </td>
+        </tr>
+        <tr>
+          <td>Capital Requirements</td>
+          <td>
+            EUR 50,000 (advisory/portfolio), EUR 125,000 (custody & exchange),
+            EUR 150,000 (trading platforms), subject to MiCA thresholds
+          </td>
+        </tr>
+        <tr>
+          <td>Local Operations</td>
+          <td>
+            Registered office in Poland and at least one resident board member
+            (EU citizen or resident)
+          </td>
+        </tr>
+        <tr>
+          <td>Directors & Key Personnel</td>
+          <td>
+            Fit and proper assessment; minimum 10-year professional history
+            required
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of full AML/CFT framework
+          </td>
+        </tr>
+        <tr>
+          <td>Electronic Filing</td>
+          <td>
+            PESEL numbers and qualified electronic signatures or ePUAP profiles
+            required for signatories
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Service Scope</th>
+          <th>Minimum Capital</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Advisory & Portfolio Management</td>
+          <td>EUR 50,000</td>
+        </tr>
+        <tr>
+          <td>Custody & Exchange Services</td>
+          <td>EUR 125,000</td>
+        </tr>
+        <tr>
+          <td>Trading Platforms</td>
+          <td>EUR 150,000</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Submission</td>
+          <td>
+            Electronic submission of complete application to KNF
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Formal Review</td>
+          <td>
+            Completeness check and clarification requests
+          </td>
+          <td>25 business days</td>
+        </tr>
+        <tr>
+          <td>Substantive Assessment</td>
+          <td>
+            Merit review and regulatory assessment
+          </td>
+          <td>20–40 business days</td>
+        </tr>
+        <tr>
+          <td>Decision</td>
+          <td>
+            Grant or refusal of CASP License
+          </td>
+          <td>~3–4 months total</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Articles of Association, shareholder register, KRS extract
+          </td>
+        </tr>
+        <tr>
+          <td>Business & Governance</td>
+          <td>
+            Business plan, program of operations, governance framework
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports/IDs, CVs (10 years), proof of address, professional
+            references, clean criminal records
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT program, risk assessment, transaction monitoring procedures
+          </td>
+        </tr>
+        <tr>
+          <td>IT & Security</td>
+          <td>
+            ICT systems description, cybersecurity policies, business continuity
+            plans
+          </td>
+        </tr>
+        <tr>
+          <td>Client Protection</td>
+          <td>
+            Asset segregation, complaint handling, consumer protection policies
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>Approx. EUR 4,500 (one-time)</td>
+        </tr>
+        <tr>
+          <td>Annual Supervision Fee</td>
+          <td>
+            0.5% of average crypto revenues (minimum approx. EUR 500)
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            MiCA reporting, AML/CFT compliance, governance reviews, audits if
+            required
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Engagement and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation and KRS registration</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital setup</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>CASP documentation preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>KNF application submission and follow-up</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>License issuance and market entry support</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance and EU passporting</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const PhilippinesVirtualAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>Philippines Virtual Asset Service Provider (VASP) License</h1>
+
+    <p>
+      The Philippines Virtual Asset Service Provider (VASP) License is a
+      regulatory authorization issued by the Bangko Sentral ng Pilipinas (BSP)
+      under BSP Circular No. 1108 (Series of 2021) and related regulations. It is
+      required for entities providing virtual asset services such as exchanges,
+      custodial wallets, and virtual asset transfers. VASPs are also required to
+      obtain a Certificate of Authority to operate as a Money Service Business
+      (MSB).    </p>
+
+    <p>
+      The regulatory framework focuses on AML/CTF compliance, consumer
+      protection, and financial system integrity. While a moratorium on new VASP
+      licenses was extended in 2025, applications may be accepted subject to BSP
+      review and approval.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>VA ↔ Fiat Exchange</td>
+          <td>Exchange of virtual assets for fiat currency</td>
+        </tr>
+        <tr>
+          <td>VA ↔ VA Exchange</td>
+          <td>Exchange between different virtual assets</td>
+        </tr>
+        <tr>
+          <td>Virtual Asset Transfers</td>
+          <td>Transfer of virtual assets on behalf of clients</td>
+        </tr>
+        <tr>
+          <td>Custodial Wallet Services</td>
+          <td>Safekeeping and administration of virtual assets</td>
+        </tr>
+        <tr>
+          <td>Issuance-Related Services</td>
+          <td>
+            Services related to the issuance or sale of virtual assets (subject
+            to BSP approval)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            Philippine-registered corporation with SEC registration, Barangay
+            Clearance, and Mayor’s Permit
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Fit and proper directors assessed for integrity, competence, and
+            financial soundness
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; subject to fitness and propriety assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of robust AML/CTF and KYC
+            systems
+          </td>
+        </tr>
+        <tr>
+          <td>Philippines Office</td>
+          <td>
+            Physical office required in the Philippines
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of an approved external auditor
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Not mandatory, but recommended to cover operational risks
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Paid-Up Capital</td>
+          <td>
+            PHP 1,000,000 (approximately USD 17,000), unimpaired by losses
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>
+            Incorporate Philippine company with SEC and obtain local permits
+          </td>
+          <td>2–3 weeks</td>
+        </tr>
+        <tr>
+          <td>MSB Authorization</td>
+          <td>
+            Apply for Certificate of Authority as a Money Service Business
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, AML/CTF manuals, KYC framework, risk management systems
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>VASP Application Submission</td>
+          <td>
+            Filing of VASP application and request for Letter of No Objection
+            (LNO) with BSP
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>BSP Review</td>
+          <td>
+            Regulatory assessment and clarifications
+          </td>
+          <td>3–6 months</td>
+        </tr>
+        <tr>
+          <td>License Approval</td>
+          <td>
+            Issuance of VASP License and commencement of operations
+          </td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            SEC registration, Articles of Incorporation, business permits
+          </td>
+        </tr>
+        <tr>
+          <td>Business</td>
+          <td>
+            Detailed business plan and operational model
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports/IDs, CVs, proof of address, criminal record certificates,
+            professional references
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of minimum capital and bank statements
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CTF policies, KYC procedures, risk management framework
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>PHP 100,000 (approx. USD 1,700)</td>
+        </tr>
+        <tr>
+          <td>Annual Renewal Fee</td>
+          <td>PHP 500,000 (approx. USD 8,500)</td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            AML/CTF reporting, transaction monitoring, annual financial
+            statements, BSP notifications
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>VASP & MSB application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with BSP</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement and operational setup</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const NigeriaVirtualAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>Nigeria Virtual Asset Service Provider (VASP) License</h1>
+
+    <p>
+      The Nigeria Virtual Asset Service Provider (VASP) License is a regulatory
+      authorization issued by the Securities and Exchange Commission (SEC) under
+      the Virtual Assets Service Providers (VASP) Guidelines and the Investments
+      and Securities Act (ISA) 2025. It enables holders to provide virtual asset
+      services while ensuring compliance with AML/CFT, consumer protection, and
+      market integrity standards.    </p>
+
+    <p>
+      Since 2024, all crypto exchanges operating in Nigeria must be incorporated
+      locally and licensed by the SEC. Existing operators were granted a
+      transition period, while new applicants must comply fully with the current
+      framework before commencing operations.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Digital Asset Exchanges</td>
+          <td>
+            Operation of crypto-to-crypto and crypto-to-fiat trading platforms
+          </td>
+        </tr>
+        <tr>
+          <td>Brokerage & Intermediation</td>
+          <td>
+            Acting as an intermediary for virtual asset transactions
+          </td>
+        </tr>
+        <tr>
+          <td>Custodial Services</td>
+          <td>
+            Safekeeping and administration of clients’ virtual assets
+          </td>
+        </tr>
+        <tr>
+          <td>OTC Trading & Transfers</td>
+          <td>
+            Facilitating over-the-counter trading and transfers of virtual
+            assets
+          </td>
+        </tr>
+        <tr>
+          <td>Digital Asset Issuance</td>
+          <td>
+            Issuance and offering of digital assets, subject to SEC approval
+          </td>
+        </tr>
+        <tr>
+          <td>Advisory Services</td>
+          <td>
+            Providing advisory services relating to virtual assets
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            Nigerian limited liability company incorporated with the Corporate
+            Affairs Commission (CAC)
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of 2 directors; must be fit and proper with relevant
+            experience, integrity, and financial soundness
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; assessed for fitness and propriety
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of a robust AML/CFT program
+          </td>
+        </tr>
+        <tr>
+          <td>Nigeria Office</td>
+          <td>
+            Physical office in Nigeria with appropriate infrastructure
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of a SEC-approved auditor for annual audits
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Professional indemnity insurance covering at least NGN 100,000,000
+            per claim
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Prescribed Capital</td>
+          <td>
+            NGN 500,000,000 (approximately USD 300,000), unimpaired by losses and
+            maintained at all times
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>
+            Incorporate Nigerian company with the CAC
+          </td>
+          <td>1–2 weeks</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, AML/CFT policies, financial projections, fit & proper
+            documents
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>
+            File application with the SEC and pay prescribed fees
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>SEC Review</td>
+          <td>
+            Regulatory review, interviews, and possible site visits
+          </td>
+          <td>3–6 months</td>
+        </tr>
+        <tr>
+          <td>License Grant</td>
+          <td>
+            VASP license issued with conditions where applicable
+          </td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Certificate of incorporation, Memorandum & Articles of Association
+          </td>
+        </tr>
+        <tr>
+          <td>Business</td>
+          <td>
+            Business plan including services description, market analysis, and
+            3-year financial projections
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports/IDs, CVs, police clearance certificates, professional
+            references
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of minimum capital (bank statements)
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT program, compliance manual, risk management framework
+          </td>
+        </tr>
+        <tr>
+          <td>Operational</td>
+          <td>
+            Proof of office lease and auditor appointment letter
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>NGN 100,000 (approx. USD 60)</td>
+        </tr>
+        <tr>
+          <td>Processing Fee</td>
+          <td>NGN 300,000 (approx. USD 180)</td>
+        </tr>
+        <tr>
+          <td>Registration Fee</td>
+          <td>NGN 30,000,000 (approx. USD 18,000)</td>
+        </tr>
+        <tr>
+          <td>Annual License Fee</td>
+          <td>NGN 5,000,000 (from second year)</td>
+        </tr>
+        <tr>
+          <td>Taxation</td>
+          <td>
+            Corporate income tax at 30% on profits; capital gains tax applicable
+            to crypto transactions
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Annual audits, AML/CFT reporting, client asset segregation, SEC
+            notifications for material changes
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>VASP license application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with the SEC</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement and setup</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const MaltaCryptoAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>Malta Crypto Asset Service Provider (CASP) License</h1>
+
+    <p>
+      The Malta Crypto Asset Service Provider (CASP) License is a regulatory
+      authorization issued by the Malta Financial Services Authority (MFSA) under
+      the Markets in Crypto-Assets (MiCA) Regulation and the Markets in
+      Crypto-Assets Act (Cap. 647). The regime became effective on 30 December
+      2024 for stablecoins and on 1 July 2025 for other crypto-asset services,
+      replacing the former Virtual Financial Assets (VFA) framework.    </p>
+
+    <p>
+      The CASP License allows licensed entities to provide crypto-asset services
+      across the European Union through passporting rights. Malta remains an
+      attractive jurisdiction due to its EU credibility, efficient regulatory
+      process, strategic location, and effective corporate tax rate of
+      approximately 5% through shareholder refund mechanisms.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>CASP Class</th>
+          <th>Permitted Activities</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Class 1</td>
+          <td>
+            Execution of orders on behalf of clients, placing of crypto-assets,
+            transfer services, reception and transmission of orders, advice on
+            crypto-assets, portfolio management
+          </td>
+        </tr>
+        <tr>
+          <td>Class 2</td>
+          <td>
+            All Class 1 services plus custody and administration of crypto-assets,
+            exchange of crypto-assets for funds, exchange between crypto-assets
+          </td>
+        </tr>
+        <tr>
+          <td>Class 3</td>
+          <td>
+            All Class 2 services plus operation of a crypto-asset trading platform
+          </td>
+        </tr>
+        <tr>
+          <td>Class 4</td>
+          <td>
+            All Class 3 services plus underwriting and/or placing of crypto-assets
+            with or without firm commitment
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>
+            Maltese legal entity (typically Limited Liability Company) registered
+            with the Malta Business Registry
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of 2 directors; fit and proper assessment required; at least
+            one resident in Malta or the EEA
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; subject to fitness and propriety assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of AML/CFT framework in line
+            with FATF standards
+          </td>
+        </tr>
+        <tr>
+          <td>Malta Office</td>
+          <td>
+            Physical place of business in Malta required
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            MFSA-approved auditor required for annual audits
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>CASP Class</th>
+          <th>Minimum Capital</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Class 1</td>
+          <td>EUR 50,000</td>
+        </tr>
+        <tr>
+          <td>Class 2</td>
+          <td>EUR 125,000</td>
+        </tr>
+        <tr>
+          <td>Class 3</td>
+          <td>EUR 150,000</td>
+        </tr>
+        <tr>
+          <td>Class 4</td>
+          <td>EUR 730,000 (shareholders’ funds unimpaired by losses)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Pre-Application</td>
+          <td>
+            Submission of Statement of Intent and preliminary discussions with
+            MFSA
+          </td>
+          <td>2–4 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Preparation</td>
+          <td>
+            Business plan, AML/CFT framework, IT and governance documentation
+          </td>
+          <td>1–2 months</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Filing of complete application with MFSA</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>MFSA Review</td>
+          <td>
+            Regulatory assessment, clarifications, and fit & proper checks
+          </td>
+          <td>Up to 6 months</td>
+        </tr>
+        <tr>
+          <td>License Issuance</td>
+          <td>
+            Grant of CASP license subject to conditions
+          </td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Incorporation documents, organizational structure, registers
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, proof of address, academic and professional
+            certificates, professional references
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of capital, financial projections, source of funds declarations
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance & IT</td>
+          <td>
+            AML/CFT manuals, enterprise risk management framework, IT security
+            and business continuity policies
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>EUR 3,000 (Class 1) to EUR 10,000 (Class 4)</td>
+        </tr>
+        <tr>
+          <td>Issuance Fee</td>
+          <td>EUR 5,000 to EUR 25,000 depending on class</td>
+        </tr>
+        <tr>
+          <td>Annual Supervision Fee</td>
+          <td>EUR 5,000 to EUR 25,000 depending on class</td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Annual audits, MiCA reporting, AML/CFT compliance, governance reviews
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>CASP application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with MFSA</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement and operational setup</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const LithuaniaCryptoAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>Lithuania Crypto-Asset Service Provider (CASP) License</h1>
+
+    <p>
+      The Lithuania Crypto-Asset Service Provider (CASP) License is a regulatory
+      authorization issued by the Bank of Lithuania under the Markets in
+      Crypto-Assets (MiCA) Regulation. As of 29 April 2025, Lithuania aligned its
+      national framework with MiCA, replacing the former Virtual Currency
+      Exchange Operator and Wallet Operator licenses.    </p>
+
+    <p>
+      The CASP License allows holders to provide crypto-asset services across the
+      European Union through passporting rights. Lithuania is considered an
+      attractive jurisdiction due to its efficient regulatory process,
+      comparatively low costs, and strong EU regulatory credibility.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Custody & Administration</td>
+          <td>Safekeeping and administration of crypto-assets</td>
+        </tr>
+        <tr>
+          <td>Trading Platforms</td>
+          <td>Operation of crypto-asset trading platforms</td>
+        </tr>
+        <tr>
+          <td>Exchange Services</td>
+          <td>
+            Exchange between crypto-assets and fiat currencies or other
+            crypto-assets
+          </td>
+        </tr>
+        <tr>
+          <td>Order Execution & Placement</td>
+          <td>Execution and placement of orders for crypto-assets</td>
+        </tr>
+        <tr>
+          <td>Advisory Services</td>
+          <td>Advice on crypto-asset investments</td>
+        </tr>
+        <tr>
+          <td>Portfolio Management</td>
+          <td>Management of crypto-asset portfolios</td>
+        </tr>
+        <tr>
+          <td>Transfer Services</td>
+          <td>Transfer of crypto-assets on behalf of clients</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>
+            Lithuanian UAB (private limited liability company) registered with the
+            Register of Legal Entities
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; corporate shareholders permitted; subject
+            to fit and proper assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of 2 management board members; at least one EU-resident
+            director; fit and proper test required
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Qualified AML officer required; cannot be a board member
+          </td>
+        </tr>
+        <tr>
+          <td>Lithuania Office</td>
+          <td>
+            Registered office in Lithuania; core activities linked to Lithuania
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Auditor registered with the Authority of Audit, Accounting, Property
+            Valuation and Insolvency Management
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Service Scope</th>
+          <th>Minimum Capital</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Advisory & Portfolio Management</td>
+          <td>EUR 50,000</td>
+        </tr>
+        <tr>
+          <td>Custody & Exchange Services</td>
+          <td>EUR 125,000</td>
+        </tr>
+        <tr>
+          <td>Trading Platforms</td>
+          <td>EUR 150,000</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>Register UAB remotely</td>
+          <td>1–2 weeks</td>
+        </tr>
+        <tr>
+          <td>Bank Account & Capital</td>
+          <td>Open local bank account and deposit capital</td>
+          <td>~1 week</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, AML/CFT policies, IT & governance documentation
+          </td>
+          <td>2–4 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>File application with the Bank of Lithuania</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Regulatory Review</td>
+          <td>
+            Completeness check and substantive assessment (extendable)
+          </td>
+          <td>Up to 3 months</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Articles of association, registration certificate
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, criminal record certificates, proof of education
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of capital, bank certificate, financial forecasts
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance & IT</td>
+          <td>
+            AML/CFT program, risk assessment, cybersecurity and continuity plans
+          </td>
+        </tr>
+        <tr>
+          <td>Client Protection</td>
+          <td>
+            Asset segregation procedures, complaint handling policies
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>State Application Fee</td>
+          <td>EUR 345</td>
+        </tr>
+        <tr>
+          <td>Processing Fee</td>
+          <td>Approx. EUR 1,000 – 2,000</td>
+        </tr>
+        <tr>
+          <td>Annual Supervision Fee</td>
+          <td>
+            Variable based on turnover (minimum approx. EUR 1,000)
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            MiCA reporting, AML/CFT compliance, annual audits, governance reviews
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>CASP application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with the Bank of Lithuania</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement and operational setup</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const LabuanCryptoExchangeLicense_HTML = (
+  <div>
+    <h1>Labuan Crypto Exchange License</h1>
+
+    <p>
+      The Labuan Crypto Exchange License is a regulatory authorisation issued by
+      the Labuan Financial Services Authority (LFSA) under the Labuan Financial
+      Services and Securities Act 2010. It allows companies to operate
+      cryptocurrency exchanges and provide digital asset services within the
+      Labuan International Business and Financial Centre (IBFC).    </p>
+
+    <p>
+      Labuan is a federal territory of Malaysia offering a favorable regulatory
+      environment for digital financial services, including a low corporate tax
+      rate of 3% or a fixed annual tax option. The license supports international
+      operations and permits interaction with Malaysian residents through
+      authorized dealers where applicable.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Digital Asset Exchange</td>
+          <td>Operating a platform for trading digital assets</td>
+        </tr>
+        <tr>
+          <td>Crypto ↔ Crypto Trading</td>
+          <td>Exchange between different cryptocurrencies</td>
+        </tr>
+        <tr>
+          <td>Fiat ↔ Crypto Trading</td>
+          <td>
+            Exchange between fiat currencies and cryptocurrencies
+          </td>
+        </tr>
+        <tr>
+          <td>International Services</td>
+          <td>Providing crypto exchange services to global markets</td>
+        </tr>
+        <tr>
+          <td>MYR Transactions</td>
+          <td>
+            Conducting transactions involving Malaysian Ringgit through
+            authorised dealers
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Requirements</td>
+          <td>
+            Labuan-registered company under the LFSA framework
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of 2 natural person directors; no nationality or residency
+            restrictions
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>
+            At least 1 shareholder (individual or corporate); no restrictions
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment with responsibility for AML/CFT compliance
+          </td>
+        </tr>
+        <tr>
+          <td>Labuan Office</td>
+          <td>
+            Physical office in Labuan required for operations
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Approved external auditor required for annual audits
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Not mandatory, but professional indemnity insurance recommended
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Paid-up Capital</td>
+          <td>
+            USD 130,000 confirmed by bank certificates from Malaysia or Labuan
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Preparation</td>
+          <td>
+            Business plan, AML policies, corporate and management documentation
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>
+            Filing of application with the LFSA
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Preliminary Review</td>
+          <td>
+            Verification of documents and completeness check
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Interviews & AIP</td>
+          <td>
+            Interviews (if required) and issuance of Approval in Principle (AIP)
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>License Issuance</td>
+          <td>
+            Full license issued upon meeting AIP conditions
+          </td>
+          <td>4–6 months total</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Business</td>
+          <td>
+            3-year business plan with projected revenues and expenses
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, fit and proper declarations, reputation documents
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Bank certificates for capital, financial reports
+          </td>
+        </tr>
+        <tr>
+          <td>Operational</td>
+          <td>
+            Proof of Labuan office lease, organizational structure
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT policies and internal control manuals
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>USD 1,500</td>
+        </tr>
+        <tr>
+          <td>License Fee</td>
+          <td>USD 1,000 – 5,000 (depending on category)</td>
+        </tr>
+        <tr>
+          <td>Annual Supervision Fee</td>
+          <td>USD 1,500</td>
+        </tr>
+        <tr>
+          <td>Annual Compliance</td>
+          <td>
+            Annual audit, AML/CFT reporting, incident reporting, LFSA approvals
+            for changes
+          </td>
+        </tr>
+        <tr>
+          <td>Corporate Tax</td>
+          <td>
+            3% of audited net income or fixed USD 4,000 (whichever is higher)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>License application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with LFSA</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement and setup</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const KenyaVirtualAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>Kenya Virtual Asset Service Provider (VASP) License</h1>
+
+    <p>
+      The Kenya Virtual Asset Service Provider (VASP) License is a regulatory
+      authorization issued by the Capital Markets Authority (CMA) or the Central
+      Bank of Kenya (CBK) under the Virtual Asset Service Providers Act, 2025. The
+      framework promotes innovation while ensuring market integrity, consumer
+      protection, and AML/CTF compliance.
+    </p>
+
+    <p>
+      The Act came into force on 21 October 2025. Existing virtual asset service
+      providers are required to comply within one year. Virtual assets are
+      defined as digital representations of value used for trade, transfer,
+      payment, or investment, excluding fiat currencies, securities, and closed
+      ecosystem tokens.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Digital Wallet Services</td>
+          <td>Operating and managing virtual asset wallets</td>
+        </tr>
+        <tr>
+          <td>Virtual Asset Exchanges</td>
+          <td>Running exchanges for trading virtual assets</td>
+        </tr>
+        <tr>
+          <td>Payment Processing</td>
+          <td>Processing payments using virtual assets</td>
+        </tr>
+        <tr>
+          <td>Brokerage & Advisory</td>
+          <td>Providing brokerage services and investment advice</td>
+        </tr>
+        <tr>
+          <td>Portfolio Management</td>
+          <td>Managing virtual asset portfolios for clients</td>
+        </tr>
+        <tr>
+          <td>Token Issuance & Tokenization</td>
+          <td>
+            Issuing digital tokens and facilitating tokenization of real-world
+            assets (subject to regulatory approval)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>
+            Company limited by shares registered in Kenya or as a foreign company
+            under the Companies Act
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Fit and proper assessment based on competence, experience, integrity,
+            and financial standing; at least one resident director recommended
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; subject to fitness and propriety assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory AML/CTF framework and appointment of compliance officer
+          </td>
+        </tr>
+        <tr>
+          <td>Kenya Office</td>
+          <td>
+            Physical office in Kenya with adequate premises or data solutions for
+            record keeping
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of an approved auditor for annual audits
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Prescribed insurance requirements appropriate to operations
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Requirement</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Prescribed Capital</td>
+          <td>
+            To be specified in regulations (estimated minimum USD 50,000 based on
+            comparable jurisdictions)
+          </td>
+        </tr>
+        <tr>
+          <td>Solvency</td>
+          <td>
+            Ongoing capital and solvency requirements as prescribed
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Registration</td>
+          <td>
+            Register company under the Companies Act
+          </td>
+          <td>1–2 weeks</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, AML/CTF program, governance and fit & proper documents
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>
+            File application with CMA or CBK together with prescribed fees
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Regulatory Review</td>
+          <td>
+            Evaluation of structure, controls, capital, public interest
+          </td>
+          <td>3–6 months</td>
+        </tr>
+        <tr>
+          <td>License Grant</td>
+          <td>
+            License issued with conditions if applicable
+          </td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Application form, incorporation documents, business registration
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            CVs, proof of integrity and financial standing, criminal record
+            certificates, professional references
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Financial statements, capital proof
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CTF program, internal controls, risk management policies
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>
+            Prescribed in regulations (estimated USD 2,000)
+          </td>
+        </tr>
+        <tr>
+          <td>Annual Renewal Fee</td>
+          <td>
+            Prescribed in regulations (estimated USD 1,000)
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Annual audited accounts, AML/CTF compliance, cybersecurity,
+            disclosure and reporting obligations
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>VASP license application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with CMA or CBK</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office setup and operational readiness</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const JapanCryptoAssetExchangeServiceProviderRegistration_HTML = (
+  <div>
+    <h1>Japan Crypto Asset Exchange Service Provider (CAESP) Registration</h1>
+
+    <p>
+      The Japan Crypto Asset Exchange Service Provider (CAESP) Registration is a
+      regulatory authorization issued by the Financial Services Agency (FSA)
+      under the Payment Services Act (PSA). It is mandatory for any entity
+      providing crypto asset exchange services, including operating exchanges
+      for trading crypto assets or facilitating crypto-to-fiat or
+      crypto-to-crypto transactions.    </p>
+
+    <p>
+      The Japanese regulatory framework is among the most stringent globally,
+      focusing on consumer protection, AML/CFT compliance, and market integrity.
+      While the process is rigorous and time-consuming, a CAESP Registration
+      provides strong regulatory credibility and access to one of Asia’s largest
+      crypto markets.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Crypto Asset Exchange</td>
+          <td>
+            Operating platforms for crypto-to-crypto and crypto-to-fiat trading
+          </td>
+        </tr>
+        <tr>
+          <td>Brokerage Services</td>
+          <td>
+            Intermediating crypto asset transactions on behalf of clients
+          </td>
+        </tr>
+        <tr>
+          <td>Custody Services</td>
+          <td>
+            Safekeeping and management of crypto assets for customers
+          </td>
+        </tr>
+        <tr>
+          <td>Transfers & Settlements</td>
+          <td>
+            Facilitating transfers and settlement of crypto assets
+          </td>
+        </tr>
+        <tr>
+          <td>Advisory Services</td>
+          <td>
+            Advice on crypto investments (subject to additional licensing)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>
+            Japanese company incorporated under the Companies Act (e.g. Kabushiki
+            Kaisha) with headquarters in Japan
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Fit and proper directors with clean criminal records and at least
+            three years of relevant financial experience; subject to FSA review
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; assessed for fitness and propriety
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of robust AML/CFT framework
+          </td>
+        </tr>
+        <tr>
+          <td>Japan Office</td>
+          <td>
+            Physical headquarters in Japan with adequate operational
+            infrastructure
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Appointment of an FSA-approved external auditor
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Custody insurance mandatory; professional indemnity recommended
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Service Scope</th>
+          <th>Minimum Capital</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Standard Exchange & Brokerage</td>
+          <td>JPY 10,000,000 (approx. USD 65,000)</td>
+        </tr>
+        <tr>
+          <td>Custody Services</td>
+          <td>JPY 50,000,000 (approx. USD 325,000)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>
+            Incorporate Japanese entity and establish headquarters
+          </td>
+          <td>1–2 weeks</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, AML/CFT policies, governance and fit & proper
+            declarations
+          </td>
+          <td>2–3 months</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>
+            Filing of CAESP application with the FSA
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>FSA Review</td>
+          <td>
+            Regulatory assessment, interviews, and possible site visits
+          </td>
+          <td>6–12 months</td>
+        </tr>
+        <tr>
+          <td>Registration Approval</td>
+          <td>
+            Issuance of CAESP registration (with conditions if applicable)
+          </td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Certificate of incorporation, Articles of Association
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports/IDs, CVs, police clearances, professional references
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of capital, bank statements, financial projections
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT program, internal controls, risk management manuals
+          </td>
+        </tr>
+        <tr>
+          <td>Operational</td>
+          <td>
+            Proof of headquarters, IT systems description, custody arrangements
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>JPY 150,000 (approx. USD 1,000)</td>
+        </tr>
+        <tr>
+          <td>Annual Supervision Fee</td>
+          <td>
+            Variable based on scale (approx. JPY 100,000 – 500,000)
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Annual audits, AML/CFT reporting, capital maintenance, regulatory
+            notifications
+          </td>
+        </tr>
+        <tr>
+          <td>Taxation</td>
+          <td>
+            Corporate tax approx. 23.2% on profits
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>CAESP application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with the FSA</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office setup and operational readiness</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-registration compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const HongKongVirtualAssetTradingPlatformLicense_HTML = (
+  <div>
+    <h1>Hong Kong Virtual Asset Trading Platform (VATP) License</h1>
+
+    <p>
+      The Hong Kong Virtual Asset Trading Platform (VATP) License is a regulatory
+      authorization issued by the Securities and Futures Commission (SFC) under
+      the Securities and Futures Ordinance (SFO) and the Anti-Money Laundering and
+      Counter-Terrorist Financing Ordinance (AMLO). Centralised virtual asset
+      trading platforms operating in Hong Kong, or actively marketing to Hong
+      Kong investors, are required to be licensed and regulated by the SFC.    </p>
+
+    <p>
+      Due to the evolving nature of virtual assets, tokens may be classified as
+      security tokens or non-security tokens over time. To ensure regulatory
+      continuity and avoid contravention, platforms are encouraged to apply
+      under both the SFO and AMLO regimes through a consolidated application.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Regulatory Regime</th>
+          <th>Permitted Activities</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>SFO (Type 1 & Type 7)</td>
+          <td>
+            Dealing in securities and providing automated trading services for
+            security tokens using an automated trading engine, including custody
+            as an ancillary service
+          </td>
+        </tr>
+        <tr>
+          <td>AMLO</td>
+          <td>
+            Operating a virtual asset exchange for non-security tokens using an
+            automated trading engine, including custody as an ancillary service
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>
+            Hong Kong incorporated company operating a centralised VATP
+          </td>
+        </tr>
+        <tr>
+          <td>Directors & Responsible Officers</td>
+          <td>
+            Fit and proper individuals with relevant experience; SFC approval
+            required
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>
+            Clean ownership structure; shareholders holding 5% or more subject
+            to SFC vetting
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of AML/CFT framework
+          </td>
+        </tr>
+        <tr>
+          <td>Hong Kong Office</td>
+          <td>
+            Physical office in Hong Kong; core management functions based locally
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Approved external auditor required for annual audits
+          </td>
+        </tr>
+        <tr>
+          <td>Financial Resources</td>
+          <td>
+            No fixed minimum capital stated; must demonstrate financial stability
+            commensurate with activities
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Preparation</td>
+          <td>
+            Company setup, governance structure, policies and procedures
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>
+            Consolidated application under SFO and AMLO via SFC WINGS portal
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>External Assessment</td>
+          <td>
+            Appointment of External Assessor and submission of capability
+            statement
+          </td>
+          <td>Concurrent</td>
+        </tr>
+        <tr>
+          <td>SFC Review</td>
+          <td>
+            Regulatory assessment, clarifications, possible interviews
+          </td>
+          <td>Several months</td>
+        </tr>
+        <tr>
+          <td>License Approval</td>
+          <td>
+            Grant of VATP license under applicable regimes
+          </td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Incorporation documents, business registration, organizational chart
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, proof of address, criminal record certificates,
+            professional references
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            Written policies and procedures, AML/CFT framework
+          </td>
+        </tr>
+        <tr>
+          <td>External Assessment</td>
+          <td>
+            Identification of External Assessor and capability statement
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>SFO License Fee</td>
+          <td>
+            HKD 4,740 per regulated activity (Type 1 and/or Type 7)
+          </td>
+        </tr>
+        <tr>
+          <td>AMLO VA Service License Fee</td>
+          <td>
+            HKD 4,740
+          </td>
+        </tr>
+        <tr>
+          <td>Responsible Officer Approval</td>
+          <td>
+            HKD 2,950 per regulated activity
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Ongoing notifications, audits, AML/CFT, and adherence to VATP
+            Licensing Handbook
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>VATP license application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with the SFC</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office setup and operational readiness</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const GibraltarDLTLicense_HTML = (
+  <div>
+    <h1>Gibraltar Distributed Ledger Technology (DLT) License</h1>
+
+    <p>
+      The Gibraltar Distributed Ledger Technology (DLT) License is a regulatory
+      authorization issued by the Gibraltar Financial Services Commission (GFSC)
+      under the DLT regulatory framework in force since January 2018. It applies
+      to entities using distributed ledger technology for business activities
+      involving the transmission or storage of value belonging to others.
+    </p>
+
+    <p>
+      Gibraltar’s DLT regime is principles-based and innovation-friendly, offering
+      close regulator engagement and efficient approval timelines. Applications
+      are assessed under complexity categories depending on the nature, scale,
+      and risk profile of the proposed business.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Virtual Currency Administration</td>
+          <td>Centralized administration of virtual currencies</td>
+        </tr>
+        <tr>
+          <td>Wallet & Custody Services</td>
+          <td>Virtual currency wallets and safekeeping services</td>
+        </tr>
+        <tr>
+          <td>Trading Platforms & Exchanges</td>
+          <td>Operation of VC trading platforms and exchanges</td>
+        </tr>
+        <tr>
+          <td>Payment Services</td>
+          <td>Payment services using DLT-based assets</td>
+        </tr>
+        <tr>
+          <td>Asset-Backed Token Issuance</td>
+          <td>Issuance of tokens backed by underlying assets</td>
+        </tr>
+        <tr>
+          <td>Other DLT Use Cases</td>
+          <td>
+            Pre-loaded wallets, vouchers, and peer-to-peer gaming platforms
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Gibraltar domestic company</td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of 2 fit and proper natural persons
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>
+            Minimum of 2 shareholders; corporate shareholding permitted
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Fit and proper officers required; duties discharged from Gibraltar
+          </td>
+        </tr>
+        <tr>
+          <td>Local Office</td>
+          <td>
+            Operational office required in Gibraltar
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Auditor appointment subject to GFSC approval
+          </td>
+        </tr>
+        <tr>
+          <td>Capital & Financial Resources</td>
+          <td>
+            Adequate resources proportional to risks; sufficient for orderly
+            wind-down
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>
+            Professional indemnity insurance where appropriate
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Initial Assessment</td>
+          <td>
+            Submission of white paper or business summary to GFSC
+          </td>
+          <td>~2 weeks</td>
+        </tr>
+        <tr>
+          <td>Risk Categorization</td>
+          <td>
+            Classification into Complexity Category (1–3)
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Full Application</td>
+          <td>
+            Submission of full application pack and supporting documents
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>GFSC Review</td>
+          <td>
+            Regulatory assessment and clarification requests
+          </td>
+          <td>2–3 months</td>
+        </tr>
+        <tr>
+          <td>License Approval</td>
+          <td>
+            Grant of DLT license (with conditions if applicable)
+          </td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            CVs, passports, proof of address, police certificates
+          </td>
+        </tr>
+        <tr>
+          <td>Professional References</td>
+          <td>
+            Two referees per director and shareholder
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Bank references, tax certificates
+          </td>
+        </tr>
+        <tr>
+          <td>Business & Systems</td>
+          <td>
+            Business description, systems and controls overview
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>EUR 2,000</td>
+        </tr>
+        <tr>
+          <td>Annual License Fee</td>
+          <td>
+            EUR 34,000 (Complexity Category 3)
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Annual audits, reporting, AML/CFT, governance reviews
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>I</td>
+          <td>Information collection and due diligence</td>
+        </tr>
+        <tr>
+          <td>II</td>
+          <td>Application preparation and company incorporation</td>
+        </tr>
+        <tr>
+          <td>III</td>
+          <td>Submission to GFSC and fee payment</td>
+        </tr>
+        <tr>
+          <td>IV</td>
+          <td>Regulatory liaison and approval support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const EstoniaCryptoAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>Estonia Crypto-Asset Service Provider (CASP) License</h1>
+
+    <p>
+      The Estonia Crypto-Asset Service Provider (CASP) License is a regulatory
+      authorization issued by the Estonian Financial Supervision and Resolution
+      Authority (FSA) under the Markets in Crypto-Assets Regulation (MiCA). It
+      enables licensed entities to provide crypto-asset services across the
+      European Union with passporting rights.
+    </p>
+
+    <p>
+      This regime replaces Estonia’s former VASP framework. Existing VASP
+      licenses remain valid until 1 July 2026, after which reapplication under
+      CASP is required. Estonia is favored for its efficient process, moderate
+      costs, and strong EU regulatory credibility.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Custody & Administration</td>
+          <td>Safekeeping and administration of crypto-assets</td>
+        </tr>
+        <tr>
+          <td>Trading Platforms</td>
+          <td>Operation of crypto-asset trading platforms</td>
+        </tr>
+        <tr>
+          <td>Exchange Services</td>
+          <td>
+            Exchange between crypto-assets and fiat or other crypto-assets
+          </td>
+        </tr>
+        <tr>
+          <td>Order Execution</td>
+          <td>Execution of crypto-asset orders on behalf of clients</td>
+        </tr>
+        <tr>
+          <td>Advisory Services</td>
+          <td>Advice related to crypto-assets</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Estonian OÜ (private limited liability company)</td>
+        </tr>
+        <tr>
+          <td>Management Board</td>
+          <td>
+            Minimum of 2 board members; must pass fit and proper assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; assessed for fitness and propriety
+          </td>
+        </tr>
+        <tr>
+          <td>AML Officer</td>
+          <td>
+            Qualified AML officer required and based in Estonia
+          </td>
+        </tr>
+        <tr>
+          <td>Local Presence</td>
+          <td>
+            Registered office in Estonia; core business linked to Estonia
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            Auditor registered with Estonian audit authority required
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Service Type</th>
+          <th>Minimum Capital</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Exchange & Custody (Class 2)</td>
+          <td>EUR 100,000</td>
+        </tr>
+        <tr>
+          <td>Trading Platforms (Class 3)</td>
+          <td>EUR 150,000</td>
+        </tr>
+        <tr>
+          <td>Virtual Asset Transfers</td>
+          <td>EUR 250,000</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Setup</td>
+          <td>
+            OÜ registration (e-Residency supported), board appointments
+          </td>
+          <td>1–2 weeks</td>
+        </tr>
+        <tr>
+          <td>Capital Deposit</td>
+          <td>
+            Open EEA account and deposit required capital
+          </td>
+          <td>~1 week</td>
+        </tr>
+        <tr>
+          <td>Documentation</td>
+          <td>
+            Business plan, AML/CFT, IT, governance, fit & proper proofs
+          </td>
+          <td>2–4 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Filing with Estonian FSA</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>FSA Review</td>
+          <td>
+            Completeness check and regulatory review
+          </td>
+          <td>Up to 60 business days</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Articles of association, incorporation certificate
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, criminal record certificates, education proof
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of capital origin, bank certificate, opening balance sheet
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance & IT</td>
+          <td>
+            AML/CFT policies, KYC procedures, IT architecture, cybersecurity
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>EUR 10,000 (non-refundable)</td>
+        </tr>
+        <tr>
+          <td>Processing Fee</td>
+          <td>EUR 3,000</td>
+        </tr>
+        <tr>
+          <td>Annual Supervision</td>
+          <td>
+            Variable fee based on turnover or assets
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            AML/CFT reporting, audits, capital maintenance, ICT incident reporting
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>CASP application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with Estonian FSA</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office setup and operational readiness</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const ElSalvadorDigitalAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>El Salvador Digital Asset Service Provider (DASP) License</h1>
+
+    <p>
+      The El Salvador Digital Asset Service Provider (DASP) License is a
+      regulatory authorization issued by the National Commission for Digital
+      Assets (CNAD) and the Central Reserve Bank of El Salvador (BCR). It enables
+      businesses to operate legally within El Salvador’s progressive framework
+      for digital assets and cryptocurrencies.
+    </p>
+
+    <p>
+      The DASP License is widely accepted by financial institutions and allows
+      global operations under a compliant structure. Key benefits include a 0%
+      corporate income tax on foreign-sourced income, fast acquisition timelines,
+      low capital requirements, no mandatory local office, and the ability to
+      issue tokens under the same license.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Digital Asset Issuance</td>
+          <td>Issuing digital assets as investment vehicles</td>
+        </tr>
+        <tr>
+          <td>Tokenization & Offerings</td>
+          <td>
+            Utility tokens, security tokens, stablecoins, and public offerings
+          </td>
+        </tr>
+        <tr>
+          <td>Crypto ↔ Crypto / Fiat Exchange</td>
+          <td>
+            Exchange of cryptocurrencies and fiat currencies for a fee
+          </td>
+        </tr>
+        <tr>
+          <td>Wallet & Key Management</td>
+          <td>
+            Creation and custody of crypto wallets and encrypted client keys
+          </td>
+        </tr>
+        <tr>
+          <td>DeFi Activities</td>
+          <td>Decentralized finance-related services</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>
+            El Salvador S.A. de C.V. (Sociedad Anónima de Capital Variable)
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>
+            Minimum of two shareholders (local or foreign)
+          </td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of one director (local or foreign)
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer</td>
+          <td>
+            Certified AML / Compliance Officer required
+          </td>
+        </tr>
+        <tr>
+          <td>AML / KYC / CFT Policies</td>
+          <td>
+            Tailored policies designed by blockchain and financial law experts
+          </td>
+        </tr>
+        <tr>
+          <td>Capital Requirement</td>
+          <td>
+            USD 2,000 (minimum USD 100 deposited in first year)
+          </td>
+        </tr>
+        <tr>
+          <td>Legal Representative</td>
+          <td>
+            Administrator appointed before Salvadoran Tax Office
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Preparation & Analysis</td>
+          <td>
+            Name verification, POA (if foreign shareholders), entity structure
+          </td>
+          <td>2–3 weeks</td>
+        </tr>
+        <tr>
+          <td>Company Registration</td>
+          <td>
+            Incorporation, NIT issuance, municipal and social security clearances
+          </td>
+          <td>2–4 weeks</td>
+        </tr>
+        <tr>
+          <td>Bank Account & Capital</td>
+          <td>
+            Open bank account and deposit initial share capital
+          </td>
+          <td>2–3 weeks</td>
+        </tr>
+        <tr>
+          <td>License Application</td>
+          <td>
+            Submission to CNAD with full documentation
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Regulatory Review</td>
+          <td>
+            CNAD assessment and clarifications
+          </td>
+          <td>~3 months</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Articles of Incorporation, company name approval, share capital
+            registration
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, academic and professional certificates
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/KYC/CFT policies, cybersecurity program
+          </td>
+        </tr>
+        <tr>
+          <td>Business</td>
+          <td>
+            Business plan, cash flow chart, 3-year financial projections
+          </td>
+        </tr>
+        <tr>
+          <td>Operational</td>
+          <td>
+            Organizational structure, IT systems and technology description
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate Tax</td>
+          <td>0% on foreign-sourced income</td>
+        </tr>
+        <tr>
+          <td>VAT</td>
+          <td>13% (where applicable)</td>
+        </tr>
+        <tr>
+          <td>Initial License Fee</td>
+          <td>USD 5,475</td>
+        </tr>
+        <tr>
+          <td>Annual Renewal</td>
+          <td>To be determined by CNAD</td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Regulatory reporting, AML/KYC monitoring, tax filings
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Stage</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Preparation and preliminary analysis</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company registration and public authority filings</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital registration</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Crypto license documentation preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>DASP license submission to CNAD</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Operational launch and ongoing compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const CyprusCryptoAssetServiceProviderRegistration_HTML = (
+  <div>
+    <h1>Cyprus Crypto-Asset Service Provider (CASP) Registration</h1>
+
+    <p>
+      The Cyprus Crypto-Asset Service Provider (CASP) Registration is a regulatory
+      authorization issued by the Cyprus Securities and Exchange Commission
+      (CySEC) under the Markets in Crypto-Assets (MiCA) Regulation. CySEC acts as
+      the national competent authority for CASPs offering crypto-asset services
+      in or from Cyprus.
+    </p>
+
+    <p>
+      Registration enables CASPs to operate across the European Union through
+      passporting rights. Cyprus offers strategic advantages including EU and
+      Eurozone membership, an attractive tax regime, cost-efficient operations,
+      and access to over 60 double tax treaties.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>CASP Class</th>
+          <th>Permitted Activities</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Class 1</td>
+          <td>
+            Execution of orders, placing of crypto-assets, transfer services,
+            reception and transmission of orders, advice on crypto-assets,
+            portfolio management
+          </td>
+        </tr>
+        <tr>
+          <td>Class 2</td>
+          <td>
+            All Class 1 services plus custody and administration of crypto-assets,
+            exchange of crypto-assets for funds, exchange between crypto-assets
+          </td>
+        </tr>
+        <tr>
+          <td>Class 3</td>
+          <td>
+            All Class 2 services plus operation of a crypto-asset trading platform
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Cyprus-registered legal entity</td>
+        </tr>
+        <tr>
+          <td>Directors & Senior Management</td>
+          <td>
+            Must pass CySEC fit and proper assessment
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>
+            Full disclosure required; assessed for fitness and propriety
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            Mandatory appointment and implementation of AML/CFT framework
+          </td>
+        </tr>
+        <tr>
+          <td>Local Presence</td>
+          <td>
+            Office space and employees required in Cyprus
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>Approved auditor required for annual audits</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Minimum Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>CASP Class</th>
+          <th>Minimum Capital</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Class 1</td>
+          <td>EUR 50,000</td>
+        </tr>
+        <tr>
+          <td>Class 2</td>
+          <td>EUR 125,000</td>
+        </tr>
+        <tr>
+          <td>Class 3</td>
+          <td>EUR 150,000</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Preparation</td>
+          <td>
+            Company setup, capital deposit, AML/CFT and governance frameworks
+          </td>
+          <td>2–3 months</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Filing complete application with CySEC</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>CySEC Review</td>
+          <td>
+            Regulatory review, clarifications, interviews if required
+          </td>
+          <td>Up to 12 months</td>
+        </tr>
+        <tr>
+          <td>Registration Approval</td>
+          <td>CASP registration granted</td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Incorporation documents, organizational structure
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, proof of address, criminal record certificates
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of capital, financial projections
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT program, internal policies, governance framework
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Initial Supervision Fees</td>
+          <td>
+            Fees vary by service (EUR 5,000 – 30,000 depending on activities)
+          </td>
+        </tr>
+        <tr>
+          <td>Annual Supervision Fees</td>
+          <td>
+            Fixed per service plus variable component if turnover exceeds
+            EUR 500,000 (capped)
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            MiCA compliance, AML/CFT reporting, governance and audits
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening and capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>CASP application preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Filing with CySEC</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office setup and staffing</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-registration compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+const CaymanIslandsVASPServiceProviderLicense_HTML = (
+  <div>
+    <h1>Cayman Islands Virtual Asset Service Provider (VASP) License</h1>
+
+    <p>
+      The Cayman Islands Virtual Asset Service Provider (VASP) License is a
+      regulatory authorization issued by the Cayman Islands Monetary Authority
+      (CIMA) under the Virtual Assets (Service Providers) Act (2022 Revision).
+      It establishes a technology-neutral framework for entities conducting
+      virtual asset services within or from the Cayman Islands.
+    </p>
+
+    <p>
+      Virtual assets are defined as digital representations of value that may
+      be traded or transferred for payment or investment purposes, excluding
+      digital fiat currencies and non-transferable virtual service tokens.
+      Certain activities require a full license, while others may only require
+      registration.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Virtual Asset ↔ Fiat Exchange</td>
+          <td>Exchange between virtual assets and fiat currencies</td>
+        </tr>
+        <tr>
+          <td>Virtual Asset ↔ Virtual Asset</td>
+          <td>Exchange between different forms of convertible virtual assets</td>
+        </tr>
+        <tr>
+          <td>Virtual Asset Transfers</td>
+          <td>Transfer of virtual assets on behalf of another person</td>
+        </tr>
+        <tr>
+          <td>Custody Services</td>
+          <td>Safekeeping and administration of virtual assets</td>
+        </tr>
+        <tr>
+          <td>Issuance-Related Financial Services</td>
+          <td>
+            Financial services related to the issuance or sale of virtual assets
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Cayman Islands Exempt Company</td>
+        </tr>
+        <tr>
+          <td>Registered Office</td>
+          <td>Maintain a registered office in the Cayman Islands</td>
+        </tr>
+        <tr>
+          <td>Directors & Senior Officers</td>
+          <td>
+            Must satisfy CIMA fit and proper criteria (integrity, competence,
+            financial soundness)
+          </td>
+        </tr>
+        <tr>
+          <td>Beneficial Owners</td>
+          <td>Subject to fit and proper assessment by CIMA</td>
+        </tr>
+        <tr>
+          <td>Compliance Officer / MLRO</td>
+          <td>
+            Mandatory appointment and implementation of AML/CFT systems
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>Audited annual accounts required</td>
+        </tr>
+        <tr>
+          <td>Cybersecurity & Data Protection</td>
+          <td>
+            Robust safeguards to protect client data and virtual assets
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Preparation</td>
+          <td>
+            Company incorporation, business plan, AML/CFT and cybersecurity
+            frameworks
+          </td>
+          <td>3–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Filing with CIMA (registration or license)</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>CIMA Review</td>
+          <td>
+            Regulatory assessment and clarification requests
+          </td>
+          <td>6–12 weeks (registration)</td>
+        </tr>
+        <tr>
+          <td>License Approval</td>
+          <td>
+            Full license issued (for custody/trading platforms)
+          </td>
+          <td>Up to 9 months</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Incorporation documents, registers, certificates of good standing
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, proof of address, CVs, references, bank statements
+          </td>
+        </tr>
+        <tr>
+          <td>Business & Operations</td>
+          <td>
+            Business plan, service descriptions, trading/custody details
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT policies, risk management, cybersecurity framework
+          </td>
+        </tr>
+        <tr>
+          <td>Custody / Trading (if applicable)</td>
+          <td>
+            Custodial agreements, insurance, asset segregation disclosures
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application & Assessment Fees</td>
+          <td>USD 1,200 each (registration)</td>
+        </tr>
+        <tr>
+          <td>Government License Fees</td>
+          <td>
+            Variable based on class and scope (approx. USD 3,600 – 240,000+)
+          </td>
+        </tr>
+        <tr>
+          <td>Annual Renewal</td>
+          <td>Variable by license class and revenue</td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Annual audits, AML/CFT reporting, cybersecurity, asset protection
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>I</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>II</td>
+          <td>Application preparation and documentation drafting</td>
+        </tr>
+        <tr>
+          <td>III</td>
+          <td>Submission to CIMA and fee payment</td>
+        </tr>
+        <tr>
+          <td>IV</td>
+          <td>Regulatory liaison and follow-up</td>
+        </tr>
+        <tr>
+          <td>V</td>
+          <td>Post-licensing compliance and reporting support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+ const BermudaDigitalAssetLicense_HTML = (
+  <div>
+    <h1>Bermuda Digital Asset License</h1>
+
+    <p>
+      The Bermuda Digital Asset License is regulated by the Bermuda Monetary
+      Authority (BMA) under the Digital Asset Business Act 2018 (DAB Act). It
+      establishes a comprehensive licensing framework for entities conducting
+      digital asset business activities in or from Bermuda.
+    </p>
+
+    <p>
+      Digital assets are defined as representations of value in binary format
+      used as a medium of exchange, unit of account, or store of value. The
+      regime provides different license classes depending on the scope and
+      maturity of the proposed business.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Issuance & Redemption</td>
+          <td>Issuing, selling, or redeeming digital tokens or coins</td>
+        </tr>
+        <tr>
+          <td>Payment Services</td>
+          <td>
+            Digital asset payment services including fund transfers
+          </td>
+        </tr>
+        <tr>
+          <td>Exchange Operations</td>
+          <td>Operating electronic digital asset exchanges</td>
+        </tr>
+        <tr>
+          <td>Custody Services</td>
+          <td>Providing custodial wallet and safekeeping services</td>
+        </tr>
+        <tr>
+          <td>Digital Asset Services</td>
+          <td>Operating as a digital asset service vendor</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Bermuda Exempt Limited Liability Company</td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of 2 directors; non-executive oversight as required by BMA
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>At least one shareholder required</td>
+        </tr>
+        <tr>
+          <td>Secretary</td>
+          <td>
+            Local corporate services provider with access to company records
+          </td>
+        </tr>
+        <tr>
+          <td>Head Office</td>
+          <td>
+            Required in Bermuda (except Class T); business managed from Bermuda
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer</td>
+          <td>Mandatory appointment</td>
+        </tr>
+        <tr>
+          <td>Senior Representative</td>
+          <td>
+            BMA-approved; must maintain an office in Bermuda (except Class T)
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>Approved external auditor required</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>License Classes & Capital Requirements</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>License Class</th>
+          <th>Description</th>
+          <th>Minimum Net Assets</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Class F</td>
+          <td>Full license for all digital asset business activities</td>
+          <td>USD 100,000</td>
+        </tr>
+        <tr>
+          <td>Class M</td>
+          <td>
+            Modified license for a defined period (transitional/sandbox)
+          </td>
+          <td>USD 100,000</td>
+        </tr>
+        <tr>
+          <td>Class T</td>
+          <td>Test license for pilot or beta testing</td>
+          <td>USD 10,000</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation</td>
+          <td>Bermuda company setup</td>
+          <td>~14 business days</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, AML/ATF, risk, governance, IT & cybersecurity
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Filing with Bermuda Monetary Authority</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>BMA Review</td>
+          <td>Regulatory assessment and follow-ups</td>
+          <td>4–6 months</td>
+        </tr>
+        <tr>
+          <td>License Approval</td>
+          <td>License granted upon satisfaction of requirements</td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Memorandum & Articles, Certificate of Incorporation, cover letter
+          </td>
+        </tr>
+        <tr>
+          <td>Business & Financial</td>
+          <td>
+            Detailed business plan, financial projections, capitalization
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/ATF policies, risk management, cybersecurity framework
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            CVs, declarations, bank references, net worth statements
+          </td>
+        </tr>
+        <tr>
+          <td>Regulatory</td>
+          <td>
+            Auditor acceptance letter, senior representative approval
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>USD 450,000</td>
+        </tr>
+        <tr>
+          <td>License Fee</td>
+          <td>USD 450,000</td>
+        </tr>
+        <tr>
+          <td>Annual Renewal Fee</td>
+          <td>USD 450,000</td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            Audited accounts, AML/CFT, insurance, reporting, inspections
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>I</td>
+          <td>Information collection and due diligence</td>
+        </tr>
+        <tr>
+          <td>II</td>
+          <td>Application drafting and documentation compilation</td>
+        </tr>
+        <tr>
+          <td>III</td>
+          <td>Filing application with BMA</td>
+        </tr>
+        <tr>
+          <td>IV</td>
+          <td>Regulatory liaison and post-filing follow-up</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+ const BVIVirtualAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>British Virgin Islands Virtual Assets Service Provider (VASP) License</h1>
+
+    <p>
+      The British Virgin Islands (BVI) Virtual Assets Service Provider (VASP)
+      License is a regulatory authorization issued by the Financial Services
+      Commission (FSC) under the Virtual Assets Service Providers Act 2022 (VASP
+      Act). It allows entities to conduct virtual asset-related activities in or
+      from the BVI.
+    </p>
+
+    <p>
+      The FSC assesses applicants on a fit and proper basis, ensuring adequate
+      governance, financial resources, risk management, and that granting the
+      license is not contrary to public interest.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Virtual Asset ↔ Fiat Exchange</td>
+          <td>Exchange between virtual assets and fiat currencies</td>
+        </tr>
+        <tr>
+          <td>Virtual Asset ↔ Virtual Asset</td>
+          <td>Exchange between one or more forms of virtual assets</td>
+        </tr>
+        <tr>
+          <td>Transfer Services</td>
+          <td>
+            Transfer of virtual assets on behalf of another person
+          </td>
+        </tr>
+        <tr>
+          <td>Custody & Administration</td>
+          <td>
+            Safekeeping or administration of virtual assets and control
+            instruments
+          </td>
+        </tr>
+        <tr>
+          <td>Issuer-Related Financial Services</td>
+          <td>
+            Services related to an issuer’s offer or sale of virtual assets
+          </td>
+        </tr>
+        <tr>
+          <td>Other VASP Activities</td>
+          <td>Any activity specified under the VASP Act</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>BVI Business Company</td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of two natural persons; FSC approval required prior to
+            appointment
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>
+            At least one shareholder; corporate shareholding allowed; 100% foreign
+            ownership permitted
+          </td>
+        </tr>
+        <tr>
+          <td>Authorized Representative</td>
+          <td>
+            FSC-certified representative resident in the BVI (unless exempt)
+          </td>
+        </tr>
+        <tr>
+          <td>Capital Requirement</td>
+          <td>
+            No fixed minimum; must maintain adequate capital (recommended USD
+            1,000,000+)
+          </td>
+        </tr>
+        <tr>
+          <td>Physical Presence</td>
+          <td>
+            Adequate staff, expenditure, and premises in the BVI
+          </td>
+        </tr>
+        <tr>
+          <td>Indemnity Insurance</td>
+          <td>
+            Professional indemnity insurance required (subject to exemptions)
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>FSC-approved auditor required</td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>
+            MLRO mandatory; compliance officer generally required
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Preparation</td>
+          <td>
+            Company setup, appointment of representatives, policy drafting
+          </td>
+          <td>3–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>
+            Filing through authorized representative or legal counsel
+          </td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Initial FSC Review</td>
+          <td>Preliminary comments from FSC</td>
+          <td>~6 weeks</td>
+        </tr>
+        <tr>
+          <td>Regulatory Review</td>
+          <td>
+            Full assessment and follow-up queries
+          </td>
+          <td>Up to 6 months</td>
+        </tr>
+        <tr>
+          <td>License Issuance</td>
+          <td>Registration and issuance of VASP certificate</td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Incorporation documents, registers, certificates of good standing
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Passports, CVs, police certificates, bank and professional references
+          </td>
+        </tr>
+        <tr>
+          <td>Business</td>
+          <td>
+            Business plan covering capital, liquidity, consumer protection
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT manual, risk assessment, custodial and data protection
+            policies
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>
+            Proof of funds, bank statements, audited financials (if applicable)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Initial Government Fees</td>
+          <td>
+            Application, registration, authorized representative approvals
+          </td>
+        </tr>
+        <tr>
+          <td>Annual Renewal Fees</td>
+          <td>
+            Company fees, authorized representative renewal, VASP registration
+          </td>
+        </tr>
+        <tr>
+          <td>Record Keeping</td>
+          <td>
+            Maintain records for at least five years
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            AML/CFT, audits, capital adequacy, insurance, client asset protection
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>License application preparation</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Filing with FSC</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Regulatory follow-up and license approval</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+const CanadaMSBRegistrationVirtualCurrency_HTML = (
+  <div>
+    <h1>Canada Money Services Business (MSB) Registration for Virtual Currency Dealers</h1>
+
+    <p>
+      The Canada Money Services Business (MSB) Registration for Virtual Currency
+      Dealers is a regulatory requirement issued by the Financial Transactions
+      and Reports Analysis Centre of Canada (FINTRAC) under the Anti-Money
+      Laundering and Counter-Terrorism Financing Act (AML/CTF Act).
+    </p>
+
+    <p>
+      Registration is mandatory for any business dealing in virtual currencies,
+      including exchanges between digital currency and fiat money, as well as
+      virtual currency transfers. Both domestic MSBs and foreign MSBs (FMSBs)
+      serving Canadian customers are required to register.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Digital Currency ↔ Fiat Exchange</td>
+          <td>Exchange between virtual currency and Canadian or foreign fiat</td>
+        </tr>
+        <tr>
+          <td>Virtual Currency Transfers</td>
+          <td>Transfer of digital currency on behalf of customers</td>
+        </tr>
+        <tr>
+          <td>Custodial Wallet Services</td>
+          <td>Safekeeping and administration of digital currency</td>
+        </tr>
+        <tr>
+          <td>Remittance Services</td>
+          <td>
+            Integrated money transfer services (if registered accordingly)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>
+            Sole proprietorship, partnership, corporation, or trust; foreign
+            entities must register as FMSBs
+          </td>
+        </tr>
+        <tr>
+          <td>Directors & Key Personnel</td>
+          <td>
+            Must be fit and proper with no disqualifying criminal convictions
+          </td>
+        </tr>
+        <tr>
+          <td>Beneficial Owners</td>
+          <td>
+            Disclosure of UBOs owning 25% or more
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer</td>
+          <td>
+            Mandatory AML/CTF compliance officer appointment
+          </td>
+        </tr>
+        <tr>
+          <td>Physical Presence</td>
+          <td>
+            Required for domestic MSBs; FMSBs must appoint a Canadian agent
+          </td>
+        </tr>
+        <tr>
+          <td>Minimum Capital</td>
+          <td>No minimum capital requirement</td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            No mandatory auditor; AML program review required every two years
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Pre-Registration</td>
+          <td>Online request to register with FINTRAC</td>
+          <td>~5 business days</td>
+        </tr>
+        <tr>
+          <td>Compliance Preparation</td>
+          <td>
+            AML/CTF program, risk assessment, training framework
+          </td>
+          <td>2–4 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Online filing via FINTRAC portal</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>FINTRAC Review</td>
+          <td>Regulatory assessment and follow-up questions</td>
+          <td>~30 days</td>
+        </tr>
+        <tr>
+          <td>Registration Approval</td>
+          <td>MSB number issued</td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Incorporation documents, ownership structure, business registration
+          </td>
+        </tr>
+        <tr>
+          <td>Management & Ownership</td>
+          <td>
+            Government-issued ID, proof of address, criminal record checks
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CTF policies, risk assessment, training program
+          </td>
+        </tr>
+        <tr>
+          <td>Operations</td>
+          <td>
+            Bank account details, Canadian agent (for FMSBs)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Registration Fee</td>
+          <td>Free (CAD 0)</td>
+        </tr>
+        <tr>
+          <td>Renewal</td>
+          <td>Every 2 years (free)</td>
+        </tr>
+        <tr>
+          <td>Reporting Obligations</td>
+          <td>
+            Suspicious transaction reports, large transaction reports, Travel
+            Rule compliance
+          </td>
+        </tr>
+        <tr>
+          <td>Record Keeping</td>
+          <td>
+            Maintain records for at least 5 years
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection and structuring</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening support</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>AML/CTF program preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>FINTRAC application filing</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Post-registration compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+
+
+const AustraliaDCEProviderRegistration_HTML = (
+  <div>
+    <h1>Australia Digital Currency Exchange (DCE) Provider Registration</h1>
+
+    <p>
+      The Australia Digital Currency Exchange (DCE) Provider Registration is a
+      mandatory regulatory requirement issued by AUSTRAC under the
+      Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act).
+      It applies to any business exchanging digital currency (cryptocurrency)
+      for fiat money, or vice versa.
+    </p>
+
+    <p>
+      This is a regulatory registration (not a traditional license), and offering
+      DCE services without registration is illegal. Registered providers may also
+      offer remittance services under the same framework where applicable.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Activity</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Crypto → Fiat Exchange</td>
+          <td>Exchange digital currency for Australian or foreign fiat currency</td>
+        </tr>
+        <tr>
+          <td>Fiat → Crypto Exchange</td>
+          <td>Exchange fiat currency for digital currency</td>
+        </tr>
+        <tr>
+          <td>Remittance Services</td>
+          <td>
+            Domestic and international money transfers (if registered accordingly)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Australian registered company (e.g. Pty Ltd)</td>
+        </tr>
+        <tr>
+          <td>Directors & Key Personnel</td>
+          <td>Must be fit and proper with no criminal record</td>
+        </tr>
+        <tr>
+          <td>Shareholders & UBOs</td>
+          <td>Full disclosure required; corporate shareholding allowed</td>
+        </tr>
+        <tr>
+          <td>Compliance Officer / MLRO</td>
+          <td>Mandatory appointment; Australian residency not required</td>
+        </tr>
+        <tr>
+          <td>Physical Office</td>
+          <td>
+            Permanent office in Australia with at least one full-time local employee
+          </td>
+        </tr>
+        <tr>
+          <td>Minimum Capital</td>
+          <td>No minimum share capital requirement</td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>Not mandatory, but recommended</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>AUSTRAC Enrollment</td>
+          <td>Enroll as a reporting entity</td>
+          <td>Immediate (online)</td>
+        </tr>
+        <tr>
+          <td>Company Setup</td>
+          <td>Incorporation, office setup, local employee</td>
+          <td>2–3 weeks</td>
+        </tr>
+        <tr>
+          <td>Compliance Preparation</td>
+          <td>AML/CTF program, risk assessment, KYC framework</td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Online filing with supporting documents</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Regulatory Review</td>
+          <td>AUSTRAC assessment & follow-ups</td>
+          <td>90–120 days</td>
+        </tr>
+        <tr>
+          <td>Bank Account Opening</td>
+          <td>Post-approval corporate banking</td>
+          <td>4+ weeks</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company</td>
+          <td>Incorporation certificate, structure chart</td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>AML/CTF program, risk assessment, policies & procedures</td>
+        </tr>
+        <tr>
+          <td>Directors & Shareholders</td>
+          <td>Passport/ID, police clearance, professional references</td>
+        </tr>
+        <tr>
+          <td>Operations</td>
+          <td>Office lease, proof of local employee</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Registration Fee</td>
+          <td>No government application fee</td>
+        </tr>
+        <tr>
+          <td>Renewal</td>
+          <td>Every 3 years</td>
+        </tr>
+        <tr>
+          <td>Industry Contribution Levy</td>
+          <td>
+            Variable; applies mainly to high-volume or high-revenue entities
+          </td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            AML monitoring, reporting, audits, record keeping
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection & structure planning</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening support</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>AML/CTF program preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>AUSTRAC application filing</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office procurement & staffing</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-registration compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+const BahrainCryptoAssetServiceProviderLicense_HTML = (
+  <div>
+    <h1>Bahrain Crypto-Asset Service Provider License</h1>
+
+    <p>
+      The Bahrain Crypto-Asset Service Provider License is a regulatory
+      authorization issued by the Central Bank of Bahrain (CBB) under the
+      Crypto-Asset (CRA) Module of the CBB Rulebook Volume 6. Introduced in 2019
+      and updated in 2023, the framework regulates crypto-asset activities while
+      promoting innovation, market integrity, consumer protection, and AML/CFT
+      compliance.
+    </p>
+
+    <p>
+      The licensing regime allows 100% foreign ownership and categorizes licenses
+      based on the scope of activities conducted. Licensed entities may operate
+      fully within Bahrain subject to CBB supervision.
+    </p>
+
+    <h2>Permitted Activities</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>License Category</th>
+          <th>Permitted Activities</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Category 1 – Advisory Only</td>
+          <td>
+            Investment advice on crypto-assets; forwarding client orders for
+            execution
+          </td>
+        </tr>
+        <tr>
+          <td>Category 2 – Broker / Custodian</td>
+          <td>
+            Brokerage services, portfolio management, custody, and advisory
+          </td>
+        </tr>
+        <tr>
+          <td>Category 3 – Full Trading</td>
+          <td>
+            Principal trading, OTC desks, market-making, token advisory
+          </td>
+        </tr>
+        <tr>
+          <td>Category 4 – Exchange Operator</td>
+          <td>
+            Operating crypto-asset exchanges, custody, and digital token advisory
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Authorization Criteria</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Requirement</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>
+            Bahraini W.L.L. or B.S.C. (Categories 1–3); B.S.C. required for
+            Category 4
+          </td>
+        </tr>
+        <tr>
+          <td>Ownership</td>
+          <td>100% foreign ownership permitted</td>
+        </tr>
+        <tr>
+          <td>Directors & Management</td>
+          <td>
+            Qualified board and senior management; fit and proper; CBB approval
+            required
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>
+            Clean ownership structure; 5%+ shareholders vetted by CBB
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance Officer & MLRO</td>
+          <td>Mandatory appointment and AML/CFT program implementation</td>
+        </tr>
+        <tr>
+          <td>Physical Office</td>
+          <td>
+            Office in Bahrain with core management (CEO, Compliance, MLRO)
+          </td>
+        </tr>
+        <tr>
+          <td>External Auditor</td>
+          <td>CBB-approved auditor required</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Procedure & Timeline</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Step</th>
+          <th>Description</th>
+          <th>Estimated Timeline</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Preliminary Assessment</td>
+          <td>
+            Determine license category, capital requirements, business model
+          </td>
+          <td>2–3 weeks</td>
+        </tr>
+        <tr>
+          <td>Company Formation</td>
+          <td>
+            Incorporation, commercial registration, office setup, bank account
+          </td>
+          <td>3–5 weeks</td>
+        </tr>
+        <tr>
+          <td>Documentation Preparation</td>
+          <td>
+            Business plan, AML/CFT policies, risk and IT frameworks
+          </td>
+          <td>4–6 weeks</td>
+        </tr>
+        <tr>
+          <td>Application Submission</td>
+          <td>Filing with CBB Licensing Directorate</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Regulatory Review</td>
+          <td>
+            CBB assessment, interviews, systems and compliance review
+          </td>
+          <td>3–6 months</td>
+        </tr>
+        <tr>
+          <td>License Approval</td>
+          <td>License issued upon satisfaction of all conditions</td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Key Required Documents</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Documents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corporate</td>
+          <td>
+            Commercial Registration, Articles of Association, board resolutions
+          </td>
+        </tr>
+        <tr>
+          <td>Ownership & Management</td>
+          <td>
+            Passports, CVs, proof of address, criminal record certificates
+          </td>
+        </tr>
+        <tr>
+          <td>Financial</td>
+          <td>Proof of paid-up capital, financial projections</td>
+        </tr>
+        <tr>
+          <td>Compliance</td>
+          <td>
+            AML/CFT policies, risk management, IT security, client terms
+          </td>
+        </tr>
+        <tr>
+          <td>Audit</td>
+          <td>Details of CBB-approved external auditor</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Ongoing Obligations & Government Costs</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Application Fee</td>
+          <td>BHD 10,000 (non-refundable)</td>
+        </tr>
+        <tr>
+          <td>License Issuance Fee</td>
+          <td>BHD 25,000 – 50,000</td>
+        </tr>
+        <tr>
+          <td>Annual Supervision Fee</td>
+          <td>BHD 15,000 – 30,000</td>
+        </tr>
+        <tr>
+          <td>Ongoing Compliance</td>
+          <td>
+            AML/CFT reporting, audits, inspections, record keeping (10 years)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Camitrade Services</h2>
+    <table border="1" cellPadding="8" cellSpacing="0">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Service Scope</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Information collection & regulatory assessment</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Company incorporation</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Bank account opening & capital deposit</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>License application & policy preparation</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>CBB filing and regulatory liaison</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Office setup and operational readiness</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Post-license compliance support</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      For more information, please contact Camitrade Investment at{" "}
+      <a href="mailto:info@camitrade.com">info@camitrade.com</a> or{" "}
+      <a href="mailto:sales@camitrade.com">sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+
 
 const BahamasSecuritiesDealerLicense_HTML = (
   <div>
@@ -26080,10 +33703,140 @@ const LicensingServices = {
   
   Cryptocurrency_and_digital_assets_licenses: [
     {
+      id: "australia-digital-currency-exchange-dce-provider-registration",
+      Service: "Australia Digital Currency Exchange (DCE) Provider Registration",
+      Content: AustraliaDCEProviderRegistration_HTML,
+    },
+    {
+      id: "bahrain-crypto-asset-service-provider-license",
+      Service: "Bahrain Crypto-Asset Service Provider License",
+      Content: BahrainCryptoAssetServiceProviderLicense_HTML,
+    },
+    {
+      id: "bermuda-digital-asset-license",
+      Service: "Bermuda Digital Asset License",
+      Content: BermudaDigitalAssetLicense_HTML,
+    },
+    {
+      id: "british-virgin-islands-virtual-assets-service-provider-vasp-license",
+      Service: "British Virgin Islands Virtual Assets Service Provider (VASP) License",
+      Content: BVIVirtualAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "canada-money-services-business-msb-registration-virtual-currency",
+      Service: "Canada Money Services Business (MSB) Registration for Virtual Currency Dealers",
+      Content: CanadaMSBRegistrationVirtualCurrency_HTML,
+    },    
+    {
+      id: "cyprus-crypto-asset-service-provider-casp-registration",
+      Service: "Cyprus Crypto-Asset Service Provider (CASP) Registration",
+      Content: CyprusCryptoAssetServiceProviderRegistration_HTML,
+    },    
+    {
+      id: "el-salvador-digital-asset-service-provider-dasp-license",
+      Service: "El Salvador Digital Asset Service Provider (DASP) License",
+      Content: ElSalvadorDigitalAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "estonia-crypto-asset-service-provider-casp-license",
+      Service: "Estonia Crypto-Asset Service Provider (CASP) License",
+      Content: EstoniaCryptoAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "gibraltar-distributed-ledger-technology-dlt-license",
+      Service: "Gibraltar Distributed Ledger Technology (DLT) License",
+      Content: GibraltarDLTLicense_HTML,
+    },    
+    {
+      id: "hong-kong-virtual-asset-trading-platform-vatp-license",
+      Service: "Hong Kong Virtual Asset Trading Platform (VATP) License",
+      Content: HongKongVirtualAssetTradingPlatformLicense_HTML,
+    },
+    {
+      id: "japan-crypto-asset-exchange-service-provider-caesp-registration",
+      Service: "Japan Crypto Asset Exchange Service Provider (CAESP) Registration",
+      Content: JapanCryptoAssetExchangeServiceProviderRegistration_HTML,
+    },    
+    {
+      id: "kenya-virtual-asset-service-provider-vasp-license",
+      Service: "Kenya Virtual Asset Service Provider (VASP) License",
+      Content: KenyaVirtualAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "labuan-crypto-exchange-license",
+      Service: "Labuan Crypto Exchange License",
+      Content: LabuanCryptoExchangeLicense_HTML,
+    },    
+    {
+      id: "lithuania-crypto-asset-service-provider-casp-license",
+      Service: "Lithuania Crypto-Asset Service Provider (CASP) License",
+      Content: LithuaniaCryptoAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "malta-crypto-asset-service-provider-casp-license",
+      Service: "Malta Crypto Asset Service Provider (CASP) License",
+      Content: MaltaCryptoAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "nigeria-virtual-asset-service-provider-vasp-license",
+      Service: "Nigeria Virtual Asset Service Provider (VASP) License",
+      Content: NigeriaVirtualAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "philippines-virtual-asset-service-provider-vasp-license",
+      Service: "Philippines Virtual Asset Service Provider (VASP) License",
+      Content: PhilippinesVirtualAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "poland-crypto-asset-service-provider-casp-license",
+      Service: "Poland Crypto-Asset Service Provider (CASP) License",
+      Content: PolandCryptoAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "rwanda-virtual-asset-business-license",
+      Service: "Rwanda Virtual Asset Business License",
+      Content: RwandaVirtualAssetBusinessLicense_HTML,
+    }, 
+    {
+      id: "singapore-digital-payment-token-dpt-service-provider-license",
+      Service: "Singapore Digital Payment Token (DPT) Service Provider License",
+      Content: SingaporeDigitalPaymentTokenServiceProviderLicense_HTML,
+    },
+    {
+      id: "south-africa-crypto-asset-service-provider-casp-license",
+      Service: "South Africa Crypto Asset Service Provider (CASP) License",
+      Content: SouthAfricaCryptoAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "south-korea-virtual-asset-service-provider-vasp-registration",
+      Service: "South Korea Virtual Asset Service Provider (VASP) Registration",
+      Content: SouthKoreaVirtualAssetServiceProviderRegistration_HTML,
+    },    
+    {
+      id: "saint-vincent-and-grenadines-virtual-asset-service-provider-vasp-license",
+      Service: "Saint Vincent & Grenadines Virtual Asset Service Provider (VASP) License",
+      Content: SaintVincentAndGrenadinesVirtualAssetServiceProviderLicense_HTML,
+    },    
+    {
+      id: "thailand-digital-asset-business-operator-license",
+      Service: "Thailand Digital Asset Business Operator License",
+      Content: ThailandDigitalAssetBusinessOperatorLicense_HTML,
+    },    
+    {
+      id: "uae-virtual-asset-service-provider-vasp-licence",
+      Service: "UAE Virtual Asset Service Provider (VASP) Licence",
+      Content: UAEVirtualAssetServiceProviderLicense_HTML,
+    },    
+    {
       id: "cryptocurrency-and-digital-assets-licenses",
       Service: "Cryptocurrency And Digital Assets Licenses",
       Content: LatviaInnovationAndFintech_HTML,
     },
+    {
+      id: "cayman-islands-virtual-asset-service-provider-vasp-license",
+      Service: "Cayman Islands Virtual Asset Service Provider (VASP) License",
+      Content: CaymanIslandsVASPServiceProviderLicense_HTML,
+    },    
     {
       id: "mauritius-virtual-asset-service-provider-license",
       Service: "Mauritius Virtual Asset Service Provider License",
@@ -27101,4 +34854,395 @@ const CorporateServices = {
   ],
 };
 
-export default {OtherServices,LicensingServices,OffersServices, CorporateServices }
+// PSP Services Content Components
+const ZambiaPaymentsSystemsBusinessLicenseHTML = (
+  <div>
+    <h1>Zambia Payments Systems Business License</h1>
+
+    <p>
+      The <strong>Zambia Payments Systems Business License</strong>, also referred to as the designation for a
+      <strong> Payment System Business</strong>, is regulated by the <strong>Bank of Zambia (BoZ)</strong> under the
+      National Payment System Act 2007 (NPSA). It authorises entities to provide money transfer or transmission services
+      and other payment systems businesses as prescribed by the BoZ.
+    </p>
+
+    <h2>Overview</h2>
+    <p>
+      This designation allows licensed entities to participate in both large-value and retail payment systems in Zambia,
+      including the Zambia Interbank Payment and Settlement System (ZIPSS) and other approved payment mechanisms.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Payment System Type</th>
+          <th>Examples</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Large-Value Payment Systems</td>
+          <td>Zambia Interbank Payment and Settlement System (ZIPSS)</td>
+        </tr>
+        <tr>
+          <td>Retail Payment Systems</td>
+          <td>
+            Electronic Funds Transfers (EFTs), Cheques, ATMs, PoS Terminals,
+            Domestic & International Remittances, Mobile Payments
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Permitted Activities</h2>
+    <p>The designation permits the following regulated activities:</p>
+    <ul>
+      <li>Provision of money transfer or transmission services</li>
+      <li>Operation of retail and electronic payment systems approved by the Bank of Zambia</li>
+      <li>Domestic and international remittance services</li>
+      <li>Mobile and electronic payment services</li>
+    </ul>
+
+    <h2>Eligibility & Authorization Criteria</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Requirement Area</th>
+          <th>Key Requirements</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Zambian Limited Liability Company registered with PACRA</td>
+        </tr>
+        <tr>
+          <td>Board of Directors</td>
+          <td>
+            Minimum of 3 directors; majority non-executive; at least half resident in Zambia.
+            Directors must be fit and proper and approved by the BoZ.
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>
+            Minimum of 2 shareholders; disclosure of ultimate beneficial owners;
+            significant shareholders must be fit and proper.
+          </td>
+        </tr>
+        <tr>
+          <td>Senior Management</td>
+          <td>
+            CEO, CFO, Chief Compliance Officer, and CIO or COO (no dual roles permitted).
+          </td>
+        </tr>
+        <tr>
+          <td>Compliance & AML</td>
+          <td>
+            Appointment of MLRO and alternate MLRO; AML controls aligned with
+            the Financial Intelligence Centre Act and AML Directives.
+          </td>
+        </tr>
+        <tr>
+          <td>Physical Office</td>
+          <td>
+            Functional office in Zambia, subject to BoZ inspection before and after designation.
+          </td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>
+            External auditor registered with the Zambia Institute of Chartered Accountants (ZICA),
+            subject to BoZ approval.
+          </td>
+        </tr>
+        <tr>
+          <td>Insurance</td>
+          <td>Professional Indemnity insurance proportional to operational risk.</td>
+        </tr>
+        <tr>
+          <td>Capital</td>
+          <td>
+            No fixed minimum capital prescribed; initial capital must be traceable and verified.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Process</h2>
+    <p>
+      Applications are submitted to the <strong>Deputy Governor – Operations, Bank of Zambia</strong>.
+      The process includes pre-engagement meetings, name clearance, and formal submission with full documentation.
+    </p>
+
+    <p>
+      The Bank of Zambia typically determines applications within
+      <strong> 90 days</strong> of receiving a complete submission. Approved entities must commence operations
+      within <strong>12 months</strong>, failing which the designation may be revoked.
+    </p>
+
+    <h2>Post-Designation Requirements</h2>
+    <ul>
+      <li>Commence operations within 12 months of designation</li>
+      <li>Undergo BoZ inspections of premises and systems</li>
+      <li>Maintain Professional Indemnity insurance</li>
+      <li>Open operational bank accounts and evidence capital funding</li>
+      <li>Register and manage agents in accordance with approved risk frameworks</li>
+      <li>Comply with ongoing AML/CFT, cybersecurity, and reporting obligations</li>
+    </ul>
+
+    <h2>Government Fees (Indicative)</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Fee Category</th>
+          <th>Indicative Cost</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>PACRA Company Registration</td>
+          <td>ZMW 14,916 (approx. USD 600)</td>
+        </tr>
+        <tr>
+          <td>Security Screenings</td>
+          <td>Applicant-borne (amount varies)</td>
+        </tr>
+        <tr>
+          <td>Annual Designation Fee</td>
+          <td>ZMW 1,000 (approx. USD 40)</td>
+        </tr>
+        <tr>
+          <td>PACRA Annual Renewal</td>
+          <td>Approx. USD 100–200</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>How Camitrade Supports You</h2>
+    <p>
+      Camitrade Investment Fiduciaries provides end-to-end advisory support for obtaining and maintaining a
+      Zambia Payments Systems Business designation, including:
+    </p>
+    <ul>
+      <li>Pre-licensing structuring and regulatory advisory</li>
+      <li>Company incorporation and governance setup</li>
+      <li>Preparation and filing of the BoZ application</li>
+      <li>Regulatory liaison with the Bank of Zambia</li>
+      <li>Post-designation compliance and renewal support</li>
+    </ul>
+
+    <p>
+      For further information or to discuss your licensing requirements, contact
+      Camitrade Investment Fiduciaries at
+      <a href="mailto:info@camitrade.com"> info@camitrade.com</a> or
+      <a href="mailto:sales@camitrade.com"> sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+
+const NigeriaPaymentSolutionServiceProviderLicenseHTML = (
+  <div>
+    <h1>Nigeria Payment Solution Service Provider (PSSP) License</h1>
+
+    <p>
+      The <strong>Nigeria Payment Solution Service Provider (PSSP) License</strong> is a regulatory authorization issued by the
+      <strong> Central Bank of Nigeria (CBN)</strong> under the Payment Solution Services (PSSs) framework. It permits licensed entities
+      to operate within Nigeria’s regulated payments ecosystem in accordance with the CBN Act 2007 and the Banking and Other Financial
+      Institutions Act (BOFIA) 1991 (as amended).
+    </p>
+
+    <h2>Overview</h2>
+    <p>
+      The PSSP License is one of three categories of Payment Solution Service (PSS) licenses issued by the Central Bank of Nigeria:
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>License Category</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Payment Solution Service Provider (PSSP)</td>
+          <td>Providers of payment gateways, processing platforms, and payment applications</td>
+        </tr>
+        <tr>
+          <td>Super-Agent License</td>
+          <td>Entities managing agent networks for financial services delivery</td>
+        </tr>
+        <tr>
+          <td>Payment Terminal Service Provider (PTSP)</td>
+          <td>Providers of POS terminals and related payment infrastructure</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Permitted Activities</h2>
+    <p>The PSSP License permits licensed entities to undertake the following activities:</p>
+    <ul>
+      <li>Operation of payment processing gateways and portals</li>
+      <li>Development and deployment of payment solutions and applications</li>
+      <li>Merchant aggregation, collections, and settlement services</li>
+    </ul>
+
+    <h2>Regulatory Framework</h2>
+    <p>The PSSP License is governed by the following regulatory instruments:</p>
+    <ul>
+      <li>Central Bank of Nigeria Act 2007</li>
+      <li>Banking and Other Financial Institutions Act (BOFIA) 1991 (as amended)</li>
+      <li>Payment Solution Services (PSSs) Framework</li>
+      <li>CBN Guidelines, Circulars, and Supervisory Directives</li>
+    </ul>
+
+    <h2>Eligibility & Authorization Criteria</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Requirement Area</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Entity Type</td>
+          <td>Nigerian Limited Liability Company</td>
+        </tr>
+        <tr>
+          <td>Directors</td>
+          <td>
+            Minimum of two directors including Chairman, CEO/MD, and at least one Independent Non-Executive Director
+          </td>
+        </tr>
+        <tr>
+          <td>Shareholders</td>
+          <td>At least one shareholder; corporate shareholding permitted</td>
+        </tr>
+        <tr>
+          <td>Compliance Function</td>
+          <td>Appointment of MLRO and alternate MLRO approved by the CBN</td>
+        </tr>
+        <tr>
+          <td>Physical Office</td>
+          <td>Functional and equipped office located in Nigeria</td>
+        </tr>
+        <tr>
+          <td>Auditor</td>
+          <td>CBN-approved external auditor for annual audits</td>
+        </tr>
+        <tr>
+          <td>Minimum Capital</td>
+          <td>₦100,000,000 (Shareholders’ funds unimpaired by losses)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Application Documentation</h2>
+    <p>
+      The application requires submission of comprehensive corporate, technical, and regulatory documentation, including but not
+      limited to:
+    </p>
+    <ul>
+      <li>Certificate of Incorporation and constitutional documents</li>
+      <li>Board and management profiles (CVs, BVN, IDs, references)</li>
+      <li>Business plan with five-year financial projections</li>
+      <li>IT, risk management, AML/CFT, and data protection policies</li>
+      <li>Executed or draft agreements with banks, partners, and service providers</li>
+      <li>Relevant certifications (PCI-DSS, PA-DSS, PTSA, or CBN IT compliance)</li>
+    </ul>
+
+    <p>
+      The Central Bank of Nigeria typically concludes the application process within
+      <strong> 9–11 months</strong> from receipt of a complete submission and payment of applicable fees.
+    </p>
+
+    <h2>Post-Licensing Obligations</h2>
+    <ul>
+      <li>Office setup and operational readiness in Nigeria</li>
+      <li>Opening of operational bank accounts and capital deposit</li>
+      <li>Registration with SCUML and the Nigerian Data Protection Agency (NDPA)</li>
+      <li>Procurement of required insurance policies</li>
+      <li>Ongoing regulatory reporting and annual audits</li>
+    </ul>
+
+    <h2>Government Fees (Indicative)</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Fee Category</th>
+          <th>Amount (USD)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company Incorporation & Stamp Duties</td>
+          <td>5,500</td>
+        </tr>
+        <tr>
+          <td>CBN Application & Licensing Fees</td>
+          <td>2,300</td>
+        </tr>
+        <tr>
+          <td>FIRS Registration</td>
+          <td>1,500</td>
+        </tr>
+        <tr>
+          <td>SCUML Registration</td>
+          <td>1,300</td>
+        </tr>
+        <tr>
+          <td>NDPA Registration</td>
+          <td>1,300</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>How Camitrade Supports You</h2>
+    <p>
+      Camitrade Investment Fiduciaries provides end-to-end advisory support for obtaining and maintaining a PSSP License, including:
+    </p>
+    <ul>
+      <li>Pre-licensing structuring and advisory</li>
+      <li>Company incorporation and capital setup</li>
+      <li>Preparation and filing of the license application</li>
+      <li>Regulatory liaison with the Central Bank of Nigeria</li>
+      <li>Post-license compliance and renewal support</li>
+    </ul>
+
+    <p>
+      For further information or to discuss your licensing requirements, contact Camitrade Investment Fiduciaries at
+      <a href="mailto:info@camitrade.com"> info@camitrade.com</a> or
+      <a href="mailto:sales@camitrade.com"> sales@camitrade.com</a>.
+    </p>
+  </div>
+);
+
+
+const PSPServices = {
+  Payment_Service_Provider_Licenses: [
+    {
+      Service: "Payment Service Provider (PSP) Licenses",
+      Content: <div><h1>Payment Service Provider (PSP) Licenses</h1><p>Comprehensive payment service provider licensing solutions across multiple jurisdictions. We assist businesses in obtaining PSP licenses to operate payment systems, money transfer services, and payment solutions globally.</p></div>,
+      id: "payment-service-provider-psp-licenses"
+    },
+    {
+      Service: "Zambia Payments Systems Business License",
+      Content: ZambiaPaymentsSystemsBusinessLicenseHTML,
+      id: "zambia-payments-systems-business-license"
+    },
+    {
+      Service: "Nigeria Payment Solution Service Provider (PSSP) License",
+      Content: NigeriaPaymentSolutionServiceProviderLicenseHTML,
+      id: "nigeria-payment-solution-service-provider-pssp-license"
+    },
+  ],
+};
+
+export default {OtherServices,LicensingServices,OffersServices, CorporateServices, PSPServices }

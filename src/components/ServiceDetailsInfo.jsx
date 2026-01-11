@@ -5,19 +5,13 @@ import casualMeeting from '/img/service/casual-meeting.jpeg'
 const ServiceDetailsInfo = ({selectedService}) => {
     return (
         <>
-            <div className="page-details">
-                <div className="display-row">
-                <div className="col-lg-6">
-                <div className="page-details-thumb">
-                    <img className="img-fluid" src={meeting} alt="meeting" />
+            <div className="service-details-content">
+                <div className="service-details-header">
+                    <h1 className="service-details-title">{selectedService?.serviceTitle}</h1>
+                    <div className="service-details-divider"></div>
                 </div>
-                </div>
-                <div className="col-lg-6 padding-text-2">
-                <div className="page-details-desc">
-                    <h1>{selectedService?.serviceTitle}</h1>
-                    <p>{selectedService?.serviceText}</p>
-                </div>
-                </div>
+                <div className="service-details-body">
+                    <p className="service-details-text">{selectedService?.serviceText}</p>
                 </div>
                 {/* <div className="page-details-desc">
                     <h2>Planning & Strategies</h2>

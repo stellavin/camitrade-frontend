@@ -134,6 +134,7 @@ const Footer = () => {
                                                         <span className="icon"><i className="icofont-ui-call"></i></span>
                                                     </div>
                                                     <div className="media-body">
+                                                        <p style={{ color: '#fff', fontSize: '14px', marginBottom: '8px', fontWeight: '600' }}>📞 Call Us for Immediate Assistance</p>
                                                         <a className="inner-text" href="tel:+248 2 668 292">+248 2 668 292</a> <br />
                                                         <a className="inner-text" href="tel:+971 56 106 6155">+971 56 106 6155</a><br />
                                                         <a className="inner-text" href="tel:+254 715 826 827">+254 715 826 827</a><br />

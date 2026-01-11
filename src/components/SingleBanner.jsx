@@ -1,9 +1,10 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
-import { HashLink as Link } from 'react-router-hash-link';
+import Happy2026Animation from './Happy2026Animation';
+import { getWhatsAppUrl } from '../utils/urlTransform';
 
 const SingleBanner = ({ banner, hasOffer }) => {
-    let { image, title, btnTextOne, btnTextTwo } = banner;
+    let { image, title, subtitle, btnTextOne, btnTextTwo, btnLinkOne, btnLinkTwo } = banner;
 
     return (
         <>
@@ -16,20 +17,28 @@ const SingleBanner = ({ banner, hasOffer }) => {
                                     <div className="slider-overlay"></div>
                                 )
                             }
+                        <Happy2026Animation />
                         <div className="slider-wrapper container">
                             <div className="slider-text">
                                 <div className="slider-caption">
-                                    <Fade bottom delay={500}><h1>{title}</h1></Fade>
-                                    <Fade top delay={500}>
+                                    <Fade bottom delay={500}>
+                                        <h1>{title}</h1>
+                                        {subtitle && <p className="hero-subtitle">{subtitle}</p>}
+                                    </Fade>
+                                    <Fade top delay={700}>
                                         
                                             { hasOffer ? (
                                                 <ul>
-                                                 <li><Link to="/services#" className='theme-btn theme-btn-1 offer-btn'>{btnTextOne}</Link></li>
+                                                 <li><a href={getWhatsAppUrl('Hello! I would like to learn more about your services.')} target="_blank" rel="noopener noreferrer" className='theme-btn theme-btn-1 offer-btn'>{btnTextOne}</a></li>
                                                  </ul>
                                             ):(
                                                 <ul>
-                                                {/* <li><Link to="/services#" className='theme-btn theme-btn-1'>{btnTextOne}</Link></li>
-                                                <li><Link to="/services#" className='theme-btn theme-btn-1-outline'>{btnTextTwo}</Link></li> */}
+                                                {btnTextOne && btnLinkOne && (
+                                                    <li><a href={getWhatsAppUrl('Hello! I would like to book a free consultation.')} target="_blank" rel="noopener noreferrer" className='theme-btn theme-btn-1'>{btnTextOne}</a></li>
+                                                )}
+                                                {btnTextTwo && btnLinkTwo && (
+                                                    <li><a href={getWhatsAppUrl('Hello! I would like to learn more about how it works.')} target="_blank" rel="noopener noreferrer" className='theme-btn theme-btn-1-outline'>{btnTextTwo}</a></li>
+                                                )}
                                                 </ul>
 
                                             )}

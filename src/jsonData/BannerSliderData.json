@@ -1,30 +1,23 @@
 [
-    {
-      "id": 1,
-      "image": "1.png",
-      "title": "",
-      "btnTextOne": "get started",
-      "btnLinkOne": "#",
-      "btnTextTwo": "our services",
-      "btnLinkTwo": "#"
-    },
-    {
-      "id": 2,
-      "image": "2.png",
-      "title": "",
-      "btnTextOne": "get started",
-      "btnLinkOne": "#",
-      "btnTextTwo": "our services",
-      "btnLinkTwo": "#"
-    },
-    {
-      "id": 3,
-      "image": "3.png",
-      "title": "",
-      "btnTextOne": "get started",
-      "btnLinkOne": "#",
-      "btnTextTwo": "our services",
-      "btnLinkTwo": "#"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "image": "slider-15.png",
+    "title": "We Help Businesses Incorporate, License, and Operate Globally",
+    "subtitle": "Compliantly and efficiently across 10+ jurisdictions",
+    "btnTextOne": "Book a Free Consultation",
+    "btnLinkOne": "/contact",
+    "btnTextTwo": "See How It Works",
+    "btnLinkTwo": "#how-it-works"
+  },
+  {
+    "id": 2,
+    "image": "slider-20.png",
+    "title": "End-to-End Global Business Solutions",
+    "subtitle": "From company formation to licensing, banking, and payments — we handle it all",
+    "btnTextOne": "Book a Free Consultation",
+    "btnLinkOne": "/contact",
+    "btnTextTwo": "See How It Works",
+    "btnLinkTwo": "#how-it-works"
+  }
+
+]

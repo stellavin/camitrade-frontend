@@ -18,22 +18,17 @@ const ServiceDetailsContent = () => {
 
     return (
         <>
-            <section className="page-details-sec te-pt-100 te-pb-75 te-md-pt-70 te-md-pb-55 te-sm-pt-40 te-sm-pb-20">
+            <section className="corporate-service-details-sec te-pt-100 te-pb-100 te-md-pt-70 te-md-pb-70 te-sm-pt-50 te-sm-pb-50">
                 <div className="container">
-                    <div className="row">
-                        <div className="col-lg-12">
-                            <ServiceDetailsInfo selectedService={selectedService}/>
+                    <div className="service-details-container">
+                        <div className="service-details-sidebar">
                             <WidgetCategory selectedService={selectedService} />
-                            <Consultation />
-                            <br></br><br></br>
-                           <WidgetArchive data={selectedService?.freeZone} />
                         </div>
-                        {/* <div className="col-lg-4">
-                            <WidgetSearch />
-                            
-                            <WidgetNewsLetter />
-                           
-                        </div> */}
+                        <div className="service-details-main">
+                            <ServiceDetailsInfo selectedService={selectedService}/>
+                            <Consultation />
+                            <WidgetArchive data={selectedService?.freeZone} />
+                        </div>
                     </div>
                 </div>
             </section>

@@ -4,10 +4,10 @@ import AboutContent from './AboutContent';
 const AboutUs = () => {
 	return (
 		<>
-			<div className="about-us-sec bg-blue-dark">
+			<div className="about-us-sec-modern">
 				<div className="container">
 					<div className="row">
-						<div className="col-lg-12 offset-lg-12 col-12">
+						<div className="col-lg-12 col-12">
 							<AboutContent/>
 						</div>
 					</div>

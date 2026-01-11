@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "featureThumb": "feature1.jpeg",
-        "feature2Thumb": "feature4.jpeg",
+        "featureThumb": "feature1.png",
+        "feature2Thumb": "feature1.png",
         "featureIcon": "piggy-bank.png",
         "title": "Company Formation",
         "titleMeta": "Free Consulting",
@@ -12,8 +12,8 @@
     },
     {
         "id": 2,
-        "featureThumb": "feature2.jpeg",
-        "feature2Thumb": "feature5.jpeg",
+        "featureThumb": "feature2.png",
+        "feature2Thumb": "feature2.png",
         "featureIcon": "money.png",
         "title": "Licensing",
         "titleMeta": "Free Consulting",
@@ -23,8 +23,8 @@
     },
     {
         "id": 3,
-        "featureThumb": "feature3.jpeg",
-        "feature2Thumb": "feature6.jpeg",
+        "featureThumb": "feature3.png",
+        "feature2Thumb": "feature3.png",
         "featureIcon": "customer-support.png",
         "title": "Payment solutions",
         "titleMeta": "Free Consulting",
@@ -34,24 +34,24 @@
     },
     {
         "id": 4,
-        "feature2Thumb": "feature7.jpeg",
-        "featureIcon": "tax.png",
+        "feature2Thumb": "feature4.png",
+        "featureIcon": "money.png",
         "title": "Aircraft & Ship Registration",
         "titleMeta": "Free Consulting",
         "text": "We have the expertise and experience needed to ensure you get your aircraft or ship registration, and skills needed to ensure ongoing compliance with various maritime and air transport regulators globally."
     },
     {
         "id": 5,
-        "feature2Thumb": "feature8.jpeg",
-        "featureIcon": "auction.png",
+        "feature2Thumb": "feature5.png",
+        "featureIcon": "piggy-bank.png",
         "title": "Assets & Investment Advisory​",
         "titleMeta": "Free Consulting",
         "text": "The need for asset management and investment advisory is becoming an integral part in the technological world today. Brokerage services such as buying or selling stock or bonds, or some combination of all these services need licensed asset/ investment advisers. Financial planning is an important criterion to investors globally."
     },
     {
         "id": 6,
-        "feature2Thumb": "feature9.jpeg",
-        "featureIcon": "presentation.png",
+        "feature2Thumb": "feature6.png",
+        "featureIcon": "customer-support.png",
         "title": "Bank Account Opening",
         "titleMeta": "Free Consulting",
         "text": "Camitrade Investment provides bank account opening assistance for offshore banking, international banking, offshore corporate accounts and personal accounts."
@@ -166,5 +166,35 @@
         "title": "Virtual Office Solutions",
         "titleMeta": "Free Consulting",
         "text": "Offshore companies involved in active trading may utilize a virtual office facility to have more presence in the country where it is registered. A virtual office will enable the company to create and maintain a presence in the jurisdiction without the need to pay rent for an actual space"
+    },
+    {
+        "id": 21,
+        "feature2Thumb": "feature1.jpeg",
+        "featureIcon": "customer-support.png",
+        "title": "Compliance & Regulatory Advisory",
+        "titleMeta": "Expert Guidance",
+        "delay": 1200,
+        "href": "/services?id=Corporate",
+        "text": "Navigate complex regulatory landscapes with confidence. Our compliance advisory services ensure your business meets all regulatory requirements across multiple jurisdictions, helping you maintain operational integrity and avoid costly penalties."
+    },
+    {
+        "id": 22,
+        "feature2Thumb": "feature2.jpeg",
+        "featureIcon": "money.png",
+        "title": "Trust & Foundation Services",
+        "titleMeta": "Asset Protection",
+        "delay": 1400,
+        "href": "/services?id=Corporate",
+        "text": "Protect and structure your assets with our comprehensive trust and foundation services. We provide expert guidance on establishing trusts and foundations in favorable jurisdictions, ensuring optimal asset protection and estate planning solutions."
+    },
+    {
+        "id": 23,
+        "feature2Thumb": "feature3.jpeg",
+        "featureIcon": "presentation.png",
+        "title": "Corporate Secretarial Services",
+        "titleMeta": "Administrative Excellence",
+        "delay": 1600,
+        "href": "/services?id=Corporate",
+        "text": "Streamline your corporate administration with our professional secretarial services. From maintaining statutory records to managing board meetings and ensuring regulatory compliance, we handle all aspects of corporate governance efficiently."
     }
 ]

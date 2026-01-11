@@ -88,16 +88,19 @@ const OffersServiceList = ({ handleSetName }) => {
               </div>
             )}
             <div className={`service-details ${isMobile ? 'mobile' : ''}`}>
-              {activeService !== null && (
-                <div>
-                  <React.Fragment>{services[SelectedService][activeService]?.Content}</React.Fragment>
-                  <br></br>
-                  <img src={`/img/offers/${services[SelectedService][activeService]?.Image}`} alt="licensing" />
-                  <br></br><br></br><br></br>
-                  <div style={{ flex: 1, textAlign: 'right' }}>
-                  <Link to="/contact#" className='theme-btn theme-btn-2'>Ask for Details</Link>
+              {activeService !== null && services[SelectedService] && services[SelectedService][activeService] && (
+                <div className="service-details-content">
+                  <div className="service-details-text">
+                    <React.Fragment>{services[SelectedService][activeService]?.Content}</React.Fragment>
                   </div>
-                  <br></br><br></br><br></br>
+                  {services[SelectedService][activeService]?.Image && (
+                    <div className="service-details-image">
+                      <img src={`/img/offers/${services[SelectedService][activeService]?.Image}`} alt="licensing" />
+                    </div>
+                  )}
+                  <div className="service-details-action">
+                    <Link to="/contact#" className='theme-btn theme-btn-2'>Ask for Details</Link>
+                  </div>
                 </div>
               )}
             </div>

@@ -1,30 +1,45 @@
 import React from 'react';
 import Header from '../components/Header';
 import BannerSlider from '../components/BannerSlider';
+import TrustSignals from '../components/TrustSignals';
+import WhoIsCamitrade from '../components/WhoIsCamitrade';
+import WhoWeHelp from '../components/WhoWeHelp';
+import HowItWorks from '../components/HowItWorks';
+import WhyChooseUs from '../components/WhyChooseUs';
+import IndustriesWeServe from '../components/IndustriesWeServe';
 import Feature from '../components/Feature';
-import Faq from '../components/Faq';
 import Counter from '../components/Counter';
-import AboutUs from '../components/AboutUs';
 import Consultation from '../components/Consultation';
 import Testimonial from '../components/Testimonial';
+import ModernFaq from '../components/ModernFaq';
 import Footer from '../components/Footer';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import SnowEffect from '../components/SnowEffect';
+import GlitterEffect from '../components/GlitterEffect';
 
 const   Home = () => {
     return (
         <>
             <CanonicalHeaders
             title ="Global Fiduciary & Licensing Services | Camitrade Fiduciaries"
-            description ="Trusted global fiduciary services provider offering comprehensive licensing, corporate services, and business solutions. Licensed by Financial Services Authority for Trust & Corporate Services."
+            description ="We help businesses incorporate, license, and operate globally — compliantly and efficiently across 10+ jurisdictions. Trusted by fintech founders, fund managers, and international entrepreneurs."
+            schemaType="WebPage"
             />
+            <SnowEffect />
+            <GlitterEffect />
             <Header />
             <BannerSlider/>
+            <TrustSignals />
+            <WhoIsCamitrade />
+            <WhoWeHelp />
             <Feature />
-            <AboutUs />
-            <Faq bgGray={"bg-gray"} />
+            <HowItWorks />
+            <WhyChooseUs />
+            <IndustriesWeServe />
             <Counter />
             <Consultation />
             <Testimonial parallaxTestimonial={"testimonial-sec"} />
+            <ModernFaq />
             <Footer />
         </>
     );

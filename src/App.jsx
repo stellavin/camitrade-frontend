@@ -36,6 +36,7 @@ const BlogGrid = React.lazy(() => import('./pages/BlogGrid'));
 const ErrorPage = React.lazy(() => import('./pages/ErrorPage'));
 const LicensingServices = React.lazy(() => import('./pages/LicensingServices'));
 const Offers = React.lazy(() => import('./pages/Offers'));
+const PSPServices = React.lazy(() => import('./pages/PSPServices'));
 
 function App() {
   let [isLoading, setIsLoading] = useState(true);
@@ -73,6 +74,8 @@ function App() {
               <Route path="/offers" element={<Offers />} />
               <Route path="/jurisdictions" element={<Jurisdictions />} />
               <Route path="/payments" element={<Payments />} />
+              <Route path="/psp-services" element={<PSPServices />} />
+              <Route path="/psp-services/:id" element={<PSPServices />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="*" element={<ErrorPage />} />
             </Routes>

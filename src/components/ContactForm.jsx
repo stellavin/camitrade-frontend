@@ -60,8 +60,11 @@ const ContactForm = ({heading, description}) => {
                     </p>
                     <p className="form-submit">
                         <button className="theme-btn theme-btn-1" type="submit">
-                            Send Message
+                            Request a Free Consultation
                         </button>
+                        <p style={{ marginTop: '10px', fontSize: '14px', color: '#666', fontStyle: 'italic' }}>
+                            We respond within 24 hours • Your information is confidential
+                        </p>
                     </p>
                 </form>
             </div>
