@@ -363,7 +363,7 @@
 	}
 
 	.consulting-form-sec {
-		background: #282640;
+		background: linear-gradient(135deg, #f0f8fa 0%, #e6f1f4 50%, #ddeef2 100%);
 	}
 
 }
@@ -445,6 +445,38 @@
 		font-size: 42px;
 	}
 
+	.feature-sec-modern .sec-title h1 {
+		font-size: 32px;
+	}
+	
+	.feature-content-modern {
+		padding: 28px 22px;
+	}
+	
+	.feature-image-modern {
+		height: 160px;
+	}
+	
+	.feature-icon-modern {
+		width: 55px;
+		height: 55px;
+		top: -22px;
+		right: 22px;
+	}
+	
+	.feature-icon-modern img {
+		width: 30px;
+		height: 30px;
+	}
+	
+	.feature-title-modern {
+		font-size: 20px;
+	}
+	
+	.feature-text-modern {
+		font-size: 14px;
+	}
+
 	.feature-item .feature-inner-meta h2 {
 		line-height: 1.5;
 	}
@@ -471,6 +503,33 @@
 
 	.consulting-form-title h1 {
 		font-size: 36px;
+	}
+
+	.consultation-form-wrapper {
+		padding: 35px 25px;
+	}
+
+	.consultation-stats {
+		position: absolute;
+	}
+
+	.stat-item {
+		min-width: 140px;
+		padding: 16px 20px;
+	}
+
+	.stat-top-right {
+		top: -15px;
+		right: -15px;
+	}
+
+	.stat-bottom-left {
+		bottom: -15px;
+		left: -15px;
+	}
+
+	.consulting-form-image img {
+		min-height: 500px;
 	}
 
 	.single-post-text h2 a {
@@ -776,22 +835,38 @@
 		font-size: 30px;
 	}
 
-	.single-testimonial {
-		padding: 40px 20px;
-		margin-left: 20px;
-		margin-right: 20px;
+	.client-comment-modern {
+		padding: 30px 24px;
+		min-height: 280px;
+	}
+	
+	.testimonial-text {
+		font-size: 15px;
+		margin-bottom: 25px;
+	}
+	
+	.client-avatar-modern {
+		width: 50px;
+		height: 50px;
+	}
+	
+	.client-name-modern {
+		font-size: 16px;
+	}
+	
+	.testimonial-quote-icon {
+		font-size: 40px;
+		top: 20px;
+		right: 24px;
 	}
 
 	.testimonial-area .client-carousel .react-multi-carousel-item {
 		padding-right: 0;
+		padding-bottom: 50px;
 	}
 
 	.testimonial-sec .sec-title {
-		margin-bottom: 20px;
-	}
-
-	.testimonial-area .client-carousel .react-multi-carousel-item {
-		padding-bottom: 50px;
+		margin-bottom: 30px;
 	}
 
 	.consulting-form-title h1 {
@@ -905,6 +980,67 @@
 
 	.consulting-form-title {
 		margin-bottom: 30px;
+	}
+
+	.consultation-form-wrapper {
+		padding: 25px 20px;
+	}
+
+	.consulting-form-icon {
+		width: 56px;
+		height: 56px;
+		margin-bottom: 20px;
+	}
+
+	.consulting-form-icon svg {
+		width: 28px;
+		height: 28px;
+	}
+
+	.consulting-benefits {
+		flex-direction: column;
+		gap: 12px;
+	}
+
+	.benefit-item {
+		padding: 8px 14px;
+		font-size: 13px;
+	}
+
+	.consultation-stats {
+		position: absolute;
+	}
+
+	.stat-item {
+		min-width: 120px;
+		padding: 14px 18px;
+	}
+
+	.stat-top-right {
+		top: -10px;
+		right: -10px;
+	}
+
+	.stat-bottom-left {
+		bottom: -10px;
+		left: -10px;
+	}
+
+	.stat-number {
+		font-size: 24px;
+	}
+
+	.stat-label {
+		font-size: 11px;
+	}
+
+	.consulting-form-image img {
+		min-height: 400px;
+	}
+
+	.consultation-submit-btn {
+		padding: 16px 30px;
+		font-size: 14px;
 	}
 
 	.finaleyas-preloader .animation-preloader .spinner {

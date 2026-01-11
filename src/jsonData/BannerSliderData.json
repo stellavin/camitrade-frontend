@@ -1,43 +1,23 @@
 [
-    {
-      "id": 1,
-      "image": "slider-16.jpg",
-      "title": "We Help Businesses Incorporate, License, and Operate Globally",
-      "subtitle": "Compliantly and efficiently across 10+ jurisdictions",
-      "btnTextOne": "Book a Free Consultation",
-      "btnLinkOne": "/contact",
-      "btnTextTwo": "See How It Works",
-      "btnLinkTwo": "#how-it-works"
-    },
-    {
-      "id": 2,
-      "image": "slider-14.jpg",
-      "title": "End-to-End Global Business Solutions",
-      "subtitle": "From company formation to licensing, banking, and payments — we handle it all",
-      "btnTextOne": "Book a Free Consultation",
-      "btnLinkOne": "/contact",
-      "btnTextTwo": "See How It Works",
-      "btnLinkTwo": "#how-it-works"
-    },
-    {
-      "id": 3,
-      "image": "slider-11.jpg",
-      "title": "Crypto, Fintech & Financial Services Licensing",
-      "subtitle": "Regulatory-first approach in crypto-friendly jurisdictions",
-      "btnTextOne": "Speak to a Licensing Specialist",
-      "btnLinkOne": "/licensing-services",
-      "btnTextTwo": "See Our Jurisdictions",
-      "btnLinkTwo": "/jurisdictions"
-    },
-    {
-      "id": 4,
-      "image": "slider-15.jpg",
-      "title": "Operating Across Africa, Europe, Middle East & Offshore",
-      "subtitle": "Trusted by fintech founders, fund managers, and international entrepreneurs",
-      "btnTextOne": "Book a Free Consultation",
-      "btnLinkOne": "/contact",
-      "btnTextTwo": "See Who We Help",
-      "btnLinkTwo": "#who-we-help"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "image": "slider-15.png",
+    "title": "We Help Businesses Incorporate, License, and Operate Globally",
+    "subtitle": "Compliantly and efficiently across 10+ jurisdictions",
+    "btnTextOne": "Book a Free Consultation",
+    "btnLinkOne": "/contact",
+    "btnTextTwo": "See How It Works",
+    "btnLinkTwo": "#how-it-works"
+  },
+  {
+    "id": 2,
+    "image": "slider-20.png",
+    "title": "End-to-End Global Business Solutions",
+    "subtitle": "From company formation to licensing, banking, and payments — we handle it all",
+    "btnTextOne": "Book a Free Consultation",
+    "btnLinkOne": "/contact",
+    "btnTextTwo": "See How It Works",
+    "btnLinkTwo": "#how-it-works"
+  }
+
+]

@@ -38,6 +38,13 @@ const IndustriesWeServe = () => {
             link: '/services',
             icon: 'icofont-chart-growth',
             color: '#7fb300'
+        },
+        {
+            name: 'Technology & Software',
+            description: 'International company structures, IP protection, and regulatory compliance for tech companies expanding globally.',
+            link: '/corporate-services',
+            icon: 'icofont-laptop',
+            color: '#4262f7'
         }
     ];
 

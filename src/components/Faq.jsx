@@ -35,12 +35,6 @@ const Faq = (props) => {
                         </div>
                             ): (
                                 <div className="faq-sec">
-                                <div className="sec-title">
-                                    <Fade left delay={200}>
-                                        <h1>why People Choose <br /> our Company</h1>
-                                        <p>Camitrade Investment Fiduciaries specializes in providing expert guidance and services for company incorporation. With a deep understanding of various industries, we assist businesses in navigating the complexities of establishing a legal business entity. Our services include tailored solutions, helping clients select the appropriate company type, implementing effective administrative protocols, and ensuring legal compliance. The company's dedication to maintaining compliance in an evolving global regulatory environment aims to empower businesses to thrive with confidence.</p>
-                                    </Fade>
-                                </div>
                                 {FaqData.map(faq =>
                                     <SingleFaq faq={faq} key={faq.id} />
                                 )}

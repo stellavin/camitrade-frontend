@@ -32,7 +32,7 @@ const HowItWorks = () => {
                         <div className="col-lg-8 offset-lg-2 text-center">
                             <Fade bottom delay={200}>
                                 <div className="sec-title">
-                                    <h1>How It Works</h1>
+                                    <h1>How We Work</h1>
                                     <p className="section-subtitle">
                                         A simple, transparent process from consultation to ongoing support. No surprises, no hidden fees.
                                     </p>

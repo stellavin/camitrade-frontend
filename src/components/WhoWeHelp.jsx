@@ -38,6 +38,13 @@ const WhoWeHelp = () => {
             description: 'Trust & foundation services, asset protection, and wealth structuring.',
             link: '/corporate-services',
             cta: 'Get Expert Advice'
+        },
+        {
+            icon: 'icofont-briefcase',
+            title: 'Startups & Growing Businesses',
+            description: 'Scalable company structures, compliance frameworks, and growth-oriented solutions for emerging companies.',
+            link: '/corporate-services',
+            cta: 'Explore Solutions'
         }
     ];
 
@@ -61,14 +68,17 @@ const WhoWeHelp = () => {
                         {clients.map((client, index) => (
                             <Fade bottom delay={300 + (index * 100)} key={index}>
                                 <div className="col-lg-4 col-md-6 col-sm-12 mb-4">
-                                    <div className="who-we-help-card">
-                                        <div className="client-icon">
+                                    <div className={`who-we-help-card who-we-help-card-${index % 6}`}>
+                                        <div className="who-we-help-illustration">
                                             <i className={client.icon}></i>
                                         </div>
                                         <h3>{client.title}</h3>
                                         <p>{client.description}</p>
-                                        <Link to={client.link} className="client-cta-link">
-                                            {client.cta} <i className="icofont-arrow-right"></i>
+                                        <Link to={client.link} className="who-we-help-cta-btn">
+                                            {client.cta}
+                                            <span className="cta-arrow-circle">
+                                                <i className="icofont-arrow-right"></i>
+                                            </span>
                                         </Link>
                                     </div>
                                 </div>
