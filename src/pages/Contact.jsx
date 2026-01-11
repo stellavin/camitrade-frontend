@@ -3,6 +3,7 @@ import Header from '../components/Header';
 import Breadcrumbs from '../components/Breadcrumbs';
 import ContactPageContent from '../components/ContactPageContent';
 import Footer from '../components/Footer';
+import FooterCTA from '../components/FooterCTA';
 import CanonicalHeaders from '../components/CanonicalHeaders';
 
 const Contact = () => {
@@ -16,6 +17,7 @@ const Contact = () => {
             <Header />
             <Breadcrumbs pageTitle={"Contact Us"} />
             <ContactPageContent />
+            <FooterCTA />
             <Footer />
         </>
     );

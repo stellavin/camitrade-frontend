@@ -111,8 +111,11 @@ const Consultation = () => {
                                             </div>
                                             <div className="form-group col-md-12">
                                                 <button className='theme-btn theme-btn-1 mt-3' type="submit">
-                                                    Send Request
+                                                    Request a Free Consultation
                                                 </button>
+                                                <p style={{ marginTop: '10px', fontSize: '14px', color: '#666', fontStyle: 'italic' }}>
+                                                    No obligation • Confidential • 30-minute expert call
+                                                </p>
                                             </div>
                                         </div>
                                     </form>

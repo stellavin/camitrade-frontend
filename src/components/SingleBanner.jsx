@@ -4,7 +4,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 import Happy2026Animation from './Happy2026Animation';
 
 const SingleBanner = ({ banner, hasOffer }) => {
-    let { image, title, btnTextOne, btnTextTwo, btnLinkOne, btnLinkTwo } = banner;
+    let { image, title, subtitle, btnTextOne, btnTextTwo, btnLinkOne, btnLinkTwo } = banner;
 
     return (
         <>
@@ -21,8 +21,11 @@ const SingleBanner = ({ banner, hasOffer }) => {
                         <div className="slider-wrapper container">
                             <div className="slider-text">
                                 <div className="slider-caption">
-                                    <Fade bottom delay={500}><h1>{title}</h1></Fade>
-                                    <Fade top delay={500}>
+                                    <Fade bottom delay={500}>
+                                        <h1>{title}</h1>
+                                        {subtitle && <p className="hero-subtitle">{subtitle}</p>}
+                                    </Fade>
+                                    <Fade top delay={700}>
                                         
                                             { hasOffer ? (
                                                 <ul>

@@ -26,7 +26,7 @@ const SingleFeature = ({ feature, inCarousel }) => {
                 <div className="feature-content">
                     <p className="feature-text-me">{text}</p>
                     <div className="feature-readmore-btn">
-                        <Link to={`${href}`} className='theme-btn theme-btn-2'>Read More</Link>
+                        <Link to={`${href}`} className='theme-btn theme-btn-2'>Talk to an Expert</Link>
                     </div>
                 </div>
             </div>

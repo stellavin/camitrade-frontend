@@ -12,7 +12,7 @@ const AboutShortText = () => {
                     <li>Mlementum suscipit mollis tellus. Donec tortor</li>
                     <li>Amet commodo urna diam nunc</li>
                 </ul>
-                <Link to="/project-details#" className="theme-btn theme-btn-1 mt-2">get started</Link>
+                <Link to="/contact" className="theme-btn theme-btn-1 mt-2">Book a Free Consultation</Link>
             </div>
         </>
     );

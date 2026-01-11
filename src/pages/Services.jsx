@@ -3,6 +3,7 @@ import Header from '../components/Header';
 import Breadcrumbs from '../components/Breadcrumbs';
 import ServiceFeature from '../components/ServiceFeature';
 import Footer from '../components/Footer';
+import FooterCTA from '../components/FooterCTA';
 import CanonicalHeaders from '../components/CanonicalHeaders';
 
 const Services = () => {
@@ -34,6 +35,7 @@ const Services = () => {
             <Header />
             <Breadcrumbs pageTitle={Newname} />
             <ServiceFeature setServiceName={setServiceName} />
+            <FooterCTA />
             <Footer />
         </>
     );

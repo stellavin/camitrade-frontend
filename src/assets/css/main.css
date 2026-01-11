@@ -1490,6 +1490,11 @@ input[type=number] {
 	overflow: hidden;
 }
 
+.about-us-sec-modern {
+	background: transparent;
+	overflow: hidden;
+}
+
 .company-ceo h4 {
 	color: #9AC000;
 	text-transform: capitalize;
@@ -1533,6 +1538,313 @@ input[type=number] {
 
 .about-desc .sec-title h1 {
 	color: #ffff;
+}
+
+/* ==================== Modern About Section Redesign ==================== */
+
+.about-desc-modern {
+	padding: 80px 0;
+	position: relative;
+	z-index: 2;
+	background: linear-gradient(135deg, #007693 0%, #005f7a 100%);
+	overflow: hidden;
+}
+
+.about-desc-modern::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-image: 
+		radial-gradient(circle at 20% 50%, rgba(255, 255, 255, 0.1) 0%, transparent 50%),
+		radial-gradient(circle at 80% 80%, rgba(255, 255, 255, 0.08) 0%, transparent 50%);
+	pointer-events: none;
+	z-index: 1;
+}
+
+.about-desc-modern::after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-image: 
+		repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(255, 255, 255, 0.03) 2px, rgba(255, 255, 255, 0.03) 4px);
+	pointer-events: none;
+	z-index: 1;
+}
+
+.about-desc-content {
+	position: relative;
+	z-index: 2;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 50px;
+}
+
+.sec-title-modern {
+	margin-bottom: 40px;
+}
+
+.what-we-do-title {
+	color: #ffffff;
+	font-size: 48px;
+	font-weight: 700;
+	letter-spacing: -1px;
+	margin-bottom: 15px;
+	line-height: 1.2;
+	text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.title-underline {
+	width: 80px;
+	height: 4px;
+	background: linear-gradient(90deg, #9AC000 0%, #7fb300 100%);
+	border-radius: 2px;
+	margin-top: 10px;
+	box-shadow: 0 2px 8px rgba(154, 192, 0, 0.4);
+}
+
+.about-text-content {
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+}
+
+.about-text-primary,
+.about-text-secondary {
+	color: #f0f8ff;
+	font-size: 18px;
+	line-height: 1.8;
+	margin: 0;
+	font-weight: 400;
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.about-text-primary {
+	font-weight: 500;
+}
+
+/* ==================== Modern CTA Section Redesign ==================== */
+
+.call-to-action-modern {
+	display: inline-block;
+	width: 100%;
+	padding: 70px 0;
+	background: linear-gradient(135deg, #9AC000 0%, #7fb300 100%);
+	position: relative;
+	overflow: hidden;
+}
+
+.cta-pattern-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-image: 
+		radial-gradient(circle at 10% 20%, rgba(255, 255, 255, 0.15) 0%, transparent 50%),
+		radial-gradient(circle at 90% 80%, rgba(255, 255, 255, 0.12) 0%, transparent 50%);
+	pointer-events: none;
+	z-index: 1;
+}
+
+.call-to-action-modern::after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-image: 
+		repeating-linear-gradient(45deg, transparent, transparent 2px, rgba(255, 255, 255, 0.05) 2px, rgba(255, 255, 255, 0.05) 4px);
+	pointer-events: none;
+	z-index: 1;
+}
+
+.call-to-action-modern .container {
+	position: relative;
+	z-index: 2;
+}
+
+.cta-content-modern {
+	color: #ffffff;
+	text-align: left;
+}
+
+.cta-heading-modern {
+	color: #ffffff;
+	font-size: 36px;
+	font-weight: 700;
+	margin-bottom: 20px;
+	line-height: 1.3;
+	letter-spacing: -0.5px;
+	text-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.cta-message-modern {
+	color: #ffffff;
+	font-size: 18px;
+	line-height: 1.7;
+	margin: 0;
+	font-weight: 400;
+	opacity: 0.95;
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.cta-buttons-modern {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	align-items: flex-end;
+}
+
+.cta-btn-primary,
+.cta-btn-secondary {
+	display: inline-block;
+	padding: 16px 35px;
+	font-size: 16px;
+	font-weight: 600;
+	text-decoration: none;
+	border-radius: 50px;
+	transition: all 0.3s ease;
+	text-align: center;
+	min-width: 220px;
+	text-transform: none;
+	letter-spacing: 0.3px;
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.cta-btn-primary {
+	background: #ffffff;
+	color: #9AC000;
+	border: 2px solid #ffffff;
+}
+
+.cta-btn-primary:hover {
+	background: transparent;
+	color: #ffffff;
+	transform: translateY(-2px);
+	box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.cta-btn-secondary {
+	background: transparent;
+	color: #ffffff;
+	border: 2px solid rgba(255, 255, 255, 0.8);
+	backdrop-filter: blur(10px);
+}
+
+.cta-btn-secondary:hover {
+	background: rgba(255, 255, 255, 0.15);
+	border-color: #ffffff;
+	transform: translateY(-2px);
+	box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+	.about-desc-content {
+		padding: 0 30px;
+	}
+	
+	.what-we-do-title {
+		font-size: 38px;
+	}
+	
+	.about-text-primary,
+	.about-text-secondary {
+		font-size: 17px;
+	}
+	
+	.cta-heading-modern {
+		font-size: 30px;
+		margin-bottom: 15px;
+	}
+	
+	.cta-message-modern {
+		font-size: 17px;
+	}
+	
+	.cta-buttons-modern {
+		margin-top: 30px;
+		align-items: stretch;
+	}
+	
+	.cta-btn-primary,
+	.cta-btn-secondary {
+		width: 100%;
+		min-width: auto;
+	}
+}
+
+@media (max-width: 768px) {
+	.about-desc-modern {
+		padding: 60px 0;
+	}
+	
+	.about-desc-content {
+		padding: 0 20px;
+	}
+	
+	.what-we-do-title {
+		font-size: 32px;
+	}
+	
+	.about-text-content {
+		gap: 20px;
+	}
+	
+	.about-text-primary,
+	.about-text-secondary {
+		font-size: 16px;
+	}
+	
+	.call-to-action-modern {
+		padding: 50px 0;
+	}
+	
+	.cta-heading-modern {
+		font-size: 26px;
+	}
+	
+	.cta-message-modern {
+		font-size: 16px;
+	}
+	
+	.cta-buttons-modern {
+		gap: 12px;
+	}
+	
+	.cta-btn-primary,
+	.cta-btn-secondary {
+		padding: 14px 30px;
+		font-size: 15px;
+	}
+}
+
+@media (max-width: 480px) {
+	.what-we-do-title {
+		font-size: 28px;
+	}
+	
+	.title-underline {
+		width: 60px;
+		height: 3px;
+	}
+	
+	.cta-heading-modern {
+		font-size: 22px;
+	}
+	
+	.cta-btn-primary,
+	.cta-btn-secondary {
+		padding: 12px 25px;
+		font-size: 14px;
+	}
 }
 
 /* ==================== 10. Service Tips Section ==================== */
@@ -3508,7 +3820,8 @@ a.blog-readmore {
 	width: 100%;
 	padding: 60px 0px;
 	background: #9AC000;
-	margin-bottom: -10px;
+	margin-bottom: 0;
+	margin-top: 0;
 }
 
 .call-to-action-text2 {
@@ -4138,17 +4451,30 @@ footer.footer {
   .country-container {
 	display: flex;
 	flex-wrap: wrap;
+	width: 100%;
+	gap: 12px;
+	margin: 0;
+	padding: 20px;
+	box-sizing: border-box;
   }
   
   .country {
-	padding: 10px;
+	padding: 12px 15px;
 	background-color: #E6F1F4; /* Grey background */
 	border-radius: 8px;
-	margin: 8px;
+	margin: 0;
 	text-align: center;
-	width: 390px;
+	flex: 1 1 calc(25% - 9px);
+	min-width: 200px;
+	max-width: none;
 	display: flex;
   	align-items: center;
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+	box-sizing: border-box;
+  }
+  .country:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
   }
   .country p {
 	margin: 0; 
@@ -4158,15 +4484,97 @@ footer.footer {
   .country-search {
 	display: flex;
 	justify-content: flex-end;
-	margin-right: 10px; /* Adjust margin as needed */
-	margin-top: 10px; /* Adjust margin as needed */
+	margin: 20px 10px 30px 10px;
   }
   .country-search input[type="text"] {
-	border: none;
-	border-bottom: 1px solid #ccc; /* Add a bottom border */
-	padding: 5px;
-	margin-right: 10px; /* Adjust margin as needed */
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	padding: 10px 20px;
+	width: 300px;
+	max-width: 100%;
+	font-size: 16px;
+	outline: none;
+	transition: border-color 0.3s ease;
   }
+  .country-search input[type="text"]:focus {
+	border-color: #007693;
+  }
+
+  /* Continent section styles */
+  .continent-section {
+	margin: 30px 0;
+	border: 1px solid #e0e0e0;
+	border-radius: 8px;
+	overflow: hidden;
+	background-color: #fff;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .continent-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 25px;
+	background-color: #f8f9fa;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+	border-bottom: 2px solid #007693;
+  }
+
+  .continent-header:hover {
+	background-color: #e9ecef;
+  }
+
+  .continent-title {
+	margin: 0;
+	font-size: 24px;
+	font-weight: 700;
+	color: #007693;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	flex-wrap: wrap;
+  }
+
+  .country-count {
+	font-size: 16px;
+	font-weight: 400;
+	color: #666;
+  }
+
+  .expand-icon {
+	font-size: 28px;
+	font-weight: bold;
+	color: #007693;
+	transition: transform 0.3s ease;
+  }
+
+  .country-flag {
+	width: 60px;
+	height: 40px;
+	object-fit: cover;
+	border-radius: 4px;
+	border: 1px solid #ddd;
+	flex-shrink: 0;
+  }
+
+  .no-results {
+	padding: 30px;
+	text-align: center;
+	color: #666;
+	font-style: italic;
+  }
+
+  /* Tablet styles */
+  @media (max-width: 1024px) and (min-width: 769px) {
+	.country {
+	  flex: 1 1 calc(33.333% - 8px); /* 3 per row on tablets */
+	}
+	.country-container {
+	  gap: 12px;
+	}
+  }
+
   @media (max-width: 768px) {
 	.continents-container {
 	  justify-content: center; /* Center continents on mobile */
@@ -4175,17 +4583,37 @@ footer.footer {
 	.continent {
 	  margin: 5px;
 	}
+	.continent-header {
+	  padding: 15px 20px;
+	}
+	.continent-title {
+	  font-size: 20px;
+	}
+	.country-count {
+	  font-size: 14px;
+	}
   }
   /* Adjustments for mobile */
 @media (max-width: 768px) {
 	.country {
-	  width: calc(50% - 16px); /* 50% width minus margins */
-	  margin: 8px;
+	  flex: 1 1 calc(50% - 6px); /* 2 per row on mobile */
+	  min-width: 150px;
+	  max-width: none;
+	  margin: 0;
+	  padding: 10px;
 	}
 	.country-container {
 	  display: flex;
 	  flex-wrap: wrap;
-	  justify-content: space-between;
+	  gap: 12px;
+	  padding: 15px;
+	}
+	.country-flag {
+	  width: 50px;
+	  height: 35px;
+	}
+	.country-search input[type="text"] {
+	  width: 100%;
 	}
   }
 /* Common styles for all screen sizes */
@@ -4478,19 +4906,55 @@ footer.footer {
 .service-container {
 	display: flex;
 	justify-content: space-between;
+	gap: 30px;
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 0 20px;
   }
   
   .service-list {
-	width: 35%;
-	padding-right: 20px;
+	width: 30%;
+	flex-shrink: 0;
   }
   
   .service-details {
 	width: 70%;
+	flex: 1;
 	background-color: #f5f5f5;
-	padding: 20px;
+	padding: 30px;
 	border-radius: 8px;
-	margin-top: 10px;
+	margin-top: 0;
+	min-height: 400px;
+  }
+
+  .service-details-content {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+  }
+
+  .service-details-text {
+	flex: 1;
+	margin-bottom: 20px;
+  }
+
+  .service-details-image {
+	margin: 20px 0;
+	text-align: center;
+  }
+
+  .service-details-image img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 8px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .service-details-action {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: auto;
+	padding-top: 20px;
   }
   
   /* Add the following styles to your CSS */
@@ -4548,11 +5012,30 @@ footer.footer {
 	font-size: 16px;
   }
   
+  /* Tablet styles */
+  @media (max-width: 1024px) and (min-width: 769px) {
+	.service-container {
+	  gap: 20px;
+	  padding: 0 15px;
+	}
+	
+	.service-list {
+	  width: 35%;
+	}
+	
+	.service-details {
+	  width: 65%;
+	  padding: 25px;
+	}
+  }
+
   /* Mobile styles */
   @media (max-width: 768px) {
 	.service-container {
 	  flex-direction: column; /* Stack elements vertically on mobile */
 	  align-items: stretch; /* Stretch elements to full width on mobile */
+	  gap: 20px;
+	  padding: 0 15px;
 	}
   
 	.service-list {
@@ -4562,9 +5045,15 @@ footer.footer {
   
 	.service-details.mobile {
 	  width: 100%; /* Full width for service details on mobile */
-	  margin-top: 20px; /* Increase top margin on mobile */
+	  margin-top: 0; /* Remove top margin on mobile */
+	  padding: 20px;
+	  min-height: auto;
 	}
-  
+
+	.service-details-action {
+	  justify-content: center;
+	}
+
 	.mobile-service-select {
 		width: 100%;
 		border: 1px solid #ccc;
@@ -4575,13 +5064,14 @@ footer.footer {
 		color: #333;
 		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
 		transition: border-color 0.3s, box-shadow 0.3s; /* Smooth transition on hover */
-	  }
+	}
 	  
-	  .mobile-service-select:hover {
+	.mobile-service-select:hover {
 		border-color: #9AC000; /* Change border color on hover */
 		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Increase shadow on hover for emphasis */
-	  }
-	  select {
+	}
+	
+	.mobile-service-select select {
 		width: 100%;
 		background-color: #fff;
 	}
@@ -4712,5 +5202,682 @@ p.feature-text-me {
         margin-left: 20px;
         margin-right: 20px;
         height: 60vh !important;
+    }
+}
+
+/* ==================== Hero Subtitle ==================== */
+.hero-subtitle {
+    font-size: 20px;
+    color: #f0f8ff;
+    margin-top: 15px;
+    font-weight: 400;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+    .hero-subtitle {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+}
+
+/* ==================== Section Subtitle ==================== */
+.section-subtitle {
+    font-size: 18px;
+    color: #666;
+    margin-top: 15px;
+    line-height: 1.7;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ==================== Trust Signals Section - Corporate Design ==================== */
+.trust-signals-sec {
+    background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 100%);
+    border-top: 1px solid #e9ecef;
+    border-bottom: 1px solid #e9ecef;
+    padding: 80px 0 !important;
+}
+
+.trust-signal-card {
+    text-align: center;
+    padding: 50px 30px;
+    background: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 0;
+    box-shadow: none;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.trust-signal-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(90deg, #007693 0%, #9AC000 100%);
+    transform: scaleX(0);
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.trust-signal-card:hover::before {
+    transform: scaleX(1);
+}
+
+.trust-signal-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+    border-color: #d0d7de;
+}
+
+.trust-icon {
+    font-size: 52px;
+    color: #007693;
+    margin-bottom: 25px;
+    display: inline-block;
+    transition: all 0.4s ease;
+}
+
+.trust-signal-card:hover .trust-icon {
+    color: #9AC000;
+    transform: scale(1.1);
+}
+
+.trust-number {
+    font-size: 42px;
+    font-weight: 700;
+    color: #007693;
+    margin-bottom: 15px;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+
+.trust-signal-card:hover .trust-number {
+    color: #9AC000;
+}
+
+.trust-signal-card h4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 12px;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.trust-signal-card p {
+    font-size: 15px;
+    color: #6b7280;
+    margin: 0;
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+/* ==================== Who We Help Section - Corporate Design ==================== */
+.who-we-help-sec {
+    background: #ffffff;
+    padding: 100px 0 !important;
+}
+
+.who-we-help-card {
+    background: #ffffff;
+    padding: 50px 40px;
+    border: 1px solid #e9ecef;
+    border-radius: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border-left: 4px solid #007693;
+}
+
+.who-we-help-card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #007693 0%, #9AC000 100%);
+    transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.who-we-help-card:hover::after {
+    width: 100%;
+}
+
+.who-we-help-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12);
+    border-left-color: #9AC000;
+    border-color: #d0d7de;
+}
+
+.client-icon {
+    font-size: 56px;
+    color: #007693;
+    margin-bottom: 30px;
+    display: inline-block;
+    transition: all 0.4s ease;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 118, 147, 0.05);
+    border-radius: 8px;
+}
+
+.who-we-help-card:hover .client-icon {
+    color: #9AC000;
+    background: rgba(154, 192, 0, 0.1);
+    transform: scale(1.05);
+}
+
+.who-we-help-card h3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 18px;
+    letter-spacing: -0.3px;
+    line-height: 1.3;
+}
+
+.who-we-help-card p {
+    font-size: 16px;
+    color: #4b5563;
+    line-height: 1.75;
+    margin-bottom: 30px;
+    flex-grow: 1;
+    font-weight: 400;
+}
+
+.client-cta-link {
+    color: #007693;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 15px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-size: 13px;
+    margin-top: auto;
+}
+
+.client-cta-link i {
+    transition: transform 0.3s ease;
+}
+
+.client-cta-link:hover {
+    color: #9AC000;
+}
+
+.client-cta-link:hover i {
+    transform: translateX(5px);
+}
+
+/* ==================== How It Works Section - Corporate Design ==================== */
+.how-it-works-sec {
+    background: #f8f9fa !important;
+    padding: 100px 0 !important;
+}
+
+.how-it-works-card {
+    background: #ffffff;
+    padding: 60px 40px;
+    border: 1px solid #e9ecef;
+    border-radius: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    height: 100%;
+    position: relative;
+    text-align: left;
+    overflow: hidden;
+}
+
+.how-it-works-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(180deg, #007693 0%, #9AC000 100%);
+    transform: scaleY(0);
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.how-it-works-card:hover::before {
+    transform: scaleY(1);
+}
+
+.how-it-works-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12);
+    border-color: #d0d7de;
+}
+
+.step-number {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 120px;
+    font-weight: 900;
+    color: rgba(0, 118, 147, 0.03);
+    line-height: 1;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: -4px;
+    z-index: 0;
+}
+
+.step-icon {
+    font-size: 64px;
+    color: #007693;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 118, 147, 0.05);
+    border-radius: 8px;
+    transition: all 0.4s ease;
+}
+
+.how-it-works-card:hover .step-icon {
+    color: #9AC000;
+    background: rgba(154, 192, 0, 0.1);
+    transform: scale(1.05);
+}
+
+.how-it-works-card h3 {
+    font-size: 26px;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+    letter-spacing: -0.5px;
+    line-height: 1.3;
+    position: relative;
+    z-index: 1;
+}
+
+.how-it-works-card p {
+    font-size: 16px;
+    color: #4b5563;
+    line-height: 1.75;
+    margin: 0;
+    font-weight: 400;
+    position: relative;
+    z-index: 1;
+}
+
+/* ==================== Why Choose Us Modern - Corporate Design ==================== */
+.why-choose-us-modern {
+    background: #ffffff;
+    padding: 100px 0 !important;
+}
+
+.differentiator-card {
+    background: #ffffff;
+    padding: 50px 40px;
+    border: 1px solid #e9ecef;
+    border-radius: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    height: 100%;
+    border-top: 4px solid #007693;
+    position: relative;
+    overflow: hidden;
+}
+
+.differentiator-card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    background: linear-gradient(180deg, rgba(0, 118, 147, 0.02) 0%, rgba(154, 192, 0, 0.02) 100%);
+    transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.differentiator-card:hover::after {
+    height: 100%;
+}
+
+.differentiator-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12);
+    border-top-color: #9AC000;
+    border-color: #d0d7de;
+}
+
+.diff-icon-wrapper {
+    font-size: 56px;
+    color: #007693;
+    margin-bottom: 25px;
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 118, 147, 0.05);
+    border-radius: 8px;
+    transition: all 0.4s ease;
+    position: relative;
+    z-index: 1;
+}
+
+.differentiator-card:hover .diff-icon-wrapper {
+    color: #9AC000;
+    background: rgba(154, 192, 0, 0.1);
+    transform: scale(1.05);
+}
+
+.diff-highlight {
+    display: inline-block;
+    background: rgba(0, 118, 147, 0.08);
+    color: #007693;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 6px 14px;
+    border-radius: 0;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    position: relative;
+    z-index: 1;
+    border: 1px solid rgba(0, 118, 147, 0.2);
+}
+
+.differentiator-card:hover .diff-highlight {
+    background: rgba(154, 192, 0, 0.1);
+    color: #7fb300;
+    border-color: rgba(154, 192, 0, 0.3);
+}
+
+.differentiator-card h3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 18px;
+    letter-spacing: -0.3px;
+    line-height: 1.3;
+    position: relative;
+    z-index: 1;
+}
+
+.differentiator-card p {
+    font-size: 16px;
+    color: #4b5563;
+    line-height: 1.75;
+    margin: 0;
+    font-weight: 400;
+    position: relative;
+    z-index: 1;
+}
+
+/* ==================== Industries We Serve - Corporate Design ==================== */
+.industries-sec {
+    background: #f8f9fa !important;
+    padding: 100px 0 !important;
+}
+
+.industry-card {
+    background: #ffffff;
+    padding: 50px 40px;
+    border: 1px solid #e9ecef;
+    border-radius: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    height: 100%;
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    border-left: 4px solid #007693;
+    position: relative;
+    overflow: hidden;
+}
+
+.industry-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(0, 118, 147, 0.02) 0%, rgba(154, 192, 0, 0.02) 100%);
+    transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.industry-card:hover::before {
+    width: 100%;
+}
+
+.industry-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12);
+    text-decoration: none;
+    color: inherit;
+    border-left-color: #9AC000;
+    border-color: #d0d7de;
+}
+
+.industry-icon {
+    font-size: 64px;
+    margin-bottom: 30px;
+    transition: all 0.4s ease;
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 118, 147, 0.05);
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+}
+
+.industry-card:hover .industry-icon {
+    transform: scale(1.05);
+    background: rgba(154, 192, 0, 0.1);
+}
+
+.industry-card h3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 18px;
+    letter-spacing: -0.3px;
+    line-height: 1.3;
+    position: relative;
+    z-index: 1;
+}
+
+.industry-card p {
+    font-size: 16px;
+    color: #4b5563;
+    line-height: 1.75;
+    margin-bottom: 30px;
+    font-weight: 400;
+    position: relative;
+    z-index: 1;
+}
+
+.industry-link {
+    color: #007693;
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    position: relative;
+    z-index: 1;
+}
+
+.industry-link i {
+    transition: transform 0.3s ease;
+}
+
+.industry-card:hover .industry-link {
+    color: #9AC000;
+}
+
+.industry-card:hover .industry-link i {
+    transform: translateX(5px);
+}
+
+/* ==================== Section Title Corporate Styling ==================== */
+.who-we-help-sec .sec-title h1,
+.how-it-works-sec .sec-title h1,
+.why-choose-us-modern .sec-title h1,
+.industries-sec .sec-title h1 {
+    font-size: 42px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+    letter-spacing: -1px;
+    line-height: 1.2;
+}
+
+.section-subtitle {
+    font-size: 18px;
+    color: #6b7280;
+    margin-top: 15px;
+    line-height: 1.7;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 400;
+}
+
+/* Responsive Styles - Corporate */
+@media (max-width: 992px) {
+    .trust-signals-sec,
+    .who-we-help-sec,
+    .how-it-works-sec,
+    .why-choose-us-modern,
+    .industries-sec {
+        padding: 70px 0 !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .section-subtitle {
+        font-size: 16px;
+    }
+    
+    .who-we-help-sec .sec-title h1,
+    .how-it-works-sec .sec-title h1,
+    .why-choose-us-modern .sec-title h1,
+    .industries-sec .sec-title h1 {
+        font-size: 32px;
+    }
+    
+    .trust-signal-card {
+        padding: 40px 25px;
+    }
+    
+    .trust-icon {
+        font-size: 44px;
+        margin-bottom: 20px;
+    }
+    
+    .trust-number {
+        font-size: 36px;
+    }
+    
+    .who-we-help-card,
+    .how-it-works-card,
+    .differentiator-card,
+    .industry-card {
+        padding: 40px 30px;
+    }
+    
+    .step-number {
+        font-size: 80px;
+        top: 15px;
+        right: 20px;
+    }
+    
+    .step-icon,
+    .industry-icon,
+    .client-icon,
+    .diff-icon-wrapper {
+        font-size: 48px;
+        width: 70px;
+        height: 70px;
+    }
+    
+    .who-we-help-card h3,
+    .how-it-works-card h3,
+    .differentiator-card h3,
+    .industry-card h3 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-subtitle {
+        font-size: 14px;
+    }
+    
+    .section-subtitle {
+        font-size: 15px;
+    }
+    
+    .who-we-help-sec .sec-title h1,
+    .how-it-works-sec .sec-title h1,
+    .why-choose-us-modern .sec-title h1,
+    .industries-sec .sec-title h1 {
+        font-size: 28px;
+    }
+    
+    .trust-signal-card h4,
+    .who-we-help-card h3,
+    .how-it-works-card h3,
+    .differentiator-card h3,
+    .industry-card h3 {
+        font-size: 20px;
+    }
+    
+    .who-we-help-card,
+    .how-it-works-card,
+    .differentiator-card,
+    .industry-card {
+        padding: 30px 20px;
+    }
+    
+    .who-we-help-card p,
+    .how-it-works-card p,
+    .differentiator-card p,
+    .industry-card p {
+        font-size: 15px;
+    }
+    
+    .step-number {
+        font-size: 60px;
     }
 }

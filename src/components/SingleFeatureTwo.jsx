@@ -19,7 +19,7 @@ const SingleFeatureTwo = ({ feature }) => {
                         <div className="why-choose-text">
                             <h2><Link to="/service-details#">{title}</Link></h2>
                             <p>{text}</p>
-                            <Link to="/service-details#" className="readmore link-hover">Read More</Link>
+                            <Link to="/service-details#" className="readmore link-hover">Get Expert Advice</Link>
                         </div>
                     </div>
                 </div>

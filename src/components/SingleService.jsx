@@ -20,7 +20,7 @@ const SingleService = ({ type, service }) => {
                              </div>
                          <p>{service.intro}</p>
                          <div className="service-button">
-                             <Link to={`/corporate-services/${formatServiceId(service?.id)}`} className='link-hover'>Read More</Link>
+                             <Link to={`/corporate-services/${formatServiceId(service?.id)}`} className='link-hover'>Talk to an Expert</Link>
                          </div>
                          
                      </div>
@@ -39,7 +39,7 @@ const SingleService = ({ type, service }) => {
                             </div>
                         <p>{service.text}</p>
                         <div className="service-button">
-                            <Link to={`/licensing-services/${service?.id}`} className='link-hover'>Read More</Link>
+                            <Link to={`/licensing-services/${service?.id}`} className='link-hover'>Talk to a Licensing Specialist</Link>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@ const SingleService = ({ type, service }) => {
                             </div>
                         <p>{service.text}</p>
                         <div className="service-button">
-                            <Link to={`/other-services/${service?.id}`} className='link-hover'>Read More</Link>
+                            <Link to={`/other-services/${service?.id}`} className='link-hover'>Get Expert Advice</Link>
                         </div>
                         
                     </div>

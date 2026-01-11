@@ -84,7 +84,7 @@ const OffCanvasMenu = () => {
                                     </li>
                                     <li className="nav-item dropdown">
                                         <Link className="nav-link dropdown-toggle" to="/services#" role="button" data-bs-toggle="dropdown" aria-expanded="false" onClick={() => setIconToggle2(!iconToggle2)}>
-                                        Other Services
+                                        Other Licenses
                                             {iconToggle2 ? <i className="icofont-plus"></i> : <i className="icofont-minus"></i>}
                                         </Link>
                                         <ul className="dropdown-menu">

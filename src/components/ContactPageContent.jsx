@@ -89,7 +89,7 @@ const ContactPageContent = () => {
                                     <i className="icofont-telephone"></i>
                                 </div>
                                 <div className="contact-info-text">
-                                    <h2>phone number</h2>
+                                    <h2>📞 Call Us for Immediate Assistance</h2>
                                     <span><a href="tel:+248 2 668 292" className='me-1'>+248 2 668 292</a></span>
                                     <span><a href="tel:+971 56 106 6155">+971 56 106 6155</a></span>
                                     <span><a href="tel:+254 715 826 827" className='me-1'>+254 715 826 827</a></span>
@@ -126,7 +126,10 @@ const ContactPageContent = () => {
                     </div>
                     <div className="row">
                         <div className="col-lg-8">
-                            <ContactForm heading={'Get in touch'} />
+                            <ContactForm 
+                                heading={'Request a Free Consultation'} 
+                                description={'No obligation • Confidential • 30-minute expert call'}
+                            />
                         </div>
                     </div>
                 </div>

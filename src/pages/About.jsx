@@ -6,6 +6,8 @@ import Counter from '../components/Counter';
 import Service from '../components/Service';
 import Footer from '../components/Footer';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import ConversationalCTA from '../components/ConversationalCTA';
+import FooterCTA from '../components/FooterCTA';
 
 const About = () => {
     return (
@@ -20,8 +22,18 @@ const About = () => {
             <Faq aboutus/>
             <Counter />
             <Service aboutus />
+            <ConversationalCTA 
+                heading="Ready to incorporate, license, or expand globally?"
+                message="Our experts will guide you step by step — compliantly and efficiently."
+                primaryButtonText="Book a Free Consultation"
+                primaryButtonLink="/contact"
+                secondaryButtonText="Speak to a Global Advisor"
+                secondaryButtonLink="/contact"
+                variant="about"
+            />
             {/* <Consultation /> */}
             {/* <Testimonial /> */}
+            <FooterCTA />
             <Footer />
         </>
     );

@@ -191,8 +191,8 @@ const ServiceList = ({ handleSetName }) => {
             </div>
             <div>
               <ContactForm 
-                heading={'Get in touch with us'} 
-                description={`We're here to help you navigate the process seamlessly. Fill out the form below to get started on your path to success`} 
+                heading={'Request a Free Consultation'} 
+                description={'No obligation • Confidential • 30-minute expert call • We respond within 24 hours'} 
               />
               <div className="service-content">
                 <div className="share-buttons">
