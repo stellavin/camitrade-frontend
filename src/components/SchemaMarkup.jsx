@@ -2,10 +2,10 @@ import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import { useLocation } from 'react-router-dom';
 
-const SchemaMarkup = ({ 
-    type = 'WebPage', 
-    title, 
-    description, 
+const SchemaMarkup = ({
+    type = 'WebPage',
+    title,
+    description,
     image,
     datePublished,
     dateModified,
@@ -33,7 +33,7 @@ const SchemaMarkup = ({
             "@type": "ImageObject",
             "url": logoUrl
         },
-        "description": "Trusted global fiduciary services provider offering comprehensive licensing, corporate services, and business solutions. Licensed by Financial Services Authority for Trust & Corporate Services.",
+        "description": "Trusted global fiduciary services provider offering comprehensive licensing, corporate services, and business solutions.",
         "foundingDate": "2010",
         "contactPoint": [
             {
@@ -272,7 +272,7 @@ const SchemaMarkup = ({
     const autoBreadcrumbs = !breadcrumbs && location.pathname !== '/' ? (() => {
         const pathSegments = location.pathname.split('/').filter(Boolean);
         const crumbs = [{ name: "Home", url: "/" }];
-        
+
         let currentPath = '';
         pathSegments.forEach((segment, index) => {
             currentPath += `/${segment}`;
@@ -282,7 +282,7 @@ const SchemaMarkup = ({
                 .join(' ');
             crumbs.push({ name, url: currentPath });
         });
-        
+
         return crumbs;
     })() : null;
 
@@ -314,7 +314,7 @@ const SchemaMarkup = ({
 
     // Collect all schemas to include
     const schemas = [];
-    
+
     // Always include Organization and WebPage
     schemas.push(organizationSchema);
     if (webSiteSchema) schemas.push(webSiteSchema);
