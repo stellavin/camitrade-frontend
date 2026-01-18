@@ -17,8 +17,8 @@ const TrustSignals = () => {
         },
         {
             icon: 'icofont-shield',
-            label: 'Regulatory Compliant',
-            description: 'Licensed by Financial Services Authority'
+            label: 'Secure & Confidential',
+            description: 'Prioritizing Client Privacy'
         },
         {
             icon: 'icofont-clock-time',
