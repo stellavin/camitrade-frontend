@@ -3,6 +3,7 @@ import Header from '../components/Header';
 import Breadcrumbs from '../components/Breadcrumbs';
 import Footer from '../components/Footer';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import { faqItems } from '../data/faqData';
 import Consultation from '../components/Consultation';
 import Testimonial from '../components/Testimonial';
 import Counter from '../components/Counter';
@@ -22,6 +23,7 @@ const About = () => {
             title ="About Camitrade Investment Fiduciaries | Our Story, Philosophy & Approach"
             description ="Learn why Camitrade Investment Fiduciaries was founded to solve regulatory and compliance challenges in global business advisory. Discover our compliance-first approach, regulatory expertise, and commitment to long-term client success across finance, fintech, crypto, insurance, and payments."
             schemaType="WebPage"
+            faqItems={faqItems}
             />
             <Header />
             <Breadcrumbs pageTitle="About Us" />

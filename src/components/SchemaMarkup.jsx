@@ -90,7 +90,21 @@ const SchemaMarkup = ({
         ],
         "telephone": ["+248 2 668 292", "+971 56 106 6155", "+254 715 826 827", "+357 95 990 867"],
         "email": ["info@camitrade.com", "sales@camitrade.com"],
-        "sameAs": []
+        "slogan": "Your Global Business Partner",
+        "brand": {
+            "@type": "Brand",
+            "name": "Camitrade",
+            "logo": {
+                "@type": "ImageObject",
+                "url": logoUrl
+            }
+        },
+        "sameAs": [
+            "https://www.facebook.com/profile.php?id=61550690340665",
+            "https://www.linkedin.com/company/camitrade-investment-fiduciaries/",
+            "https://instagram.com/camitradeinvestmentfiduciaries",
+            "https://x.com/CFiduciaries"
+        ]
     };
 
     // WebSite schema (only on homepage)
@@ -152,12 +166,18 @@ const SchemaMarkup = ({
                 "url": logoUrl
             }
         },
-        "areaServed": {
-            "@type": "Country",
-            "name": "Worldwide"
-        },
+        "areaServed": [
+            { "@type": "Country", "name": "Kenya" },
+            { "@type": "Country", "name": "Seychelles" },
+            { "@type": "Country", "name": "United Arab Emirates" },
+            { "@type": "Country", "name": "Saint Vincent and the Grenadines" },
+            { "@type": "Country", "name": "Mauritius" },
+            { "@type": "Country", "name": "Cyprus" },
+            { "@type": "AdministrativeArea", "name": "Worldwide" }
+        ],
         "serviceType": serviceName,
         "category": "Financial Services",
+        "availableLanguage": { "@type": "Language", "name": "English" },
         "audience": {
             "@type": "Audience",
             "audienceType": "Business"

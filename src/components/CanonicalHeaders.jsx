@@ -3,8 +3,10 @@ import { Helmet } from 'react-helmet-async';
 import { useLocation } from 'react-router-dom';
 import SchemaMarkup from './SchemaMarkup';
 
+const DEFAULT_OG_IMAGE = 'https://www.camitrade.com/img/logo/logo.png';
+
 const CanonicalHeaders = ({
-    title, 
+    title,
     description,
     schemaType = 'WebPage',
     image,
@@ -24,7 +26,10 @@ const CanonicalHeaders = ({
 
     if(location.search) {
         canonicalUrl = `https://www.camitrade.com${location.pathname}${location.search}`;
-    } 
+    }
+
+    const ogType = schemaType === 'Article' ? 'article' : 'website';
+    const ogImage = image || DEFAULT_OG_IMAGE;
 
     return (
         <>
@@ -32,6 +37,24 @@ const CanonicalHeaders = ({
                 <title>{title}</title>
                 <meta name="description" content={description}/>
                 <link rel="canonical" href={canonicalUrl} />
+
+                {/* Open Graph */}
+                <meta property="og:site_name" content="Camitrade Investment Fiduciaries" />
+                <meta property="og:type" content={ogType} />
+                <meta property="og:title" content={title} />
+                <meta property="og:description" content={description} />
+                <meta property="og:url" content={canonicalUrl} />
+                <meta property="og:image" content={ogImage} />
+                <meta property="og:image:width" content="1200" />
+                <meta property="og:image:height" content="630" />
+                <meta property="og:locale" content="en_US" />
+
+                {/* Twitter Card */}
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:site" content="@CFiduciaries" />
+                <meta name="twitter:title" content={title} />
+                <meta name="twitter:description" content={description} />
+                <meta name="twitter:image" content={ogImage} />
         </Helmet>
         <SchemaMarkup
             type={schemaType}
