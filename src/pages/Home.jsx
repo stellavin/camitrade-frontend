@@ -14,6 +14,7 @@ import Testimonial from '../components/Testimonial';
 import ModernFaq from '../components/ModernFaq';
 import Footer from '../components/Footer';
 import CanonicalHeaders from '../components/CanonicalHeaders';
+import { faqItems } from '../data/faqData';
 
 const   Home = () => {
     return (
@@ -22,6 +23,7 @@ const   Home = () => {
             title ="Global Fiduciary & Licensing Services | Camitrade Fiduciaries"
             description ="We help businesses incorporate, license, and operate globally — compliantly and efficiently across 10+ jurisdictions. Trusted by fintech founders, fund managers, and international entrepreneurs."
             schemaType="WebPage"
+            faqItems={faqItems}
             />
             <Header />
             <BannerSlider/>
