@@ -14,7 +14,6 @@ import Testimonial from '../components/Testimonial';
 import ModernFaq from '../components/ModernFaq';
 import Footer from '../components/Footer';
 import CanonicalHeaders from '../components/CanonicalHeaders';
-import GlitterEffect from '../components/GlitterEffect';
 
 const   Home = () => {
     return (
@@ -24,7 +23,6 @@ const   Home = () => {
             description ="We help businesses incorporate, license, and operate globally — compliantly and efficiently across 10+ jurisdictions. Trusted by fintech founders, fund managers, and international entrepreneurs."
             schemaType="WebPage"
             />
-            <GlitterEffect />
             <Header />
             <BannerSlider/>
             <TrustSignals />

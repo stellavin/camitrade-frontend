@@ -5,7 +5,6 @@ import Footer from '../components/Footer';
 import CorporateContent from '../components/CorporateContent';
 import CanonicalHeaders from '../components/CanonicalHeaders';
 import Consultation from '../components/Consultation';
-import GlitterEffect from '../components/GlitterEffect';
 
 const CorporateServices = () => {
     const [serviceName, setServiceName]=useState('Corporate Services');
@@ -26,7 +25,6 @@ const CorporateServices = () => {
                serviceName={toSentenceCase(serviceName)}
                serviceDescription={`Expert guidance on ${toSentenceCase(serviceName)}. Fast, reliable service with 100% compliance.`}
             />
-            <GlitterEffect />
             <Header />
             <Breadcrumbs pageTitle={toSentenceCase(serviceName)}/>
             <CorporateContent handleSetName={setServiceName}/>
