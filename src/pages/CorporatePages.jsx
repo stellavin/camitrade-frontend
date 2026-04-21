@@ -5,7 +5,6 @@ import Footer from '../components/Footer';
 import CorporateContent from '../components/CorporateContent';
 import CanonicalHeaders from '../components/CanonicalHeaders';
 import Consultation from '../components/Consultation';
-import SnowEffect from '../components/SnowEffect';
 import GlitterEffect from '../components/GlitterEffect';
 
 const CorporateServices = () => {
@@ -27,7 +26,6 @@ const CorporateServices = () => {
                serviceName={toSentenceCase(serviceName)}
                serviceDescription={`Expert guidance on ${toSentenceCase(serviceName)}. Fast, reliable service with 100% compliance.`}
             />
-            <SnowEffect />
             <GlitterEffect />
             <Header />
             <Breadcrumbs pageTitle={toSentenceCase(serviceName)}/>

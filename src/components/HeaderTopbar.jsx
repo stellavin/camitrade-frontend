@@ -25,19 +25,7 @@ const HeaderTopbar = () => {
                             <div className="header-right-div">
                                 <div className="soical-profile">
                                     <SocialShare />
-                                    <span className="happy-new-year-inline d-none d-md-inline-block" style={{
-                                        color: '#FFD700',
-                                        fontSize: '14px',
-                                        fontWeight: '700',
-                                        textShadow: '0 0 8px rgba(255, 215, 0, 0.5), 0 0 15px rgba(255, 215, 0, 0.3)',
-                                        letterSpacing: '1px',
-                                        marginLeft: '15px',
-                                        display: 'inline-block',
-                                        verticalAlign: 'middle'
-                                    }}>
-                                        🎉 Happy 2026 🎉
-                                    </span>
-                                    <div id="google_translate_element" className="d-none d-md-block"></div>
+<div id="google_translate_element" className="d-none d-md-block"></div>
                                 </div>
                                 <div className="office-number titl_font-style">
                                     <ul>
